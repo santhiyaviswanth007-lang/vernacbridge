@@ -1,0 +1,21 @@
+language,tanglish_input,category,tone,english_output
+tamil,sir naalaiku leave venum,leave_request,professional,I would like to request leave tomorrow.
+tamil,inniku fever work from home kudunga,work_from_home,professional,I am not feeling well today. Could I please work from home?
+tamil,meeting postpone pannalama,meeting,professional,Could we please postpone the meeting?
+tamil,veetla emergency iruku inniku leave venum,leave_request,professional,I would like to request leave today due to a family emergency.
+tamil,doctor appointment iruku naalaiku leave venum,leave_request,professional,I would like to request leave tomorrow for a medical appointment.
+tamil,konjam seekiram office vittu poganum,leave_request,professional,I would like to leave the office early today due to a personal commitment.
+tamil,task mudinjiduchu,status_update,professional,I have completed the assigned task.
+tamil,naan task mela work pannitu iruken,status_update,professional,I am currently working on the assigned task.
+tamil,indha task complete panna konjam extra time venum,deadline_request,professional,I would appreciate some additional time to complete this task.
+tamil,meeting time maathalama,meeting,professional,Could we reschedule the meeting to another time?
+tamil,indha topic pathi discuss pannalama,meeting,professional,Could we discuss this topic further?
+tamil,sir enaku indha task puriyala,clarification,professional,I need some clarification regarding this task.
+tamil,indha requirement konjam explain pannunga,clarification,professional,Could you please explain this requirement in more detail?
+tamil,indha issue solve panna help venum,help_request,professional,I would appreciate your assistance in resolving this issue.
+tamil,report innaiku evening anupuren,status_update,professional,I will send the report by this evening.
+tamil,network problem nala late aiten,delay_explanation,professional,I apologize for the delay due to network issues.
+tamil,inniku office ku vara mudiyadhu,work_from_home,professional,I will not be able to come to the office today.
+tamil,naan team oda nalla work pannuven,interview_response,professional,I work effectively as part of a team.
+tamil,pudhu technologies kathukradhula interest iruku,interview_response,professional,I am eager to learn new technologies.
+tamil,pressure situations la calm ah irupen,interview_response,professional,I remain calm and focused under pressure.
