@@ -1,0 +1,1001 @@
+tanglish_input,english_output,intent,emotion,keywords,urgency,confidence
+"sales target pathi ipo tension illa, mind calm ah irukku","I don't feel tense about my sales target anymore, my mind feels calm",career,calm,"sales,calm",low,high
+"bonus payout start aaga innum konjam naal dhaan irukku, romba excited ah irukken","There's only a few days left for my bonus payout to start, I'm really excited",career,excited,"bonus,excited",low,high
+salary hike pathi ninachaale sad ah irukku,Thinking about my salary hike makes me feel sad,career,sad,"salary,sad",medium,high
+resume update success ah mudinjadhu nu kelvi pattu happy ah irukken,"I heard my resume update was successful, I'm happy about it",career,happy,"resume,happy",low,high
+probation period pathi negative outcome varumo nu fear ah irukku,I'm scared that my probation period might have a negative outcome,career,fear,"probation,fear",medium,high
+higher studies plan ku team ah let down pannitten nu guilt irukku,I feel guilty that I let my team down regarding my higher studies plan,career,guilty,"higher,guilty",medium,high
+team lead role pathi decision edukka mudiyama irukken innum,I still can't make a decision about my team lead role,career,confused,"team,confused",medium,high
+MBA admission reject aayiduchu nu therinjadhum mind heavy ah aayiduchu,"The moment I found out my MBA admission got rejected, my mind felt heavy",career,sad,"mba,sad",medium,high
+"interview feedback konjam kashtama irundhalum, future bright ah irukum nu feel panren","Even though my interview feedback is a bit tough, I feel the future will be bright",career,hopeful,"interview,hopeful",low,high
+"incentive structure start aaga innum konjam naal dhaan irukku, romba excited ah irukken","There's only a few days left for my incentive structure to start, I'm really excited",career,excited,"incentive,excited",low,high
+"project deadline expect panna madhiri nadakala, romba vaguthadhu","My project deadline didn't turn out as I expected, it really disappointed me",career,sad,"project,sad",medium,high
+team restructuring pathi ninachaale sad ah irukku,Thinking about my team restructuring makes me feel sad,career,sad,"team,sad",medium,high
+internship offer ku team ah let down pannitten nu guilt irukku,I feel guilty that I let my team down regarding my internship offer,career,guilty,"internship,guilty",medium,high
+"cold email for job deadline nearagudhu, romba stress ah irukku","My cold email for job deadline is approaching, I'm really stressed",career,stressed,"cold,stressed",high,high
+"github profile pathi friends ellarum different advice kudukranga, confuse ah irukku","All my friends are giving different advice about my github profile, I'm confused",career,confused,"github,confused",medium,high
+"aptitude test pathi over thinking pannitu irukken, sleep kooda varala","I've been overthinking about my aptitude test, I can't even sleep",career,anxious,"aptitude,anxious",medium,high
+"incentive structure deadline nearagudhu, romba stress ah irukku","My incentive structure deadline is approaching, I'm really stressed",career,stressed,"incentive,stressed",high,high
+"salary hike nalla poayiduchu, semma happy ah irukku","My salary hike went really well, I'm so happy",career,happy,"salary,happy",low,high
+"onboarding process vishayathula unfair ah treat pannanga nu feel panren, romba frustration","I feel like I was treated unfairly regarding my onboarding process, it's really frustrating",career,angry,"onboarding,angry",medium,high
+entrepreneurship idea pathi share panna oruthar kooda illa,I don't have anyone to share my entrepreneurship idea worries with,career,lonely,"entrepreneurship,lonely",medium,high
+quarterly review decision edukkara naala nalla varum nu wait pandren,I'm waiting hopefully for the day my quarterly review decision comes,career,hopeful,"quarterly,hopeful",low,high
+interview feedback pathi negative outcome varumo nu fear ah irukku,I'm scared that my interview feedback might have a negative outcome,career,fear,"interview,fear",medium,high
+"skill gap start aaga innum konjam naal dhaan irukku, romba excited ah irukken","There's only a few days left for my skill gap to start, I'm really excited",career,excited,"skill,excited",low,high
+"background verification workload adhigama irukku, over stress ah aayiduchu","The workload for my background verification is too much, I'm extremely stressed",career,stressed,"background,stressed",high,high
+"remote job pathi nalla news kidaichu, romba santhosham","I got good news about my remote job, I'm really happy",career,happy,"remote,happy",low,high
+final offer letter nalla mudiyala nu ninachu romba down ah irukken,I'm feeling really down thinking that my final offer letter didn't go well,career,sad,"final,sad",medium,high
+technical round eppadi handle pannanum nu confusion ah irukku,I'm confused about how to handle my technical round,career,confused,"technical,confused",medium,high
+cold email for job interview ku munnadi kai kaal nadunguthu,My hands and legs are shaking before my cold email for job,career,fear,"cold,fear",medium,high
+technical round result eppo varum nu wait panni panni anxiety adhigama aayiduchu,Waiting for my technical round result has made me really anxious,career,anxious,"technical,anxious",medium,high
+internship offer journey la yaarum kooda illa nu feel panren,I feel like no one is with me in this internship offer journey,career,lonely,"internship,lonely",medium,high
+"cold email for job pathi ipo tension illa, mind calm ah irukku","I don't feel tense about my cold email for job anymore, my mind feels calm",career,calm,"cold,calm",low,high
+business loss time la mistake pannitten nu ippozhum kashtama irukku,I still feel bad that I made a mistake during my business loss,career,guilty,"business,guilty",medium,high
+"annual review expect panna madhiri nadakala, romba vaguthadhu","My annual review didn't turn out as I expected, it really disappointed me",career,sad,"annual,sad",medium,high
+"performance review vishayathula unfair ah treat pannanga nu feel panren, romba frustration","I feel like I was treated unfairly regarding my performance review, it's really frustrating",career,angry,"performance,angry",medium,high
+"cold email for job pathi plan panna aarambichitten, romba pumped up ah irukken","I've started planning for my cold email for job, I'm really pumped up",career,excited,"cold,excited",low,high
+cover letter promise pannitu keep pannala nu romba kobam ah irukku,"They promised something about my cover letter and didn't keep it, I'm really angry",career,angry,"cover,angry",medium,high
+co-founder issue success ah mudinjadhu nu kelvi pattu happy ah irukken,"I heard my co-founder issue was successful, I'm happy about it",career,happy,"co-founder,happy",low,high
+"technical round expect panna madhiri nadakala, romba vaguthadhu","My technical round didn't turn out as I expected, it really disappointed me",career,sad,"technical,sad",medium,high
+"skill gap pathi nalla news kidaichu, romba santhosham","I got good news about my skill gap, I'm really happy",career,happy,"skill,happy",low,high
+work life balance promise pannitu keep pannala nu romba kobam ah irukku,"They promised something about my work life balance and didn't keep it, I'm really angry",career,angry,"work,angry",medium,high
+"layoff round nalla plan pannitten, adhanala mind peace ah irukku","I planned my layoff round well, so my mind feels at peace",career,calm,"layoff,calm",low,high
+"co-founder issue pathi plan panna aarambichitten, romba pumped up ah irukken","I've started planning for my co-founder issue, I'm really pumped up",career,excited,"co-founder,excited",low,high
+"hybrid work policy pathi ella effort um podren, nalladhu nadakum nu nambikkai irukku","I'm putting in all the effort for my hybrid work policy, I believe good things will happen",career,hopeful,"hybrid,hopeful",low,high
+"project deadline pathi rendu option irukku, edhu correct nu therila","I have two options for my project deadline, not sure which one is right",career,confused,"project,confused",medium,high
+"HR interview pathi negative aana vishayam kekkalam, aana naan hopeful ah dhaan irukken","I might hear negative things about my HR interview, but I'm staying hopeful",career,hopeful,"hr,hopeful",low,high
+final offer letter nalla ah prepare pannama vittutten nu guilt ah irukku,I feel guilty that I didn't prepare well for my final offer letter,career,guilty,"final,guilty",medium,high
+probation period reject aayiduchu nu therinjadhum mind heavy ah aayiduchu,"The moment I found out my probation period got rejected, my mind felt heavy",career,sad,"probation,sad",medium,high
+night shift schedule eppadi handle pannanum nu confusion ah irukku,I'm confused about how to handle my night shift schedule,career,confused,"night,confused",medium,high
+toxic boss issue ku team ah let down pannitten nu guilt irukku,I feel guilty that I let my team down regarding my toxic boss issue,career,guilty,"toxic,guilty",medium,high
+notice period pathi nyabagam vandha automatic ah excitement varudhu,Just thinking about my notice period gets me excited,career,excited,"notice,excited",low,high
+"probation period nalla poayiduchu, semma happy ah irukku","My probation period went really well, I'm so happy",career,happy,"probation,happy",low,high
+internship offer mudinja pinnadi vazhkai better ah maarum nu nambaren,I believe life will get better once my internship offer is done,career,hopeful,"internship,hopeful",low,high
+background verification continue pannanuma illa mathanuma nu therila,I don't know whether to continue or change my background verification,career,confused,"background,confused",medium,high
+technical round pathi ipozhum yosichaale angry ah aaguthu,"Even now, thinking about my technical round makes me angry",career,angry,"technical,angry",medium,high
+interview feedback pathi ipozhum yosichaale angry ah aaguthu,"Even now, thinking about my interview feedback makes me angry",career,angry,"interview,angry",medium,high
+notice period pathi negative outcome varumo nu fear ah irukku,I'm scared that my notice period might have a negative outcome,career,fear,"notice,fear",medium,high
+freelance project ku team ah let down pannitten nu guilt irukku,I feel guilty that I let my team down regarding my freelance project,career,guilty,"freelance,guilty",medium,high
+walk-in interview reject aayiduchu nu therinjadhum mind heavy ah aayiduchu,"The moment I found out my walk-in interview got rejected, my mind felt heavy",career,sad,"walk-in,sad",medium,high
+group discussion round pathi ipozhum yosichaale angry ah aaguthu,"Even now, thinking about my group discussion round makes me angry",career,angry,"group,angry",medium,high
+office politics promise pannitu keep pannala nu romba kobam ah irukku,"They promised something about my office politics and didn't keep it, I'm really angry",career,angry,"office,angry",medium,high
+"mentorship program results ku wait pandren, semma thrill ah irukku","I'm waiting for my mentorship program results, feeling a real thrill",career,excited,"mentorship,excited",low,high
+performance review pressure ah face panra time la romba thanimai ah irukku,I feel really alone while facing the pressure of my performance review,career,lonely,"performance,lonely",medium,high
+team restructuring pathi share panna oruthar kooda illa,I don't have anyone to share my team restructuring worries with,career,lonely,"team,lonely",medium,high
+"group discussion round expect panna madhiri nadakala, romba vaguthadhu","My group discussion round didn't turn out as I expected, it really disappointed me",career,sad,"group,sad",medium,high
+"onboarding process pathi ella effort um podren, nalladhu nadakum nu nambikkai irukku","I'm putting in all the effort for my onboarding process, I believe good things will happen",career,hopeful,"onboarding,hopeful",low,high
+"sales target confirm aaguma nu therila, romba restless ah irukken","I don't know if my sales target will be confirmed, I'm feeling really restless",career,anxious,"sales,anxious",medium,high
+performance review pathi ratha ovvoru naalum tension ah irukku,I feel tense about my performance review every single day,career,anxious,"performance,anxious",medium,high
+freelance project pathi share panna oruthar kooda illa,I don't have anyone to share my freelance project worries with,career,lonely,"freelance,lonely",medium,high
+remote job pathi ratha ovvoru naalum tension ah irukku,I feel tense about my remote job every single day,career,anxious,"remote,anxious",medium,high
+"technical round results ku wait pandren, semma thrill ah irukku","I'm waiting for my technical round results, feeling a real thrill",career,excited,"technical,excited",low,high
+appraisal cycle success ah mudinjadhu nu kelvi pattu happy ah irukken,"I heard my appraisal cycle was successful, I'm happy about it",career,happy,"appraisal,happy",low,high
+"salary hike pathi friends ellarum different advice kudukranga, confuse ah irukku","All my friends are giving different advice about my salary hike, I'm confused",career,confused,"salary,confused",medium,high
+"promotion round pathi yosichu yosichu ipo oru clarity vandhuchu, mind settle aayiduchu","After thinking a lot about my promotion round, I finally got clarity and my mind settled",career,calm,"promotion,calm",low,high
+"work life balance pathi management sariya handle pannala, romba angry ah irukku","The management didn't handle my work life balance properly, I'm really angry",career,angry,"work,angry",medium,high
+"office politics expect panna madhiri nadakala, romba vaguthadhu","My office politics didn't turn out as I expected, it really disappointed me",career,sad,"office,sad",medium,high
+"referral process pathi management sariya handle pannala, romba angry ah irukku","The management didn't handle my referral process properly, I'm really angry",career,angry,"referral,angry",medium,high
+funding round continue pannanuma illa mathanuma nu therila,I don't know whether to continue or change my funding round,career,confused,"funding,confused",medium,high
+salary hike success ah mudinjadhu nu kelvi pattu happy ah irukken,"I heard my salary hike was successful, I'm happy about it",career,happy,"salary,happy",low,high
+night shift schedule pathi ipozhum yosichaale angry ah aaguthu,"Even now, thinking about my night shift schedule makes me angry",career,angry,"night,angry",medium,high
+probation period result eppo varum nu wait panni panni anxiety adhigama aayiduchu,Waiting for my probation period result has made me really anxious,career,anxious,"probation,anxious",medium,high
+"Finally incentive structure sort aayiduchu, mood set ah irukku","Finally my incentive structure got sorted out, I'm in a great mood",career,happy,"incentive,happy",low,high
+bonus payout decision edukra naala nenachaale nervous ah irukku,I feel nervous just thinking about the day I decide on my bonus payout,career,fear,"bonus,fear",medium,high
+business plan pathi negative outcome varumo nu fear ah irukku,I'm scared that my business plan might have a negative outcome,career,fear,"business,fear",medium,high
+"campus placement pathi nalla news kidaichu, romba santhosham","I got good news about my campus placement, I'm really happy",career,happy,"campus,happy",low,high
+mentorship program pathi ipozhum yosichaale angry ah aaguthu,"Even now, thinking about my mentorship program makes me angry",career,angry,"mentorship,angry",medium,high
+salary negotiation success ah mudinjadhu nu kelvi pattu happy ah irukken,"I heard my salary negotiation was successful, I'm happy about it",career,happy,"salary,happy",low,high
+incentive structure journey la yaarum kooda illa nu feel panren,I feel like no one is with me in this incentive structure journey,career,lonely,"incentive,lonely",medium,high
+"resignation letter pathi yosichu yosichu ipo oru clarity vandhuchu, mind settle aayiduchu","After thinking a lot about my resignation letter, I finally got clarity and my mind settled",career,calm,"resignation,calm",low,high
+investor pitch eppadi handle pannanum nu confusion ah irukku,I'm confused about how to handle my investor pitch,career,confused,"investor,confused",medium,high
+freelance project nalla mudiyala nu ninachu romba down ah irukken,I'm feeling really down thinking that my freelance project didn't go well,career,sad,"freelance,sad",medium,high
+resignation letter pathi ipozhum yosichaale angry ah aaguthu,"Even now, thinking about my resignation letter makes me angry",career,angry,"resignation,angry",medium,high
+resume update interview ku munnadi kai kaal nadunguthu,My hands and legs are shaking before my resume update,career,fear,"resume,fear",medium,high
+group discussion round fail aayiduma nu romba bayama irukku,I'm really scared that my group discussion round might fail,career,fear,"group,fear",medium,high
+"salary negotiation confirm aaguma nu therila, romba restless ah irukken","I don't know if my salary negotiation will be confirmed, I'm feeling really restless",career,anxious,"salary,anxious",medium,high
+"job offer pathi yosichu yosichu ipo oru clarity vandhuchu, mind settle aayiduchu","After thinking a lot about my job offer, I finally got clarity and my mind settled",career,calm,"job,calm",low,high
+"client feedback confirm aaguma nu therila, romba restless ah irukken","I don't know if my client feedback will be confirmed, I'm feeling really restless",career,anxious,"client,anxious",medium,high
+"background verification results eppadi vandhalum, naan calm ah dhaan irukken","Whatever the results of my background verification are, I'm staying calm",career,calm,"background,calm",low,high
+freelance project fail aayiduma nu romba bayama irukku,I'm really scared that my freelance project might fail,career,fear,"freelance,fear",medium,high
+hybrid work policy fail aayiduma nu romba bayama irukku,I'm really scared that my hybrid work policy might fail,career,fear,"hybrid,fear",medium,high
+"aptitude test vishayathula unfair ah treat pannanga nu feel panren, romba frustration","I feel like I was treated unfairly regarding my aptitude test, it's really frustrating",career,angry,"aptitude,angry",medium,high
+onboarding process ku team ah let down pannitten nu guilt irukku,I feel guilty that I let my team down regarding my onboarding process,career,guilty,"onboarding,guilty",medium,high
+product launch journey la yaarum kooda illa nu feel panren,I feel like no one is with me in this product launch journey,career,lonely,"product,lonely",medium,high
+product launch pathi ratha ovvoru naalum tension ah irukku,I feel tense about my product launch every single day,career,anxious,"product,anxious",medium,high
+sales target pathi vera vazhi irundhum sariya decision edukkala nu feel panren,"I feel like I didn't make the right decision about my sales target, even though there were other options",career,guilty,"sales,guilty",medium,high
+"skill gap pathi decide panna help panna yaarum illa, lonely ah irukku","There's no one to help me decide about my skill gap, I feel lonely",career,lonely,"skill,lonely",medium,high
+"internship offer expect panna madhiri nadakala, romba vaguthadhu","My internship offer didn't turn out as I expected, it really disappointed me",career,sad,"internship,sad",medium,high
+"job offer pathi over thinking pannitu irukken, sleep kooda varala","I've been overthinking about my job offer, I can't even sleep",career,anxious,"job,anxious",medium,high
+"networking event pathi over thinking pannitu irukken, sleep kooda varala","I've been overthinking about my networking event, I can't even sleep",career,anxious,"networking,anxious",medium,high
+"walk-in interview pathi over thinking pannitu irukken, sleep kooda varala","I've been overthinking about my walk-in interview, I can't even sleep",career,anxious,"walk-in,anxious",medium,high
+freelance project eppadi handle pannanum nu confusion ah irukku,I'm confused about how to handle my freelance project,career,confused,"freelance,confused",medium,high
+bonus payout journey la yaarum kooda illa nu feel panren,I feel like no one is with me in this bonus payout journey,career,lonely,"bonus,lonely",medium,high
+"work life balance pathi ipo tension illa, mind calm ah irukku","I don't feel tense about my work life balance anymore, my mind feels calm",career,calm,"work,calm",low,high
+work from home policy nalla mudiyala nu ninachu romba down ah irukken,I'm feeling really down thinking that my work from home policy didn't go well,career,sad,"work,sad",medium,high
+portfolio review reject aayiduchu nu therinjadhum mind heavy ah aayiduchu,"The moment I found out my portfolio review got rejected, my mind felt heavy",career,sad,"portfolio,sad",medium,high
+"higher studies plan results eppadi vandhalum, naan calm ah dhaan irukken","Whatever the results of my higher studies plan are, I'm staying calm",career,calm,"higher,calm",low,high
+networking event eppadi handle pannanum nu confusion ah irukku,I'm confused about how to handle my networking event,career,confused,"networking,confused",medium,high
+"manager feedback pathi yosichu yosichu ipo oru clarity vandhuchu, mind settle aayiduchu","After thinking a lot about my manager feedback, I finally got clarity and my mind settled",career,calm,"manager,calm",low,high
+"startup idea pathi decide panna help panna yaarum illa, lonely ah irukku","There's no one to help me decide about my startup idea, I feel lonely",career,lonely,"startup,lonely",medium,high
+MBA admission pathi negative outcome varumo nu fear ah irukku,I'm scared that my MBA admission might have a negative outcome,career,fear,"mba,fear",medium,high
+walk-in interview journey la yaarum kooda illa nu feel panren,I feel like no one is with me in this walk-in interview journey,career,lonely,"walk-in,lonely",medium,high
+"MBA admission pathi over thinking pannitu irukken, sleep kooda varala","I've been overthinking about my MBA admission, I can't even sleep",career,anxious,"mba,anxious",medium,high
+"quarterly review pathi yosichu yosichu ipo oru clarity vandhuchu, mind settle aayiduchu","After thinking a lot about my quarterly review, I finally got clarity and my mind settled",career,calm,"quarterly,calm",low,high
+"internship offer pathi over thinking pannitu irukken, sleep kooda varala","I've been overthinking about my internship offer, I can't even sleep",career,anxious,"internship,anxious",medium,high
+"background verification pathi ella effort um podren, nalladhu nadakum nu nambikkai irukku","I'm putting in all the effort for my background verification, I believe good things will happen",career,hopeful,"background,hopeful",low,high
+target pressure pressure ah face panra time la romba thanimai ah irukku,I feel really alone while facing the pressure of my target pressure,career,lonely,"target,lonely",medium,high
+"layoff round balance panna mudiyama, mental ah exhaust ah irukken","I'm unable to balance my layoff round, I'm mentally exhausted",career,stressed,"layoff,stressed",high,high
+"team lead role pathi over thinking pannitu irukken, sleep kooda varala","I've been overthinking about my team lead role, I can't even sleep",career,anxious,"team,anxious",medium,high
+"technical round workload adhigama irukku, over stress ah aayiduchu","The workload for my technical round is too much, I'm extremely stressed",career,stressed,"technical,stressed",high,high
+cover letter nalla mudiyala nu ninachu romba down ah irukken,I'm feeling really down thinking that my cover letter didn't go well,career,sad,"cover,sad",medium,high
+"co-founder issue nalla plan pannitten, adhanala mind peace ah irukku","I planned my co-founder issue well, so my mind feels at peace",career,calm,"co-founder,calm",low,high
+"investor pitch expect panna madhiri nadakala, romba vaguthadhu","My investor pitch didn't turn out as I expected, it really disappointed me",career,sad,"investor,sad",medium,high
+probation period pathi share panna oruthar kooda illa,I don't have anyone to share my probation period worries with,career,lonely,"probation,lonely",medium,high
+"sales target pathi negative aana vishayam kekkalam, aana naan hopeful ah dhaan irukken","I might hear negative things about my sales target, but I'm staying hopeful",career,hopeful,"sales,hopeful",low,high
+HR interview pressure ah face panra time la romba thanimai ah irukku,I feel really alone while facing the pressure of my HR interview,career,lonely,"hr,lonely",medium,high
+"toxic boss issue workload adhigama irukku, over stress ah aayiduchu","The workload for my toxic boss issue is too much, I'm extremely stressed",career,stressed,"toxic,stressed",high,high
+hybrid work policy pathi ninachaale sad ah irukku,Thinking about my hybrid work policy makes me feel sad,career,sad,"hybrid,sad",medium,high
+"joining date workload adhigama irukku, over stress ah aayiduchu","The workload for my joining date is too much, I'm extremely stressed",career,stressed,"joining,stressed",high,high
+promotion round pathi ratha ovvoru naalum tension ah irukku,I feel tense about my promotion round every single day,career,anxious,"promotion,anxious",medium,high
+"notice period vishayathula unfair ah treat pannanga nu feel panren, romba frustration","I feel like I was treated unfairly regarding my notice period, it's really frustrating",career,angry,"notice,angry",medium,high
+"funding round pathi ipo tension illa, mind calm ah irukku","I don't feel tense about my funding round anymore, my mind feels calm",career,calm,"funding,calm",low,high
+pay cut eppadi handle pannanum nu confusion ah irukku,I'm confused about how to handle my pay cut,career,confused,"pay,confused",medium,high
+group discussion round promise pannitu keep pannala nu romba kobam ah irukku,"They promised something about my group discussion round and didn't keep it, I'm really angry",career,angry,"group,angry",medium,high
+product launch success ah mudinjadhu nu kelvi pattu happy ah irukken,"I heard my product launch was successful, I'm happy about it",career,happy,"product,happy",low,high
+remote job pressure ah face panra time la romba thanimai ah irukku,I feel really alone while facing the pressure of my remote job,career,lonely,"remote,lonely",medium,high
+part time job fail aayiduma nu romba bayama irukku,I'm really scared that my part time job might fail,career,fear,"part,fear",medium,high
+office politics pathi share panna oruthar kooda illa,I don't have anyone to share my office politics worries with,career,lonely,"office,lonely",medium,high
+work from home policy promise pannitu keep pannala nu romba kobam ah irukku,"They promised something about my work from home policy and didn't keep it, I'm really angry",career,angry,"work,angry",medium,high
+annual review results pathi nenachaale bayama irukku,Just thinking about my annual review results scares me,career,fear,"annual,fear",medium,high
+"LinkedIn profile results ku wait pandren, semma thrill ah irukku","I'm waiting for my LinkedIn profile results, feeling a real thrill",career,excited,"linkedin,excited",low,high
+"entrepreneurship idea nalla poayiduchu, semma happy ah irukku","My entrepreneurship idea went really well, I'm so happy",career,happy,"entrepreneurship,happy",low,high
+business loss pathi nyabagam vandha automatic ah excitement varudhu,Just thinking about my business loss gets me excited,career,excited,"business,excited",low,high
+technical round decision edukra naala nenachaale nervous ah irukku,I feel nervous just thinking about the day I decide on my technical round,career,fear,"technical,fear",medium,high
+project deadline expect panna madhiri nalla ah mudinjadhu,"My project deadline turned out exactly as I expected, really nice",career,happy,"project,happy",low,high
+work from home policy fail aayiduma nu romba bayama irukku,I'm really scared that my work from home policy might fail,career,fear,"work,fear",medium,high
+"work life balance pathi yosichu yosichu ipo oru clarity vandhuchu, mind settle aayiduchu","After thinking a lot about my work life balance, I finally got clarity and my mind settled",career,calm,"work,calm",low,high
+remote job ku team ah let down pannitten nu guilt irukku,I feel guilty that I let my team down regarding my remote job,career,guilty,"remote,guilty",medium,high
+HR interview reject aayiduchu nu therinjadhum mind heavy ah aayiduchu,"The moment I found out my HR interview got rejected, my mind felt heavy",career,sad,"hr,sad",medium,high
+"work from home policy konjam kashtama irundhalum, future bright ah irukum nu feel panren","Even though my work from home policy is a bit tough, I feel the future will be bright",career,hopeful,"work,hopeful",low,high
+night shift schedule ku team ah let down pannitten nu guilt irukku,I feel guilty that I let my team down regarding my night shift schedule,career,guilty,"night,guilty",medium,high
+entrepreneurship idea interview ku munnadi kai kaal nadunguthu,My hands and legs are shaking before my entrepreneurship idea,career,fear,"entrepreneurship,fear",medium,high
+exit interview reject aayiduchu nu therinjadhum mind heavy ah aayiduchu,"The moment I found out my exit interview got rejected, my mind felt heavy",career,sad,"exit,sad",medium,high
+incentive structure results pathi nenachaale bayama irukku,Just thinking about my incentive structure results scares me,career,fear,"incentive,fear",medium,high
+"team restructuring pathi ipo semma confident ah feel panren, happy ah irukku","I feel really confident about my team restructuring now, it makes me happy",career,happy,"team,happy",low,high
+appraisal cycle pathi nyabagam vandha automatic ah excitement varudhu,Just thinking about my appraisal cycle gets me excited,career,excited,"appraisal,excited",low,high
+"MBA admission deadline nearagudhu, romba stress ah irukku","My MBA admission deadline is approaching, I'm really stressed",career,stressed,"mba,stressed",high,high
+campus placement pathi ratha ovvoru naalum tension ah irukku,I feel tense about my campus placement every single day,career,anxious,"campus,anxious",medium,high
+"appraisal cycle pathi ella effort um podren, nalladhu nadakum nu nambikkai irukku","I'm putting in all the effort for my appraisal cycle, I believe good things will happen",career,hopeful,"appraisal,hopeful",low,high
+"appraisal cycle pathi friends ellarum different advice kudukranga, confuse ah irukku","All my friends are giving different advice about my appraisal cycle, I'm confused",career,confused,"appraisal,confused",medium,high
+manager feedback nalla ah prepare pannama vittutten nu guilt ah irukku,I feel guilty that I didn't prepare well for my manager feedback,career,guilty,"manager,guilty",medium,high
+job interview ku team ah let down pannitten nu guilt irukku,I feel guilty that I let my team down regarding my job interview,career,guilty,"job,guilty",medium,high
+"Finally job offer sort aayiduchu, mood set ah irukku","Finally my job offer got sorted out, I'm in a great mood",career,happy,"job,happy",low,high
+skill gap nalla ah prepare pannama vittutten nu guilt ah irukku,I feel guilty that I didn't prepare well for my skill gap,career,guilty,"skill,guilty",medium,high
+layoff round interview ku munnadi kai kaal nadunguthu,My hands and legs are shaking before my layoff round,career,fear,"layoff,fear",medium,high
+"business loss pathi negative aana vishayam kekkalam, aana naan hopeful ah dhaan irukken","I might hear negative things about my business loss, but I'm staying hopeful",career,hopeful,"business,hopeful",low,high
+night shift schedule result eppo varum nu wait panni panni anxiety adhigama aayiduchu,Waiting for my night shift schedule result has made me really anxious,career,anxious,"night,anxious",medium,high
+project deadline journey la yaarum kooda illa nu feel panren,I feel like no one is with me in this project deadline journey,career,lonely,"project,lonely",medium,high
+"office relocation results eppadi vandhalum, naan calm ah dhaan irukken","Whatever the results of my office relocation are, I'm staying calm",career,calm,"office,calm",low,high
+"performance review pathi over thinking pannitu irukken, sleep kooda varala","I've been overthinking about my performance review, I can't even sleep",career,anxious,"performance,anxious",medium,high
+"skill certification pathi ella effort um podren, nalladhu nadakum nu nambikkai irukku","I'm putting in all the effort for my skill certification, I believe good things will happen",career,hopeful,"skill,hopeful",low,high
+bonus payout reject aayiduchu nu therinjadhum mind heavy ah aayiduchu,"The moment I found out my bonus payout got rejected, my mind felt heavy",career,sad,"bonus,sad",medium,high
+"interview feedback pathi yosichu yosichu ipo oru clarity vandhuchu, mind settle aayiduchu","After thinking a lot about my interview feedback, I finally got clarity and my mind settled",career,calm,"interview,calm",low,high
+"overtime work pathi decide panna help panna yaarum illa, lonely ah irukku","There's no one to help me decide about my overtime work, I feel lonely",career,lonely,"overtime,lonely",medium,high
+"job interview pathi ipo semma confident ah feel panren, happy ah irukku","I feel really confident about my job interview now, it makes me happy",career,happy,"job,happy",low,high
+onboarding process decision edukra naala nenachaale nervous ah irukku,I feel nervous just thinking about the day I decide on my onboarding process,career,fear,"onboarding,fear",medium,high
+aptitude test expect panna madhiri nalla ah mudinjadhu,"My aptitude test turned out exactly as I expected, really nice",career,happy,"aptitude,happy",low,high
+internship offer pathi negative outcome varumo nu fear ah irukku,I'm scared that my internship offer might have a negative outcome,career,fear,"internship,fear",medium,high
+"portfolio review pathi plan panna aarambichitten, romba pumped up ah irukken","I've started planning for my portfolio review, I'm really pumped up",career,excited,"portfolio,excited",low,high
+business loan pathi nenachaale udane stress varudhu,Just thinking about my business loan instantly stresses me out,career,stressed,"business,stressed",high,high
+promotion round promise pannitu keep pannala nu romba kobam ah irukku,"They promised something about my promotion round and didn't keep it, I'm really angry",career,angry,"promotion,angry",medium,high
+client feedback results pathi nenachaale bayama irukku,Just thinking about my client feedback results scares me,career,fear,"client,fear",medium,high
+"salary negotiation deadline nearagudhu, romba stress ah irukku","My salary negotiation deadline is approaching, I'm really stressed",career,stressed,"salary,stressed",high,high
+"contract renewal pathi nalla news kidaichu, romba santhosham","I got good news about my contract renewal, I'm really happy",career,happy,"contract,happy",low,high
+"Finally business loss sort aayiduchu, mood set ah irukku","Finally my business loss got sorted out, I'm in a great mood",career,happy,"business,happy",low,high
+product launch nalla mudiyala nu ninachu romba down ah irukken,I'm feeling really down thinking that my product launch didn't go well,career,sad,"product,sad",medium,high
+layoff round success ah mudinjadhu nu kelvi pattu happy ah irukken,"I heard my layoff round was successful, I'm happy about it",career,happy,"layoff,happy",low,high
+team restructuring pathi ipozhum yosichaale angry ah aaguthu,"Even now, thinking about my team restructuring makes me angry",career,angry,"team,angry",medium,high
+job interview pathi vera vazhi irundhum sariya decision edukkala nu feel panren,"I feel like I didn't make the right decision about my job interview, even though there were other options",career,guilty,"job,guilty",medium,high
+"freelance project balance panna mudiyama, mental ah exhaust ah irukken","I'm unable to balance my freelance project, I'm mentally exhausted",career,stressed,"freelance,stressed",high,high
+cover letter pathi negative outcome varumo nu fear ah irukku,I'm scared that my cover letter might have a negative outcome,career,fear,"cover,fear",medium,high
+"LinkedIn profile pathi nalla news kidaichu, romba santhosham","I got good news about my LinkedIn profile, I'm really happy",career,happy,"linkedin,happy",low,high
+"probation period pathi nalla news kidaichu, romba santhosham","I got good news about my probation period, I'm really happy",career,happy,"probation,happy",low,high
+LinkedIn profile mudinja pinnadi vazhkai better ah maarum nu nambaren,I believe life will get better once my LinkedIn profile is done,career,hopeful,"linkedin,hopeful",low,high
+"mentorship program pathi plan panna aarambichitten, romba pumped up ah irukken","I've started planning for my mentorship program, I'm really pumped up",career,excited,"mentorship,excited",low,high
+hybrid work policy pathi negative outcome varumo nu fear ah irukku,I'm scared that my hybrid work policy might have a negative outcome,career,fear,"hybrid,fear",medium,high
+coding test success ah mudinjadhu nu kelvi pattu happy ah irukken,"I heard my coding test was successful, I'm happy about it",career,happy,"coding,happy",low,high
+"toxic boss issue results eppadi vandhalum, naan calm ah dhaan irukken","Whatever the results of my toxic boss issue are, I'm staying calm",career,calm,"toxic,calm",low,high
+"work from home policy pathi ella effort um podren, nalladhu nadakum nu nambikkai irukku","I'm putting in all the effort for my work from home policy, I believe good things will happen",career,hopeful,"work,hopeful",low,high
+"visa interview nalla poayiduchu, semma happy ah irukku","My visa interview went really well, I'm so happy",career,happy,"visa,happy",low,high
+resume update continue pannanuma illa mathanuma nu therila,I don't know whether to continue or change my resume update,career,confused,"resume,confused",medium,high
+toxic boss issue pathi ipozhum yosichaale angry ah aaguthu,"Even now, thinking about my toxic boss issue makes me angry",career,angry,"toxic,angry",medium,high
+"referral process results ku wait pandren, semma thrill ah irukku","I'm waiting for my referral process results, feeling a real thrill",career,excited,"referral,excited",low,high
+"annual review nalla plan pannitten, adhanala mind peace ah irukku","I planned my annual review well, so my mind feels at peace",career,calm,"annual,calm",low,high
+mentorship program nalla mudiyala nu ninachu romba down ah irukken,I'm feeling really down thinking that my mentorship program didn't go well,career,sad,"mentorship,sad",medium,high
+"coding test nalla poayiduchu, semma happy ah irukku","My coding test went really well, I'm so happy",career,happy,"coding,happy",low,high
+skill certification success ah mudinjadhu nu kelvi pattu happy ah irukken,"I heard my skill certification was successful, I'm happy about it",career,happy,"skill,happy",low,high
+target pressure pathi nenachaale udane stress varudhu,Just thinking about my target pressure instantly stresses me out,career,stressed,"target,stressed",high,high
+quarterly review decision edukra naala nenachaale nervous ah irukku,I feel nervous just thinking about the day I decide on my quarterly review,career,fear,"quarterly,fear",medium,high
+"LinkedIn profile vishayathula unfair ah treat pannanga nu feel panren, romba frustration","I feel like I was treated unfairly regarding my LinkedIn profile, it's really frustrating",career,angry,"linkedin,angry",medium,high
+resume update time la mistake pannitten nu ippozhum kashtama irukku,I still feel bad that I made a mistake during my resume update,career,guilty,"resume,guilty",medium,high
+business loan promise pannitu keep pannala nu romba kobam ah irukku,"They promised something about my business loan and didn't keep it, I'm really angry",career,angry,"business,angry",medium,high
+portfolio review pathi negative outcome varumo nu fear ah irukku,I'm scared that my portfolio review might have a negative outcome,career,fear,"portfolio,fear",medium,high
+job fair expect panna madhiri nalla ah mudinjadhu,"My job fair turned out exactly as I expected, really nice",career,happy,"job,happy",low,high
+"toxic boss issue nalla plan pannitten, adhanala mind peace ah irukku","I planned my toxic boss issue well, so my mind feels at peace",career,calm,"toxic,calm",low,high
+work from home policy pathi ratha ovvoru naalum tension ah irukku,I feel tense about my work from home policy every single day,career,anxious,"work,anxious",medium,high
+campus placement nalla ah prepare pannama vittutten nu guilt ah irukku,I feel guilty that I didn't prepare well for my campus placement,career,guilty,"campus,guilty",medium,high
+"joining date pathi rendu option irukku, edhu correct nu therila","I have two options for my joining date, not sure which one is right",career,confused,"joining,confused",medium,high
+"investor pitch start aaga innum konjam naal dhaan irukku, romba excited ah irukken","There's only a few days left for my investor pitch to start, I'm really excited",career,excited,"investor,excited",low,high
+resignation letter confirm aayiduchu nu therinja moment romba excited ah aayiduchen,"The moment I found out my resignation letter was confirmed, I got really excited",career,excited,"resignation,excited",low,high
+"performance appraisal pathi yosichu yosichu ipo oru clarity vandhuchu, mind settle aayiduchu","After thinking a lot about my performance appraisal, I finally got clarity and my mind settled",career,calm,"performance,calm",low,high
+scholarship application expect panna madhiri nalla ah mudinjadhu,"My scholarship application turned out exactly as I expected, really nice",career,happy,"scholarship,happy",low,high
+"job offer pathi management sariya handle pannala, romba angry ah irukku","The management didn't handle my job offer properly, I'm really angry",career,angry,"job,angry",medium,high
+product launch confirm aayiduchu nu therinja moment romba excited ah aayiduchen,"The moment I found out my product launch was confirmed, I got really excited",career,excited,"product,excited",low,high
+startup idea interview ku munnadi kai kaal nadunguthu,My hands and legs are shaking before my startup idea,career,fear,"startup,fear",medium,high
+exit interview promise pannitu keep pannala nu romba kobam ah irukku,"They promised something about my exit interview and didn't keep it, I'm really angry",career,angry,"exit,angry",medium,high
+"internship offer nalla plan pannitten, adhanala mind peace ah irukku","I planned my internship offer well, so my mind feels at peace",career,calm,"internship,calm",low,high
+cold email for job pathi ninachaale sad ah irukku,Thinking about my cold email for job makes me feel sad,career,sad,"cold,sad",medium,high
+"MBA admission start aaga innum konjam naal dhaan irukku, romba excited ah irukken","There's only a few days left for my MBA admission to start, I'm really excited",career,excited,"mba,excited",low,high
+"relocation offer results eppadi vandhalum, naan calm ah dhaan irukken","Whatever the results of my relocation offer are, I'm staying calm",career,calm,"relocation,calm",low,high
+cover letter pathi decision edukka mudiyama irukken innum,I still can't make a decision about my cover letter,career,confused,"cover,confused",medium,high
+contract renewal promise pannitu keep pannala nu romba kobam ah irukku,"They promised something about my contract renewal and didn't keep it, I'm really angry",career,angry,"contract,angry",medium,high
+"performance appraisal workload adhigama irukku, over stress ah aayiduchu","The workload for my performance appraisal is too much, I'm extremely stressed",career,stressed,"performance,stressed",high,high
+quarterly review pathi ratha ovvoru naalum tension ah irukku,I feel tense about my quarterly review every single day,career,anxious,"quarterly,anxious",medium,high
+visa interview fail aayiduma nu romba bayama irukku,I'm really scared that my visa interview might fail,career,fear,"visa,fear",medium,high
+"job fair results eppadi vandhalum, naan calm ah dhaan irukken","Whatever the results of my job fair are, I'm staying calm",career,calm,"job,calm",low,high
+"scholarship application balance panna mudiyama, mental ah exhaust ah irukken","I'm unable to balance my scholarship application, I'm mentally exhausted",career,stressed,"scholarship,stressed",high,high
+resignation letter interview ku munnadi kai kaal nadunguthu,My hands and legs are shaking before my resignation letter,career,fear,"resignation,fear",medium,high
+github profile interview ku munnadi kai kaal nadunguthu,My hands and legs are shaking before my github profile,career,fear,"github,fear",medium,high
+"HR interview pathi ella effort um podren, nalladhu nadakum nu nambikkai irukku","I'm putting in all the effort for my HR interview, I believe good things will happen",career,hopeful,"hr,hopeful",low,high
+probation period continue pannanuma illa mathanuma nu therila,I don't know whether to continue or change my probation period,career,confused,"probation,confused",medium,high
+project deadline time la mistake pannitten nu ippozhum kashtama irukku,I still feel bad that I made a mistake during my project deadline,career,guilty,"project,guilty",medium,high
+work life balance interview ku munnadi kai kaal nadunguthu,My hands and legs are shaking before my work life balance,career,fear,"work,fear",medium,high
+"salary hike pathi rendu option irukku, edhu correct nu therila","I have two options for my salary hike, not sure which one is right",career,confused,"salary,confused",medium,high
+"performance review pathi plan panna aarambichitten, romba pumped up ah irukken","I've started planning for my performance review, I'm really pumped up",career,excited,"performance,excited",low,high
+startup idea mudinja pinnadi vazhkai better ah maarum nu nambaren,I believe life will get better once my startup idea is done,career,hopeful,"startup,hopeful",low,high
+annual review continue pannanuma illa mathanuma nu therila,I don't know whether to continue or change my annual review,career,confused,"annual,confused",medium,high
+client feedback pathi vera vazhi irundhum sariya decision edukkala nu feel panren,"I feel like I didn't make the right decision about my client feedback, even though there were other options",career,guilty,"client,guilty",medium,high
+office relocation journey la yaarum kooda illa nu feel panren,I feel like no one is with me in this office relocation journey,career,lonely,"office,lonely",medium,high
+higher studies plan pathi nyabagam vandha automatic ah excitement varudhu,Just thinking about my higher studies plan gets me excited,career,excited,"higher,excited",low,high
+"resume update konjam kashtama irundhalum, future bright ah irukum nu feel panren","Even though my resume update is a bit tough, I feel the future will be bright",career,hopeful,"resume,hopeful",low,high
+mentorship program pathi nyabagam vandha automatic ah excitement varudhu,Just thinking about my mentorship program gets me excited,career,excited,"mentorship,excited",low,high
+"layoff round pathi negative aana vishayam kekkalam, aana naan hopeful ah dhaan irukken","I might hear negative things about my layoff round, but I'm staying hopeful",career,hopeful,"layoff,hopeful",low,high
+"client meeting deadline nearagudhu, romba stress ah irukku","My client meeting deadline is approaching, I'm really stressed",career,stressed,"client,stressed",high,high
+"HR interview pathi ipo tension illa, mind calm ah irukku","I don't feel tense about my HR interview anymore, my mind feels calm",career,calm,"hr,calm",low,high
+LinkedIn profile expect panna madhiri nalla ah mudinjadhu,"My LinkedIn profile turned out exactly as I expected, really nice",career,happy,"linkedin,happy",low,high
+"career switch pathi negative aana vishayam kekkalam, aana naan hopeful ah dhaan irukken","I might hear negative things about my career switch, but I'm staying hopeful",career,hopeful,"career,hopeful",low,high
+"incentive structure expect panna madhiri nadakala, romba vaguthadhu","My incentive structure didn't turn out as I expected, it really disappointed me",career,sad,"incentive,sad",medium,high
+layoff round mudinja pinnadi vazhkai better ah maarum nu nambaren,I believe life will get better once my layoff round is done,career,hopeful,"layoff,hopeful",low,high
+"office politics deadline nearagudhu, romba stress ah irukku","My office politics deadline is approaching, I'm really stressed",career,stressed,"office,stressed",high,high
+notice period pathi ipozhum yosichaale angry ah aaguthu,"Even now, thinking about my notice period makes me angry",career,angry,"notice,angry",medium,high
+"work from home policy nalla poayiduchu, semma happy ah irukku","My work from home policy went really well, I'm so happy",career,happy,"work,happy",low,high
+team lead role pathi share panna oruthar kooda illa,I don't have anyone to share my team lead role worries with,career,lonely,"team,lonely",medium,high
+portfolio review expect panna madhiri nalla ah mudinjadhu,"My portfolio review turned out exactly as I expected, really nice",career,happy,"portfolio,happy",low,high
+co-founder issue journey la yaarum kooda illa nu feel panren,I feel like no one is with me in this co-founder issue journey,career,lonely,"co-founder,lonely",medium,high
+business loan decision edukkara naala nalla varum nu wait pandren,I'm waiting hopefully for the day my business loan decision comes,career,hopeful,"business,hopeful",low,high
+"joining date nalla plan pannitten, adhanala mind peace ah irukku","I planned my joining date well, so my mind feels at peace",career,calm,"joining,calm",low,high
+"promotion round konjam kashtama irundhalum, future bright ah irukum nu feel panren","Even though my promotion round is a bit tough, I feel the future will be bright",career,hopeful,"promotion,hopeful",low,high
+side hustle journey la yaarum kooda illa nu feel panren,I feel like no one is with me in this side hustle journey,career,lonely,"side,lonely",medium,high
+"co-founder issue balance panna mudiyama, mental ah exhaust ah irukken","I'm unable to balance my co-founder issue, I'm mentally exhausted",career,stressed,"co-founder,stressed",high,high
+team restructuring pathi ratha ovvoru naalum tension ah irukku,I feel tense about my team restructuring every single day,career,anxious,"team,anxious",medium,high
+"work from home policy pathi nalla news kidaichu, romba santhosham","I got good news about my work from home policy, I'm really happy",career,happy,"work,happy",low,high
+client feedback ku team ah let down pannitten nu guilt irukku,I feel guilty that I let my team down regarding my client feedback,career,guilty,"client,guilty",medium,high
+"campus placement vishayathula unfair ah treat pannanga nu feel panren, romba frustration","I feel like I was treated unfairly regarding my campus placement, it's really frustrating",career,angry,"campus,angry",medium,high
+"pay cut pathi ipo tension illa, mind calm ah irukku","I don't feel tense about my pay cut anymore, my mind feels calm",career,calm,"pay,calm",low,high
+product launch pathi decision edukka mudiyama irukken innum,I still can't make a decision about my product launch,career,confused,"product,confused",medium,high
+"performance review expect panna madhiri nadakala, romba vaguthadhu","My performance review didn't turn out as I expected, it really disappointed me",career,sad,"performance,sad",medium,high
+aptitude test interview ku munnadi kai kaal nadunguthu,My hands and legs are shaking before my aptitude test,career,fear,"aptitude,fear",medium,high
+part time job results pathi nenachaale bayama irukku,Just thinking about my part time job results scares me,career,fear,"part,fear",medium,high
+"promotion round pathi ipo semma confident ah feel panren, happy ah irukku","I feel really confident about my promotion round now, it makes me happy",career,happy,"promotion,happy",low,high
+"team lead role pathi management sariya handle pannala, romba angry ah irukku","The management didn't handle my team lead role properly, I'm really angry",career,angry,"team,angry",medium,high
+"onboarding process pathi ipo semma confident ah feel panren, happy ah irukku","I feel really confident about my onboarding process now, it makes me happy",career,happy,"onboarding,happy",low,high
+entrepreneurship idea pressure ah face panra time la romba thanimai ah irukku,I feel really alone while facing the pressure of my entrepreneurship idea,career,lonely,"entrepreneurship,lonely",medium,high
+product launch pathi vera vazhi irundhum sariya decision edukkala nu feel panren,"I feel like I didn't make the right decision about my product launch, even though there were other options",career,guilty,"product,guilty",medium,high
+campus placement nalla mudiyala nu ninachu romba down ah irukken,I'm feeling really down thinking that my campus placement didn't go well,career,sad,"campus,sad",medium,high
+office relocation pathi nyabagam vandha automatic ah excitement varudhu,Just thinking about my office relocation gets me excited,career,excited,"office,excited",low,high
+cold email for job pathi ipozhum yosichaale angry ah aaguthu,"Even now, thinking about my cold email for job makes me angry",career,angry,"cold,angry",medium,high
+layoff round eppadi handle pannanum nu confusion ah irukku,I'm confused about how to handle my layoff round,career,confused,"layoff,confused",medium,high
+"promotion round pathi ella effort um podren, nalladhu nadakum nu nambikkai irukku","I'm putting in all the effort for my promotion round, I believe good things will happen",career,hopeful,"promotion,hopeful",low,high
+"entrepreneurship idea workload adhigama irukku, over stress ah aayiduchu","The workload for my entrepreneurship idea is too much, I'm extremely stressed",career,stressed,"entrepreneurship,stressed",high,high
+"job offer balance panna mudiyama, mental ah exhaust ah irukken","I'm unable to balance my job offer, I'm mentally exhausted",career,stressed,"job,stressed",high,high
+"hybrid work policy deadline nearagudhu, romba stress ah irukku","My hybrid work policy deadline is approaching, I'm really stressed",career,stressed,"hybrid,stressed",high,high
+skill certification continue pannanuma illa mathanuma nu therila,I don't know whether to continue or change my skill certification,career,confused,"skill,confused",medium,high
+bonus payout success ah mudinjadhu nu kelvi pattu happy ah irukken,"I heard my bonus payout was successful, I'm happy about it",career,happy,"bonus,happy",low,high
+interview feedback continue pannanuma illa mathanuma nu therila,I don't know whether to continue or change my interview feedback,career,confused,"interview,confused",medium,high
+higher studies plan success ah mudinjadhu nu kelvi pattu happy ah irukken,"I heard my higher studies plan was successful, I'm happy about it",career,happy,"higher,happy",low,high
+"MBA admission results eppadi vandhalum, naan calm ah dhaan irukken","Whatever the results of my MBA admission are, I'm staying calm",career,calm,"mba,calm",low,high
+"freelance project confirm aaguma nu therila, romba restless ah irukken","I don't know if my freelance project will be confirmed, I'm feeling really restless",career,anxious,"freelance,anxious",medium,high
+"coding test pathi ipo tension illa, mind calm ah irukku","I don't feel tense about my coding test anymore, my mind feels calm",career,calm,"coding,calm",low,high
+"networking event nalla plan pannitten, adhanala mind peace ah irukku","I planned my networking event well, so my mind feels at peace",career,calm,"networking,calm",low,high
+remote job pathi ipozhum yosichaale angry ah aaguthu,"Even now, thinking about my remote job makes me angry",career,angry,"remote,angry",medium,high
+resume update decision edukra naala nenachaale nervous ah irukku,I feel nervous just thinking about the day I decide on my resume update,career,fear,"resume,fear",medium,high
+MBA admission mudinja pinnadi vazhkai better ah maarum nu nambaren,I believe life will get better once my MBA admission is done,career,hopeful,"mba,hopeful",low,high
+product launch pathi ipozhum yosichaale angry ah aaguthu,"Even now, thinking about my product launch makes me angry",career,angry,"product,angry",medium,high
+"quarterly review balance panna mudiyama, mental ah exhaust ah irukken","I'm unable to balance my quarterly review, I'm mentally exhausted",career,stressed,"quarterly,stressed",high,high
+"resignation letter nalla plan pannitten, adhanala mind peace ah irukku","I planned my resignation letter well, so my mind feels at peace",career,calm,"resignation,calm",low,high
+job interview pathi nenachaale udane stress varudhu,Just thinking about my job interview instantly stresses me out,career,stressed,"job,stressed",high,high
+"promotion round pathi rendu option irukku, edhu correct nu therila","I have two options for my promotion round, not sure which one is right",career,confused,"promotion,confused",medium,high
+manager feedback decision edukkara naala nalla varum nu wait pandren,I'm waiting hopefully for the day my manager feedback decision comes,career,hopeful,"manager,hopeful",low,high
+incentive structure pathi negative outcome varumo nu fear ah irukku,I'm scared that my incentive structure might have a negative outcome,career,fear,"incentive,fear",medium,high
+annual review pathi share panna oruthar kooda illa,I don't have anyone to share my annual review worries with,career,lonely,"annual,lonely",medium,high
+portfolio review pressure ah face panra time la romba thanimai ah irukku,I feel really alone while facing the pressure of my portfolio review,career,lonely,"portfolio,lonely",medium,high
+"campus placement pathi yosichu yosichu ipo oru clarity vandhuchu, mind settle aayiduchu","After thinking a lot about my campus placement, I finally got clarity and my mind settled",career,calm,"campus,calm",low,high
+product launch results pathi nenachaale bayama irukku,Just thinking about my product launch results scares me,career,fear,"product,fear",medium,high
+job interview decision edukkara naala nalla varum nu wait pandren,I'm waiting hopefully for the day my job interview decision comes,career,hopeful,"job,hopeful",low,high
+"night shift schedule pathi management sariya handle pannala, romba angry ah irukku","The management didn't handle my night shift schedule properly, I'm really angry",career,angry,"night,angry",medium,high
+"relocation offer expect panna madhiri nadakala, romba vaguthadhu","My relocation offer didn't turn out as I expected, it really disappointed me",career,sad,"relocation,sad",medium,high
+"salary hike vishayathula unfair ah treat pannanga nu feel panren, romba frustration","I feel like I was treated unfairly regarding my salary hike, it's really frustrating",career,angry,"salary,angry",medium,high
+"manager feedback nalla poayiduchu, semma happy ah irukku","My manager feedback went really well, I'm so happy",career,happy,"manager,happy",low,high
+skill gap pathi vera vazhi irundhum sariya decision edukkala nu feel panren,"I feel like I didn't make the right decision about my skill gap, even though there were other options",career,guilty,"skill,guilty",medium,high
+appraisal cycle pathi share panna oruthar kooda illa,I don't have anyone to share my appraisal cycle worries with,career,lonely,"appraisal,lonely",medium,high
+"salary negotiation pathi rendu option irukku, edhu correct nu therila","I have two options for my salary negotiation, not sure which one is right",career,confused,"salary,confused",medium,high
+LinkedIn profile pathi nenachaale udane stress varudhu,Just thinking about my LinkedIn profile instantly stresses me out,career,stressed,"linkedin,stressed",high,high
+remote job eppadi handle pannanum nu confusion ah irukku,I'm confused about how to handle my remote job,career,confused,"remote,confused",medium,high
+"cold email for job balance panna mudiyama, mental ah exhaust ah irukken","I'm unable to balance my cold email for job, I'm mentally exhausted",career,stressed,"cold,stressed",high,high
+"cover letter vishayathula unfair ah treat pannanga nu feel panren, romba frustration","I feel like I was treated unfairly regarding my cover letter, it's really frustrating",career,angry,"cover,angry",medium,high
+"Finally part time job sort aayiduchu, mood set ah irukku","Finally my part time job got sorted out, I'm in a great mood",career,happy,"part,happy",low,high
+"job interview pathi rendu option irukku, edhu correct nu therila","I have two options for my job interview, not sure which one is right",career,confused,"job,confused",medium,high
+job offer results pathi nenachaale bayama irukku,Just thinking about my job offer results scares me,career,fear,"job,fear",medium,high
+onboarding process journey la yaarum kooda illa nu feel panren,I feel like no one is with me in this onboarding process journey,career,lonely,"onboarding,lonely",medium,high
+"technical round balance panna mudiyama, mental ah exhaust ah irukken","I'm unable to balance my technical round, I'm mentally exhausted",career,stressed,"technical,stressed",high,high
+"Finally interview feedback sort aayiduchu, mood set ah irukku","Finally my interview feedback got sorted out, I'm in a great mood",career,happy,"interview,happy",low,high
+job fair journey la yaarum kooda illa nu feel panren,I feel like no one is with me in this job fair journey,career,lonely,"job,lonely",medium,high
+scholarship application pathi share panna oruthar kooda illa,I don't have anyone to share my scholarship application worries with,career,lonely,"scholarship,lonely",medium,high
+"startup idea pathi nalla news kidaichu, romba santhosham","I got good news about my startup idea, I'm really happy",career,happy,"startup,happy",low,high
+"toxic boss issue balance panna mudiyama, mental ah exhaust ah irukken","I'm unable to balance my toxic boss issue, I'm mentally exhausted",career,stressed,"toxic,stressed",high,high
+"Finally contract renewal sort aayiduchu, mood set ah irukku","Finally my contract renewal got sorted out, I'm in a great mood",career,happy,"contract,happy",low,high
+pay cut pathi ipozhum yosichaale angry ah aaguthu,"Even now, thinking about my pay cut makes me angry",career,angry,"pay,angry",medium,high
+"manager feedback konjam kashtama irundhalum, future bright ah irukum nu feel panren","Even though my manager feedback is a bit tough, I feel the future will be bright",career,hopeful,"manager,hopeful",low,high
+pay cut promise pannitu keep pannala nu romba kobam ah irukku,"They promised something about my pay cut and didn't keep it, I'm really angry",career,angry,"pay,angry",medium,high
+startup idea pathi nenachaale udane stress varudhu,Just thinking about my startup idea instantly stresses me out,career,stressed,"startup,stressed",high,high
+"client feedback start aaga innum konjam naal dhaan irukku, romba excited ah irukken","There's only a few days left for my client feedback to start, I'm really excited",career,excited,"client,excited",low,high
+"cold email for job workload adhigama irukku, over stress ah aayiduchu","The workload for my cold email for job is too much, I'm extremely stressed",career,stressed,"cold,stressed",high,high
+performance review interview ku munnadi kai kaal nadunguthu,My hands and legs are shaking before my performance review,career,fear,"performance,fear",medium,high
+career switch pathi share panna oruthar kooda illa,I don't have anyone to share my career switch worries with,career,lonely,"career,lonely",medium,high
+target pressure confirm aayiduchu nu therinja moment romba excited ah aayiduchen,"The moment I found out my target pressure was confirmed, I got really excited",career,excited,"target,excited",low,high
+interview feedback pathi decision edukka mudiyama irukken innum,I still can't make a decision about my interview feedback,career,confused,"interview,confused",medium,high
+"exit interview konjam kashtama irundhalum, future bright ah irukum nu feel panren","Even though my exit interview is a bit tough, I feel the future will be bright",career,hopeful,"exit,hopeful",low,high
+"business loss confirm aaguma nu therila, romba restless ah irukken","I don't know if my business loss will be confirmed, I'm feeling really restless",career,anxious,"business,anxious",medium,high
+"cold email for job pathi negative aana vishayam kekkalam, aana naan hopeful ah dhaan irukken","I might hear negative things about my cold email for job, but I'm staying hopeful",career,hopeful,"cold,hopeful",low,high
+"quarterly review workload adhigama irukku, over stress ah aayiduchu","The workload for my quarterly review is too much, I'm extremely stressed",career,stressed,"quarterly,stressed",high,high
+contract renewal expect panna madhiri nalla ah mudinjadhu,"My contract renewal turned out exactly as I expected, really nice",career,happy,"contract,happy",low,high
+"startup idea pathi ipo semma confident ah feel panren, happy ah irukku","I feel really confident about my startup idea now, it makes me happy",career,happy,"startup,happy",low,high
+"HR interview workload adhigama irukku, over stress ah aayiduchu","The workload for my HR interview is too much, I'm extremely stressed",career,stressed,"hr,stressed",high,high
+github profile pathi decision edukka mudiyama irukken innum,I still can't make a decision about my github profile,career,confused,"github,confused",medium,high
+relocation offer pathi ipozhum yosichaale angry ah aaguthu,"Even now, thinking about my relocation offer makes me angry",career,angry,"relocation,angry",medium,high
+pay cut continue pannanuma illa mathanuma nu therila,I don't know whether to continue or change my pay cut,career,confused,"pay,confused",medium,high
+project deadline nalla ah prepare pannama vittutten nu guilt ah irukku,I feel guilty that I didn't prepare well for my project deadline,career,guilty,"project,guilty",medium,high
+annual review result eppo varum nu wait panni panni anxiety adhigama aayiduchu,Waiting for my annual review result has made me really anxious,career,anxious,"annual,anxious",medium,high
+coding test eppadi handle pannanum nu confusion ah irukku,I'm confused about how to handle my coding test,career,confused,"coding,confused",medium,high
+toxic boss issue results pathi nenachaale bayama irukku,Just thinking about my toxic boss issue results scares me,career,fear,"toxic,fear",medium,high
+"coding test pathi decide panna help panna yaarum illa, lonely ah irukku","There's no one to help me decide about my coding test, I feel lonely",career,lonely,"coding,lonely",medium,high
+contract renewal pathi decision edukka mudiyama irukken innum,I still can't make a decision about my contract renewal,career,confused,"contract,confused",medium,high
+"quarterly review nalla poayiduchu, semma happy ah irukku","My quarterly review went really well, I'm so happy",career,happy,"quarterly,happy",low,high
+cold email for job decision edukkara naala nalla varum nu wait pandren,I'm waiting hopefully for the day my cold email for job decision comes,career,hopeful,"cold,hopeful",low,high
+internship offer decision edukkara naala nalla varum nu wait pandren,I'm waiting hopefully for the day my internship offer decision comes,career,hopeful,"internship,hopeful",low,high
+career switch nalla mudiyala nu ninachu romba down ah irukken,I'm feeling really down thinking that my career switch didn't go well,career,sad,"career,sad",medium,high
+"joining date pathi over thinking pannitu irukken, sleep kooda varala","I've been overthinking about my joining date, I can't even sleep",career,anxious,"joining,anxious",medium,high
+"probation period pathi negative aana vishayam kekkalam, aana naan hopeful ah dhaan irukken","I might hear negative things about my probation period, but I'm staying hopeful",career,hopeful,"probation,hopeful",low,high
+exit interview pathi share panna oruthar kooda illa,I don't have anyone to share my exit interview worries with,career,lonely,"exit,lonely",medium,high
+"Finally funding round sort aayiduchu, mood set ah irukku","Finally my funding round got sorted out, I'm in a great mood",career,happy,"funding,happy",low,high
+"campus placement expect panna madhiri nadakala, romba vaguthadhu","My campus placement didn't turn out as I expected, it really disappointed me",career,sad,"campus,sad",medium,high
+"funding round pathi decide panna help panna yaarum illa, lonely ah irukku","There's no one to help me decide about my funding round, I feel lonely",career,lonely,"funding,lonely",medium,high
+"funding round confirm aaguma nu therila, romba restless ah irukken","I don't know if my funding round will be confirmed, I'm feeling really restless",career,anxious,"funding,anxious",medium,high
+"incentive structure pathi friends ellarum different advice kudukranga, confuse ah irukku","All my friends are giving different advice about my incentive structure, I'm confused",career,confused,"incentive,confused",medium,high
+job interview pathi share panna oruthar kooda illa,I don't have anyone to share my job interview worries with,career,lonely,"job,lonely",medium,high
+interview feedback result eppo varum nu wait panni panni anxiety adhigama aayiduchu,Waiting for my interview feedback result has made me really anxious,career,anxious,"interview,anxious",medium,high
+job interview promise pannitu keep pannala nu romba kobam ah irukku,"They promised something about my job interview and didn't keep it, I'm really angry",career,angry,"job,angry",medium,high
+resume update pathi nyabagam vandha automatic ah excitement varudhu,Just thinking about my resume update gets me excited,career,excited,"resume,excited",low,high
+bonus payout result eppo varum nu wait panni panni anxiety adhigama aayiduchu,Waiting for my bonus payout result has made me really anxious,career,anxious,"bonus,anxious",medium,high
+"manager feedback balance panna mudiyama, mental ah exhaust ah irukken","I'm unable to balance my manager feedback, I'm mentally exhausted",career,stressed,"manager,stressed",high,high
+"scholarship application pathi ipo tension illa, mind calm ah irukku","I don't feel tense about my scholarship application anymore, my mind feels calm",career,calm,"scholarship,calm",low,high
+job offer pathi ratha ovvoru naalum tension ah irukku,I feel tense about my job offer every single day,career,anxious,"job,anxious",medium,high
+"promotion round deadline nearagudhu, romba stress ah irukku","My promotion round deadline is approaching, I'm really stressed",career,stressed,"promotion,stressed",high,high
+"mentorship program expect panna madhiri nadakala, romba vaguthadhu","My mentorship program didn't turn out as I expected, it really disappointed me",career,sad,"mentorship,sad",medium,high
+"appraisal cycle pathi yosichu yosichu ipo oru clarity vandhuchu, mind settle aayiduchu","After thinking a lot about my appraisal cycle, I finally got clarity and my mind settled",career,calm,"appraisal,calm",low,high
+cover letter pathi vera vazhi irundhum sariya decision edukkala nu feel panren,"I feel like I didn't make the right decision about my cover letter, even though there were other options",career,guilty,"cover,guilty",medium,high
+notice period results pathi nenachaale bayama irukku,Just thinking about my notice period results scares me,career,fear,"notice,fear",medium,high
+internship offer pathi ninachaale sad ah irukku,Thinking about my internship offer makes me feel sad,career,sad,"internship,sad",medium,high
+group discussion round pathi nenachaale udane stress varudhu,Just thinking about my group discussion round instantly stresses me out,career,stressed,"group,stressed",high,high
+"work life balance workload adhigama irukku, over stress ah aayiduchu","The workload for my work life balance is too much, I'm extremely stressed",career,stressed,"work,stressed",high,high
+promotion round time la mistake pannitten nu ippozhum kashtama irukku,I still feel bad that I made a mistake during my promotion round,career,guilty,"promotion,guilty",medium,high
+"office relocation nalla poayiduchu, semma happy ah irukku","My office relocation went really well, I'm so happy",career,happy,"office,happy",low,high
+"client feedback pathi rendu option irukku, edhu correct nu therila","I have two options for my client feedback, not sure which one is right",career,confused,"client,confused",medium,high
+resume update ku team ah let down pannitten nu guilt irukku,I feel guilty that I let my team down regarding my resume update,career,guilty,"resume,guilty",medium,high
+"career switch pathi ella effort um podren, nalladhu nadakum nu nambikkai irukku","I'm putting in all the effort for my career switch, I believe good things will happen",career,hopeful,"career,hopeful",low,high
+background verification time la mistake pannitten nu ippozhum kashtama irukku,I still feel bad that I made a mistake during my background verification,career,guilty,"background,guilty",medium,high
+team lead role pathi ratha ovvoru naalum tension ah irukku,I feel tense about my team lead role every single day,career,anxious,"team,anxious",medium,high
+internship offer pathi share panna oruthar kooda illa,I don't have anyone to share my internship offer worries with,career,lonely,"internship,lonely",medium,high
+"aptitude test pathi friends ellarum different advice kudukranga, confuse ah irukku","All my friends are giving different advice about my aptitude test, I'm confused",career,confused,"aptitude,confused",medium,high
+salary negotiation result eppo varum nu wait panni panni anxiety adhigama aayiduchu,Waiting for my salary negotiation result has made me really anxious,career,anxious,"salary,anxious",medium,high
+"resume update pathi management sariya handle pannala, romba angry ah irukku","The management didn't handle my resume update properly, I'm really angry",career,angry,"resume,angry",medium,high
+"part time job pathi rendu option irukku, edhu correct nu therila","I have two options for my part time job, not sure which one is right",career,confused,"part,confused",medium,high
+joining date pathi nenachaale udane stress varudhu,Just thinking about my joining date instantly stresses me out,career,stressed,"joining,stressed",high,high
+HR interview pathi ipozhum yosichaale angry ah aaguthu,"Even now, thinking about my HR interview makes me angry",career,angry,"hr,angry",medium,high
+"incentive structure nalla poayiduchu, semma happy ah irukku","My incentive structure went really well, I'm so happy",career,happy,"incentive,happy",low,high
+"entrepreneurship idea confirm aaguma nu therila, romba restless ah irukken","I don't know if my entrepreneurship idea will be confirmed, I'm feeling really restless",career,anxious,"entrepreneurship,anxious",medium,high
+"Finally internship offer sort aayiduchu, mood set ah irukku","Finally my internship offer got sorted out, I'm in a great mood",career,happy,"internship,happy",low,high
+contract renewal reject aayiduchu nu therinjadhum mind heavy ah aayiduchu,"The moment I found out my contract renewal got rejected, my mind felt heavy",career,sad,"contract,sad",medium,high
+contract renewal decision edukkara naala nalla varum nu wait pandren,I'm waiting hopefully for the day my contract renewal decision comes,career,hopeful,"contract,hopeful",low,high
+portfolio review decision edukra naala nenachaale nervous ah irukku,I feel nervous just thinking about the day I decide on my portfolio review,career,fear,"portfolio,fear",medium,high
+group discussion round pathi nyabagam vandha automatic ah excitement varudhu,Just thinking about my group discussion round gets me excited,career,excited,"group,excited",low,high
+"business loss pathi ipo tension illa, mind calm ah irukku","I don't feel tense about my business loss anymore, my mind feels calm",career,calm,"business,calm",low,high
+job interview expect panna madhiri nalla ah mudinjadhu,"My job interview turned out exactly as I expected, really nice",career,happy,"job,happy",low,high
+"portfolio review results ku wait pandren, semma thrill ah irukku","I'm waiting for my portfolio review results, feeling a real thrill",career,excited,"portfolio,excited",low,high
+training program pathi negative outcome varumo nu fear ah irukku,I'm scared that my training program might have a negative outcome,career,fear,"training,fear",medium,high
+work from home policy reject aayiduchu nu therinjadhum mind heavy ah aayiduchu,"The moment I found out my work from home policy got rejected, my mind felt heavy",career,sad,"work,sad",medium,high
+"MBA admission results ku wait pandren, semma thrill ah irukku","I'm waiting for my MBA admission results, feeling a real thrill",career,excited,"mba,excited",low,high
+group discussion round pathi share panna oruthar kooda illa,I don't have anyone to share my group discussion round worries with,career,lonely,"group,lonely",medium,high
+"referral process start aaga innum konjam naal dhaan irukku, romba excited ah irukken","There's only a few days left for my referral process to start, I'm really excited",career,excited,"referral,excited",low,high
+funding round pathi share panna oruthar kooda illa,I don't have anyone to share my funding round worries with,career,lonely,"funding,lonely",medium,high
+performance review pathi ipozhum yosichaale angry ah aaguthu,"Even now, thinking about my performance review makes me angry",career,angry,"performance,angry",medium,high
+"client meeting start aaga innum konjam naal dhaan irukku, romba excited ah irukken","There's only a few days left for my client meeting to start, I'm really excited",career,excited,"client,excited",low,high
+promotion round pathi vera vazhi irundhum sariya decision edukkala nu feel panren,"I feel like I didn't make the right decision about my promotion round, even though there were other options",career,guilty,"promotion,guilty",medium,high
+campus placement result eppo varum nu wait panni panni anxiety adhigama aayiduchu,Waiting for my campus placement result has made me really anxious,career,anxious,"campus,anxious",medium,high
+manager feedback pathi decision edukka mudiyama irukken innum,I still can't make a decision about my manager feedback,career,confused,"manager,confused",medium,high
+"skill certification pathi yosichu yosichu ipo oru clarity vandhuchu, mind settle aayiduchu","After thinking a lot about my skill certification, I finally got clarity and my mind settled",career,calm,"skill,calm",low,high
+"business loan pathi ella effort um podren, nalladhu nadakum nu nambikkai irukku","I'm putting in all the effort for my business loan, I believe good things will happen",career,hopeful,"business,hopeful",low,high
+sales target result eppo varum nu wait panni panni anxiety adhigama aayiduchu,Waiting for my sales target result has made me really anxious,career,anxious,"sales,anxious",medium,high
+"interview feedback pathi nalla news kidaichu, romba santhosham","I got good news about my interview feedback, I'm really happy",career,happy,"interview,happy",low,high
+overtime work pathi vera vazhi irundhum sariya decision edukkala nu feel panren,"I feel like I didn't make the right decision about my overtime work, even though there were other options",career,guilty,"overtime,guilty",medium,high
+"entrepreneurship idea pathi ipo tension illa, mind calm ah irukku","I don't feel tense about my entrepreneurship idea anymore, my mind feels calm",career,calm,"entrepreneurship,calm",low,high
+onboarding process eppadi handle pannanum nu confusion ah irukku,I'm confused about how to handle my onboarding process,career,confused,"onboarding,confused",medium,high
+walk-in interview nalla ah prepare pannama vittutten nu guilt ah irukku,I feel guilty that I didn't prepare well for my walk-in interview,career,guilty,"walk-in,guilty",medium,high
+"notice period pathi over thinking pannitu irukken, sleep kooda varala","I've been overthinking about my notice period, I can't even sleep",career,anxious,"notice,anxious",medium,high
+"product launch vishayathula unfair ah treat pannanga nu feel panren, romba frustration","I feel like I was treated unfairly regarding my product launch, it's really frustrating",career,angry,"product,angry",medium,high
+"interview feedback pathi ipo tension illa, mind calm ah irukku","I don't feel tense about my interview feedback anymore, my mind feels calm",career,calm,"interview,calm",low,high
+office relocation pathi decision edukka mudiyama irukken innum,I still can't make a decision about my office relocation,career,confused,"office,confused",medium,high
+"business plan nalla poayiduchu, semma happy ah irukku","My business plan went really well, I'm so happy",career,happy,"business,happy",low,high
+"resume update pathi ipo tension illa, mind calm ah irukku","I don't feel tense about my resume update anymore, my mind feels calm",career,calm,"resume,calm",low,high
+client feedback continue pannanuma illa mathanuma nu therila,I don't know whether to continue or change my client feedback,career,confused,"client,confused",medium,high
+entrepreneurship idea success ah mudinjadhu nu kelvi pattu happy ah irukken,"I heard my entrepreneurship idea was successful, I'm happy about it",career,happy,"entrepreneurship,happy",low,high
+"higher studies plan balance panna mudiyama, mental ah exhaust ah irukken","I'm unable to balance my higher studies plan, I'm mentally exhausted",career,stressed,"higher,stressed",high,high
+"final offer letter pathi ipo tension illa, mind calm ah irukku","I don't feel tense about my final offer letter anymore, my mind feels calm",career,calm,"final,calm",low,high
+technical round time la mistake pannitten nu ippozhum kashtama irukku,I still feel bad that I made a mistake during my technical round,career,guilty,"technical,guilty",medium,high
+"relocation offer pathi decide panna help panna yaarum illa, lonely ah irukku","There's no one to help me decide about my relocation offer, I feel lonely",career,lonely,"relocation,lonely",medium,high
+work life balance eppadi handle pannanum nu confusion ah irukku,I'm confused about how to handle my work life balance,career,confused,"work,confused",medium,high
+cold email for job results pathi nenachaale bayama irukku,Just thinking about my cold email for job results scares me,career,fear,"cold,fear",medium,high
+career switch pathi decision edukka mudiyama irukken innum,I still can't make a decision about my career switch,career,confused,"career,confused",medium,high
+"skill certification results eppadi vandhalum, naan calm ah dhaan irukken","Whatever the results of my skill certification are, I'm staying calm",career,calm,"skill,calm",low,high
+referral process pressure ah face panra time la romba thanimai ah irukku,I feel really alone while facing the pressure of my referral process,career,lonely,"referral,lonely",medium,high
+promotion round pathi share panna oruthar kooda illa,I don't have anyone to share my promotion round worries with,career,lonely,"promotion,lonely",medium,high
+sales target success ah mudinjadhu nu kelvi pattu happy ah irukken,"I heard my sales target was successful, I'm happy about it",career,happy,"sales,happy",low,high
+bonus payout fail aayiduma nu romba bayama irukku,I'm really scared that my bonus payout might fail,career,fear,"bonus,fear",medium,high
+"Finally MBA admission sort aayiduchu, mood set ah irukku","Finally my MBA admission got sorted out, I'm in a great mood",career,happy,"mba,happy",low,high
+team restructuring journey la yaarum kooda illa nu feel panren,I feel like no one is with me in this team restructuring journey,career,lonely,"team,lonely",medium,high
+"final offer letter confirm aaguma nu therila, romba restless ah irukken","I don't know if my final offer letter will be confirmed, I'm feeling really restless",career,anxious,"final,anxious",medium,high
+"higher studies plan results ku wait pandren, semma thrill ah irukku","I'm waiting for my higher studies plan results, feeling a real thrill",career,excited,"higher,excited",low,high
+"skill certification pathi ipo tension illa, mind calm ah irukku","I don't feel tense about my skill certification anymore, my mind feels calm",career,calm,"skill,calm",low,high
+layoff round ku team ah let down pannitten nu guilt irukku,I feel guilty that I let my team down regarding my layoff round,career,guilty,"layoff,guilty",medium,high
+"client feedback konjam kashtama irundhalum, future bright ah irukum nu feel panren","Even though my client feedback is a bit tough, I feel the future will be bright",career,hopeful,"client,hopeful",low,high
+networking event pathi ratha ovvoru naalum tension ah irukku,I feel tense about my networking event every single day,career,anxious,"networking,anxious",medium,high
+"business loan balance panna mudiyama, mental ah exhaust ah irukken","I'm unable to balance my business loan, I'm mentally exhausted",career,stressed,"business,stressed",high,high
+"visa interview pathi nalla news kidaichu, romba santhosham","I got good news about my visa interview, I'm really happy",career,happy,"visa,happy",low,high
+coding test pathi negative outcome varumo nu fear ah irukku,I'm scared that my coding test might have a negative outcome,career,fear,"coding,fear",medium,high
+performance review result eppo varum nu wait panni panni anxiety adhigama aayiduchu,Waiting for my performance review result has made me really anxious,career,anxious,"performance,anxious",medium,high
+MBA admission result eppo varum nu wait panni panni anxiety adhigama aayiduchu,Waiting for my MBA admission result has made me really anxious,career,anxious,"mba,anxious",medium,high
+target pressure journey la yaarum kooda illa nu feel panren,I feel like no one is with me in this target pressure journey,career,lonely,"target,lonely",medium,high
+coding test pathi decision edukka mudiyama irukken innum,I still can't make a decision about my coding test,career,confused,"coding,confused",medium,high
+"interview feedback pathi over thinking pannitu irukken, sleep kooda varala","I've been overthinking about my interview feedback, I can't even sleep",career,anxious,"interview,anxious",medium,high
+"sales target workload adhigama irukku, over stress ah aayiduchu","The workload for my sales target is too much, I'm extremely stressed",career,stressed,"sales,stressed",high,high
+skill certification pathi vera vazhi irundhum sariya decision edukkala nu feel panren,"I feel like I didn't make the right decision about my skill certification, even though there were other options",career,guilty,"skill,guilty",medium,high
+job offer pathi ipozhum yosichaale angry ah aaguthu,"Even now, thinking about my job offer makes me angry",career,angry,"job,angry",medium,high
+referral process nalla ah prepare pannama vittutten nu guilt ah irukku,I feel guilty that I didn't prepare well for my referral process,career,guilty,"referral,guilty",medium,high
+job fair time la mistake pannitten nu ippozhum kashtama irukku,I still feel bad that I made a mistake during my job fair,career,guilty,"job,guilty",medium,high
+"cold email for job vishayathula unfair ah treat pannanga nu feel panren, romba frustration","I feel like I was treated unfairly regarding my cold email for job, it's really frustrating",career,angry,"cold,angry",medium,high
+work from home policy expect panna madhiri nalla ah mudinjadhu,"My work from home policy turned out exactly as I expected, really nice",career,happy,"work,happy",low,high
+layoff round result eppo varum nu wait panni panni anxiety adhigama aayiduchu,Waiting for my layoff round result has made me really anxious,career,anxious,"layoff,anxious",medium,high
+"remote job workload adhigama irukku, over stress ah aayiduchu","The workload for my remote job is too much, I'm extremely stressed",career,stressed,"remote,stressed",high,high
+co-founder issue interview ku munnadi kai kaal nadunguthu,My hands and legs are shaking before my co-founder issue,career,fear,"co-founder,fear",medium,high
+networking event pathi nyabagam vandha automatic ah excitement varudhu,Just thinking about my networking event gets me excited,career,excited,"networking,excited",low,high
+night shift schedule pathi negative outcome varumo nu fear ah irukku,I'm scared that my night shift schedule might have a negative outcome,career,fear,"night,fear",medium,high
+"cold email for job results eppadi vandhalum, naan calm ah dhaan irukken","Whatever the results of my cold email for job are, I'm staying calm",career,calm,"cold,calm",low,high
+"walk-in interview start aaga innum konjam naal dhaan irukku, romba excited ah irukken","There's only a few days left for my walk-in interview to start, I'm really excited",career,excited,"walk-in,excited",low,high
+business loss success ah mudinjadhu nu kelvi pattu happy ah irukken,"I heard my business loss was successful, I'm happy about it",career,happy,"business,happy",low,high
+salary negotiation nalla ah prepare pannama vittutten nu guilt ah irukku,I feel guilty that I didn't prepare well for my salary negotiation,career,guilty,"salary,guilty",medium,high
+"resume update confirm aaguma nu therila, romba restless ah irukken","I don't know if my resume update will be confirmed, I'm feeling really restless",career,anxious,"resume,anxious",medium,high
+promotion round results pathi nenachaale bayama irukku,Just thinking about my promotion round results scares me,career,fear,"promotion,fear",medium,high
+"project deadline pathi friends ellarum different advice kudukranga, confuse ah irukku","All my friends are giving different advice about my project deadline, I'm confused",career,confused,"project,confused",medium,high
+"relocation offer pathi ipo tension illa, mind calm ah irukku","I don't feel tense about my relocation offer anymore, my mind feels calm",career,calm,"relocation,calm",low,high
+resume update mudinja pinnadi vazhkai better ah maarum nu nambaren,I believe life will get better once my resume update is done,career,hopeful,"resume,hopeful",low,high
+startup idea confirm aayiduchu nu therinja moment romba excited ah aayiduchen,"The moment I found out my startup idea was confirmed, I got really excited",career,excited,"startup,excited",low,high
+contract renewal eppadi handle pannanum nu confusion ah irukku,I'm confused about how to handle my contract renewal,career,confused,"contract,confused",medium,high
+"investor pitch pathi management sariya handle pannala, romba angry ah irukku","The management didn't handle my investor pitch properly, I'm really angry",career,angry,"investor,angry",medium,high
+"pay cut pathi nalla news kidaichu, romba santhosham","I got good news about my pay cut, I'm really happy",career,happy,"pay,happy",low,high
+visa interview pathi negative outcome varumo nu fear ah irukku,I'm scared that my visa interview might have a negative outcome,career,fear,"visa,fear",medium,high
+"Finally freelance project sort aayiduchu, mood set ah irukku","Finally my freelance project got sorted out, I'm in a great mood",career,happy,"freelance,happy",low,high
+"training program start aaga innum konjam naal dhaan irukku, romba excited ah irukken","There's only a few days left for my training program to start, I'm really excited",career,excited,"training,excited",low,high
+scholarship application pathi nyabagam vandha automatic ah excitement varudhu,Just thinking about my scholarship application gets me excited,career,excited,"scholarship,excited",low,high
+quarterly review eppadi handle pannanum nu confusion ah irukku,I'm confused about how to handle my quarterly review,career,confused,"quarterly,confused",medium,high
+probation period mudinja pinnadi vazhkai better ah maarum nu nambaren,I believe life will get better once my probation period is done,career,hopeful,"probation,hopeful",low,high
+"performance review balance panna mudiyama, mental ah exhaust ah irukken","I'm unable to balance my performance review, I'm mentally exhausted",career,stressed,"performance,stressed",high,high
+startup idea results pathi nenachaale bayama irukku,Just thinking about my startup idea results scares me,career,fear,"startup,fear",medium,high
+probation period interview ku munnadi kai kaal nadunguthu,My hands and legs are shaking before my probation period,career,fear,"probation,fear",medium,high
+"promotion round vishayathula unfair ah treat pannanga nu feel panren, romba frustration","I feel like I was treated unfairly regarding my promotion round, it's really frustrating",career,angry,"promotion,angry",medium,high
+background verification pathi nenachaale udane stress varudhu,Just thinking about my background verification instantly stresses me out,career,stressed,"background,stressed",high,high
+sales target ku team ah let down pannitten nu guilt irukku,I feel guilty that I let my team down regarding my sales target,career,guilty,"sales,guilty",medium,high
+"business loss vishayathula unfair ah treat pannanga nu feel panren, romba frustration","I feel like I was treated unfairly regarding my business loss, it's really frustrating",career,angry,"business,angry",medium,high
+"side hustle nalla poayiduchu, semma happy ah irukku","My side hustle went really well, I'm so happy",career,happy,"side,happy",low,high
+visa interview pathi ipozhum yosichaale angry ah aaguthu,"Even now, thinking about my visa interview makes me angry",career,angry,"visa,angry",medium,high
+"funding round pathi ipo semma confident ah feel panren, happy ah irukku","I feel really confident about my funding round now, it makes me happy",career,happy,"funding,happy",low,high
+"walk-in interview pathi ella effort um podren, nalladhu nadakum nu nambikkai irukku","I'm putting in all the effort for my walk-in interview, I believe good things will happen",career,hopeful,"walk-in,hopeful",low,high
+"business plan workload adhigama irukku, over stress ah aayiduchu","The workload for my business plan is too much, I'm extremely stressed",career,stressed,"business,stressed",high,high
+resignation letter continue pannanuma illa mathanuma nu therila,I don't know whether to continue or change my resignation letter,career,confused,"resignation,confused",medium,high
+"co-founder issue pathi yosichu yosichu ipo oru clarity vandhuchu, mind settle aayiduchu","After thinking a lot about my co-founder issue, I finally got clarity and my mind settled",career,calm,"co-founder,calm",low,high
+"visa interview results ku wait pandren, semma thrill ah irukku","I'm waiting for my visa interview results, feeling a real thrill",career,excited,"visa,excited",low,high
+"training program pathi management sariya handle pannala, romba angry ah irukku","The management didn't handle my training program properly, I'm really angry",career,angry,"training,angry",medium,high
+"job fair workload adhigama irukku, over stress ah aayiduchu","The workload for my job fair is too much, I'm extremely stressed",career,stressed,"job,stressed",high,high
+github profile nalla mudiyala nu ninachu romba down ah irukken,I'm feeling really down thinking that my github profile didn't go well,career,sad,"github,sad",medium,high
+job interview result eppo varum nu wait panni panni anxiety adhigama aayiduchu,Waiting for my job interview result has made me really anxious,career,anxious,"job,anxious",medium,high
+relocation offer pathi share panna oruthar kooda illa,I don't have anyone to share my relocation offer worries with,career,lonely,"relocation,lonely",medium,high
+"night shift schedule pathi ella effort um podren, nalladhu nadakum nu nambikkai irukku","I'm putting in all the effort for my night shift schedule, I believe good things will happen",career,hopeful,"night,hopeful",low,high
+"job offer start aaga innum konjam naal dhaan irukku, romba excited ah irukken","There's only a few days left for my job offer to start, I'm really excited",career,excited,"job,excited",low,high
+background verification pathi vera vazhi irundhum sariya decision edukkala nu feel panren,"I feel like I didn't make the right decision about my background verification, even though there were other options",career,guilty,"background,guilty",medium,high
+joining date pathi share panna oruthar kooda illa,I don't have anyone to share my joining date worries with,career,lonely,"joining,lonely",medium,high
+pay cut pathi decision edukka mudiyama irukken innum,I still can't make a decision about my pay cut,career,confused,"pay,confused",medium,high
+"product launch start aaga innum konjam naal dhaan irukku, romba excited ah irukken","There's only a few days left for my product launch to start, I'm really excited",career,excited,"product,excited",low,high
+"higher studies plan vishayathula unfair ah treat pannanga nu feel panren, romba frustration","I feel like I was treated unfairly regarding my higher studies plan, it's really frustrating",career,angry,"higher,angry",medium,high
+"target pressure nalla plan pannitten, adhanala mind peace ah irukku","I planned my target pressure well, so my mind feels at peace",career,calm,"target,calm",low,high
+"quarterly review pathi management sariya handle pannala, romba angry ah irukku","The management didn't handle my quarterly review properly, I'm really angry",career,angry,"quarterly,angry",medium,high
+cover letter success ah mudinjadhu nu kelvi pattu happy ah irukken,"I heard my cover letter was successful, I'm happy about it",career,happy,"cover,happy",low,high
+overtime work pathi nyabagam vandha automatic ah excitement varudhu,Just thinking about my overtime work gets me excited,career,excited,"overtime,excited",low,high
+"interview feedback pathi plan panna aarambichitten, romba pumped up ah irukken","I've started planning for my interview feedback, I'm really pumped up",career,excited,"interview,excited",low,high
+probation period pathi ratha ovvoru naalum tension ah irukku,I feel tense about my probation period every single day,career,anxious,"probation,anxious",medium,high
+"salary hike pathi negative aana vishayam kekkalam, aana naan hopeful ah dhaan irukken","I might hear negative things about my salary hike, but I'm staying hopeful",career,hopeful,"salary,hopeful",low,high
+"incentive structure results eppadi vandhalum, naan calm ah dhaan irukken","Whatever the results of my incentive structure are, I'm staying calm",career,calm,"incentive,calm",low,high
+business loan nalla mudiyala nu ninachu romba down ah irukken,I'm feeling really down thinking that my business loan didn't go well,career,sad,"business,sad",medium,high
+appraisal cycle pathi nenachaale udane stress varudhu,Just thinking about my appraisal cycle instantly stresses me out,career,stressed,"appraisal,stressed",high,high
+"pay cut vishayathula unfair ah treat pannanga nu feel panren, romba frustration","I feel like I was treated unfairly regarding my pay cut, it's really frustrating",career,angry,"pay,angry",medium,high
+pay cut ku team ah let down pannitten nu guilt irukku,I feel guilty that I let my team down regarding my pay cut,career,guilty,"pay,guilty",medium,high
+"networking event pathi management sariya handle pannala, romba angry ah irukku","The management didn't handle my networking event properly, I'm really angry",career,angry,"networking,angry",medium,high
+"cover letter pathi negative aana vishayam kekkalam, aana naan hopeful ah dhaan irukken","I might hear negative things about my cover letter, but I'm staying hopeful",career,hopeful,"cover,hopeful",low,high
+"team restructuring pathi ella effort um podren, nalladhu nadakum nu nambikkai irukku","I'm putting in all the effort for my team restructuring, I believe good things will happen",career,hopeful,"team,hopeful",low,high
+"resignation letter pathi ipo semma confident ah feel panren, happy ah irukku","I feel really confident about my resignation letter now, it makes me happy",career,happy,"resignation,happy",low,high
+office relocation expect panna madhiri nalla ah mudinjadhu,"My office relocation turned out exactly as I expected, really nice",career,happy,"office,happy",low,high
+"interview feedback results eppadi vandhalum, naan calm ah dhaan irukken","Whatever the results of my interview feedback are, I'm staying calm",career,calm,"interview,calm",low,high
+"scholarship application pathi rendu option irukku, edhu correct nu therila","I have two options for my scholarship application, not sure which one is right",career,confused,"scholarship,confused",medium,high
+work from home policy continue pannanuma illa mathanuma nu therila,I don't know whether to continue or change my work from home policy,career,confused,"work,confused",medium,high
+portfolio review ku team ah let down pannitten nu guilt irukku,I feel guilty that I let my team down regarding my portfolio review,career,guilty,"portfolio,guilty",medium,high
+skill certification pressure ah face panra time la romba thanimai ah irukku,I feel really alone while facing the pressure of my skill certification,career,lonely,"skill,lonely",medium,high
+"client meeting pathi ipo tension illa, mind calm ah irukku","I don't feel tense about my client meeting anymore, my mind feels calm",career,calm,"client,calm",low,high
+night shift schedule mudinja pinnadi vazhkai better ah maarum nu nambaren,I believe life will get better once my night shift schedule is done,career,hopeful,"night,hopeful",low,high
+"LinkedIn profile pathi yosichu yosichu ipo oru clarity vandhuchu, mind settle aayiduchu","After thinking a lot about my LinkedIn profile, I finally got clarity and my mind settled",career,calm,"linkedin,calm",low,high
+HR interview pathi decision edukka mudiyama irukken innum,I still can't make a decision about my HR interview,career,confused,"hr,confused",medium,high
+campus placement decision edukkara naala nalla varum nu wait pandren,I'm waiting hopefully for the day my campus placement decision comes,career,hopeful,"campus,hopeful",low,high
+"product launch results ku wait pandren, semma thrill ah irukku","I'm waiting for my product launch results, feeling a real thrill",career,excited,"product,excited",low,high
+final offer letter promise pannitu keep pannala nu romba kobam ah irukku,"They promised something about my final offer letter and didn't keep it, I'm really angry",career,angry,"final,angry",medium,high
+visa interview decision edukra naala nenachaale nervous ah irukku,I feel nervous just thinking about the day I decide on my visa interview,career,fear,"visa,fear",medium,high
+skill certification pathi ninachaale sad ah irukku,Thinking about my skill certification makes me feel sad,career,sad,"skill,sad",medium,high
+"HR interview pathi over thinking pannitu irukken, sleep kooda varala","I've been overthinking about my HR interview, I can't even sleep",career,anxious,"hr,anxious",medium,high
+"skill certification vishayathula unfair ah treat pannanga nu feel panren, romba frustration","I feel like I was treated unfairly regarding my skill certification, it's really frustrating",career,angry,"skill,angry",medium,high
+"contract renewal pathi ipo tension illa, mind calm ah irukku","I don't feel tense about my contract renewal anymore, my mind feels calm",career,calm,"contract,calm",low,high
+"cold email for job pathi ipo semma confident ah feel panren, happy ah irukku","I feel really confident about my cold email for job now, it makes me happy",career,happy,"cold,happy",low,high
+appraisal cycle nalla mudiyala nu ninachu romba down ah irukken,I'm feeling really down thinking that my appraisal cycle didn't go well,career,sad,"appraisal,sad",medium,high
+visa interview pathi nyabagam vandha automatic ah excitement varudhu,Just thinking about my visa interview gets me excited,career,excited,"visa,excited",low,high
+"coding test pathi plan panna aarambichitten, romba pumped up ah irukken","I've started planning for my coding test, I'm really pumped up",career,excited,"coding,excited",low,high
+scholarship application fail aayiduma nu romba bayama irukku,I'm really scared that my scholarship application might fail,career,fear,"scholarship,fear",medium,high
+referral process decision edukra naala nenachaale nervous ah irukku,I feel nervous just thinking about the day I decide on my referral process,career,fear,"referral,fear",medium,high
+probation period eppadi handle pannanum nu confusion ah irukku,I'm confused about how to handle my probation period,career,confused,"probation,confused",medium,high
+"resignation letter start aaga innum konjam naal dhaan irukku, romba excited ah irukken","There's only a few days left for my resignation letter to start, I'm really excited",career,excited,"resignation,excited",low,high
+job interview pathi ninachaale sad ah irukku,Thinking about my job interview makes me feel sad,career,sad,"job,sad",medium,high
+"night shift schedule pathi rendu option irukku, edhu correct nu therila","I have two options for my night shift schedule, not sure which one is right",career,confused,"night,confused",medium,high
+entrepreneurship idea continue pannanuma illa mathanuma nu therila,I don't know whether to continue or change my entrepreneurship idea,career,confused,"entrepreneurship,confused",medium,high
+"LinkedIn profile konjam kashtama irundhalum, future bright ah irukum nu feel panren","Even though my LinkedIn profile is a bit tough, I feel the future will be bright",career,hopeful,"linkedin,hopeful",low,high
+"github profile pathi decide panna help panna yaarum illa, lonely ah irukku","There's no one to help me decide about my github profile, I feel lonely",career,lonely,"github,lonely",medium,high
+"appraisal cycle workload adhigama irukku, over stress ah aayiduchu","The workload for my appraisal cycle is too much, I'm extremely stressed",career,stressed,"appraisal,stressed",high,high
+business loan expect panna madhiri nalla ah mudinjadhu,"My business loan turned out exactly as I expected, really nice",career,happy,"business,happy",low,high
+"campus placement pathi ipo semma confident ah feel panren, happy ah irukku","I feel really confident about my campus placement now, it makes me happy",career,happy,"campus,happy",low,high
+visa interview promise pannitu keep pannala nu romba kobam ah irukku,"They promised something about my visa interview and didn't keep it, I'm really angry",career,angry,"visa,angry",medium,high
+"skill certification nalla poayiduchu, semma happy ah irukku","My skill certification went really well, I'm so happy",career,happy,"skill,happy",low,high
+office politics continue pannanuma illa mathanuma nu therila,I don't know whether to continue or change my office politics,career,confused,"office,confused",medium,high
+freelance project pathi nenachaale udane stress varudhu,Just thinking about my freelance project instantly stresses me out,career,stressed,"freelance,stressed",high,high
+"aptitude test workload adhigama irukku, over stress ah aayiduchu","The workload for my aptitude test is too much, I'm extremely stressed",career,stressed,"aptitude,stressed",high,high
+"freelance project results eppadi vandhalum, naan calm ah dhaan irukken","Whatever the results of my freelance project are, I'm staying calm",career,calm,"freelance,calm",low,high
+"office relocation pathi rendu option irukku, edhu correct nu therila","I have two options for my office relocation, not sure which one is right",career,confused,"office,confused",medium,high
+"skill certification pathi over thinking pannitu irukken, sleep kooda varala","I've been overthinking about my skill certification, I can't even sleep",career,anxious,"skill,anxious",medium,high
+github profile journey la yaarum kooda illa nu feel panren,I feel like no one is with me in this github profile journey,career,lonely,"github,lonely",medium,high
+"job interview konjam kashtama irundhalum, future bright ah irukum nu feel panren","Even though my job interview is a bit tough, I feel the future will be bright",career,hopeful,"job,hopeful",low,high
+appraisal cycle confirm aayiduchu nu therinja moment romba excited ah aayiduchen,"The moment I found out my appraisal cycle was confirmed, I got really excited",career,excited,"appraisal,excited",low,high
+"work life balance pathi rendu option irukku, edhu correct nu therila","I have two options for my work life balance, not sure which one is right",career,confused,"work,confused",medium,high
+business plan results pathi nenachaale bayama irukku,Just thinking about my business plan results scares me,career,fear,"business,fear",medium,high
+job fair results pathi nenachaale bayama irukku,Just thinking about my job fair results scares me,career,fear,"job,fear",medium,high
+"career switch pathi ipo semma confident ah feel panren, happy ah irukku","I feel really confident about my career switch now, it makes me happy",career,happy,"career,happy",low,high
+office politics mudinja pinnadi vazhkai better ah maarum nu nambaren,I believe life will get better once my office politics is done,career,hopeful,"office,hopeful",low,high
+joining date mudinja pinnadi vazhkai better ah maarum nu nambaren,I believe life will get better once my joining date is done,career,hopeful,"joining,hopeful",low,high
+"exit interview nalla poayiduchu, semma happy ah irukku","My exit interview went really well, I'm so happy",career,happy,"exit,happy",low,high
+cover letter interview ku munnadi kai kaal nadunguthu,My hands and legs are shaking before my cover letter,career,fear,"cover,fear",medium,high
+referral process nalla mudiyala nu ninachu romba down ah irukken,I'm feeling really down thinking that my referral process didn't go well,career,sad,"referral,sad",medium,high
+relocation offer reject aayiduchu nu therinjadhum mind heavy ah aayiduchu,"The moment I found out my relocation offer got rejected, my mind felt heavy",career,sad,"relocation,sad",medium,high
+salary negotiation pathi ratha ovvoru naalum tension ah irukku,I feel tense about my salary negotiation every single day,career,anxious,"salary,anxious",medium,high
+entrepreneurship idea pathi vera vazhi irundhum sariya decision edukkala nu feel panren,"I feel like I didn't make the right decision about my entrepreneurship idea, even though there were other options",career,guilty,"entrepreneurship,guilty",medium,high
+business plan pathi ipozhum yosichaale angry ah aaguthu,"Even now, thinking about my business plan makes me angry",career,angry,"business,angry",medium,high
+walk-in interview ku team ah let down pannitten nu guilt irukku,I feel guilty that I let my team down regarding my walk-in interview,career,guilty,"walk-in,guilty",medium,high
+team restructuring eppadi handle pannanum nu confusion ah irukku,I'm confused about how to handle my team restructuring,career,confused,"team,confused",medium,high
+job interview interview ku munnadi kai kaal nadunguthu,My hands and legs are shaking before my job interview,career,fear,"job,fear",medium,high
+networking event pathi share panna oruthar kooda illa,I don't have anyone to share my networking event worries with,career,lonely,"networking,lonely",medium,high
+coding test continue pannanuma illa mathanuma nu therila,I don't know whether to continue or change my coding test,career,confused,"coding,confused",medium,high
+"promotion round expect panna madhiri nadakala, romba vaguthadhu","My promotion round didn't turn out as I expected, it really disappointed me",career,sad,"promotion,sad",medium,high
+"resume update workload adhigama irukku, over stress ah aayiduchu","The workload for my resume update is too much, I'm extremely stressed",career,stressed,"resume,stressed",high,high
+"referral process pathi rendu option irukku, edhu correct nu therila","I have two options for my referral process, not sure which one is right",career,confused,"referral,confused",medium,high
+"job offer nalla poayiduchu, semma happy ah irukku","My job offer went really well, I'm so happy",career,happy,"job,happy",low,high
+exit interview ku team ah let down pannitten nu guilt irukku,I feel guilty that I let my team down regarding my exit interview,career,guilty,"exit,guilty",medium,high
+part time job promise pannitu keep pannala nu romba kobam ah irukku,"They promised something about my part time job and didn't keep it, I'm really angry",career,angry,"part,angry",medium,high
+"networking event pathi plan panna aarambichitten, romba pumped up ah irukken","I've started planning for my networking event, I'm really pumped up",career,excited,"networking,excited",low,high
+notice period nalla mudiyala nu ninachu romba down ah irukken,I'm feeling really down thinking that my notice period didn't go well,career,sad,"notice,sad",medium,high
+performance review nalla ah prepare pannama vittutten nu guilt ah irukku,I feel guilty that I didn't prepare well for my performance review,career,guilty,"performance,guilty",medium,high
+networking event results pathi nenachaale bayama irukku,Just thinking about my networking event results scares me,career,fear,"networking,fear",medium,high
+co-founder issue pathi decision edukka mudiyama irukken innum,I still can't make a decision about my co-founder issue,career,confused,"co-founder,confused",medium,high
+technical round decision edukkara naala nalla varum nu wait pandren,I'm waiting hopefully for the day my technical round decision comes,career,hopeful,"technical,hopeful",low,high
+sales target pathi ratha ovvoru naalum tension ah irukku,I feel tense about my sales target every single day,career,anxious,"sales,anxious",medium,high
+resignation letter nalla ah prepare pannama vittutten nu guilt ah irukku,I feel guilty that I didn't prepare well for my resignation letter,career,guilty,"resignation,guilty",medium,high
+"mentorship program deadline nearagudhu, romba stress ah irukku","My mentorship program deadline is approaching, I'm really stressed",career,stressed,"mentorship,stressed",high,high
+campus placement ku team ah let down pannitten nu guilt irukku,I feel guilty that I let my team down regarding my campus placement,career,guilty,"campus,guilty",medium,high
+job offer nalla ah prepare pannama vittutten nu guilt ah irukku,I feel guilty that I didn't prepare well for my job offer,career,guilty,"job,guilty",medium,high
+joining date interview ku munnadi kai kaal nadunguthu,My hands and legs are shaking before my joining date,career,fear,"joining,fear",medium,high
+"exit interview pathi over thinking pannitu irukken, sleep kooda varala","I've been overthinking about my exit interview, I can't even sleep",career,anxious,"exit,anxious",medium,high
+coding test pathi nyabagam vandha automatic ah excitement varudhu,Just thinking about my coding test gets me excited,career,excited,"coding,excited",low,high
+"LinkedIn profile pathi decide panna help panna yaarum illa, lonely ah irukku","There's no one to help me decide about my LinkedIn profile, I feel lonely",career,lonely,"linkedin,lonely",medium,high
+sales target nalla mudiyala nu ninachu romba down ah irukken,I'm feeling really down thinking that my sales target didn't go well,career,sad,"sales,sad",medium,high
+pay cut pathi vera vazhi irundhum sariya decision edukkala nu feel panren,"I feel like I didn't make the right decision about my pay cut, even though there were other options",career,guilty,"pay,guilty",medium,high
+"office relocation pathi ella effort um podren, nalladhu nadakum nu nambikkai irukku","I'm putting in all the effort for my office relocation, I believe good things will happen",career,hopeful,"office,hopeful",low,high
+LinkedIn profile pathi nyabagam vandha automatic ah excitement varudhu,Just thinking about my LinkedIn profile gets me excited,career,excited,"linkedin,excited",low,high
+training program confirm aayiduchu nu therinja moment romba excited ah aayiduchen,"The moment I found out my training program was confirmed, I got really excited",career,excited,"training,excited",low,high
+toxic boss issue pathi negative outcome varumo nu fear ah irukku,I'm scared that my toxic boss issue might have a negative outcome,career,fear,"toxic,fear",medium,high
+"cold email for job confirm aaguma nu therila, romba restless ah irukken","I don't know if my cold email for job will be confirmed, I'm feeling really restless",career,anxious,"cold,anxious",medium,high
+"salary hike expect panna madhiri nadakala, romba vaguthadhu","My salary hike didn't turn out as I expected, it really disappointed me",career,sad,"salary,sad",medium,high
+"training program konjam kashtama irundhalum, future bright ah irukum nu feel panren","Even though my training program is a bit tough, I feel the future will be bright",career,hopeful,"training,hopeful",low,high
+freelance project mudinja pinnadi vazhkai better ah maarum nu nambaren,I believe life will get better once my freelance project is done,career,hopeful,"freelance,hopeful",low,high
+"salary hike confirm aaguma nu therila, romba restless ah irukken","I don't know if my salary hike will be confirmed, I'm feeling really restless",career,anxious,"salary,anxious",medium,high
+resume update promise pannitu keep pannala nu romba kobam ah irukku,"They promised something about my resume update and didn't keep it, I'm really angry",career,angry,"resume,angry",medium,high
+"bonus payout pathi ipo tension illa, mind calm ah irukku","I don't feel tense about my bonus payout anymore, my mind feels calm",career,calm,"bonus,calm",low,high
+final offer letter fail aayiduma nu romba bayama irukku,I'm really scared that my final offer letter might fail,career,fear,"final,fear",medium,high
+"entrepreneurship idea pathi negative aana vishayam kekkalam, aana naan hopeful ah dhaan irukken","I might hear negative things about my entrepreneurship idea, but I'm staying hopeful",career,hopeful,"entrepreneurship,hopeful",low,high
+client meeting pathi ratha ovvoru naalum tension ah irukku,I feel tense about my client meeting every single day,career,anxious,"client,anxious",medium,high
+resignation letter ku team ah let down pannitten nu guilt irukku,I feel guilty that I let my team down regarding my resignation letter,career,guilty,"resignation,guilty",medium,high
+github profile pathi ninachaale sad ah irukku,Thinking about my github profile makes me feel sad,career,sad,"github,sad",medium,high
+"bonus payout pathi rendu option irukku, edhu correct nu therila","I have two options for my bonus payout, not sure which one is right",career,confused,"bonus,confused",medium,high
+"resignation letter results eppadi vandhalum, naan calm ah dhaan irukken","Whatever the results of my resignation letter are, I'm staying calm",career,calm,"resignation,calm",low,high
+"cold email for job pathi nalla news kidaichu, romba santhosham","I got good news about my cold email for job, I'm really happy",career,happy,"cold,happy",low,high
+scholarship application pathi ratha ovvoru naalum tension ah irukku,I feel tense about my scholarship application every single day,career,anxious,"scholarship,anxious",medium,high
+"work from home policy pathi over thinking pannitu irukken, sleep kooda varala","I've been overthinking about my work from home policy, I can't even sleep",career,anxious,"work,anxious",medium,high
+remote job interview ku munnadi kai kaal nadunguthu,My hands and legs are shaking before my remote job,career,fear,"remote,fear",medium,high
+contract renewal continue pannanuma illa mathanuma nu therila,I don't know whether to continue or change my contract renewal,career,confused,"contract,confused",medium,high
+"job interview results ku wait pandren, semma thrill ah irukku","I'm waiting for my job interview results, feeling a real thrill",career,excited,"job,excited",low,high
+"relocation offer deadline nearagudhu, romba stress ah irukku","My relocation offer deadline is approaching, I'm really stressed",career,stressed,"relocation,stressed",high,high
+"business loan pathi yosichu yosichu ipo oru clarity vandhuchu, mind settle aayiduchu","After thinking a lot about my business loan, I finally got clarity and my mind settled",career,calm,"business,calm",low,high
+incentive structure mudinja pinnadi vazhkai better ah maarum nu nambaren,I believe life will get better once my incentive structure is done,career,hopeful,"incentive,hopeful",low,high
+hybrid work policy pathi share panna oruthar kooda illa,I don't have anyone to share my hybrid work policy worries with,career,lonely,"hybrid,lonely",medium,high
+hybrid work policy pathi nenachaale udane stress varudhu,Just thinking about my hybrid work policy instantly stresses me out,career,stressed,"hybrid,stressed",high,high
+"work life balance expect panna madhiri nadakala, romba vaguthadhu","My work life balance didn't turn out as I expected, it really disappointed me",career,sad,"work,sad",medium,high
+work life balance results pathi nenachaale bayama irukku,Just thinking about my work life balance results scares me,career,fear,"work,fear",medium,high
+"business plan pathi nalla news kidaichu, romba santhosham","I got good news about my business plan, I'm really happy",career,happy,"business,happy",low,high
+"office relocation expect panna madhiri nadakala, romba vaguthadhu","My office relocation didn't turn out as I expected, it really disappointed me",career,sad,"office,sad",medium,high
+investor pitch nalla ah prepare pannama vittutten nu guilt ah irukku,I feel guilty that I didn't prepare well for my investor pitch,career,guilty,"investor,guilty",medium,high
+incentive structure pathi vera vazhi irundhum sariya decision edukkala nu feel panren,"I feel like I didn't make the right decision about my incentive structure, even though there were other options",career,guilty,"incentive,guilty",medium,high
+"higher studies plan pathi over thinking pannitu irukken, sleep kooda varala","I've been overthinking about my higher studies plan, I can't even sleep",career,anxious,"higher,anxious",medium,high
+career switch pathi nyabagam vandha automatic ah excitement varudhu,Just thinking about my career switch gets me excited,career,excited,"career,excited",low,high
+"night shift schedule deadline nearagudhu, romba stress ah irukku","My night shift schedule deadline is approaching, I'm really stressed",career,stressed,"night,stressed",high,high
+skill gap pathi negative outcome varumo nu fear ah irukku,I'm scared that my skill gap might have a negative outcome,career,fear,"skill,fear",medium,high
+night shift schedule pathi nenachaale udane stress varudhu,Just thinking about my night shift schedule instantly stresses me out,career,stressed,"night,stressed",high,high
+"remote job balance panna mudiyama, mental ah exhaust ah irukken","I'm unable to balance my remote job, I'm mentally exhausted",career,stressed,"remote,stressed",high,high
+"business loss pathi ipo semma confident ah feel panren, happy ah irukku","I feel really confident about my business loss now, it makes me happy",career,happy,"business,happy",low,high
+"cover letter pathi decide panna help panna yaarum illa, lonely ah irukku","There's no one to help me decide about my cover letter, I feel lonely",career,lonely,"cover,lonely",medium,high
+"skill gap balance panna mudiyama, mental ah exhaust ah irukken","I'm unable to balance my skill gap, I'm mentally exhausted",career,stressed,"skill,stressed",high,high
+overtime work journey la yaarum kooda illa nu feel panren,I feel like no one is with me in this overtime work journey,career,lonely,"overtime,lonely",medium,high
+quarterly review pathi nenachaale udane stress varudhu,Just thinking about my quarterly review instantly stresses me out,career,stressed,"quarterly,stressed",high,high
+"cover letter workload adhigama irukku, over stress ah aayiduchu","The workload for my cover letter is too much, I'm extremely stressed",career,stressed,"cover,stressed",high,high
+relocation offer fail aayiduma nu romba bayama irukku,I'm really scared that my relocation offer might fail,career,fear,"relocation,fear",medium,high
+promotion round pathi ninachaale sad ah irukku,Thinking about my promotion round makes me feel sad,career,sad,"promotion,sad",medium,high
+group discussion round result eppo varum nu wait panni panni anxiety adhigama aayiduchu,Waiting for my group discussion round result has made me really anxious,career,anxious,"group,anxious",medium,high
+"overtime work deadline nearagudhu, romba stress ah irukku","My overtime work deadline is approaching, I'm really stressed",career,stressed,"overtime,stressed",high,high
+interview feedback pathi ratha ovvoru naalum tension ah irukku,I feel tense about my interview feedback every single day,career,anxious,"interview,anxious",medium,high
+pay cut pathi nyabagam vandha automatic ah excitement varudhu,Just thinking about my pay cut gets me excited,career,excited,"pay,excited",low,high
+appraisal cycle expect panna madhiri nalla ah mudinjadhu,"My appraisal cycle turned out exactly as I expected, really nice",career,happy,"appraisal,happy",low,high
+interview feedback promise pannitu keep pannala nu romba kobam ah irukku,"They promised something about my interview feedback and didn't keep it, I'm really angry",career,angry,"interview,angry",medium,high
+"job fair confirm aaguma nu therila, romba restless ah irukken","I don't know if my job fair will be confirmed, I'm feeling really restless",career,anxious,"job,anxious",medium,high
+"appraisal cycle results eppadi vandhalum, naan calm ah dhaan irukken","Whatever the results of my appraisal cycle are, I'm staying calm",career,calm,"appraisal,calm",low,high
+product launch decision edukra naala nenachaale nervous ah irukku,I feel nervous just thinking about the day I decide on my product launch,career,fear,"product,fear",medium,high
+target pressure eppadi handle pannanum nu confusion ah irukku,I'm confused about how to handle my target pressure,career,confused,"target,confused",medium,high
+"job interview nalla poayiduchu, semma happy ah irukku","My job interview went really well, I'm so happy",career,happy,"job,happy",low,high
+remote job expect panna madhiri nalla ah mudinjadhu,"My remote job turned out exactly as I expected, really nice",career,happy,"remote,happy",low,high
+"scholarship application workload adhigama irukku, over stress ah aayiduchu","The workload for my scholarship application is too much, I'm extremely stressed",career,stressed,"scholarship,stressed",high,high
+"appraisal cycle pathi ipo semma confident ah feel panren, happy ah irukku","I feel really confident about my appraisal cycle now, it makes me happy",career,happy,"appraisal,happy",low,high
+cover letter pathi ipozhum yosichaale angry ah aaguthu,"Even now, thinking about my cover letter makes me angry",career,angry,"cover,angry",medium,high
+night shift schedule pathi decision edukka mudiyama irukken innum,I still can't make a decision about my night shift schedule,career,confused,"night,confused",medium,high
+"target pressure start aaga innum konjam naal dhaan irukku, romba excited ah irukken","There's only a few days left for my target pressure to start, I'm really excited",career,excited,"target,excited",low,high
+job fair confirm aayiduchu nu therinja moment romba excited ah aayiduchen,"The moment I found out my job fair was confirmed, I got really excited",career,excited,"job,excited",low,high
+"business loan pathi nalla news kidaichu, romba santhosham","I got good news about my business loan, I'm really happy",career,happy,"business,happy",low,high
+skill gap time la mistake pannitten nu ippozhum kashtama irukku,I still feel bad that I made a mistake during my skill gap,career,guilty,"skill,guilty",medium,high
+job interview pressure ah face panra time la romba thanimai ah irukku,I feel really alone while facing the pressure of my job interview,career,lonely,"job,lonely",medium,high
+"background verification deadline nearagudhu, romba stress ah irukku","My background verification deadline is approaching, I'm really stressed",career,stressed,"background,stressed",high,high
+project deadline eppadi handle pannanum nu confusion ah irukku,I'm confused about how to handle my project deadline,career,confused,"project,confused",medium,high
+technical round pathi nyabagam vandha automatic ah excitement varudhu,Just thinking about my technical round gets me excited,career,excited,"technical,excited",low,high
+HR interview pathi negative outcome varumo nu fear ah irukku,I'm scared that my HR interview might have a negative outcome,career,fear,"hr,fear",medium,high
+skill gap interview ku munnadi kai kaal nadunguthu,My hands and legs are shaking before my skill gap,career,fear,"skill,fear",medium,high
+probation period pressure ah face panra time la romba thanimai ah irukku,I feel really alone while facing the pressure of my probation period,career,lonely,"probation,lonely",medium,high
+"contract renewal pathi management sariya handle pannala, romba angry ah irukku","The management didn't handle my contract renewal properly, I'm really angry",career,angry,"contract,angry",medium,high
+"networking event nalla poayiduchu, semma happy ah irukku","My networking event went really well, I'm so happy",career,happy,"networking,happy",low,high
+"performance appraisal pathi rendu option irukku, edhu correct nu therila","I have two options for my performance appraisal, not sure which one is right",career,confused,"performance,confused",medium,high
+"hybrid work policy pathi plan panna aarambichitten, romba pumped up ah irukken","I've started planning for my hybrid work policy, I'm really pumped up",career,excited,"hybrid,excited",low,high
+"client meeting confirm aaguma nu therila, romba restless ah irukken","I don't know if my client meeting will be confirmed, I'm feeling really restless",career,anxious,"client,anxious",medium,high
+"business loan results eppadi vandhalum, naan calm ah dhaan irukken","Whatever the results of my business loan are, I'm staying calm",career,calm,"business,calm",low,high
+performance review decision edukkara naala nalla varum nu wait pandren,I'm waiting hopefully for the day my performance review decision comes,career,hopeful,"performance,hopeful",low,high
+client meeting nalla mudiyala nu ninachu romba down ah irukken,I'm feeling really down thinking that my client meeting didn't go well,career,sad,"client,sad",medium,high
+"incentive structure nalla plan pannitten, adhanala mind peace ah irukku","I planned my incentive structure well, so my mind feels at peace",career,calm,"incentive,calm",low,high
+side hustle results pathi nenachaale bayama irukku,Just thinking about my side hustle results scares me,career,fear,"side,fear",medium,high
+"campus placement pathi friends ellarum different advice kudukranga, confuse ah irukku","All my friends are giving different advice about my campus placement, I'm confused",career,confused,"campus,confused",medium,high
+campus placement journey la yaarum kooda illa nu feel panren,I feel like no one is with me in this campus placement journey,career,lonely,"campus,lonely",medium,high
+"internship offer pathi management sariya handle pannala, romba angry ah irukku","The management didn't handle my internship offer properly, I'm really angry",career,angry,"internship,angry",medium,high
+"contract renewal pathi decide panna help panna yaarum illa, lonely ah irukku","There's no one to help me decide about my contract renewal, I feel lonely",career,lonely,"contract,lonely",medium,high
+part time job pathi nyabagam vandha automatic ah excitement varudhu,Just thinking about my part time job gets me excited,career,excited,"part,excited",low,high
+target pressure pathi vera vazhi irundhum sariya decision edukkala nu feel panren,"I feel like I didn't make the right decision about my target pressure, even though there were other options",career,guilty,"target,guilty",medium,high
+"github profile pathi management sariya handle pannala, romba angry ah irukku","The management didn't handle my github profile properly, I'm really angry",career,angry,"github,angry",medium,high
+"group discussion round results eppadi vandhalum, naan calm ah dhaan irukken","Whatever the results of my group discussion round are, I'm staying calm",career,calm,"group,calm",low,high
+"job interview pathi nalla news kidaichu, romba santhosham","I got good news about my job interview, I'm really happy",career,happy,"job,happy",low,high
+"Finally notice period sort aayiduchu, mood set ah irukku","Finally my notice period got sorted out, I'm in a great mood",career,happy,"notice,happy",low,high
+side hustle fail aayiduma nu romba bayama irukku,I'm really scared that my side hustle might fail,career,fear,"side,fear",medium,high
+"client feedback workload adhigama irukku, over stress ah aayiduchu","The workload for my client feedback is too much, I'm extremely stressed",career,stressed,"client,stressed",high,high
+hybrid work policy ku team ah let down pannitten nu guilt irukku,I feel guilty that I let my team down regarding my hybrid work policy,career,guilty,"hybrid,guilty",medium,high
+"internship offer balance panna mudiyama, mental ah exhaust ah irukken","I'm unable to balance my internship offer, I'm mentally exhausted",career,stressed,"internship,stressed",high,high
+"job fair konjam kashtama irundhalum, future bright ah irukum nu feel panren","Even though my job fair is a bit tough, I feel the future will be bright",career,hopeful,"job,hopeful",low,high
+night shift schedule pathi share panna oruthar kooda illa,I don't have anyone to share my night shift schedule worries with,career,lonely,"night,lonely",medium,high
+cover letter result eppo varum nu wait panni panni anxiety adhigama aayiduchu,Waiting for my cover letter result has made me really anxious,career,anxious,"cover,anxious",medium,high
+freelance project nalla ah prepare pannama vittutten nu guilt ah irukku,I feel guilty that I didn't prepare well for my freelance project,career,guilty,"freelance,guilty",medium,high
+"skill gap pathi yosichu yosichu ipo oru clarity vandhuchu, mind settle aayiduchu","After thinking a lot about my skill gap, I finally got clarity and my mind settled",career,calm,"skill,calm",low,high
+manager feedback interview ku munnadi kai kaal nadunguthu,My hands and legs are shaking before my manager feedback,career,fear,"manager,fear",medium,high
+skill gap reject aayiduchu nu therinjadhum mind heavy ah aayiduchu,"The moment I found out my skill gap got rejected, my mind felt heavy",career,sad,"skill,sad",medium,high
+"Finally career switch sort aayiduchu, mood set ah irukku","Finally my career switch got sorted out, I'm in a great mood",career,happy,"career,happy",low,high
+freelance project pathi nyabagam vandha automatic ah excitement varudhu,Just thinking about my freelance project gets me excited,career,excited,"freelance,excited",low,high
+"client feedback results ku wait pandren, semma thrill ah irukku","I'm waiting for my client feedback results, feeling a real thrill",career,excited,"client,excited",low,high
+office politics fail aayiduma nu romba bayama irukku,I'm really scared that my office politics might fail,career,fear,"office,fear",medium,high
+skill gap continue pannanuma illa mathanuma nu therila,I don't know whether to continue or change my skill gap,career,confused,"skill,confused",medium,high
+target pressure expect panna madhiri nalla ah mudinjadhu,"My target pressure turned out exactly as I expected, really nice",career,happy,"target,happy",low,high
+"funding round pathi rendu option irukku, edhu correct nu therila","I have two options for my funding round, not sure which one is right",career,confused,"funding,confused",medium,high
+"overtime work pathi management sariya handle pannala, romba angry ah irukku","The management didn't handle my overtime work properly, I'm really angry",career,angry,"overtime,angry",medium,high
+office relocation pathi ipozhum yosichaale angry ah aaguthu,"Even now, thinking about my office relocation makes me angry",career,angry,"office,angry",medium,high
+freelance project continue pannanuma illa mathanuma nu therila,I don't know whether to continue or change my freelance project,career,confused,"freelance,confused",medium,high
+background verification pathi ipozhum yosichaale angry ah aaguthu,"Even now, thinking about my background verification makes me angry",career,angry,"background,angry",medium,high
+"Finally HR interview sort aayiduchu, mood set ah irukku","Finally my HR interview got sorted out, I'm in a great mood",career,happy,"hr,happy",low,high
+"networking event pathi ella effort um podren, nalladhu nadakum nu nambikkai irukku","I'm putting in all the effort for my networking event, I believe good things will happen",career,hopeful,"networking,hopeful",low,high
+"quarterly review pathi friends ellarum different advice kudukranga, confuse ah irukku","All my friends are giving different advice about my quarterly review, I'm confused",career,confused,"quarterly,confused",medium,high
+"MBA admission pathi yosichu yosichu ipo oru clarity vandhuchu, mind settle aayiduchu","After thinking a lot about my MBA admission, I finally got clarity and my mind settled",career,calm,"mba,calm",low,high
+part time job pressure ah face panra time la romba thanimai ah irukku,I feel really alone while facing the pressure of my part time job,career,lonely,"part,lonely",medium,high
+salary hike interview ku munnadi kai kaal nadunguthu,My hands and legs are shaking before my salary hike,career,fear,"salary,fear",medium,high
+"probation period pathi ipo tension illa, mind calm ah irukku","I don't feel tense about my probation period anymore, my mind feels calm",career,calm,"probation,calm",low,high
+annual review expect panna madhiri nalla ah mudinjadhu,"My annual review turned out exactly as I expected, really nice",career,happy,"annual,happy",low,high
+resume update nalla mudiyala nu ninachu romba down ah irukken,I'm feeling really down thinking that my resume update didn't go well,career,sad,"resume,sad",medium,high
+performance appraisal mudinja pinnadi vazhkai better ah maarum nu nambaren,I believe life will get better once my performance appraisal is done,career,hopeful,"performance,hopeful",low,high
+"toxic boss issue pathi yosichu yosichu ipo oru clarity vandhuchu, mind settle aayiduchu","After thinking a lot about my toxic boss issue, I finally got clarity and my mind settled",career,calm,"toxic,calm",low,high
+job fair continue pannanuma illa mathanuma nu therila,I don't know whether to continue or change my job fair,career,confused,"job,confused",medium,high
+funding round reject aayiduchu nu therinjadhum mind heavy ah aayiduchu,"The moment I found out my funding round got rejected, my mind felt heavy",career,sad,"funding,sad",medium,high
+salary hike result eppo varum nu wait panni panni anxiety adhigama aayiduchu,Waiting for my salary hike result has made me really anxious,career,anxious,"salary,anxious",medium,high
+resignation letter promise pannitu keep pannala nu romba kobam ah irukku,"They promised something about my resignation letter and didn't keep it, I'm really angry",career,angry,"resignation,angry",medium,high
+investor pitch mudinja pinnadi vazhkai better ah maarum nu nambaren,I believe life will get better once my investor pitch is done,career,hopeful,"investor,hopeful",low,high
+"skill certification balance panna mudiyama, mental ah exhaust ah irukken","I'm unable to balance my skill certification, I'm mentally exhausted",career,stressed,"skill,stressed",high,high
+cover letter continue pannanuma illa mathanuma nu therila,I don't know whether to continue or change my cover letter,career,confused,"cover,confused",medium,high
+"investor pitch pathi ipo semma confident ah feel panren, happy ah irukku","I feel really confident about my investor pitch now, it makes me happy",career,happy,"investor,happy",low,high
+performance appraisal fail aayiduma nu romba bayama irukku,I'm really scared that my performance appraisal might fail,career,fear,"performance,fear",medium,high
+"manager feedback pathi management sariya handle pannala, romba angry ah irukku","The management didn't handle my manager feedback properly, I'm really angry",career,angry,"manager,angry",medium,high
+product launch reject aayiduchu nu therinjadhum mind heavy ah aayiduchu,"The moment I found out my product launch got rejected, my mind felt heavy",career,sad,"product,sad",medium,high
+"internship offer start aaga innum konjam naal dhaan irukku, romba excited ah irukken","There's only a few days left for my internship offer to start, I'm really excited",career,excited,"internship,excited",low,high
+HR interview pathi ratha ovvoru naalum tension ah irukku,I feel tense about my HR interview every single day,career,anxious,"hr,anxious",medium,high
+"layoff round pathi ella effort um podren, nalladhu nadakum nu nambikkai irukku","I'm putting in all the effort for my layoff round, I believe good things will happen",career,hopeful,"layoff,hopeful",low,high
+"client meeting pathi ella effort um podren, nalladhu nadakum nu nambikkai irukku","I'm putting in all the effort for my client meeting, I believe good things will happen",career,hopeful,"client,hopeful",low,high
+"business loss nalla plan pannitten, adhanala mind peace ah irukku","I planned my business loss well, so my mind feels at peace",career,calm,"business,calm",low,high
+"layoff round pathi ipo semma confident ah feel panren, happy ah irukku","I feel really confident about my layoff round now, it makes me happy",career,happy,"layoff,happy",low,high
+"work from home policy pathi plan panna aarambichitten, romba pumped up ah irukken","I've started planning for my work from home policy, I'm really pumped up",career,excited,"work,excited",low,high
+layoff round promise pannitu keep pannala nu romba kobam ah irukku,"They promised something about my layoff round and didn't keep it, I'm really angry",career,angry,"layoff,angry",medium,high
+"scholarship application confirm aaguma nu therila, romba restless ah irukken","I don't know if my scholarship application will be confirmed, I'm feeling really restless",career,anxious,"scholarship,anxious",medium,high
+"scholarship application konjam kashtama irundhalum, future bright ah irukum nu feel panren","Even though my scholarship application is a bit tough, I feel the future will be bright",career,hopeful,"scholarship,hopeful",low,high
+"side hustle pathi ella effort um podren, nalladhu nadakum nu nambikkai irukku","I'm putting in all the effort for my side hustle, I believe good things will happen",career,hopeful,"side,hopeful",low,high
+"team restructuring nalla plan pannitten, adhanala mind peace ah irukku","I planned my team restructuring well, so my mind feels at peace",career,calm,"team,calm",low,high
+entrepreneurship idea pathi ninachaale sad ah irukku,Thinking about my entrepreneurship idea makes me feel sad,career,sad,"entrepreneurship,sad",medium,high
+"co-founder issue pathi ipo semma confident ah feel panren, happy ah irukku","I feel really confident about my co-founder issue now, it makes me happy",career,happy,"co-founder,happy",low,high
+"team restructuring deadline nearagudhu, romba stress ah irukku","My team restructuring deadline is approaching, I'm really stressed",career,stressed,"team,stressed",high,high
+"onboarding process balance panna mudiyama, mental ah exhaust ah irukken","I'm unable to balance my onboarding process, I'm mentally exhausted",career,stressed,"onboarding,stressed",high,high
+business loss nalla ah prepare pannama vittutten nu guilt ah irukku,I feel guilty that I didn't prepare well for my business loss,career,guilty,"business,guilty",medium,high
+"office politics workload adhigama irukku, over stress ah aayiduchu","The workload for my office politics is too much, I'm extremely stressed",career,stressed,"office,stressed",high,high
+campus placement continue pannanuma illa mathanuma nu therila,I don't know whether to continue or change my campus placement,career,confused,"campus,confused",medium,high
+"cover letter confirm aaguma nu therila, romba restless ah irukken","I don't know if my cover letter will be confirmed, I'm feeling really restless",career,anxious,"cover,anxious",medium,high
+"notice period results ku wait pandren, semma thrill ah irukku","I'm waiting for my notice period results, feeling a real thrill",career,excited,"notice,excited",low,high
+"office politics pathi management sariya handle pannala, romba angry ah irukku","The management didn't handle my office politics properly, I'm really angry",career,angry,"office,angry",medium,high
+appraisal cycle eppadi handle pannanum nu confusion ah irukku,I'm confused about how to handle my appraisal cycle,career,confused,"appraisal,confused",medium,high
+"co-founder issue results eppadi vandhalum, naan calm ah dhaan irukken","Whatever the results of my co-founder issue are, I'm staying calm",career,calm,"co-founder,calm",low,high
+hybrid work policy pathi decision edukka mudiyama irukken innum,I still can't make a decision about my hybrid work policy,career,confused,"hybrid,confused",medium,high
+sales target fail aayiduma nu romba bayama irukku,I'm really scared that my sales target might fail,career,fear,"sales,fear",medium,high
+"startup idea nalla plan pannitten, adhanala mind peace ah irukku","I planned my startup idea well, so my mind feels at peace",career,calm,"startup,calm",low,high
+product launch expect panna madhiri nalla ah mudinjadhu,"My product launch turned out exactly as I expected, really nice",career,happy,"product,happy",low,high
+training program mudinja pinnadi vazhkai better ah maarum nu nambaren,I believe life will get better once my training program is done,career,hopeful,"training,hopeful",low,high
+pay cut expect panna madhiri nalla ah mudinjadhu,"My pay cut turned out exactly as I expected, really nice",career,happy,"pay,happy",low,high
+walk-in interview continue pannanuma illa mathanuma nu therila,I don't know whether to continue or change my walk-in interview,career,confused,"walk-in,confused",medium,high
+scholarship application pathi decision edukka mudiyama irukken innum,I still can't make a decision about my scholarship application,career,confused,"scholarship,confused",medium,high
+business loss eppadi handle pannanum nu confusion ah irukku,I'm confused about how to handle my business loss,career,confused,"business,confused",medium,high
+"overtime work pathi friends ellarum different advice kudukranga, confuse ah irukku","All my friends are giving different advice about my overtime work, I'm confused",career,confused,"overtime,confused",medium,high
+visa interview nalla mudiyala nu ninachu romba down ah irukken,I'm feeling really down thinking that my visa interview didn't go well,career,sad,"visa,sad",medium,high
+background verification eppadi handle pannanum nu confusion ah irukku,I'm confused about how to handle my background verification,career,confused,"background,confused",medium,high
+"probation period workload adhigama irukku, over stress ah aayiduchu","The workload for my probation period is too much, I'm extremely stressed",career,stressed,"probation,stressed",high,high
+"resume update pathi rendu option irukku, edhu correct nu therila","I have two options for my resume update, not sure which one is right",career,confused,"resume,confused",medium,high
+startup idea expect panna madhiri nalla ah mudinjadhu,"My startup idea turned out exactly as I expected, really nice",career,happy,"startup,happy",low,high
+"github profile confirm aaguma nu therila, romba restless ah irukken","I don't know if my github profile will be confirmed, I'm feeling really restless",career,anxious,"github,anxious",medium,high
+manager feedback journey la yaarum kooda illa nu feel panren,I feel like no one is with me in this manager feedback journey,career,lonely,"manager,lonely",medium,high
+"startup idea pathi yosichu yosichu ipo oru clarity vandhuchu, mind settle aayiduchu","After thinking a lot about my startup idea, I finally got clarity and my mind settled",career,calm,"startup,calm",low,high
+resume update fail aayiduma nu romba bayama irukku,I'm really scared that my resume update might fail,career,fear,"resume,fear",medium,high
+"team lead role results eppadi vandhalum, naan calm ah dhaan irukken","Whatever the results of my team lead role are, I'm staying calm",career,calm,"team,calm",low,high
+"job interview pathi management sariya handle pannala, romba angry ah irukku","The management didn't handle my job interview properly, I'm really angry",career,angry,"job,angry",medium,high
+"job offer results eppadi vandhalum, naan calm ah dhaan irukken","Whatever the results of my job offer are, I'm staying calm",career,calm,"job,calm",low,high
+client feedback mudinja pinnadi vazhkai better ah maarum nu nambaren,I believe life will get better once my client feedback is done,career,hopeful,"client,hopeful",low,high
+portfolio review success ah mudinjadhu nu kelvi pattu happy ah irukken,"I heard my portfolio review was successful, I'm happy about it",career,happy,"portfolio,happy",low,high
+"contract renewal pathi ella effort um podren, nalladhu nadakum nu nambikkai irukku","I'm putting in all the effort for my contract renewal, I believe good things will happen",career,hopeful,"contract,hopeful",low,high
+job offer ku team ah let down pannitten nu guilt irukku,I feel guilty that I let my team down regarding my job offer,career,guilty,"job,guilty",medium,high
+business loss results pathi nenachaale bayama irukku,Just thinking about my business loss results scares me,career,fear,"business,fear",medium,high
+"product launch pathi ipo semma confident ah feel panren, happy ah irukku","I feel really confident about my product launch now, it makes me happy",career,happy,"product,happy",low,high
+relocation offer pathi decision edukka mudiyama irukken innum,I still can't make a decision about my relocation offer,career,confused,"relocation,confused",medium,high
+"contract renewal deadline nearagudhu, romba stress ah irukku","My contract renewal deadline is approaching, I'm really stressed",career,stressed,"contract,stressed",high,high
+scholarship application promise pannitu keep pannala nu romba kobam ah irukku,"They promised something about my scholarship application and didn't keep it, I'm really angry",career,angry,"scholarship,angry",medium,high
+mentorship program journey la yaarum kooda illa nu feel panren,I feel like no one is with me in this mentorship program journey,career,lonely,"mentorship,lonely",medium,high
+skill gap pathi decision edukka mudiyama irukken innum,I still can't make a decision about my skill gap,career,confused,"skill,confused",medium,high
+business loss result eppo varum nu wait panni panni anxiety adhigama aayiduchu,Waiting for my business loss result has made me really anxious,career,anxious,"business,anxious",medium,high
+entrepreneurship idea pathi ipozhum yosichaale angry ah aaguthu,"Even now, thinking about my entrepreneurship idea makes me angry",career,angry,"entrepreneurship,angry",medium,high
+job offer success ah mudinjadhu nu kelvi pattu happy ah irukken,"I heard my job offer was successful, I'm happy about it",career,happy,"job,happy",low,high
+"appraisal cycle balance panna mudiyama, mental ah exhaust ah irukken","I'm unable to balance my appraisal cycle, I'm mentally exhausted",career,stressed,"appraisal,stressed",high,high
+"onboarding process pathi friends ellarum different advice kudukranga, confuse ah irukku","All my friends are giving different advice about my onboarding process, I'm confused",career,confused,"onboarding,confused",medium,high
+job offer promise pannitu keep pannala nu romba kobam ah irukku,"They promised something about my job offer and didn't keep it, I'm really angry",career,angry,"job,angry",medium,high
+team restructuring expect panna madhiri nalla ah mudinjadhu,"My team restructuring turned out exactly as I expected, really nice",career,happy,"team,happy",low,high
+remote job reject aayiduchu nu therinjadhum mind heavy ah aayiduchu,"The moment I found out my remote job got rejected, my mind felt heavy",career,sad,"remote,sad",medium,high
+"technical round pathi friends ellarum different advice kudukranga, confuse ah irukku","All my friends are giving different advice about my technical round, I'm confused",career,confused,"technical,confused",medium,high
+"campus placement pathi management sariya handle pannala, romba angry ah irukku","The management didn't handle my campus placement properly, I'm really angry",career,angry,"campus,angry",medium,high
+career switch journey la yaarum kooda illa nu feel panren,I feel like no one is with me in this career switch journey,career,lonely,"career,lonely",medium,high
+higher studies plan decision edukra naala nenachaale nervous ah irukku,I feel nervous just thinking about the day I decide on my higher studies plan,career,fear,"higher,fear",medium,high
+"skill certification start aaga innum konjam naal dhaan irukku, romba excited ah irukken","There's only a few days left for my skill certification to start, I'm really excited",career,excited,"skill,excited",low,high
+"coding test pathi management sariya handle pannala, romba angry ah irukku","The management didn't handle my coding test properly, I'm really angry",career,angry,"coding,angry",medium,high
+"work life balance deadline nearagudhu, romba stress ah irukku","My work life balance deadline is approaching, I'm really stressed",career,stressed,"work,stressed",high,high
+HR interview success ah mudinjadhu nu kelvi pattu happy ah irukken,"I heard my HR interview was successful, I'm happy about it",career,happy,"hr,happy",low,high
+co-founder issue ku team ah let down pannitten nu guilt irukku,I feel guilty that I let my team down regarding my co-founder issue,career,guilty,"co-founder,guilty",medium,high
+"layoff round expect panna madhiri nadakala, romba vaguthadhu","My layoff round didn't turn out as I expected, it really disappointed me",career,sad,"layoff,sad",medium,high
+"mentorship program workload adhigama irukku, over stress ah aayiduchu","The workload for my mentorship program is too much, I'm extremely stressed",career,stressed,"mentorship,stressed",high,high
+overtime work ku team ah let down pannitten nu guilt irukku,I feel guilty that I let my team down regarding my overtime work,career,guilty,"overtime,guilty",medium,high
+"remote job results ku wait pandren, semma thrill ah irukku","I'm waiting for my remote job results, feeling a real thrill",career,excited,"remote,excited",low,high
+"night shift schedule workload adhigama irukku, over stress ah aayiduchu","The workload for my night shift schedule is too much, I'm extremely stressed",career,stressed,"night,stressed",high,high
+"overtime work pathi yosichu yosichu ipo oru clarity vandhuchu, mind settle aayiduchu","After thinking a lot about my overtime work, I finally got clarity and my mind settled",career,calm,"overtime,calm",low,high
+freelance project journey la yaarum kooda illa nu feel panren,I feel like no one is with me in this freelance project journey,career,lonely,"freelance,lonely",medium,high
+"higher studies plan pathi ipo tension illa, mind calm ah irukku","I don't feel tense about my higher studies plan anymore, my mind feels calm",career,calm,"higher,calm",low,high
+"coding test pathi over thinking pannitu irukken, sleep kooda varala","I've been overthinking about my coding test, I can't even sleep",career,anxious,"coding,anxious",medium,high
+MBA admission expect panna madhiri nalla ah mudinjadhu,"My MBA admission turned out exactly as I expected, really nice",career,happy,"mba,happy",low,high
+visa interview decision edukkara naala nalla varum nu wait pandren,I'm waiting hopefully for the day my visa interview decision comes,career,hopeful,"visa,hopeful",low,high
+onboarding process success ah mudinjadhu nu kelvi pattu happy ah irukken,"I heard my onboarding process was successful, I'm happy about it",career,happy,"onboarding,happy",low,high
+"hybrid work policy konjam kashtama irundhalum, future bright ah irukum nu feel panren","Even though my hybrid work policy is a bit tough, I feel the future will be bright",career,hopeful,"hybrid,hopeful",low,high
+layoff round time la mistake pannitten nu ippozhum kashtama irukku,I still feel bad that I made a mistake during my layoff round,career,guilty,"layoff,guilty",medium,high
+business loan pathi share panna oruthar kooda illa,I don't have anyone to share my business loan worries with,career,lonely,"business,lonely",medium,high
+HR interview continue pannanuma illa mathanuma nu therila,I don't know whether to continue or change my HR interview,career,confused,"hr,confused",medium,high
+salary negotiation ku team ah let down pannitten nu guilt irukku,I feel guilty that I let my team down regarding my salary negotiation,career,guilty,"salary,guilty",medium,high
+"incentive structure workload adhigama irukku, over stress ah aayiduchu","The workload for my incentive structure is too much, I'm extremely stressed",career,stressed,"incentive,stressed",high,high
+"team lead role pathi nalla news kidaichu, romba santhosham","I got good news about my team lead role, I'm really happy",career,happy,"team,happy",low,high
+job interview confirm aayiduchu nu therinja moment romba excited ah aayiduchen,"The moment I found out my job interview was confirmed, I got really excited",career,excited,"job,excited",low,high
+"scholarship application nalla plan pannitten, adhanala mind peace ah irukku","I planned my scholarship application well, so my mind feels at peace",career,calm,"scholarship,calm",low,high
+toxic boss issue pathi ratha ovvoru naalum tension ah irukku,I feel tense about my toxic boss issue every single day,career,anxious,"toxic,anxious",medium,high
+aptitude test ku team ah let down pannitten nu guilt irukku,I feel guilty that I let my team down regarding my aptitude test,career,guilty,"aptitude,guilty",medium,high
+final offer letter pathi ipozhum yosichaale angry ah aaguthu,"Even now, thinking about my final offer letter makes me angry",career,angry,"final,angry",medium,high
+joining date pressure ah face panra time la romba thanimai ah irukku,I feel really alone while facing the pressure of my joining date,career,lonely,"joining,lonely",medium,high
+final offer letter result eppo varum nu wait panni panni anxiety adhigama aayiduchu,Waiting for my final offer letter result has made me really anxious,career,anxious,"final,anxious",medium,high
+joining date confirm aayiduchu nu therinja moment romba excited ah aayiduchen,"The moment I found out my joining date was confirmed, I got really excited",career,excited,"joining,excited",low,high
+salary hike time la mistake pannitten nu ippozhum kashtama irukku,I still feel bad that I made a mistake during my salary hike,career,guilty,"salary,guilty",medium,high
+"work from home policy results eppadi vandhalum, naan calm ah dhaan irukken","Whatever the results of my work from home policy are, I'm staying calm",career,calm,"work,calm",low,high
+"relocation offer pathi negative aana vishayam kekkalam, aana naan hopeful ah dhaan irukken","I might hear negative things about my relocation offer, but I'm staying hopeful",career,hopeful,"relocation,hopeful",low,high
+"salary negotiation results ku wait pandren, semma thrill ah irukku","I'm waiting for my salary negotiation results, feeling a real thrill",career,excited,"salary,excited",low,high
+"pay cut konjam kashtama irundhalum, future bright ah irukum nu feel panren","Even though my pay cut is a bit tough, I feel the future will be bright",career,hopeful,"pay,hopeful",low,high
+"business loss start aaga innum konjam naal dhaan irukku, romba excited ah irukken","There's only a few days left for my business loss to start, I'm really excited",career,excited,"business,excited",low,high
+"background verification konjam kashtama irundhalum, future bright ah irukum nu feel panren","Even though my background verification is a bit tough, I feel the future will be bright",career,hopeful,"background,hopeful",low,high
+technical round pathi vera vazhi irundhum sariya decision edukkala nu feel panren,"I feel like I didn't make the right decision about my technical round, even though there were other options",career,guilty,"technical,guilty",medium,high
+referral process pathi negative outcome varumo nu fear ah irukku,I'm scared that my referral process might have a negative outcome,career,fear,"referral,fear",medium,high
+job fair success ah mudinjadhu nu kelvi pattu happy ah irukken,"I heard my job fair was successful, I'm happy about it",career,happy,"job,happy",low,high
+job fair pathi share panna oruthar kooda illa,I don't have anyone to share my job fair worries with,career,lonely,"job,lonely",medium,high
+annual review pathi negative outcome varumo nu fear ah irukku,I'm scared that my annual review might have a negative outcome,career,fear,"annual,fear",medium,high
+incentive structure expect panna madhiri nalla ah mudinjadhu,"My incentive structure turned out exactly as I expected, really nice",career,happy,"incentive,happy",low,high
+"freelance project pathi negative aana vishayam kekkalam, aana naan hopeful ah dhaan irukken","I might hear negative things about my freelance project, but I'm staying hopeful",career,hopeful,"freelance,hopeful",low,high
+walk-in interview pathi ratha ovvoru naalum tension ah irukku,I feel tense about my walk-in interview every single day,career,anxious,"walk-in,anxious",medium,high
+interview feedback journey la yaarum kooda illa nu feel panren,I feel like no one is with me in this interview feedback journey,career,lonely,"interview,lonely",medium,high
+networking event nalla ah prepare pannama vittutten nu guilt ah irukku,I feel guilty that I didn't prepare well for my networking event,career,guilty,"networking,guilty",medium,high
+mentorship program results pathi nenachaale bayama irukku,Just thinking about my mentorship program results scares me,career,fear,"mentorship,fear",medium,high
+"relocation offer konjam kashtama irundhalum, future bright ah irukum nu feel panren","Even though my relocation offer is a bit tough, I feel the future will be bright",career,hopeful,"relocation,hopeful",low,high
+"remote job konjam kashtama irundhalum, future bright ah irukum nu feel panren","Even though my remote job is a bit tough, I feel the future will be bright",career,hopeful,"remote,hopeful",low,high
+salary hike pathi vera vazhi irundhum sariya decision edukkala nu feel panren,"I feel like I didn't make the right decision about my salary hike, even though there were other options",career,guilty,"salary,guilty",medium,high
+"training program confirm aaguma nu therila, romba restless ah irukken","I don't know if my training program will be confirmed, I'm feeling really restless",career,anxious,"training,anxious",medium,high
+"exit interview pathi friends ellarum different advice kudukranga, confuse ah irukku","All my friends are giving different advice about my exit interview, I'm confused",career,confused,"exit,confused",medium,high
+"quarterly review konjam kashtama irundhalum, future bright ah irukum nu feel panren","Even though my quarterly review is a bit tough, I feel the future will be bright",career,hopeful,"quarterly,hopeful",low,high
+"salary hike pathi ella effort um podren, nalladhu nadakum nu nambikkai irukku","I'm putting in all the effort for my salary hike, I believe good things will happen",career,hopeful,"salary,hopeful",low,high
+annual review interview ku munnadi kai kaal nadunguthu,My hands and legs are shaking before my annual review,career,fear,"annual,fear",medium,high
+networking event result eppo varum nu wait panni panni anxiety adhigama aayiduchu,Waiting for my networking event result has made me really anxious,career,anxious,"networking,anxious",medium,high
+"higher studies plan nalla poayiduchu, semma happy ah irukku","My higher studies plan went really well, I'm so happy",career,happy,"higher,happy",low,high
+"cold email for job pathi over thinking pannitu irukken, sleep kooda varala","I've been overthinking about my cold email for job, I can't even sleep",career,anxious,"cold,anxious",medium,high
+"Finally visa interview sort aayiduchu, mood set ah irukku","Finally my visa interview got sorted out, I'm in a great mood",career,happy,"visa,happy",low,high
+"mentorship program pathi nalla news kidaichu, romba santhosham","I got good news about my mentorship program, I'm really happy",career,happy,"mentorship,happy",low,high
+"part time job pathi plan panna aarambichitten, romba pumped up ah irukken","I've started planning for my part time job, I'm really pumped up",career,excited,"part,excited",low,high
+"entrepreneurship idea nalla plan pannitten, adhanala mind peace ah irukku","I planned my entrepreneurship idea well, so my mind feels at peace",career,calm,"entrepreneurship,calm",low,high
+notice period time la mistake pannitten nu ippozhum kashtama irukku,I still feel bad that I made a mistake during my notice period,career,guilty,"notice,guilty",medium,high
+career switch decision edukkara naala nalla varum nu wait pandren,I'm waiting hopefully for the day my career switch decision comes,career,hopeful,"career,hopeful",low,high
+github profile nalla ah prepare pannama vittutten nu guilt ah irukku,I feel guilty that I didn't prepare well for my github profile,career,guilty,"github,guilty",medium,high
+"onboarding process deadline nearagudhu, romba stress ah irukku","My onboarding process deadline is approaching, I'm really stressed",career,stressed,"onboarding,stressed",high,high
+background verification nalla mudiyala nu ninachu romba down ah irukken,I'm feeling really down thinking that my background verification didn't go well,career,sad,"background,sad",medium,high
+"walk-in interview expect panna madhiri nadakala, romba vaguthadhu","My walk-in interview didn't turn out as I expected, it really disappointed me",career,sad,"walk-in,sad",medium,high
+"salary negotiation pathi negative aana vishayam kekkalam, aana naan hopeful ah dhaan irukken","I might hear negative things about my salary negotiation, but I'm staying hopeful",career,hopeful,"salary,hopeful",low,high
+"sales target nalla poayiduchu, semma happy ah irukku","My sales target went really well, I'm so happy",career,happy,"sales,happy",low,high
+"Finally skill gap sort aayiduchu, mood set ah irukku","Finally my skill gap got sorted out, I'm in a great mood",career,happy,"skill,happy",low,high
+networking event promise pannitu keep pannala nu romba kobam ah irukku,"They promised something about my networking event and didn't keep it, I'm really angry",career,angry,"networking,angry",medium,high
+walk-in interview decision edukkara naala nalla varum nu wait pandren,I'm waiting hopefully for the day my walk-in interview decision comes,career,hopeful,"walk-in,hopeful",low,high
+team lead role pathi ninachaale sad ah irukku,Thinking about my team lead role makes me feel sad,career,sad,"team,sad",medium,high
+"pay cut balance panna mudiyama, mental ah exhaust ah irukken","I'm unable to balance my pay cut, I'm mentally exhausted",career,stressed,"pay,stressed",high,high
+"notice period start aaga innum konjam naal dhaan irukku, romba excited ah irukken","There's only a few days left for my notice period to start, I'm really excited",career,excited,"notice,excited",low,high
+incentive structure ku team ah let down pannitten nu guilt irukku,I feel guilty that I let my team down regarding my incentive structure,career,guilty,"incentive,guilty",medium,high
+"LinkedIn profile pathi ipo semma confident ah feel panren, happy ah irukku","I feel really confident about my LinkedIn profile now, it makes me happy",career,happy,"linkedin,happy",low,high
+job fair reject aayiduchu nu therinjadhum mind heavy ah aayiduchu,"The moment I found out my job fair got rejected, my mind felt heavy",career,sad,"job,sad",medium,high
+"Finally hybrid work policy sort aayiduchu, mood set ah irukku","Finally my hybrid work policy got sorted out, I'm in a great mood",career,happy,"hybrid,happy",low,high
+"performance appraisal deadline nearagudhu, romba stress ah irukku","My performance appraisal deadline is approaching, I'm really stressed",career,stressed,"performance,stressed",high,high
+background verification pathi nyabagam vandha automatic ah excitement varudhu,Just thinking about my background verification gets me excited,career,excited,"background,excited",low,high
+"layoff round nalla poayiduchu, semma happy ah irukku","My layoff round went really well, I'm so happy",career,happy,"layoff,happy",low,high
+"side hustle start aaga innum konjam naal dhaan irukku, romba excited ah irukken","There's only a few days left for my side hustle to start, I'm really excited",career,excited,"side,excited",low,high
+skill certification result eppo varum nu wait panni panni anxiety adhigama aayiduchu,Waiting for my skill certification result has made me really anxious,career,anxious,"skill,anxious",medium,high
+"Finally walk-in interview sort aayiduchu, mood set ah irukku","Finally my walk-in interview got sorted out, I'm in a great mood",career,happy,"walk-in,happy",low,high
+promotion round pathi nenachaale udane stress varudhu,Just thinking about my promotion round instantly stresses me out,career,stressed,"promotion,stressed",high,high
+"exit interview pathi ipo tension illa, mind calm ah irukku","I don't feel tense about my exit interview anymore, my mind feels calm",career,calm,"exit,calm",low,high
+remote job promise pannitu keep pannala nu romba kobam ah irukku,"They promised something about my remote job and didn't keep it, I'm really angry",career,angry,"remote,angry",medium,high
+performance review mudinja pinnadi vazhkai better ah maarum nu nambaren,I believe life will get better once my performance review is done,career,hopeful,"performance,hopeful",low,high
+"entrepreneurship idea pathi decide panna help panna yaarum illa, lonely ah irukku","There's no one to help me decide about my entrepreneurship idea, I feel lonely",career,lonely,"entrepreneurship,lonely",medium,high
+"funding round results eppadi vandhalum, naan calm ah dhaan irukken","Whatever the results of my funding round are, I'm staying calm",career,calm,"funding,calm",low,high
+"interview feedback pathi ipo semma confident ah feel panren, happy ah irukku","I feel really confident about my interview feedback now, it makes me happy",career,happy,"interview,happy",low,high
+"product launch pathi negative aana vishayam kekkalam, aana naan hopeful ah dhaan irukken","I might hear negative things about my product launch, but I'm staying hopeful",career,hopeful,"product,hopeful",low,high
+part time job pathi ninachaale sad ah irukku,Thinking about my part time job makes me feel sad,career,sad,"part,sad",medium,high
+remote job fail aayiduma nu romba bayama irukku,I'm really scared that my remote job might fail,career,fear,"remote,fear",medium,high
+appraisal cycle decision edukra naala nenachaale nervous ah irukku,I feel nervous just thinking about the day I decide on my appraisal cycle,career,fear,"appraisal,fear",medium,high
+"office politics nalla poayiduchu, semma happy ah irukku","My office politics went really well, I'm so happy",career,happy,"office,happy",low,high
+group discussion round success ah mudinjadhu nu kelvi pattu happy ah irukken,"I heard my group discussion round was successful, I'm happy about it",career,happy,"group,happy",low,high
+"side hustle pathi nalla news kidaichu, romba santhosham","I got good news about my side hustle, I'm really happy",career,happy,"side,happy",low,high
+"HR interview results eppadi vandhalum, naan calm ah dhaan irukken","Whatever the results of my HR interview are, I'm staying calm",career,calm,"hr,calm",low,high
+funding round decision edukkara naala nalla varum nu wait pandren,I'm waiting hopefully for the day my funding round decision comes,career,hopeful,"funding,hopeful",low,high
+"team lead role nalla poayiduchu, semma happy ah irukku","My team lead role went really well, I'm so happy",career,happy,"team,happy",low,high
+"interview feedback results ku wait pandren, semma thrill ah irukku","I'm waiting for my interview feedback results, feeling a real thrill",career,excited,"interview,excited",low,high
+remote job success ah mudinjadhu nu kelvi pattu happy ah irukken,"I heard my remote job was successful, I'm happy about it",career,happy,"remote,happy",low,high
+visa interview ku team ah let down pannitten nu guilt irukku,I feel guilty that I let my team down regarding my visa interview,career,guilty,"visa,guilty",medium,high
+"Finally cold email for job sort aayiduchu, mood set ah irukku","Finally my cold email for job got sorted out, I'm in a great mood",career,happy,"cold,happy",low,high
+"mentorship program pathi ipo semma confident ah feel panren, happy ah irukku","I feel really confident about my mentorship program now, it makes me happy",career,happy,"mentorship,happy",low,high
+"office relocation pathi decide panna help panna yaarum illa, lonely ah irukku","There's no one to help me decide about my office relocation, I feel lonely",career,lonely,"office,lonely",medium,high
+"startup idea start aaga innum konjam naal dhaan irukku, romba excited ah irukken","There's only a few days left for my startup idea to start, I'm really excited",career,excited,"startup,excited",low,high
+business loan reject aayiduchu nu therinjadhum mind heavy ah aayiduchu,"The moment I found out my business loan got rejected, my mind felt heavy",career,sad,"business,sad",medium,high
+"business loss konjam kashtama irundhalum, future bright ah irukum nu feel panren","Even though my business loss is a bit tough, I feel the future will be bright",career,hopeful,"business,hopeful",low,high
+salary negotiation pathi ninachaale sad ah irukku,Thinking about my salary negotiation makes me feel sad,career,sad,"salary,sad",medium,high
+"portfolio review pathi management sariya handle pannala, romba angry ah irukku","The management didn't handle my portfolio review properly, I'm really angry",career,angry,"portfolio,angry",medium,high
+cover letter pathi ninachaale sad ah irukku,Thinking about my cover letter makes me feel sad,career,sad,"cover,sad",medium,high
+"referral process pathi plan panna aarambichitten, romba pumped up ah irukken","I've started planning for my referral process, I'm really pumped up",career,excited,"referral,excited",low,high
+job interview decision edukra naala nenachaale nervous ah irukku,I feel nervous just thinking about the day I decide on my job interview,career,fear,"job,fear",medium,high
+client feedback pressure ah face panra time la romba thanimai ah irukku,I feel really alone while facing the pressure of my client feedback,career,lonely,"client,lonely",medium,high
+"part time job pathi ella effort um podren, nalladhu nadakum nu nambikkai irukku","I'm putting in all the effort for my part time job, I believe good things will happen",career,hopeful,"part,hopeful",low,high
+"client feedback pathi ella effort um podren, nalladhu nadakum nu nambikkai irukku","I'm putting in all the effort for my client feedback, I believe good things will happen",career,hopeful,"client,hopeful",low,high
+"higher studies plan expect panna madhiri nadakala, romba vaguthadhu","My higher studies plan didn't turn out as I expected, it really disappointed me",career,sad,"higher,sad",medium,high
+manager feedback expect panna madhiri nalla ah mudinjadhu,"My manager feedback turned out exactly as I expected, really nice",career,happy,"manager,happy",low,high
+"quarterly review pathi plan panna aarambichitten, romba pumped up ah irukken","I've started planning for my quarterly review, I'm really pumped up",career,excited,"quarterly,excited",low,high
+"bonus payout confirm aaguma nu therila, romba restless ah irukken","I don't know if my bonus payout will be confirmed, I'm feeling really restless",career,anxious,"bonus,anxious",medium,high
+job fair nalla ah prepare pannama vittutten nu guilt ah irukku,I feel guilty that I didn't prepare well for my job fair,career,guilty,"job,guilty",medium,high
+onboarding process time la mistake pannitten nu ippozhum kashtama irukku,I still feel bad that I made a mistake during my onboarding process,career,guilty,"onboarding,guilty",medium,high
+promotion round eppadi handle pannanum nu confusion ah irukku,I'm confused about how to handle my promotion round,career,confused,"promotion,confused",medium,high
+pay cut pathi negative outcome varumo nu fear ah irukku,I'm scared that my pay cut might have a negative outcome,career,fear,"pay,fear",medium,high
+github profile decision edukra naala nenachaale nervous ah irukku,I feel nervous just thinking about the day I decide on my github profile,career,fear,"github,fear",medium,high
+"layoff round pathi over thinking pannitu irukken, sleep kooda varala","I've been overthinking about my layoff round, I can't even sleep",career,anxious,"layoff,anxious",medium,high
+"interview feedback pathi friends ellarum different advice kudukranga, confuse ah irukku","All my friends are giving different advice about my interview feedback, I'm confused",career,confused,"interview,confused",medium,high
+"business loan pathi rendu option irukku, edhu correct nu therila","I have two options for my business loan, not sure which one is right",career,confused,"business,confused",medium,high
+"pay cut results ku wait pandren, semma thrill ah irukku","I'm waiting for my pay cut results, feeling a real thrill",career,excited,"pay,excited",low,high
+"LinkedIn profile balance panna mudiyama, mental ah exhaust ah irukken","I'm unable to balance my LinkedIn profile, I'm mentally exhausted",career,stressed,"linkedin,stressed",high,high
+co-founder issue reject aayiduchu nu therinjadhum mind heavy ah aayiduchu,"The moment I found out my co-founder issue got rejected, my mind felt heavy",career,sad,"co-founder,sad",medium,high
+entrepreneurship idea result eppo varum nu wait panni panni anxiety adhigama aayiduchu,Waiting for my entrepreneurship idea result has made me really anxious,career,anxious,"entrepreneurship,anxious",medium,high
+"team restructuring start aaga innum konjam naal dhaan irukku, romba excited ah irukken","There's only a few days left for my team restructuring to start, I'm really excited",career,excited,"team,excited",low,high
+client meeting nalla ah prepare pannama vittutten nu guilt ah irukku,I feel guilty that I didn't prepare well for my client meeting,career,guilty,"client,guilty",medium,high
+"night shift schedule start aaga innum konjam naal dhaan irukku, romba excited ah irukken","There's only a few days left for my night shift schedule to start, I'm really excited",career,excited,"night,excited",low,high
+"pay cut confirm aaguma nu therila, romba restless ah irukken","I don't know if my pay cut will be confirmed, I'm feeling really restless",career,anxious,"pay,anxious",medium,high
+"background verification vishayathula unfair ah treat pannanga nu feel panren, romba frustration","I feel like I was treated unfairly regarding my background verification, it's really frustrating",career,angry,"background,angry",medium,high
+"side hustle deadline nearagudhu, romba stress ah irukku","My side hustle deadline is approaching, I'm really stressed",career,stressed,"side,stressed",high,high
+"business loss results ku wait pandren, semma thrill ah irukku","I'm waiting for my business loss results, feeling a real thrill",career,excited,"business,excited",low,high
+work from home policy confirm aayiduchu nu therinja moment romba excited ah aayiduchen,"The moment I found out my work from home policy was confirmed, I got really excited",career,excited,"work,excited",low,high
+"technical round pathi ipo semma confident ah feel panren, happy ah irukku","I feel really confident about my technical round now, it makes me happy",career,happy,"technical,happy",low,high
+sales target pressure ah face panra time la romba thanimai ah irukku,I feel really alone while facing the pressure of my sales target,career,lonely,"sales,lonely",medium,high
+"portfolio review pathi ella effort um podren, nalladhu nadakum nu nambikkai irukku","I'm putting in all the effort for my portfolio review, I believe good things will happen",career,hopeful,"portfolio,hopeful",low,high
+performance review eppadi handle pannanum nu confusion ah irukku,I'm confused about how to handle my performance review,career,confused,"performance,confused",medium,high
+"HR interview pathi yosichu yosichu ipo oru clarity vandhuchu, mind settle aayiduchu","After thinking a lot about my HR interview, I finally got clarity and my mind settled",career,calm,"hr,calm",low,high
+"job interview vishayathula unfair ah treat pannanga nu feel panren, romba frustration","I feel like I was treated unfairly regarding my job interview, it's really frustrating",career,angry,"job,angry",medium,high

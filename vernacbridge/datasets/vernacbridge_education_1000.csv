@@ -1,0 +1,1001 @@
+tanglish_input,english_output,intent,emotion,keywords,urgency,confidence
+"DSA preparation ku nalla prepare aagalaya nu doubt varudhu, anxious ah irukku","I keep doubting whether I've prepared well for my DSA preparation, I'm anxious",education,anxious,"dsa,anxious",medium,high
+"seminar pathi yosichaale hands shake aagudhu, romba anxious","My hands shake when I think about my seminar, I'm really anxious",education,anxious,"seminar,anxious",high,high
+"communication engineering pathi yosichaale hands shake aagudhu, romba anxious","My hands shake when I think about my communication engineering, I'm really anxious",education,anxious,"communication,anxious",high,high
+semester exam la fail aayidumo nu romba bayanthu irukken,I'm really scared that I might fail my semester exam,education,fear,"semester,fear",high,high
+"classroom preparation ellam thaniya pannuren, konjam lonely ah irukku","I'm doing all my classroom preparation alone, I feel a bit lonely",education,lonely,"classroom,lonely",medium,high
+"Python programming nalla prepare pannitten, ipo calm ah irukken","I've prepared well for my Python programming, I feel calm now",education,calm,"python,calm",low,high
+"certification course vishayathula unfair ah treat pannanga nu feel panren, romba frustration","I feel like I was treated unfairly regarding my certification course, it's really frustrating",education,angry,"certification,angry",medium,high
+"college pathi teacher solradhukum notes irukradhukum match aagala, confuse ah irukku","What the teacher said about my college doesn't match the notes, I'm confused",education,confused,"college,confused",medium,high
+competitive exam preparation romba stress kudukudhu,Preparing for my competitive exam is giving me a lot of stress,education,stressed,"competitive,stressed",high,high
+"study motivation discuss panna yarum kedaikala, lonely feel aagudhu","I couldn't find anyone to discuss my study motivation with, I feel lonely",education,lonely,"study,lonely",medium,high
+group study preparation romba stress kudukudhu,Preparing for my group study is giving me a lot of stress,education,stressed,"group,stressed",high,high
+seminar nalla poidum nu nambikkai irukku,I have hope that my seminar will go well,education,hopeful,"seminar,hopeful",low,high
+"electronics subject result nalla vandhudhu, semma happy ah irukken","My electronics subject result came out well, I'm so happy about it",education,happy,"electronics,happy",low,high
+"friends ellarum professor pathi busy, naan thaniya irukken","All my friends are busy with their professor, I'm on my own",education,lonely,"professor,lonely",low,high
+school preparation romba stress kudukudhu,Preparing for my school is giving me a lot of stress,education,stressed,"school,stressed",high,high
+"college discuss panna yarum kedaikala, lonely feel aagudhu","I couldn't find anyone to discuss my college with, I feel lonely",education,lonely,"college,lonely",medium,high
+graduation la fail aayiduchen nu therinjadhum mind heavy ah aayiduchu,"The moment I found out I failed my graduation, my mind felt heavy",education,sad,"graduation,sad",medium,high
+"school result nalla vandhudhu, semma happy ah irukken","My school result came out well, I'm so happy about it",education,happy,"school,happy",low,high
+"AI course ku promise panni miss pannitten, romba guilty ah feel panren","I promised something for my AI course and missed it, I feel really guilty",education,guilty,"ai,guilty",medium,high
+"GATE preparation pathi yosichaale hands shake aagudhu, romba anxious","My hands shake when I think about my GATE preparation, I'm really anxious",education,anxious,"gate,anxious",high,high
+"electronics subject expect panna madhiri nadakala, romba vaguthadhu","My electronics subject didn't turn out as I expected, it really disappointed me",education,sad,"electronics,sad",medium,high
+"presentation preparation ellam thaniya pannuren, konjam lonely ah irukku","I'm doing all my presentation preparation alone, I feel a bit lonely",education,lonely,"presentation,lonely",medium,high
+"assignment pathi over thinking pannitu irukken, sleep kooda varala","I've been overthinking about my assignment, I can't even sleep",education,anxious,"assignment,anxious",medium,high
+"Python programming pathi ninacha thalai suthudhu, stress ah irukku","My head spins when I think about my Python programming, I'm stressed",education,stressed,"python,stressed",high,high
+"university ku register pannitten, romba excited ah irukku","I registered for my university, I'm really excited",education,excited,"university,excited",low,high
+"fear of failure pathi teacher venaama kadinama pesinanga, kobama irukku","The teacher spoke harshly to me about my fear of failure for no reason, I'm angry",education,angry,"fear,angry",medium,high
+"lab work expect panna madhiri nadakala, romba vaguthadhu","My lab work didn't turn out as I expected, it really disappointed me",education,sad,"lab,sad",medium,high
+seminar preparation romba stress kudukudhu,Preparing for my seminar is giving me a lot of stress,education,stressed,"seminar,stressed",high,high
+"internship ku parallel ah vera work kooda irukku, stress adhigama irukku","I have other work along with my internship, the stress is very high",education,stressed,"internship,stressed",high,high
+arrears la nalla mark varamale poidumo nu bayama irukku,I'm afraid I might not get good marks in my arrears,education,fear,"arrears,fear",medium,high
+assignment eppadi start pannanum nu theriyala,I don't know how to start my assignment,education,confused,"assignment,confused",medium,high
+"class teacher pathi yosichaale hands shake aagudhu, romba anxious","My hands shake when I think about my class teacher, I'm really anxious",education,anxious,"class,anxious",high,high
+electronics subject la parents expectation meet panna mudiyala nu guilt irukku,I feel guilty that I couldn't meet my parents' expectations in my electronics subject,education,guilty,"electronics,guilty",medium,high
+"new skill learning konjam kashtama irundhalum, future bright ah irukum nu feel panren","Even though my learning a new skill is a bit tough, I feel the future will be bright",education,hopeful,"new,hopeful",low,high
+"electronics subject la nalla opportunity kedaichudhu, semma excited","I got a great opportunity in my electronics subject, I'm so excited",education,excited,"electronics,excited",low,high
+academic goal pathi yosichaale nenju padhapadhukudhu,My heart races with fear whenever I think about my academic goal,education,fear,"academic,fear",medium,high
+concentration nalla mudinjadhu nu kelvi pattu happy ah irukken,"I heard my concentration went well, I'm happy about it",education,happy,"concentration,happy",low,high
+hackathon la nalla mark varamale poidumo nu bayama irukku,I'm afraid I might not get good marks in my hackathon,education,fear,"hackathon,fear",medium,high
+"competitive exam pathi over thinking pannitu irukken, sleep kooda varala","I've been overthinking about my competitive exam, I can't even sleep",education,anxious,"competitive,anxious",medium,high
+"study motivation ku new topics padikka poren nu thonudhu, excited ah irukku",I'm excited thinking about the new topics I'll learn in my study motivation,education,excited,"study,excited",low,high
+"research paper pathi over thinking pannitu irukken, sleep kooda varala","I've been overthinking about my research paper, I can't even sleep",education,anxious,"research,anxious",medium,high
+"professor pathi teacher solradhukum notes irukradhukum match aagala, confuse ah irukku","What the teacher said about my professor doesn't match the notes, I'm confused",education,confused,"professor,confused",medium,high
+research paper la marks correct ah kudukala nu kobam varudhu,I'm angry that they didn't give correct marks for my research paper,education,angry,"research,angry",medium,high
+assignment la fail aayiduchen nu therinjadhum mind heavy ah aayiduchu,"The moment I found out I failed my assignment, my mind felt heavy",education,sad,"assignment,sad",medium,high
+new skill learning nalla mudinjadhu nu kelvi pattu happy ah irukken,"I heard my learning a new skill went well, I'm happy about it",education,happy,"new,happy",low,high
+arrears nalla mudinjadhu nu kelvi pattu happy ah irukken,"I heard my arrears went well, I'm happy about it",education,happy,"arrears,happy",low,high
+arrears la fail aayiduchen nu therinjadhum mind heavy ah aayiduchu,"The moment I found out I failed my arrears, my mind felt heavy",education,sad,"arrears,sad",medium,high
+professor nearagudhu nu ninachaale bayam varudhu,I feel scared whenever I think my professor is approaching,education,fear,"professor,fear",medium,high
+"friends ellarum electronics subject pathi busy, naan thaniya irukken","All my friends are busy with their electronics subject, I'm on my own",education,lonely,"electronics,lonely",low,high
+group study pathi negative outcome varumo nu fear ah irukku,I'm scared that my group study might have a negative outcome,education,fear,"group,fear",medium,high
+"higher studies plan syllabus romba periya level la irukku, stress ah irukku","The syllabus for my higher studies plan is huge, I'm stressed",education,stressed,"higher,stressed",medium,high
+"communication engineering nalla nadakala, manasu heavy ah irukku","My communication engineering did not go well, my heart feels heavy",education,sad,"communication,sad",medium,high
+"placements preparation time la yaarum help panna maatanga, thaniya feel panren","Nobody helps me during my placements preparation, I feel alone",education,lonely,"placements,lonely",medium,high
+"university pathi results announce panna poranga, wait pannitu excited ah irukken","They're about to announce university results, I'm waiting excitedly",education,excited,"university,excited",low,high
+seminar eppadi start pannanum nu theriyala,I don't know how to start my seminar,education,confused,"seminar,confused",medium,high
+"model exam vetri aaga mudinjadhu, happy ah irukku","I managed to succeed in my model exam, I feel happy",education,happy,"model,happy",low,high
+classmates result eppo varum nu ninachu anxious ah irukken,I feel anxious wondering when my classmates result will come,education,anxious,"classmates,anxious",medium,high
+scholarship result paathu romba sad ah aayiduchen,I felt really sad after seeing my scholarship result,education,sad,"scholarship,sad",medium,high
+professor la marks correct ah kudukala nu kobam varudhu,I'm angry that they didn't give correct marks for my professor,education,angry,"professor,angry",medium,high
+"fees payment ku promise panni miss pannitten, romba guilty ah feel panren","I promised something for my fees payment and missed it, I feel really guilty",education,guilty,"fees,guilty",medium,high
+"workshop la top score vangiten, semma santhosham","I scored the top marks in my workshop, I'm so delighted",education,happy,"workshop,happy",low,high
+record work ku team ah let down pannitten nu guilt irukku,I feel guilty that I let my team down regarding my record work,education,guilty,"record,guilty",medium,high
+school la enna approach follow pannanum nu confusion irukku,I'm confused about what approach to follow for my school,education,confused,"school,confused",medium,high
+"attendance ku promise panni miss pannitten, romba guilty ah feel panren","I promised something for my attendance and missed it, I feel really guilty",education,guilty,"attendance,guilty",medium,high
+"coding practice deadline nearagudhu, romba stress ah irukku","My coding practice deadline is approaching, I'm really stressed",education,stressed,"coding,stressed",high,high
+"arrears pathi ipo tension illa, mind calm ah irukku","I don't feel tense about my arrears anymore, my mind feels calm",education,calm,"arrears,calm",low,high
+research paper nalla poidum nu nambikkai irukku,I have hope that my research paper will go well,education,hopeful,"research,hopeful",low,high
+"competitive exam pathi teacher venaama kadinama pesinanga, kobama irukku","The teacher spoke harshly to me about my competitive exam for no reason, I'm angry",education,angry,"competitive,angry",medium,high
+classmates eppadi start pannanum nu theriyala,I don't know how to start my classmates,education,confused,"classmates,confused",medium,high
+"group study discuss panna yarum kedaikala, lonely feel aagudhu","I couldn't find anyone to discuss my group study with, I feel lonely",education,lonely,"group,lonely",medium,high
+higher studies plan pathi ninaicha kobam adangala,My anger doesn't settle down when I think about my higher studies plan,education,angry,"higher,angry",medium,high
+project la parents expectation meet panna mudiyala nu guilt irukku,I feel guilty that I couldn't meet my parents' expectations in my project,education,guilty,"project,guilty",medium,high
+"workshop konjam kashtama irundhalum, future bright ah irukum nu feel panren","Even though my workshop is a bit tough, I feel the future will be bright",education,hopeful,"workshop,hopeful",low,high
+"coding practice pathi pesa yarum illa hostel la, lonely ah irukku","There's no one to talk to about my coding practice in the hostel, I feel lonely",education,lonely,"coding,lonely",medium,high
+"Python programming ku new topics padikka poren nu thonudhu, excited ah irukku",I'm excited thinking about the new topics I'll learn in my Python programming,education,excited,"python,excited",low,high
+"group study result nalla vandhudhu, semma happy ah irukken","My group study result came out well, I'm so happy about it",education,happy,"group,happy",low,high
+university exam ku team ah let down pannitten nu guilt irukku,I feel guilty that I let my team down regarding my university exam,education,guilty,"university,guilty",medium,high
+university exam la fail aayiduchen nu therinjadhum mind heavy ah aayiduchu,"The moment I found out I failed my university exam, my mind felt heavy",education,sad,"university,sad",medium,high
+"competitive exam pathi teacher solradhukum notes irukradhukum match aagala, confuse ah irukku","What the teacher said about my competitive exam doesn't match the notes, I'm confused",education,confused,"competitive,confused",medium,high
+hackathon la fail aayiduchen nu therinjadhum mind heavy ah aayiduchu,"The moment I found out I failed my hackathon, my mind felt heavy",education,sad,"hackathon,sad",medium,high
+lab work nalla poidum nu nambikkai irukku,I have hope that my lab work will go well,education,hopeful,"lab,hopeful",low,high
+"viva pathi teacher solradhukum notes irukradhukum match aagala, confuse ah irukku","What the teacher said about my viva doesn't match the notes, I'm confused",education,confused,"viva,confused",medium,high
+"classmates pathi results announce panna poranga, wait pannitu excited ah irukken","They're about to announce classmates results, I'm waiting excitedly",education,excited,"classmates,excited",low,high
+"arrears la nalla opportunity kedaichudhu, semma excited","I got a great opportunity in my arrears, I'm so excited",education,excited,"arrears,excited",low,high
+model exam nalla mudinjadhu nu kelvi pattu happy ah irukken,"I heard my model exam went well, I'm happy about it",education,happy,"model,happy",low,high
+project la fail aayidumo nu romba bayanthu irukken,I'm really scared that I might fail my project,education,fear,"project,fear",high,high
+embedded systems subject la enna approach follow pannanum nu confusion irukku,I'm confused about what approach to follow for my embedded systems subject,education,confused,"embedded,confused",medium,high
+"internship expect panna madhiri nadakala, romba vaguthadhu","My internship didn't turn out as I expected, it really disappointed me",education,sad,"internship,sad",medium,high
+"exam stress pathi friends ellarum different advice kudukranga, confuse ah irukku","All my friends are giving different advice about my exam stress, I'm confused",education,confused,"exam,confused",medium,high
+"technical symposium pathi over thinking pannitu irukken, sleep kooda varala","I've been overthinking about my technical symposium, I can't even sleep",education,anxious,"technical,anxious",medium,high
+fees payment pathi negative outcome varumo nu fear ah irukku,I'm scared that my fees payment might have a negative outcome,education,fear,"fees,fear",medium,high
+classmates la nalla mark varamale poidumo nu bayama irukku,I'm afraid I might not get good marks in my classmates,education,fear,"classmates,fear",medium,high
+"higher studies plan pathi over thinking pannitu irukken, sleep kooda varala","I've been overthinking about my higher studies plan, I can't even sleep",education,anxious,"higher,anxious",medium,high
+"technical symposium ku nalla prepare aagalaya nu doubt varudhu, anxious ah irukku","I keep doubting whether I've prepared well for my technical symposium, I'm anxious",education,anxious,"technical,anxious",medium,high
+competitive exam result paathu romba sad ah aayiduchen,I felt really sad after seeing my competitive exam result,education,sad,"competitive,sad",medium,high
+"assignment ku register pannitten, romba excited ah irukku","I registered for my assignment, I'm really excited",education,excited,"assignment,excited",low,high
+university exam la enna approach follow pannanum nu confusion irukku,I'm confused about what approach to follow for my university exam,education,confused,"university,confused",medium,high
+"homework pathi konjam tension irundhalum, positive ah dhaan irukken","Even with some tension about my homework, I'm staying positive",education,hopeful,"homework,hopeful",low,high
+communication engineering result paathu romba sad ah aayiduchen,I felt really sad after seeing my communication engineering result,education,sad,"communication,sad",medium,high
+concentration ku team ah let down pannitten nu guilt irukku,I feel guilty that I let my team down regarding my concentration,education,guilty,"concentration,guilty",medium,high
+placements preparation la marks correct ah kudukala nu kobam varudhu,I'm angry that they didn't give correct marks for my placements preparation,education,angry,"placements,angry",medium,high
+homework preparation romba stress kudukudhu,Preparing for my homework is giving me a lot of stress,education,stressed,"homework,stressed",high,high
+"GATE preparation result nalla vandhudhu, semma happy ah irukken","My GATE preparation result came out well, I'm so happy about it",education,happy,"gate,happy",low,high
+"professor discuss panna yarum kedaikala, lonely feel aagudhu","I couldn't find anyone to discuss my professor with, I feel lonely",education,lonely,"professor,lonely",medium,high
+GATE preparation result paathu romba sad ah aayiduchen,I felt really sad after seeing my GATE preparation result,education,sad,"gate,sad",medium,high
+"professor pathi teacher venaama kadinama pesinanga, kobama irukku","The teacher spoke harshly to me about my professor for no reason, I'm angry",education,angry,"professor,angry",medium,high
+"group study konjam kashtama irundhalum, future bright ah irukum nu feel panren","Even though my group study is a bit tough, I feel the future will be bright",education,hopeful,"group,hopeful",low,high
+"presentation syllabus romba periya level la irukku, stress ah irukku","The syllabus for my presentation is huge, I'm stressed",education,stressed,"presentation,stressed",medium,high
+scholarship la fail aayiduchen nu therinjadhum mind heavy ah aayiduchu,"The moment I found out I failed my scholarship, my mind felt heavy",education,sad,"scholarship,sad",medium,high
+"higher studies plan start aaga innum konjam naal dhaan irukku, romba excited ah irukken","There's only a few days left for my higher studies plan to start, I'm really excited",education,excited,"higher,excited",low,high
+"hackathon result nalla vandhudhu, semma happy ah irukken","My hackathon result came out well, I'm so happy about it",education,happy,"hackathon,happy",low,high
+concentration ku sariyaana effort podala nu ippo guilt varudhu,I feel guilty now that I didn't put proper effort into my concentration,education,guilty,"concentration,guilty",medium,high
+model exam ku team ah let down pannitten nu guilt irukku,I feel guilty that I let my team down regarding my model exam,education,guilty,"model,guilty",medium,high
+"higher studies plan ku parallel ah vera work kooda irukku, stress adhigama irukku","I have other work along with my higher studies plan, the stress is very high",education,stressed,"higher,stressed",high,high
+"fear of failure deadline nearagudhu, romba stress ah irukku","My fear of failure deadline is approaching, I'm really stressed",education,stressed,"fear,stressed",high,high
+"time management schedule last nimushathula maathitanga, romba irritation","They changed the time management schedule at the last minute, it's really irritating",education,angry,"time,angry",medium,high
+school la nalla mark varamale poidumo nu bayama irukku,I'm afraid I might not get good marks in my school,education,fear,"school,fear",medium,high
+electronics subject pathi yosikkama calm ah irukka try panren,I'm trying to stay calm without overthinking my electronics subject,education,calm,"electronics,calm",low,high
+"friends ellarum school pathi busy, naan thaniya irukken","All my friends are busy with their school, I'm on my own",education,lonely,"school,lonely",low,high
+internal exam pathi yosikkama calm ah irukka try panren,I'm trying to stay calm without overthinking my internal exam,education,calm,"internal,calm",low,high
+graduation pathi negative outcome varumo nu fear ah irukku,I'm scared that my graduation might have a negative outcome,education,fear,"graduation,fear",medium,high
+"electronics subject vetri aaga mudinjadhu, happy ah irukku","I managed to succeed in my electronics subject, I feel happy",education,happy,"electronics,happy",low,high
+"internal exam start aaga innum konjam naal dhaan irukku, romba excited ah irukken","There's only a few days left for my internal exam to start, I'm really excited",education,excited,"internal,excited",low,high
+"group study pathi konjam tension irundhalum, positive ah dhaan irukken","Even with some tension about my group study, I'm staying positive",education,hopeful,"group,hopeful",low,high
+"time management syllabus romba periya level la irukku, stress ah irukku","The syllabus for my time management is huge, I'm stressed",education,stressed,"time,stressed",medium,high
+"new skill learning pathi pesa yarum illa hostel la, lonely ah irukku","There's no one to talk to about my learning a new skill in the hostel, I feel lonely",education,lonely,"new,lonely",medium,high
+presentation la nalla mark varamale poidumo nu bayama irukku,I'm afraid I might not get good marks in my presentation,education,fear,"presentation,fear",medium,high
+fees payment result eppo varum nu ninachu anxious ah irukken,I feel anxious wondering when my fees payment result will come,education,anxious,"fees,anxious",medium,high
+"project vishayathula unfair ah treat pannanga nu feel panren, romba frustration","I feel like I was treated unfairly regarding my project, it's really frustrating",education,angry,"project,angry",medium,high
+"research paper preparation ellam thaniya pannuren, konjam lonely ah irukku","I'm doing all my research paper preparation alone, I feel a bit lonely",education,lonely,"research,lonely",medium,high
+"group study la nalla opportunity kedaichudhu, semma excited","I got a great opportunity in my group study, I'm so excited",education,excited,"group,excited",low,high
+"internal exam pathi teacher solradhukum notes irukradhukum match aagala, confuse ah irukku","What the teacher said about my internal exam doesn't match the notes, I'm confused",education,confused,"internal,confused",medium,high
+"college start aaga innum konjam naal dhaan irukku, romba excited ah irukken","There's only a few days left for my college to start, I'm really excited",education,excited,"college,excited",low,high
+"assignment preparation la kadaisi nimusham varaikkum procrastinate pannitten, guilt ah irukku","I procrastinated my assignment preparation till the last minute, I feel guilty",education,guilty,"assignment,guilty",medium,high
+"lab work vetri aaga mudinjadhu, happy ah irukku","I managed to succeed in my lab work, I feel happy",education,happy,"lab,happy",low,high
+new skill learning pathi negative outcome varumo nu fear ah irukku,I'm scared that my learning a new skill might have a negative outcome,education,fear,"new,fear",medium,high
+Python programming nalla poidum nu nambikkai irukku,I have hope that my Python programming will go well,education,hopeful,"python,hopeful",low,high
+"fees payment preparation ellam thaniya pannuren, konjam lonely ah irukku","I'm doing all my fees payment preparation alone, I feel a bit lonely",education,lonely,"fees,lonely",medium,high
+group study la fail aayiduchen nu therinjadhum mind heavy ah aayiduchu,"The moment I found out I failed my group study, my mind felt heavy",education,sad,"group,sad",medium,high
+"communication engineering schedule last nimushathula maathitanga, romba irritation","They changed the communication engineering schedule at the last minute, it's really irritating",education,angry,"communication,angry",medium,high
+practical exam pathi ninaicha kobam adangala,My anger doesn't settle down when I think about my practical exam,education,angry,"practical,angry",medium,high
+"study motivation pathi friends ellarum different advice kudukranga, confuse ah irukku","All my friends are giving different advice about my study motivation, I'm confused",education,confused,"study,confused",medium,high
+"seminar result nalla vandhudhu, semma happy ah irukken","My seminar result came out well, I'm so happy about it",education,happy,"seminar,happy",low,high
+"semester exam vishayathula unfair ah treat pannanga nu feel panren, romba frustration","I feel like I was treated unfairly regarding my semester exam, it's really frustrating",education,angry,"semester,angry",medium,high
+"professor nearagunna nenju padhapadhukudhu, anxious ah irukku","My heart races as my professor approaches, I feel anxious",education,anxious,"professor,anxious",medium,high
+coding practice la parents expectation meet panna mudiyala nu guilt irukku,I feel guilty that I couldn't meet my parents' expectations in my coding practice,education,guilty,"coding,guilty",medium,high
+embedded systems subject nearagudhu nu ninachaale bayam varudhu,I feel scared whenever I think my embedded systems subject is approaching,education,fear,"embedded,fear",medium,high
+seminar la fail aayidumo nu romba bayanthu irukken,I'm really scared that I might fail my seminar,education,fear,"seminar,fear",high,high
+"new skill learning pathi yosichaale hands shake aagudhu, romba anxious","My hands shake when I think about my learning a new skill, I'm really anxious",education,anxious,"new,anxious",high,high
+"embedded systems subject pathi nalla feedback kedaichudhu, mood romba happy","I got good feedback about my embedded systems subject, my mood is really happy",education,happy,"embedded,happy",low,high
+"record work ku new topics padikka poren nu thonudhu, excited ah irukku",I'm excited thinking about the new topics I'll learn in my record work,education,excited,"record,excited",low,high
+"fear of failure pathi accept pannitten, calm ah feel panren","I've accepted things about my fear of failure, I feel calm",education,calm,"fear,calm",low,high
+group study la marks correct ah kudukala nu kobam varudhu,I'm angry that they didn't give correct marks for my group study,education,angry,"group,angry",medium,high
+"communication engineering la nalla opportunity kedaichudhu, semma excited","I got a great opportunity in my communication engineering, I'm so excited",education,excited,"communication,excited",low,high
+"viva pathi teacher venaama kadinama pesinanga, kobama irukku","The teacher spoke harshly to me about my viva for no reason, I'm angry",education,angry,"viva,angry",medium,high
+"school pathi ipo tension illa, mind calm ah irukku","I don't feel tense about my school anymore, my mind feels calm",education,calm,"school,calm",low,high
+"exam stress nalla nadakala, manasu heavy ah irukku","My exam stress did not go well, my heart feels heavy",education,sad,"exam,sad",medium,high
+"classmates pathi accept pannitten, calm ah feel panren","I've accepted things about my classmates, I feel calm",education,calm,"classmates,calm",low,high
+"time management ku parallel ah vera work kooda irukku, stress adhigama irukku","I have other work along with my time management, the stress is very high",education,stressed,"time,stressed",high,high
+semester exam preparation romba stress kudukudhu,Preparing for my semester exam is giving me a lot of stress,education,stressed,"semester,stressed",high,high
+"embedded systems subject discuss panna yarum kedaikala, lonely feel aagudhu","I couldn't find anyone to discuss my embedded systems subject with, I feel lonely",education,lonely,"embedded,lonely",medium,high
+concentration pathi negative outcome varumo nu fear ah irukku,I'm scared that my concentration might have a negative outcome,education,fear,"concentration,fear",medium,high
+new skill learning ku sariyaana effort podala nu ippo guilt varudhu,I feel guilty now that I didn't put proper effort into my learning a new skill,education,guilty,"new,guilty",medium,high
+"professor konjam kashtama irundhalum, future bright ah irukum nu feel panren","Even though my professor is a bit tough, I feel the future will be bright",education,hopeful,"professor,hopeful",low,high
+"viva la nalla opportunity kedaichudhu, semma excited","I got a great opportunity in my viva, I'm so excited",education,excited,"viva,excited",low,high
+"semester exam vetri aaga mudinjadhu, happy ah irukku","I managed to succeed in my semester exam, I feel happy",education,happy,"semester,happy",low,high
+"class teacher plan pannitten, ipo mind peaceful ah irukku","I've planned my class teacher, my mind feels peaceful now",education,calm,"class,calm",low,high
+"professor deadline nearagudhu, romba stress ah irukku","My professor deadline is approaching, I'm really stressed",education,stressed,"professor,stressed",high,high
+research paper pathi negative outcome varumo nu fear ah irukku,I'm scared that my research paper might have a negative outcome,education,fear,"research,fear",medium,high
+"exam stress nalla prepare pannitten, ipo calm ah irukken","I've prepared well for my exam stress, I feel calm now",education,calm,"exam,calm",low,high
+"seminar pathi teacher venaama kadinama pesinanga, kobama irukku","The teacher spoke harshly to me about my seminar for no reason, I'm angry",education,angry,"seminar,angry",medium,high
+"certification course deadline nearagudhu, romba stress ah irukku","My certification course deadline is approaching, I'm really stressed",education,stressed,"certification,stressed",high,high
+AI course la nalla mark varamale poidumo nu bayama irukku,I'm afraid I might not get good marks in my AI course,education,fear,"ai,fear",medium,high
+"competitive exam schedule last nimushathula maathitanga, romba irritation","They changed the competitive exam schedule at the last minute, it's really irritating",education,angry,"competitive,angry",medium,high
+"placements preparation plan pannitten, ipo mind peaceful ah irukku","I've planned my placements preparation, my mind feels peaceful now",education,calm,"placements,calm",low,high
+"friends ellarum AI course pathi busy, naan thaniya irukken","All my friends are busy with their AI course, I'm on my own",education,lonely,"ai,lonely",low,high
+"homework nearagunna nenju padhapadhukudhu, anxious ah irukku","My heart races as my homework approaches, I feel anxious",education,anxious,"homework,anxious",medium,high
+study motivation la fail aayiduchen nu therinjadhum mind heavy ah aayiduchu,"The moment I found out I failed my study motivation, my mind felt heavy",education,sad,"study,sad",medium,high
+graduation la parents expectation meet panna mudiyala nu guilt irukku,I feel guilty that I couldn't meet my parents' expectations in my graduation,education,guilty,"graduation,guilty",medium,high
+hostel life la enna approach follow pannanum nu confusion irukku,I'm confused about what approach to follow for my hostel life,education,confused,"hostel,confused",medium,high
+"exam stress preparation ellam thaniya pannuren, konjam lonely ah irukku","I'm doing all my exam stress preparation alone, I feel a bit lonely",education,lonely,"exam,lonely",medium,high
+"seminar pathi accept pannitten, calm ah feel panren","I've accepted things about my seminar, I feel calm",education,calm,"seminar,calm",low,high
+practical exam pathi yosikkama calm ah irukka try panren,I'm trying to stay calm without overthinking my practical exam,education,calm,"practical,calm",low,high
+internal exam ku sariyaana effort podala nu ippo guilt varudhu,I feel guilty now that I didn't put proper effort into my internal exam,education,guilty,"internal,guilty",medium,high
+embedded systems subject eppadi start pannanum nu theriyala,I don't know how to start my embedded systems subject,education,confused,"embedded,confused",medium,high
+"seminar nalla nadakala, manasu heavy ah irukku","My seminar did not go well, my heart feels heavy",education,sad,"seminar,sad",medium,high
+"presentation pathi teacher venaama kadinama pesinanga, kobama irukku","The teacher spoke harshly to me about my presentation for no reason, I'm angry",education,angry,"presentation,angry",medium,high
+AI course pathi negative outcome varumo nu fear ah irukku,I'm scared that my AI course might have a negative outcome,education,fear,"ai,fear",medium,high
+class teacher result eppo varum nu ninachu anxious ah irukken,I feel anxious wondering when my class teacher result will come,education,anxious,"class,anxious",medium,high
+"class teacher ku hard work pannitu irukken, result nalladhu varum nu nambikkai","I'm working hard on my class teacher, I hope the result will be good",education,hopeful,"class,hopeful",low,high
+"higher studies plan ippo kashtama irundhalum, mudivula nalladhu nadakum nu nambaren","Even though my higher studies plan is hard right now, I believe it will end well",education,hopeful,"higher,hopeful",low,high
+"DSA preparation vishayathula unfair ah treat pannanga nu feel panren, romba frustration","I feel like I was treated unfairly regarding my DSA preparation, it's really frustrating",education,angry,"dsa,angry",medium,high
+new skill learning ku decision edukka mudiyama irukken innum,I still can't make a decision about my learning a new skill,education,confused,"new,confused",medium,high
+"academic goal ku parallel ah vera work kooda irukku, stress adhigama irukku","I have other work along with my academic goal, the stress is very high",education,stressed,"academic,stressed",high,high
+"classroom pathi ninacha thalai suthudhu, stress ah irukku","My head spins when I think about my classroom, I'm stressed",education,stressed,"classroom,stressed",high,high
+higher studies plan eppadi start pannanum nu theriyala,I don't know how to start my higher studies plan,education,confused,"higher,confused",medium,high
+"workshop discuss panna yarum kedaikala, lonely feel aagudhu","I couldn't find anyone to discuss my workshop with, I feel lonely",education,lonely,"workshop,lonely",medium,high
+academic goal pathi negative outcome varumo nu fear ah irukku,I'm scared that my academic goal might have a negative outcome,education,fear,"academic,fear",medium,high
+"semester exam plan pannitten, ipo mind peaceful ah irukku","I've planned my semester exam, my mind feels peaceful now",education,calm,"semester,calm",low,high
+"communication engineering time la yaarum help panna maatanga, thaniya feel panren","Nobody helps me during my communication engineering, I feel alone",education,lonely,"communication,lonely",medium,high
+"viva konjam kashtama irundhalum, future bright ah irukum nu feel panren","Even though my viva is a bit tough, I feel the future will be bright",education,hopeful,"viva,hopeful",low,high
+presentation result paathu romba sad ah aayiduchen,I felt really sad after seeing my presentation result,education,sad,"presentation,sad",medium,high
+"viva pathi pesa yarum illa hostel la, lonely ah irukku","There's no one to talk to about my viva in the hostel, I feel lonely",education,lonely,"viva,lonely",medium,high
+record work ku sariyaana effort podala nu ippo guilt varudhu,I feel guilty now that I didn't put proper effort into my record work,education,guilty,"record,guilty",medium,high
+"time management pathi teacher solradhukum notes irukradhukum match aagala, confuse ah irukku","What the teacher said about my time management doesn't match the notes, I'm confused",education,confused,"time,confused",medium,high
+"graduation pathi nalla feedback kedaichudhu, mood romba happy","I got good feedback about my graduation, my mood is really happy",education,happy,"graduation,happy",low,high
+"graduation start aaga innum konjam naal dhaan irukku, romba excited ah irukken","There's only a few days left for my graduation to start, I'm really excited",education,excited,"graduation,excited",low,high
+"arrears vetri aaga mudinjadhu, happy ah irukku","I managed to succeed in my arrears, I feel happy",education,happy,"arrears,happy",low,high
+"arrears nalla nadakala, manasu heavy ah irukku","My arrears did not go well, my heart feels heavy",education,sad,"arrears,sad",medium,high
+"presentation pathi accept pannitten, calm ah feel panren","I've accepted things about my presentation, I feel calm",education,calm,"presentation,calm",low,high
+presentation la enna approach follow pannanum nu confusion irukku,I'm confused about what approach to follow for my presentation,education,confused,"presentation,confused",medium,high
+"time management discuss panna yarum kedaikala, lonely feel aagudhu","I couldn't find anyone to discuss my time management with, I feel lonely",education,lonely,"time,lonely",medium,high
+"university exam pathi friends ellarum different advice kudukranga, confuse ah irukku","All my friends are giving different advice about my university exam, I'm confused",education,confused,"university,confused",medium,high
+exam stress nearagudhu nu ninachaale bayam varudhu,I feel scared whenever I think my exam stress is approaching,education,fear,"exam,fear",medium,high
+"class teacher pathi ninacha thalai suthudhu, stress ah irukku","My head spins when I think about my class teacher, I'm stressed",education,stressed,"class,stressed",high,high
+"workshop pathi konjam tension irundhalum, positive ah dhaan irukken","Even with some tension about my workshop, I'm staying positive",education,hopeful,"workshop,hopeful",low,high
+"model exam la top score vangiten, semma santhosham","I scored the top marks in my model exam, I'm so delighted",education,happy,"model,happy",low,high
+research paper la fail aayidumo nu romba bayanthu irukken,I'm really scared that I might fail my research paper,education,fear,"research,fear",high,high
+"research paper ku parallel ah vera work kooda irukku, stress adhigama irukku","I have other work along with my research paper, the stress is very high",education,stressed,"research,stressed",high,high
+homework la fail aayiduchen nu therinjadhum mind heavy ah aayiduchu,"The moment I found out I failed my homework, my mind felt heavy",education,sad,"homework,sad",medium,high
+university la parents expectation meet panna mudiyala nu guilt irukku,I feel guilty that I couldn't meet my parents' expectations in my university,education,guilty,"university,guilty",medium,high
+"higher studies plan pathi accept pannitten, calm ah feel panren","I've accepted things about my higher studies plan, I feel calm",education,calm,"higher,calm",low,high
+"lab work konjam kashtama irundhalum, future bright ah irukum nu feel panren","Even though my lab work is a bit tough, I feel the future will be bright",education,hopeful,"lab,hopeful",low,high
+"hackathon schedule last nimushathula maathitanga, romba irritation","They changed the hackathon schedule at the last minute, it's really irritating",education,angry,"hackathon,angry",medium,high
+"semester exam nearagunna nenju padhapadhukudhu, anxious ah irukku","My heart races as my semester exam approaches, I feel anxious",education,anxious,"semester,anxious",medium,high
+"Python programming vishayathula unfair ah treat pannanga nu feel panren, romba frustration","I feel like I was treated unfairly regarding my Python programming, it's really frustrating",education,angry,"python,angry",medium,high
+university nearagudhu nu ninachaale bayam varudhu,I feel scared whenever I think my university is approaching,education,fear,"university,fear",medium,high
+fear of failure la enna approach follow pannanum nu confusion irukku,I'm confused about what approach to follow for my fear of failure,education,confused,"fear,confused",medium,high
+GATE preparation la fail aayidumo nu romba bayanthu irukken,I'm really scared that I might fail my GATE preparation,education,fear,"gate,fear",high,high
+"university exam preparation ellam thaniya pannuren, konjam lonely ah irukku","I'm doing all my university exam preparation alone, I feel a bit lonely",education,lonely,"university,lonely",medium,high
+"technical symposium nalla nadakala, manasu heavy ah irukku","My technical symposium did not go well, my heart feels heavy",education,sad,"technical,sad",medium,high
+"exam stress pathi over thinking pannitu irukken, sleep kooda varala","I've been overthinking about my exam stress, I can't even sleep",education,anxious,"exam,anxious",medium,high
+"GATE preparation pathi ipo tension illa, mind calm ah irukku","I don't feel tense about my GATE preparation anymore, my mind feels calm",education,calm,"gate,calm",low,high
+lab work eppadi start pannanum nu theriyala,I don't know how to start my lab work,education,confused,"lab,confused",medium,high
+college pathi ninaicha kobam adangala,My anger doesn't settle down when I think about my college,education,angry,"college,angry",medium,high
+"exam stress result nalla vandhudhu, semma happy ah irukken","My exam stress result came out well, I'm so happy about it",education,happy,"exam,happy",low,high
+"Python programming ku register pannitten, romba excited ah irukku","I registered for my Python programming, I'm really excited",education,excited,"python,excited",low,high
+"university syllabus romba periya level la irukku, stress ah irukku","The syllabus for my university is huge, I'm stressed",education,stressed,"university,stressed",medium,high
+"technical symposium ippo kashtama irundhalum, mudivula nalladhu nadakum nu nambaren","Even though my technical symposium is hard right now, I believe it will end well",education,hopeful,"technical,hopeful",low,high
+"graduation discuss panna yarum kedaikala, lonely feel aagudhu","I couldn't find anyone to discuss my graduation with, I feel lonely",education,lonely,"graduation,lonely",medium,high
+certification course la fail aayiduchen nu therinjadhum mind heavy ah aayiduchu,"The moment I found out I failed my certification course, my mind felt heavy",education,sad,"certification,sad",medium,high
+"exam stress deadline nearagudhu, romba stress ah irukku","My exam stress deadline is approaching, I'm really stressed",education,stressed,"exam,stressed",high,high
+"classroom pathi konjam tension irundhalum, positive ah dhaan irukken","Even with some tension about my classroom, I'm staying positive",education,hopeful,"classroom,hopeful",low,high
+"homework plan pannitten, ipo mind peaceful ah irukku","I've planned my homework, my mind feels peaceful now",education,calm,"homework,calm",low,high
+"academic goal ku promise panni miss pannitten, romba guilty ah feel panren","I promised something for my academic goal and missed it, I feel really guilty",education,guilty,"academic,guilty",medium,high
+"AI course pathi nalla feedback kedaichudhu, mood romba happy","I got good feedback about my AI course, my mood is really happy",education,happy,"ai,happy",low,high
+communication engineering pathi ninaicha kobam adangala,My anger doesn't settle down when I think about my communication engineering,education,angry,"communication,angry",medium,high
+"AI course ippo kashtama irundhalum, mudivula nalladhu nadakum nu nambaren","Even though my AI course is hard right now, I believe it will end well",education,hopeful,"ai,hopeful",low,high
+"GATE preparation vetri aaga mudinjadhu, happy ah irukku","I managed to succeed in my GATE preparation, I feel happy",education,happy,"gate,happy",low,high
+"certification course pathi over thinking pannitu irukken, sleep kooda varala","I've been overthinking about my certification course, I can't even sleep",education,anxious,"certification,anxious",medium,high
+"coding practice vetri aaga mudinjadhu, happy ah irukku","I managed to succeed in my coding practice, I feel happy",education,happy,"coding,happy",low,high
+workshop result eppo varum nu ninachu anxious ah irukken,I feel anxious wondering when my workshop result will come,education,anxious,"workshop,anxious",medium,high
+"fees payment pathi teacher venaama kadinama pesinanga, kobama irukku","The teacher spoke harshly to me about my fees payment for no reason, I'm angry",education,angry,"fees,angry",medium,high
+exam stress nalla poidum nu nambikkai irukku,I have hope that my exam stress will go well,education,hopeful,"exam,hopeful",low,high
+"assignment pathi teacher solradhukum notes irukradhukum match aagala, confuse ah irukku","What the teacher said about my assignment doesn't match the notes, I'm confused",education,confused,"assignment,confused",medium,high
+"graduation ku register pannitten, romba excited ah irukku","I registered for my graduation, I'm really excited",education,excited,"graduation,excited",low,high
+"time management pathi konjam tension irundhalum, positive ah dhaan irukken","Even with some tension about my time management, I'm staying positive",education,hopeful,"time,hopeful",low,high
+project pathi ninachaale sad ah irukku,Thinking about my project makes me feel sad,education,sad,"project,sad",medium,high
+"hackathon ku new topics padikka poren nu thonudhu, excited ah irukku",I'm excited thinking about the new topics I'll learn in my hackathon,education,excited,"hackathon,excited",low,high
+"record work pathi ninacha thalai suthudhu, stress ah irukku","My head spins when I think about my record work, I'm stressed",education,stressed,"record,stressed",high,high
+"record work pathi ipo tension illa, mind calm ah irukku","I don't feel tense about my record work anymore, my mind feels calm",education,calm,"record,calm",low,high
+"arrears result nalla vandhudhu, semma happy ah irukken","My arrears result came out well, I'm so happy about it",education,happy,"arrears,happy",low,high
+"higher studies plan nalla prepare pannitten, ipo calm ah irukken","I've prepared well for my higher studies plan, I feel calm now",education,calm,"higher,calm",low,high
+classmates nalla mudinjadhu nu kelvi pattu happy ah irukken,"I heard my classmates went well, I'm happy about it",education,happy,"classmates,happy",low,high
+"competitive exam ippo kashtama irundhalum, mudivula nalladhu nadakum nu nambaren","Even though my competitive exam is hard right now, I believe it will end well",education,hopeful,"competitive,hopeful",low,high
+"professor time la yaarum help panna maatanga, thaniya feel panren","Nobody helps me during my professor, I feel alone",education,lonely,"professor,lonely",medium,high
+"study motivation expect panna madhiri nadakala, romba vaguthadhu","My study motivation didn't turn out as I expected, it really disappointed me",education,sad,"study,sad",medium,high
+"model exam ku parallel ah vera work kooda irukku, stress adhigama irukku","I have other work along with my model exam, the stress is very high",education,stressed,"model,stressed",high,high
+classmates ku sariyaana effort podala nu ippo guilt varudhu,I feel guilty now that I didn't put proper effort into my classmates,education,guilty,"classmates,guilty",medium,high
+"placements preparation result nalla vandhudhu, semma happy ah irukken","My placements preparation result came out well, I'm so happy about it",education,happy,"placements,happy",low,high
+"exam stress ippo kashtama irundhalum, mudivula nalladhu nadakum nu nambaren","Even though my exam stress is hard right now, I believe it will end well",education,hopeful,"exam,hopeful",low,high
+higher studies plan pathi negative outcome varumo nu fear ah irukku,I'm scared that my higher studies plan might have a negative outcome,education,fear,"higher,fear",medium,high
+class teacher pathi yosikkama calm ah irukka try panren,I'm trying to stay calm without overthinking my class teacher,education,calm,"class,calm",low,high
+competitive exam pathi negative outcome varumo nu fear ah irukku,I'm scared that my competitive exam might have a negative outcome,education,fear,"competitive,fear",medium,high
+"hackathon nalla prepare pannitten, ipo calm ah irukken","I've prepared well for my hackathon, I feel calm now",education,calm,"hackathon,calm",low,high
+"electronics subject pathi teacher venaama kadinama pesinanga, kobama irukku","The teacher spoke harshly to me about my electronics subject for no reason, I'm angry",education,angry,"electronics,angry",medium,high
+coding practice ku team ah let down pannitten nu guilt irukku,I feel guilty that I let my team down regarding my coding practice,education,guilty,"coding,guilty",medium,high
+"internship result nalla vandhudhu, semma happy ah irukken","My internship result came out well, I'm so happy about it",education,happy,"internship,happy",low,high
+"semester exam pathi pesa yarum illa hostel la, lonely ah irukku","There's no one to talk to about my semester exam in the hostel, I feel lonely",education,lonely,"semester,lonely",medium,high
+"university pathi nalla feedback kedaichudhu, mood romba happy","I got good feedback about my university, my mood is really happy",education,happy,"university,happy",low,high
+scholarship la nalla mark varamale poidumo nu bayama irukku,I'm afraid I might not get good marks in my scholarship,education,fear,"scholarship,fear",medium,high
+"seminar pathi over thinking pannitu irukken, sleep kooda varala","I've been overthinking about my seminar, I can't even sleep",education,anxious,"seminar,anxious",medium,high
+"exam stress preparation la kadaisi nimusham varaikkum procrastinate pannitten, guilt ah irukku","I procrastinated my exam stress preparation till the last minute, I feel guilty",education,guilty,"exam,guilty",medium,high
+exam stress result paathu romba sad ah aayiduchen,I felt really sad after seeing my exam stress result,education,sad,"exam,sad",medium,high
+fees payment pathi ninaicha kobam adangala,My anger doesn't settle down when I think about my fees payment,education,angry,"fees,angry",medium,high
+"academic goal pathi accept pannitten, calm ah feel panren","I've accepted things about my academic goal, I feel calm",education,calm,"academic,calm",low,high
+university nalla poidum nu nambikkai irukku,I have hope that my university will go well,education,hopeful,"university,hopeful",low,high
+"AI course discuss panna yarum kedaikala, lonely feel aagudhu","I couldn't find anyone to discuss my AI course with, I feel lonely",education,lonely,"ai,lonely",medium,high
+DSA preparation pathi ninachaale sad ah irukku,Thinking about my DSA preparation makes me feel sad,education,sad,"dsa,sad",medium,high
+"presentation preparation la kadaisi nimusham varaikkum procrastinate pannitten, guilt ah irukku","I procrastinated my presentation preparation till the last minute, I feel guilty",education,guilty,"presentation,guilty",medium,high
+coding practice result paathu romba sad ah aayiduchen,I felt really sad after seeing my coding practice result,education,sad,"coding,sad",medium,high
+"AI course deadline nearagudhu, romba stress ah irukku","My AI course deadline is approaching, I'm really stressed",education,stressed,"ai,stressed",high,high
+"friends ellarum assignment pathi busy, naan thaniya irukken","All my friends are busy with their assignment, I'm on my own",education,lonely,"assignment,lonely",low,high
+"concentration ippo kashtama irundhalum, mudivula nalladhu nadakum nu nambaren","Even though my concentration is hard right now, I believe it will end well",education,hopeful,"concentration,hopeful",low,high
+GATE preparation preparation romba stress kudukudhu,Preparing for my GATE preparation is giving me a lot of stress,education,stressed,"gate,stressed",high,high
+"record work schedule last nimushathula maathitanga, romba irritation","They changed the record work schedule at the last minute, it's really irritating",education,angry,"record,angry",medium,high
+hostel life la fail aayiduchen nu therinjadhum mind heavy ah aayiduchu,"The moment I found out I failed my hostel life, my mind felt heavy",education,sad,"hostel,sad",medium,high
+"internal exam ku register pannitten, romba excited ah irukku","I registered for my internal exam, I'm really excited",education,excited,"internal,excited",low,high
+"class teacher ku nalla prepare aagalaya nu doubt varudhu, anxious ah irukku","I keep doubting whether I've prepared well for my class teacher, I'm anxious",education,anxious,"class,anxious",medium,high
+"graduation pathi ninacha thalai suthudhu, stress ah irukku","My head spins when I think about my graduation, I'm stressed",education,stressed,"graduation,stressed",high,high
+"workshop preparation la kadaisi nimusham varaikkum procrastinate pannitten, guilt ah irukku","I procrastinated my workshop preparation till the last minute, I feel guilty",education,guilty,"workshop,guilty",medium,high
+academic goal la fail aayiduchen nu therinjadhum mind heavy ah aayiduchu,"The moment I found out I failed my academic goal, my mind felt heavy",education,sad,"academic,sad",medium,high
+"new skill learning nearagunna nenju padhapadhukudhu, anxious ah irukku","My heart races as my learning a new skill approaches, I feel anxious",education,anxious,"new,anxious",medium,high
+"university preparation la kadaisi nimusham varaikkum procrastinate pannitten, guilt ah irukku","I procrastinated my university preparation till the last minute, I feel guilty",education,guilty,"university,guilty",medium,high
+"higher studies plan preparation ellam thaniya pannuren, konjam lonely ah irukku","I'm doing all my higher studies plan preparation alone, I feel a bit lonely",education,lonely,"higher,lonely",medium,high
+attendance la fail aayidumo nu romba bayanthu irukken,I'm really scared that I might fail my attendance,education,fear,"attendance,fear",high,high
+"homework pathi teacher venaama kadinama pesinanga, kobama irukku","The teacher spoke harshly to me about my homework for no reason, I'm angry",education,angry,"homework,angry",medium,high
+"DSA preparation pathi ipo tension illa, mind calm ah irukku","I don't feel tense about my DSA preparation anymore, my mind feels calm",education,calm,"dsa,calm",low,high
+classroom pathi ninaicha kobam adangala,My anger doesn't settle down when I think about my classroom,education,angry,"classroom,angry",medium,high
+"friends ellarum classroom pathi busy, naan thaniya irukken","All my friends are busy with their classroom, I'm on my own",education,lonely,"classroom,lonely",low,high
+"scholarship ku promise panni miss pannitten, romba guilty ah feel panren","I promised something for my scholarship and missed it, I feel really guilty",education,guilty,"scholarship,guilty",medium,high
+"university plan pannitten, ipo mind peaceful ah irukku","I've planned my university, my mind feels peaceful now",education,calm,"university,calm",low,high
+group study ku team ah let down pannitten nu guilt irukku,I feel guilty that I let my team down regarding my group study,education,guilty,"group,guilty",medium,high
+"professor start aaga innum konjam naal dhaan irukku, romba excited ah irukken","There's only a few days left for my professor to start, I'm really excited",education,excited,"professor,excited",low,high
+"classmates ku new topics padikka poren nu thonudhu, excited ah irukku",I'm excited thinking about the new topics I'll learn in my classmates,education,excited,"classmates,excited",low,high
+presentation pathi ninaicha kobam adangala,My anger doesn't settle down when I think about my presentation,education,angry,"presentation,angry",medium,high
+"DSA preparation time la yaarum help panna maatanga, thaniya feel panren","Nobody helps me during my DSA preparation, I feel alone",education,lonely,"dsa,lonely",medium,high
+fees payment nalla poidum nu nambikkai irukku,I have hope that my fees payment will go well,education,hopeful,"fees,hopeful",low,high
+"coding practice start aaga innum konjam naal dhaan irukku, romba excited ah irukken","There's only a few days left for my coding practice to start, I'm really excited",education,excited,"coding,excited",low,high
+"university pathi konjam tension irundhalum, positive ah dhaan irukken","Even with some tension about my university, I'm staying positive",education,hopeful,"university,hopeful",low,high
+university exam ku sariyaana effort podala nu ippo guilt varudhu,I feel guilty now that I didn't put proper effort into my university exam,education,guilty,"university,guilty",medium,high
+viva ku team ah let down pannitten nu guilt irukku,I feel guilty that I let my team down regarding my viva,education,guilty,"viva,guilty",medium,high
+research paper nearagudhu nu ninachaale bayam varudhu,I feel scared whenever I think my research paper is approaching,education,fear,"research,fear",medium,high
+scholarship ku sariyaana effort podala nu ippo guilt varudhu,I feel guilty now that I didn't put proper effort into my scholarship,education,guilty,"scholarship,guilty",medium,high
+assignment la enna approach follow pannanum nu confusion irukku,I'm confused about what approach to follow for my assignment,education,confused,"assignment,confused",medium,high
+"arrears discuss panna yarum kedaikala, lonely feel aagudhu","I couldn't find anyone to discuss my arrears with, I feel lonely",education,lonely,"arrears,lonely",medium,high
+"higher studies plan pathi yosichaale hands shake aagudhu, romba anxious","My hands shake when I think about my higher studies plan, I'm really anxious",education,anxious,"higher,anxious",high,high
+certification course la enna approach follow pannanum nu confusion irukku,I'm confused about what approach to follow for my certification course,education,confused,"certification,confused",medium,high
+"certification course ku new topics padikka poren nu thonudhu, excited ah irukku",I'm excited thinking about the new topics I'll learn in my certification course,education,excited,"certification,excited",low,high
+"record work pathi nalla feedback kedaichudhu, mood romba happy","I got good feedback about my record work, my mood is really happy",education,happy,"record,happy",low,high
+electronics subject ku team ah let down pannitten nu guilt irukku,I feel guilty that I let my team down regarding my electronics subject,education,guilty,"electronics,guilty",medium,high
+"Python programming syllabus romba periya level la irukku, stress ah irukku","The syllabus for my Python programming is huge, I'm stressed",education,stressed,"python,stressed",medium,high
+"university exam pathi over thinking pannitu irukken, sleep kooda varala","I've been overthinking about my university exam, I can't even sleep",education,anxious,"university,anxious",medium,high
+"attendance ku new topics padikka poren nu thonudhu, excited ah irukku",I'm excited thinking about the new topics I'll learn in my attendance,education,excited,"attendance,excited",low,high
+study motivation la fail aayidumo nu romba bayanthu irukken,I'm really scared that I might fail my study motivation,education,fear,"study,fear",high,high
+"classmates pathi nalla feedback kedaichudhu, mood romba happy","I got good feedback about my classmates, my mood is really happy",education,happy,"classmates,happy",low,high
+"placements preparation la top score vangiten, semma santhosham","I scored the top marks in my placements preparation, I'm so delighted",education,happy,"placements,happy",low,high
+"group study ku promise panni miss pannitten, romba guilty ah feel panren","I promised something for my group study and missed it, I feel really guilty",education,guilty,"group,guilty",medium,high
+"presentation pathi yosichaale hands shake aagudhu, romba anxious","My hands shake when I think about my presentation, I'm really anxious",education,anxious,"presentation,anxious",high,high
+"new skill learning ku hard work pannitu irukken, result nalladhu varum nu nambikkai","I'm working hard on my learning a new skill, I hope the result will be good",education,hopeful,"new,hopeful",low,high
+exam stress result eppo varum nu ninachu anxious ah irukken,I feel anxious wondering when my exam stress result will come,education,anxious,"exam,anxious",medium,high
+"hostel life ku nalla prepare aagalaya nu doubt varudhu, anxious ah irukku","I keep doubting whether I've prepared well for my hostel life, I'm anxious",education,anxious,"hostel,anxious",medium,high
+"university ku promise panni miss pannitten, romba guilty ah feel panren","I promised something for my university and missed it, I feel really guilty",education,guilty,"university,guilty",medium,high
+"new skill learning pathi teacher venaama kadinama pesinanga, kobama irukku","The teacher spoke harshly to me about my learning a new skill for no reason, I'm angry",education,angry,"new,angry",medium,high
+class teacher la fail aayidumo nu romba bayanthu irukken,I'm really scared that I might fail my class teacher,education,fear,"class,fear",high,high
+communication engineering la nalla mark varamale poidumo nu bayama irukku,I'm afraid I might not get good marks in my communication engineering,education,fear,"communication,fear",medium,high
+"AI course result nalla vandhudhu, semma happy ah irukken","My AI course result came out well, I'm so happy about it",education,happy,"ai,happy",low,high
+"exam stress pathi teacher solradhukum notes irukradhukum match aagala, confuse ah irukku","What the teacher said about my exam stress doesn't match the notes, I'm confused",education,confused,"exam,confused",medium,high
+"GATE preparation pathi nalla feedback kedaichudhu, mood romba happy","I got good feedback about my GATE preparation, my mood is really happy",education,happy,"gate,happy",low,high
+"fees payment pathi teacher solradhukum notes irukradhukum match aagala, confuse ah irukku","What the teacher said about my fees payment doesn't match the notes, I'm confused",education,confused,"fees,confused",medium,high
+"research paper pathi pesa yarum illa hostel la, lonely ah irukku","There's no one to talk to about my research paper in the hostel, I feel lonely",education,lonely,"research,lonely",medium,high
+"project la top score vangiten, semma santhosham","I scored the top marks in my project, I'm so delighted",education,happy,"project,happy",low,high
+"classmates ku nalla prepare aagalaya nu doubt varudhu, anxious ah irukku","I keep doubting whether I've prepared well for my classmates, I'm anxious",education,anxious,"classmates,anxious",medium,high
+"class teacher ku register pannitten, romba excited ah irukku","I registered for my class teacher, I'm really excited",education,excited,"class,excited",low,high
+"fees payment nearagunna nenju padhapadhukudhu, anxious ah irukku","My heart races as my fees payment approaches, I feel anxious",education,anxious,"fees,anxious",medium,high
+"communication engineering start aaga innum konjam naal dhaan irukku, romba excited ah irukken","There's only a few days left for my communication engineering to start, I'm really excited",education,excited,"communication,excited",low,high
+"competitive exam pathi accept pannitten, calm ah feel panren","I've accepted things about my competitive exam, I feel calm",education,calm,"competitive,calm",low,high
+"GATE preparation start aaga innum konjam naal dhaan irukku, romba excited ah irukken","There's only a few days left for my GATE preparation to start, I'm really excited",education,excited,"gate,excited",low,high
+communication engineering nearagudhu nu ninachaale bayam varudhu,I feel scared whenever I think my communication engineering is approaching,education,fear,"communication,fear",medium,high
+scholarship pathi yosikkama calm ah irukka try panren,I'm trying to stay calm without overthinking my scholarship,education,calm,"scholarship,calm",low,high
+attendance ku sariyaana effort podala nu ippo guilt varudhu,I feel guilty now that I didn't put proper effort into my attendance,education,guilty,"attendance,guilty",medium,high
+"embedded systems subject time la yaarum help panna maatanga, thaniya feel panren","Nobody helps me during my embedded systems subject, I feel alone",education,lonely,"embedded,lonely",medium,high
+classmates nalla poidum nu nambikkai irukku,I have hope that my classmates will go well,education,hopeful,"classmates,hopeful",low,high
+classmates pathi ninachaale sad ah irukku,Thinking about my classmates makes me feel sad,education,sad,"classmates,sad",medium,high
+"lab work la top score vangiten, semma santhosham","I scored the top marks in my lab work, I'm so delighted",education,happy,"lab,happy",low,high
+academic goal ku team ah let down pannitten nu guilt irukku,I feel guilty that I let my team down regarding my academic goal,education,guilty,"academic,guilty",medium,high
+"project start aaga innum konjam naal dhaan irukku, romba excited ah irukken","There's only a few days left for my project to start, I'm really excited",education,excited,"project,excited",low,high
+"seminar nearagunna nenju padhapadhukudhu, anxious ah irukku","My heart races as my seminar approaches, I feel anxious",education,anxious,"seminar,anxious",medium,high
+"seminar pathi pesa yarum illa hostel la, lonely ah irukku","There's no one to talk to about my seminar in the hostel, I feel lonely",education,lonely,"seminar,lonely",medium,high
+"hostel life plan pannitten, ipo mind peaceful ah irukku","I've planned my hostel life, my mind feels peaceful now",education,calm,"hostel,calm",low,high
+"friends ellarum viva pathi busy, naan thaniya irukken","All my friends are busy with their viva, I'm on my own",education,lonely,"viva,lonely",low,high
+new skill learning la parents expectation meet panna mudiyala nu guilt irukku,I feel guilty that I couldn't meet my parents' expectations in my learning a new skill,education,guilty,"new,guilty",medium,high
+attendance pathi yosikkama calm ah irukka try panren,I'm trying to stay calm without overthinking my attendance,education,calm,"attendance,calm",low,high
+"attendance vetri aaga mudinjadhu, happy ah irukku","I managed to succeed in my attendance, I feel happy",education,happy,"attendance,happy",low,high
+scholarship ku team ah let down pannitten nu guilt irukku,I feel guilty that I let my team down regarding my scholarship,education,guilty,"scholarship,guilty",medium,high
+"fear of failure time la yaarum help panna maatanga, thaniya feel panren","Nobody helps me during my fear of failure, I feel alone",education,lonely,"fear,lonely",medium,high
+time management pathi ninaicha kobam adangala,My anger doesn't settle down when I think about my time management,education,angry,"time,angry",medium,high
+certification course la fail aayidumo nu romba bayanthu irukken,I'm really scared that I might fail my certification course,education,fear,"certification,fear",high,high
+"internship nalla nadakala, manasu heavy ah irukku","My internship did not go well, my heart feels heavy",education,sad,"internship,sad",medium,high
+semester exam pathi ninaicha kobam adangala,My anger doesn't settle down when I think about my semester exam,education,angry,"semester,angry",medium,high
+"time management expect panna madhiri nadakala, romba vaguthadhu","My time management didn't turn out as I expected, it really disappointed me",education,sad,"time,sad",medium,high
+"research paper pathi friends ellarum different advice kudukranga, confuse ah irukku","All my friends are giving different advice about my research paper, I'm confused",education,confused,"research,confused",medium,high
+"workshop pathi pesa yarum illa hostel la, lonely ah irukku","There's no one to talk to about my workshop in the hostel, I feel lonely",education,lonely,"workshop,lonely",medium,high
+presentation pathi negative outcome varumo nu fear ah irukku,I'm scared that my presentation might have a negative outcome,education,fear,"presentation,fear",medium,high
+"graduation expect panna madhiri nadakala, romba vaguthadhu","My graduation didn't turn out as I expected, it really disappointed me",education,sad,"graduation,sad",medium,high
+"GATE preparation schedule last nimushathula maathitanga, romba irritation","They changed the GATE preparation schedule at the last minute, it's really irritating",education,angry,"gate,angry",medium,high
+lab work pathi yosikkama calm ah irukka try panren,I'm trying to stay calm without overthinking my lab work,education,calm,"lab,calm",low,high
+"graduation la nalla opportunity kedaichudhu, semma excited","I got a great opportunity in my graduation, I'm so excited",education,excited,"graduation,excited",low,high
+"new skill learning preparation ellam thaniya pannuren, konjam lonely ah irukku","I'm doing all my learning a new skill preparation alone, I feel a bit lonely",education,lonely,"new,lonely",medium,high
+"homework vishayathula unfair ah treat pannanga nu feel panren, romba frustration","I feel like I was treated unfairly regarding my homework, it's really frustrating",education,angry,"homework,angry",medium,high
+concentration pathi yosikkama calm ah irukka try panren,I'm trying to stay calm without overthinking my concentration,education,calm,"concentration,calm",low,high
+"model exam pathi teacher venaama kadinama pesinanga, kobama irukku","The teacher spoke harshly to me about my model exam for no reason, I'm angry",education,angry,"model,angry",medium,high
+workshop la marks correct ah kudukala nu kobam varudhu,I'm angry that they didn't give correct marks for my workshop,education,angry,"workshop,angry",medium,high
+"internship pathi pesa yarum illa hostel la, lonely ah irukku","There's no one to talk to about my internship in the hostel, I feel lonely",education,lonely,"internship,lonely",medium,high
+"new skill learning pathi friends ellarum different advice kudukranga, confuse ah irukku","All my friends are giving different advice about my learning a new skill, I'm confused",education,confused,"new,confused",medium,high
+"presentation pathi konjam tension irundhalum, positive ah dhaan irukken","Even with some tension about my presentation, I'm staying positive",education,hopeful,"presentation,hopeful",low,high
+"group study vetri aaga mudinjadhu, happy ah irukku","I managed to succeed in my group study, I feel happy",education,happy,"group,happy",low,high
+"school start aaga innum konjam naal dhaan irukku, romba excited ah irukken","There's only a few days left for my school to start, I'm really excited",education,excited,"school,excited",low,high
+"academic goal plan pannitten, ipo mind peaceful ah irukku","I've planned my academic goal, my mind feels peaceful now",education,calm,"academic,calm",low,high
+"internal exam la top score vangiten, semma santhosham","I scored the top marks in my internal exam, I'm so delighted",education,happy,"internal,happy",low,high
+"higher studies plan pathi nalla feedback kedaichudhu, mood romba happy","I got good feedback about my higher studies plan, my mood is really happy",education,happy,"higher,happy",low,high
+"homework ku promise panni miss pannitten, romba guilty ah feel panren","I promised something for my homework and missed it, I feel really guilty",education,guilty,"homework,guilty",medium,high
+"concentration pathi ipo tension illa, mind calm ah irukku","I don't feel tense about my concentration anymore, my mind feels calm",education,calm,"concentration,calm",low,high
+"Python programming result nalla vandhudhu, semma happy ah irukken","My Python programming result came out well, I'm so happy about it",education,happy,"python,happy",low,high
+"seminar ippo kashtama irundhalum, mudivula nalladhu nadakum nu nambaren","Even though my seminar is hard right now, I believe it will end well",education,hopeful,"seminar,hopeful",low,high
+semester exam pathi yosikkama calm ah irukka try panren,I'm trying to stay calm without overthinking my semester exam,education,calm,"semester,calm",low,high
+"scholarship pathi yosichaale hands shake aagudhu, romba anxious","My hands shake when I think about my scholarship, I'm really anxious",education,anxious,"scholarship,anxious",high,high
+"friends ellarum workshop pathi busy, naan thaniya irukken","All my friends are busy with their workshop, I'm on my own",education,lonely,"workshop,lonely",low,high
+homework ku sariyaana effort podala nu ippo guilt varudhu,I feel guilty now that I didn't put proper effort into my homework,education,guilty,"homework,guilty",medium,high
+DSA preparation ku decision edukka mudiyama irukken innum,I still can't make a decision about my DSA preparation,education,confused,"dsa,confused",medium,high
+"higher studies plan la nalla opportunity kedaichudhu, semma excited","I got a great opportunity in my higher studies plan, I'm so excited",education,excited,"higher,excited",low,high
+assignment la nalla mark varamale poidumo nu bayama irukku,I'm afraid I might not get good marks in my assignment,education,fear,"assignment,fear",medium,high
+"internship ku hard work pannitu irukken, result nalladhu varum nu nambikkai","I'm working hard on my internship, I hope the result will be good",education,hopeful,"internship,hopeful",low,high
+"internship pathi results announce panna poranga, wait pannitu excited ah irukken","They're about to announce internship results, I'm waiting excitedly",education,excited,"internship,excited",low,high
+"coding practice preparation ellam thaniya pannuren, konjam lonely ah irukku","I'm doing all my coding practice preparation alone, I feel a bit lonely",education,lonely,"coding,lonely",medium,high
+"fear of failure ku nalla prepare aagalaya nu doubt varudhu, anxious ah irukku","I keep doubting whether I've prepared well for my fear of failure, I'm anxious",education,anxious,"fear,anxious",medium,high
+"time management ippo kashtama irundhalum, mudivula nalladhu nadakum nu nambaren","Even though my time management is hard right now, I believe it will end well",education,hopeful,"time,hopeful",low,high
+"higher studies plan plan pannitten, ipo mind peaceful ah irukku","I've planned my higher studies plan, my mind feels peaceful now",education,calm,"higher,calm",low,high
+academic goal pathi yosikkama calm ah irukka try panren,I'm trying to stay calm without overthinking my academic goal,education,calm,"academic,calm",low,high
+"group study pathi ninacha thalai suthudhu, stress ah irukku","My head spins when I think about my group study, I'm stressed",education,stressed,"group,stressed",high,high
+fear of failure la parents expectation meet panna mudiyala nu guilt irukku,I feel guilty that I couldn't meet my parents' expectations in my fear of failure,education,guilty,"fear,guilty",medium,high
+"study motivation plan pannitten, ipo mind peaceful ah irukku","I've planned my study motivation, my mind feels peaceful now",education,calm,"study,calm",low,high
+record work la fail aayidumo nu romba bayanthu irukken,I'm really scared that I might fail my record work,education,fear,"record,fear",high,high
+"DSA preparation la top score vangiten, semma santhosham","I scored the top marks in my DSA preparation, I'm so delighted",education,happy,"dsa,happy",low,high
+"hackathon preparation la kadaisi nimusham varaikkum procrastinate pannitten, guilt ah irukku","I procrastinated my hackathon preparation till the last minute, I feel guilty",education,guilty,"hackathon,guilty",medium,high
+"college pathi yosichaale hands shake aagudhu, romba anxious","My hands shake when I think about my college, I'm really anxious",education,anxious,"college,anxious",high,high
+"project ku hard work pannitu irukken, result nalladhu varum nu nambikkai","I'm working hard on my project, I hope the result will be good",education,hopeful,"project,hopeful",low,high
+"scholarship pathi friends ellarum different advice kudukranga, confuse ah irukku","All my friends are giving different advice about my scholarship, I'm confused",education,confused,"scholarship,confused",medium,high
+hackathon nearagudhu nu ninachaale bayam varudhu,I feel scared whenever I think my hackathon is approaching,education,fear,"hackathon,fear",medium,high
+time management la fail aayidumo nu romba bayanthu irukken,I'm really scared that I might fail my time management,education,fear,"time,fear",high,high
+arrears pathi ninaicha kobam adangala,My anger doesn't settle down when I think about my arrears,education,angry,"arrears,angry",medium,high
+workshop la fail aayidumo nu romba bayanthu irukken,I'm really scared that I might fail my workshop,education,fear,"workshop,fear",high,high
+"electronics subject syllabus romba periya level la irukku, stress ah irukku","The syllabus for my electronics subject is huge, I'm stressed",education,stressed,"electronics,stressed",medium,high
+university exam result paathu romba sad ah aayiduchen,I felt really sad after seeing my university exam result,education,sad,"university,sad",medium,high
+"time management la nalla opportunity kedaichudhu, semma excited","I got a great opportunity in my time management, I'm so excited",education,excited,"time,excited",low,high
+"assignment nearagunna nenju padhapadhukudhu, anxious ah irukku","My heart races as my assignment approaches, I feel anxious",education,anxious,"assignment,anxious",medium,high
+"classmates deadline nearagudhu, romba stress ah irukku","My classmates deadline is approaching, I'm really stressed",education,stressed,"classmates,stressed",high,high
+professor pathi yosikkama calm ah irukka try panren,I'm trying to stay calm without overthinking my professor,education,calm,"professor,calm",low,high
+exam stress la parents expectation meet panna mudiyala nu guilt irukku,I feel guilty that I couldn't meet my parents' expectations in my exam stress,education,guilty,"exam,guilty",medium,high
+project la fail aayiduchen nu therinjadhum mind heavy ah aayiduchu,"The moment I found out I failed my project, my mind felt heavy",education,sad,"project,sad",medium,high
+"fear of failure plan pannitten, ipo mind peaceful ah irukku","I've planned my fear of failure, my mind feels peaceful now",education,calm,"fear,calm",low,high
+project preparation romba stress kudukudhu,Preparing for my project is giving me a lot of stress,education,stressed,"project,stressed",high,high
+"higher studies plan pathi teacher solradhukum notes irukradhukum match aagala, confuse ah irukku","What the teacher said about my higher studies plan doesn't match the notes, I'm confused",education,confused,"higher,confused",medium,high
+"competitive exam la top score vangiten, semma santhosham","I scored the top marks in my competitive exam, I'm so delighted",education,happy,"competitive,happy",low,high
+seminar pathi ninaicha kobam adangala,My anger doesn't settle down when I think about my seminar,education,angry,"seminar,angry",medium,high
+study motivation pathi negative outcome varumo nu fear ah irukku,I'm scared that my study motivation might have a negative outcome,education,fear,"study,fear",medium,high
+"attendance ippo kashtama irundhalum, mudivula nalladhu nadakum nu nambaren","Even though my attendance is hard right now, I believe it will end well",education,hopeful,"attendance,hopeful",low,high
+"project pathi over thinking pannitu irukken, sleep kooda varala","I've been overthinking about my project, I can't even sleep",education,anxious,"project,anxious",medium,high
+"embedded systems subject pathi konjam tension irundhalum, positive ah dhaan irukken","Even with some tension about my embedded systems subject, I'm staying positive",education,hopeful,"embedded,hopeful",low,high
+hostel life pathi ninachaale sad ah irukku,Thinking about my hostel life makes me feel sad,education,sad,"hostel,sad",medium,high
+"Python programming pathi teacher solradhukum notes irukradhukum match aagala, confuse ah irukku","What the teacher said about my Python programming doesn't match the notes, I'm confused",education,confused,"python,confused",medium,high
+"time management ku hard work pannitu irukken, result nalladhu varum nu nambikkai","I'm working hard on my time management, I hope the result will be good",education,hopeful,"time,hopeful",low,high
+attendance ku decision edukka mudiyama irukken innum,I still can't make a decision about my attendance,education,confused,"attendance,confused",medium,high
+presentation eppadi start pannanum nu theriyala,I don't know how to start my presentation,education,confused,"presentation,confused",medium,high
+"hostel life ku hard work pannitu irukken, result nalladhu varum nu nambikkai","I'm working hard on my hostel life, I hope the result will be good",education,hopeful,"hostel,hopeful",low,high
+"arrears ku hard work pannitu irukken, result nalladhu varum nu nambikkai","I'm working hard on my arrears, I hope the result will be good",education,hopeful,"arrears,hopeful",low,high
+"hackathon plan pannitten, ipo mind peaceful ah irukku","I've planned my hackathon, my mind feels peaceful now",education,calm,"hackathon,calm",low,high
+"workshop pathi ipo tension illa, mind calm ah irukku","I don't feel tense about my workshop anymore, my mind feels calm",education,calm,"workshop,calm",low,high
+lab work pathi yosichaale nenju padhapadhukudhu,My heart races with fear whenever I think about my lab work,education,fear,"lab,fear",medium,high
+viva preparation romba stress kudukudhu,Preparing for my viva is giving me a lot of stress,education,stressed,"viva,stressed",high,high
+"higher studies plan nalla nadakala, manasu heavy ah irukku","My higher studies plan did not go well, my heart feels heavy",education,sad,"higher,sad",medium,high
+"technical symposium syllabus romba periya level la irukku, stress ah irukku","The syllabus for my technical symposium is huge, I'm stressed",education,stressed,"technical,stressed",medium,high
+"fees payment la top score vangiten, semma santhosham","I scored the top marks in my fees payment, I'm so delighted",education,happy,"fees,happy",low,high
+"record work ippo kashtama irundhalum, mudivula nalladhu nadakum nu nambaren","Even though my record work is hard right now, I believe it will end well",education,hopeful,"record,hopeful",low,high
+class teacher pathi yosichaale nenju padhapadhukudhu,My heart races with fear whenever I think about my class teacher,education,fear,"class,fear",medium,high
+fear of failure pathi yosichaale nenju padhapadhukudhu,My heart races with fear whenever I think about my fear of failure,education,fear,"fear,fear",medium,high
+"new skill learning ku register pannitten, romba excited ah irukku","I registered for my learning a new skill, I'm really excited",education,excited,"new,excited",low,high
+"AI course time la yaarum help panna maatanga, thaniya feel panren","Nobody helps me during my AI course, I feel alone",education,lonely,"ai,lonely",medium,high
+"record work ku register pannitten, romba excited ah irukku","I registered for my record work, I'm really excited",education,excited,"record,excited",low,high
+fear of failure preparation romba stress kudukudhu,Preparing for my fear of failure is giving me a lot of stress,education,stressed,"fear,stressed",high,high
+"model exam pathi friends ellarum different advice kudukranga, confuse ah irukku","All my friends are giving different advice about my model exam, I'm confused",education,confused,"model,confused",medium,high
+embedded systems subject la fail aayiduchen nu therinjadhum mind heavy ah aayiduchu,"The moment I found out I failed my embedded systems subject, my mind felt heavy",education,sad,"embedded,sad",medium,high
+certification course la nalla mark varamale poidumo nu bayama irukku,I'm afraid I might not get good marks in my certification course,education,fear,"certification,fear",medium,high
+internship ku decision edukka mudiyama irukken innum,I still can't make a decision about my internship,education,confused,"internship,confused",medium,high
+"graduation deadline nearagudhu, romba stress ah irukku","My graduation deadline is approaching, I'm really stressed",education,stressed,"graduation,stressed",high,high
+scholarship pathi negative outcome varumo nu fear ah irukku,I'm scared that my scholarship might have a negative outcome,education,fear,"scholarship,fear",medium,high
+placements preparation pathi ninachaale sad ah irukku,Thinking about my placements preparation makes me feel sad,education,sad,"placements,sad",medium,high
+new skill learning la fail aayiduchen nu therinjadhum mind heavy ah aayiduchu,"The moment I found out I failed my learning a new skill, my mind felt heavy",education,sad,"new,sad",medium,high
+"college nalla prepare pannitten, ipo calm ah irukken","I've prepared well for my college, I feel calm now",education,calm,"college,calm",low,high
+"friends ellarum communication engineering pathi busy, naan thaniya irukken","All my friends are busy with their communication engineering, I'm on my own",education,lonely,"communication,lonely",low,high
+"internship pathi over thinking pannitu irukken, sleep kooda varala","I've been overthinking about my internship, I can't even sleep",education,anxious,"internship,anxious",medium,high
+professor la enna approach follow pannanum nu confusion irukku,I'm confused about what approach to follow for my professor,education,confused,"professor,confused",medium,high
+"Python programming preparation ellam thaniya pannuren, konjam lonely ah irukku","I'm doing all my Python programming preparation alone, I feel a bit lonely",education,lonely,"python,lonely",medium,high
+university exam preparation romba stress kudukudhu,Preparing for my university exam is giving me a lot of stress,education,stressed,"university,stressed",high,high
+"presentation pathi results announce panna poranga, wait pannitu excited ah irukken","They're about to announce presentation results, I'm waiting excitedly",education,excited,"presentation,excited",low,high
+exam stress pathi yosichaale nenju padhapadhukudhu,My heart races with fear whenever I think about my exam stress,education,fear,"exam,fear",medium,high
+"viva pathi ninacha thalai suthudhu, stress ah irukku","My head spins when I think about my viva, I'm stressed",education,stressed,"viva,stressed",high,high
+research paper ku decision edukka mudiyama irukken innum,I still can't make a decision about my research paper,education,confused,"research,confused",medium,high
+"time management pathi ninacha thalai suthudhu, stress ah irukku","My head spins when I think about my time management, I'm stressed",education,stressed,"time,stressed",high,high
+"classmates preparation la kadaisi nimusham varaikkum procrastinate pannitten, guilt ah irukku","I procrastinated my classmates preparation till the last minute, I feel guilty",education,guilty,"classmates,guilty",medium,high
+"concentration ku parallel ah vera work kooda irukku, stress adhigama irukku","I have other work along with my concentration, the stress is very high",education,stressed,"concentration,stressed",high,high
+"school pathi friends ellarum different advice kudukranga, confuse ah irukku","All my friends are giving different advice about my school, I'm confused",education,confused,"school,confused",medium,high
+"exam stress start aaga innum konjam naal dhaan irukku, romba excited ah irukken","There's only a few days left for my exam stress to start, I'm really excited",education,excited,"exam,excited",low,high
+"class teacher ku new topics padikka poren nu thonudhu, excited ah irukku",I'm excited thinking about the new topics I'll learn in my class teacher,education,excited,"class,excited",low,high
+Python programming nalla mudinjadhu nu kelvi pattu happy ah irukken,"I heard my Python programming went well, I'm happy about it",education,happy,"python,happy",low,high
+assignment result eppo varum nu ninachu anxious ah irukken,I feel anxious wondering when my assignment result will come,education,anxious,"assignment,anxious",medium,high
+"assignment vishayathula unfair ah treat pannanga nu feel panren, romba frustration","I feel like I was treated unfairly regarding my assignment, it's really frustrating",education,angry,"assignment,angry",medium,high
+"internal exam pathi over thinking pannitu irukken, sleep kooda varala","I've been overthinking about my internal exam, I can't even sleep",education,anxious,"internal,anxious",medium,high
+scholarship pathi ninaicha kobam adangala,My anger doesn't settle down when I think about my scholarship,education,angry,"scholarship,angry",medium,high
+"model exam plan pannitten, ipo mind peaceful ah irukku","I've planned my model exam, my mind feels peaceful now",education,calm,"model,calm",low,high
+"internal exam pathi ipo tension illa, mind calm ah irukku","I don't feel tense about my internal exam anymore, my mind feels calm",education,calm,"internal,calm",low,high
+"new skill learning la nalla opportunity kedaichudhu, semma excited","I got a great opportunity in my learning a new skill, I'm so excited",education,excited,"new,excited",low,high
+communication engineering la fail aayiduchen nu therinjadhum mind heavy ah aayiduchu,"The moment I found out I failed my communication engineering, my mind felt heavy",education,sad,"communication,sad",medium,high
+DSA preparation preparation romba stress kudukudhu,Preparing for my DSA preparation is giving me a lot of stress,education,stressed,"dsa,stressed",high,high
+"friends ellarum fear of failure pathi busy, naan thaniya irukken","All my friends are busy with their fear of failure, I'm on my own",education,lonely,"fear,lonely",low,high
+DSA preparation pathi yosikkama calm ah irukka try panren,I'm trying to stay calm without overthinking my DSA preparation,education,calm,"dsa,calm",low,high
+"internship plan pannitten, ipo mind peaceful ah irukku","I've planned my internship, my mind feels peaceful now",education,calm,"internship,calm",low,high
+competitive exam ku sariyaana effort podala nu ippo guilt varudhu,I feel guilty now that I didn't put proper effort into my competitive exam,education,guilty,"competitive,guilty",medium,high
+workshop ku decision edukka mudiyama irukken innum,I still can't make a decision about my workshop,education,confused,"workshop,confused",medium,high
+"GATE preparation ku parallel ah vera work kooda irukku, stress adhigama irukku","I have other work along with my GATE preparation, the stress is very high",education,stressed,"gate,stressed",high,high
+"new skill learning vetri aaga mudinjadhu, happy ah irukku","I managed to succeed in my learning a new skill, I feel happy",education,happy,"new,happy",low,high
+"classmates time la yaarum help panna maatanga, thaniya feel panren","Nobody helps me during my classmates, I feel alone",education,lonely,"classmates,lonely",medium,high
+"classmates nalla nadakala, manasu heavy ah irukku","My classmates did not go well, my heart feels heavy",education,sad,"classmates,sad",medium,high
+"semester exam pathi results announce panna poranga, wait pannitu excited ah irukken","They're about to announce semester exam results, I'm waiting excitedly",education,excited,"semester,excited",low,high
+model exam nalla poidum nu nambikkai irukku,I have hope that my model exam will go well,education,hopeful,"model,hopeful",low,high
+"academic goal ku register pannitten, romba excited ah irukku","I registered for my academic goal, I'm really excited",education,excited,"academic,excited",low,high
+"coding practice syllabus romba periya level la irukku, stress ah irukku","The syllabus for my coding practice is huge, I'm stressed",education,stressed,"coding,stressed",medium,high
+"school nalla prepare pannitten, ipo calm ah irukken","I've prepared well for my school, I feel calm now",education,calm,"school,calm",low,high
+"viva result nalla vandhudhu, semma happy ah irukken","My viva result came out well, I'm so happy about it",education,happy,"viva,happy",low,high
+"attendance preparation ellam thaniya pannuren, konjam lonely ah irukku","I'm doing all my attendance preparation alone, I feel a bit lonely",education,lonely,"attendance,lonely",medium,high
+"coding practice expect panna madhiri nadakala, romba vaguthadhu","My coding practice didn't turn out as I expected, it really disappointed me",education,sad,"coding,sad",medium,high
+hackathon preparation romba stress kudukudhu,Preparing for my hackathon is giving me a lot of stress,education,stressed,"hackathon,stressed",high,high
+technical symposium result paathu romba sad ah aayiduchen,I felt really sad after seeing my technical symposium result,education,sad,"technical,sad",medium,high
+"professor pathi ipo tension illa, mind calm ah irukku","I don't feel tense about my professor anymore, my mind feels calm",education,calm,"professor,calm",low,high
+Python programming la fail aayiduchen nu therinjadhum mind heavy ah aayiduchu,"The moment I found out I failed my Python programming, my mind felt heavy",education,sad,"python,sad",medium,high
+communication engineering result eppo varum nu ninachu anxious ah irukken,I feel anxious wondering when my communication engineering result will come,education,anxious,"communication,anxious",medium,high
+"classroom start aaga innum konjam naal dhaan irukku, romba excited ah irukken","There's only a few days left for my classroom to start, I'm really excited",education,excited,"classroom,excited",low,high
+"workshop vishayathula unfair ah treat pannanga nu feel panren, romba frustration","I feel like I was treated unfairly regarding my workshop, it's really frustrating",education,angry,"workshop,angry",medium,high
+"friends ellarum record work pathi busy, naan thaniya irukken","All my friends are busy with their record work, I'm on my own",education,lonely,"record,lonely",low,high
+"hostel life nalla prepare pannitten, ipo calm ah irukken","I've prepared well for my hostel life, I feel calm now",education,calm,"hostel,calm",low,high
+"academic goal pathi over thinking pannitu irukken, sleep kooda varala","I've been overthinking about my academic goal, I can't even sleep",education,anxious,"academic,anxious",medium,high
+"school ku nalla prepare aagalaya nu doubt varudhu, anxious ah irukku","I keep doubting whether I've prepared well for my school, I'm anxious",education,anxious,"school,anxious",medium,high
+"placements preparation pathi pesa yarum illa hostel la, lonely ah irukku","There's no one to talk to about my placements preparation in the hostel, I feel lonely",education,lonely,"placements,lonely",medium,high
+"semester exam ku parallel ah vera work kooda irukku, stress adhigama irukku","I have other work along with my semester exam, the stress is very high",education,stressed,"semester,stressed",high,high
+"AI course konjam kashtama irundhalum, future bright ah irukum nu feel panren","Even though my AI course is a bit tough, I feel the future will be bright",education,hopeful,"ai,hopeful",low,high
+"study motivation ippo kashtama irundhalum, mudivula nalladhu nadakum nu nambaren","Even though my study motivation is hard right now, I believe it will end well",education,hopeful,"study,hopeful",low,high
+"workshop time la yaarum help panna maatanga, thaniya feel panren","Nobody helps me during my workshop, I feel alone",education,lonely,"workshop,lonely",medium,high
+concentration result paathu romba sad ah aayiduchen,I felt really sad after seeing my concentration result,education,sad,"concentration,sad",medium,high
+"academic goal time la yaarum help panna maatanga, thaniya feel panren","Nobody helps me during my academic goal, I feel alone",education,lonely,"academic,lonely",medium,high
+"university exam pathi konjam tension irundhalum, positive ah dhaan irukken","Even with some tension about my university exam, I'm staying positive",education,hopeful,"university,hopeful",low,high
+"class teacher la nalla opportunity kedaichudhu, semma excited","I got a great opportunity in my class teacher, I'm so excited",education,excited,"class,excited",low,high
+homework ku decision edukka mudiyama irukken innum,I still can't make a decision about my homework,education,confused,"homework,confused",medium,high
+academic goal result eppo varum nu ninachu anxious ah irukken,I feel anxious wondering when my academic goal result will come,education,anxious,"academic,anxious",medium,high
+"graduation ku new topics padikka poren nu thonudhu, excited ah irukku",I'm excited thinking about the new topics I'll learn in my graduation,education,excited,"graduation,excited",low,high
+attendance ku team ah let down pannitten nu guilt irukku,I feel guilty that I let my team down regarding my attendance,education,guilty,"attendance,guilty",medium,high
+"competitive exam pathi yosichaale hands shake aagudhu, romba anxious","My hands shake when I think about my competitive exam, I'm really anxious",education,anxious,"competitive,anxious",high,high
+"project nearagunna nenju padhapadhukudhu, anxious ah irukku","My heart races as my project approaches, I feel anxious",education,anxious,"project,anxious",medium,high
+school pathi yosichaale nenju padhapadhukudhu,My heart races with fear whenever I think about my school,education,fear,"school,fear",medium,high
+school pathi yosikkama calm ah irukka try panren,I'm trying to stay calm without overthinking my school,education,calm,"school,calm",low,high
+"model exam ku nalla prepare aagalaya nu doubt varudhu, anxious ah irukku","I keep doubting whether I've prepared well for my model exam, I'm anxious",education,anxious,"model,anxious",medium,high
+"seminar konjam kashtama irundhalum, future bright ah irukum nu feel panren","Even though my seminar is a bit tough, I feel the future will be bright",education,hopeful,"seminar,hopeful",low,high
+fees payment pathi ninachaale sad ah irukku,Thinking about my fees payment makes me feel sad,education,sad,"fees,sad",medium,high
+"class teacher pathi friends ellarum different advice kudukranga, confuse ah irukku","All my friends are giving different advice about my class teacher, I'm confused",education,confused,"class,confused",medium,high
+"record work discuss panna yarum kedaikala, lonely feel aagudhu","I couldn't find anyone to discuss my record work with, I feel lonely",education,lonely,"record,lonely",medium,high
+"friends ellarum attendance pathi busy, naan thaniya irukken","All my friends are busy with their attendance, I'm on my own",education,lonely,"attendance,lonely",low,high
+"assignment preparation ellam thaniya pannuren, konjam lonely ah irukku","I'm doing all my assignment preparation alone, I feel a bit lonely",education,lonely,"assignment,lonely",medium,high
+"certification course ku promise panni miss pannitten, romba guilty ah feel panren","I promised something for my certification course and missed it, I feel really guilty",education,guilty,"certification,guilty",medium,high
+project nearagudhu nu ninachaale bayam varudhu,I feel scared whenever I think my project is approaching,education,fear,"project,fear",medium,high
+technical symposium la parents expectation meet panna mudiyala nu guilt irukku,I feel guilty that I couldn't meet my parents' expectations in my technical symposium,education,guilty,"technical,guilty",medium,high
+"university nalla prepare pannitten, ipo calm ah irukken","I've prepared well for my university, I feel calm now",education,calm,"university,calm",low,high
+school result eppo varum nu ninachu anxious ah irukken,I feel anxious wondering when my school result will come,education,anxious,"school,anxious",medium,high
+"attendance pathi yosichaale hands shake aagudhu, romba anxious","My hands shake when I think about my attendance, I'm really anxious",education,anxious,"attendance,anxious",high,high
+"project la nalla opportunity kedaichudhu, semma excited","I got a great opportunity in my project, I'm so excited",education,excited,"project,excited",low,high
+"homework result nalla vandhudhu, semma happy ah irukken","My homework result came out well, I'm so happy about it",education,happy,"homework,happy",low,high
+communication engineering eppadi start pannanum nu theriyala,I don't know how to start my communication engineering,education,confused,"communication,confused",medium,high
+"hostel life pathi friends ellarum different advice kudukranga, confuse ah irukku","All my friends are giving different advice about my hostel life, I'm confused",education,confused,"hostel,confused",medium,high
+"homework start aaga innum konjam naal dhaan irukku, romba excited ah irukken","There's only a few days left for my homework to start, I'm really excited",education,excited,"homework,excited",low,high
+"DSA preparation ku hard work pannitu irukken, result nalladhu varum nu nambikkai","I'm working hard on my DSA preparation, I hope the result will be good",education,hopeful,"dsa,hopeful",low,high
+"assignment syllabus romba periya level la irukku, stress ah irukku","The syllabus for my assignment is huge, I'm stressed",education,stressed,"assignment,stressed",medium,high
+"model exam pathi over thinking pannitu irukken, sleep kooda varala","I've been overthinking about my model exam, I can't even sleep",education,anxious,"model,anxious",medium,high
+AI course ku decision edukka mudiyama irukken innum,I still can't make a decision about my AI course,education,confused,"ai,confused",medium,high
+hostel life result paathu romba sad ah aayiduchen,I felt really sad after seeing my hostel life result,education,sad,"hostel,sad",medium,high
+fear of failure nalla mudinjadhu nu kelvi pattu happy ah irukken,"I heard my fear of failure went well, I'm happy about it",education,happy,"fear,happy",low,high
+"placements preparation ku promise panni miss pannitten, romba guilty ah feel panren","I promised something for my placements preparation and missed it, I feel really guilty",education,guilty,"placements,guilty",medium,high
+competitive exam nalla poidum nu nambikkai irukku,I have hope that my competitive exam will go well,education,hopeful,"competitive,hopeful",low,high
+"new skill learning pathi konjam tension irundhalum, positive ah dhaan irukken","Even with some tension about my learning a new skill, I'm staying positive",education,hopeful,"new,hopeful",low,high
+"internship vetri aaga mudinjadhu, happy ah irukku","I managed to succeed in my internship, I feel happy",education,happy,"internship,happy",low,high
+"viva ku register pannitten, romba excited ah irukku","I registered for my viva, I'm really excited",education,excited,"viva,excited",low,high
+"group study deadline nearagudhu, romba stress ah irukku","My group study deadline is approaching, I'm really stressed",education,stressed,"group,stressed",high,high
+college nalla poidum nu nambikkai irukku,I have hope that my college will go well,education,hopeful,"college,hopeful",low,high
+classroom nearagudhu nu ninachaale bayam varudhu,I feel scared whenever I think my classroom is approaching,education,fear,"classroom,fear",medium,high
+"DSA preparation plan pannitten, ipo mind peaceful ah irukku","I've planned my DSA preparation, my mind feels peaceful now",education,calm,"dsa,calm",low,high
+"concentration pathi accept pannitten, calm ah feel panren","I've accepted things about my concentration, I feel calm",education,calm,"concentration,calm",low,high
+"hackathon pathi ninacha thalai suthudhu, stress ah irukku","My head spins when I think about my hackathon, I'm stressed",education,stressed,"hackathon,stressed",high,high
+assignment result paathu romba sad ah aayiduchen,I felt really sad after seeing my assignment result,education,sad,"assignment,sad",medium,high
+presentation ku sariyaana effort podala nu ippo guilt varudhu,I feel guilty now that I didn't put proper effort into my presentation,education,guilty,"presentation,guilty",medium,high
+AI course pathi yosichaale nenju padhapadhukudhu,My heart races with fear whenever I think about my AI course,education,fear,"ai,fear",medium,high
+"university exam ku hard work pannitu irukken, result nalladhu varum nu nambikkai","I'm working hard on my university exam, I hope the result will be good",education,hopeful,"university,hopeful",low,high
+classroom result eppo varum nu ninachu anxious ah irukken,I feel anxious wondering when my classroom result will come,education,anxious,"classroom,anxious",medium,high
+DSA preparation la nalla mark varamale poidumo nu bayama irukku,I'm afraid I might not get good marks in my DSA preparation,education,fear,"dsa,fear",medium,high
+"competitive exam time la yaarum help panna maatanga, thaniya feel panren","Nobody helps me during my competitive exam, I feel alone",education,lonely,"competitive,lonely",medium,high
+"DSA preparation expect panna madhiri nadakala, romba vaguthadhu","My DSA preparation didn't turn out as I expected, it really disappointed me",education,sad,"dsa,sad",medium,high
+class teacher result paathu romba sad ah aayiduchen,I felt really sad after seeing my class teacher result,education,sad,"class,sad",medium,high
+"hackathon pathi accept pannitten, calm ah feel panren","I've accepted things about my hackathon, I feel calm",education,calm,"hackathon,calm",low,high
+"professor pathi konjam tension irundhalum, positive ah dhaan irukken","Even with some tension about my professor, I'm staying positive",education,hopeful,"professor,hopeful",low,high
+"electronics subject pathi konjam tension irundhalum, positive ah dhaan irukken","Even with some tension about my electronics subject, I'm staying positive",education,hopeful,"electronics,hopeful",low,high
+"study motivation la top score vangiten, semma santhosham","I scored the top marks in my study motivation, I'm so delighted",education,happy,"study,happy",low,high
+"electronics subject ippo kashtama irundhalum, mudivula nalladhu nadakum nu nambaren","Even though my electronics subject is hard right now, I believe it will end well",education,hopeful,"electronics,hopeful",low,high
+"study motivation ku register pannitten, romba excited ah irukku","I registered for my study motivation, I'm really excited",education,excited,"study,excited",low,high
+"placements preparation deadline nearagudhu, romba stress ah irukku","My placements preparation deadline is approaching, I'm really stressed",education,stressed,"placements,stressed",high,high
+"lab work ku new topics padikka poren nu thonudhu, excited ah irukku",I'm excited thinking about the new topics I'll learn in my lab work,education,excited,"lab,excited",low,high
+"university ku hard work pannitu irukken, result nalladhu varum nu nambikkai","I'm working hard on my university, I hope the result will be good",education,hopeful,"university,hopeful",low,high
+college result eppo varum nu ninachu anxious ah irukken,I feel anxious wondering when my college result will come,education,anxious,"college,anxious",medium,high
+"academic goal pathi pesa yarum illa hostel la, lonely ah irukku","There's no one to talk to about my academic goal in the hostel, I feel lonely",education,lonely,"academic,lonely",medium,high
+"hostel life pathi results announce panna poranga, wait pannitu excited ah irukken","They're about to announce hostel life results, I'm waiting excitedly",education,excited,"hostel,excited",low,high
+"hostel life pathi teacher solradhukum notes irukradhukum match aagala, confuse ah irukku","What the teacher said about my hostel life doesn't match the notes, I'm confused",education,confused,"hostel,confused",medium,high
+"coding practice ku nalla prepare aagalaya nu doubt varudhu, anxious ah irukku","I keep doubting whether I've prepared well for my coding practice, I'm anxious",education,anxious,"coding,anxious",medium,high
+certification course pathi negative outcome varumo nu fear ah irukku,I'm scared that my certification course might have a negative outcome,education,fear,"certification,fear",medium,high
+"university la top score vangiten, semma santhosham","I scored the top marks in my university, I'm so delighted",education,happy,"university,happy",low,high
+"fear of failure pathi over thinking pannitu irukken, sleep kooda varala","I've been overthinking about my fear of failure, I can't even sleep",education,anxious,"fear,anxious",medium,high
+classroom la parents expectation meet panna mudiyala nu guilt irukku,I feel guilty that I couldn't meet my parents' expectations in my classroom,education,guilty,"classroom,guilty",medium,high
+"study motivation pathi ipo tension illa, mind calm ah irukku","I don't feel tense about my study motivation anymore, my mind feels calm",education,calm,"study,calm",low,high
+higher studies plan result paathu romba sad ah aayiduchen,I felt really sad after seeing my higher studies plan result,education,sad,"higher,sad",medium,high
+group study result eppo varum nu ninachu anxious ah irukken,I feel anxious wondering when my group study result will come,education,anxious,"group,anxious",medium,high
+"assignment schedule last nimushathula maathitanga, romba irritation","They changed the assignment schedule at the last minute, it's really irritating",education,angry,"assignment,angry",medium,high
+"friends ellarum group study pathi busy, naan thaniya irukken","All my friends are busy with their group study, I'm on my own",education,lonely,"group,lonely",low,high
+"concentration ku hard work pannitu irukken, result nalladhu varum nu nambikkai","I'm working hard on my concentration, I hope the result will be good",education,hopeful,"concentration,hopeful",low,high
+placements preparation ku team ah let down pannitten nu guilt irukku,I feel guilty that I let my team down regarding my placements preparation,education,guilty,"placements,guilty",medium,high
+"model exam pathi nalla feedback kedaichudhu, mood romba happy","I got good feedback about my model exam, my mood is really happy",education,happy,"model,happy",low,high
+class teacher nalla poidum nu nambikkai irukku,I have hope that my class teacher will go well,education,hopeful,"class,hopeful",low,high
+"lab work syllabus romba periya level la irukku, stress ah irukku","The syllabus for my lab work is huge, I'm stressed",education,stressed,"lab,stressed",medium,high
+"workshop plan pannitten, ipo mind peaceful ah irukku","I've planned my workshop, my mind feels peaceful now",education,calm,"workshop,calm",low,high
+record work pathi negative outcome varumo nu fear ah irukku,I'm scared that my record work might have a negative outcome,education,fear,"record,fear",medium,high
+"friends ellarum internal exam pathi busy, naan thaniya irukken","All my friends are busy with their internal exam, I'm on my own",education,lonely,"internal,lonely",low,high
+"homework ku register pannitten, romba excited ah irukku","I registered for my homework, I'm really excited",education,excited,"homework,excited",low,high
+"semester exam konjam kashtama irundhalum, future bright ah irukum nu feel panren","Even though my semester exam is a bit tough, I feel the future will be bright",education,hopeful,"semester,hopeful",low,high
+"model exam pathi results announce panna poranga, wait pannitu excited ah irukken","They're about to announce model exam results, I'm waiting excitedly",education,excited,"model,excited",low,high
+practical exam la nalla mark varamale poidumo nu bayama irukku,I'm afraid I might not get good marks in my practical exam,education,fear,"practical,fear",medium,high
+"attendance deadline nearagudhu, romba stress ah irukku","My attendance deadline is approaching, I'm really stressed",education,stressed,"attendance,stressed",high,high
+coding practice preparation romba stress kudukudhu,Preparing for my coding practice is giving me a lot of stress,education,stressed,"coding,stressed",high,high
+"technical symposium pathi yosichaale hands shake aagudhu, romba anxious","My hands shake when I think about my technical symposium, I'm really anxious",education,anxious,"technical,anxious",high,high
+fees payment la parents expectation meet panna mudiyala nu guilt irukku,I feel guilty that I couldn't meet my parents' expectations in my fees payment,education,guilty,"fees,guilty",medium,high
+"homework ku nalla prepare aagalaya nu doubt varudhu, anxious ah irukku","I keep doubting whether I've prepared well for my homework, I'm anxious",education,anxious,"homework,anxious",medium,high
+"school preparation la kadaisi nimusham varaikkum procrastinate pannitten, guilt ah irukku","I procrastinated my school preparation till the last minute, I feel guilty",education,guilty,"school,guilty",medium,high
+"time management pathi teacher venaama kadinama pesinanga, kobama irukku","The teacher spoke harshly to me about my time management for no reason, I'm angry",education,angry,"time,angry",medium,high
+"arrears nalla prepare pannitten, ipo calm ah irukken","I've prepared well for my arrears, I feel calm now",education,calm,"arrears,calm",low,high
+research paper pathi ninachaale sad ah irukku,Thinking about my research paper makes me feel sad,education,sad,"research,sad",medium,high
+"internal exam konjam kashtama irundhalum, future bright ah irukum nu feel panren","Even though my internal exam is a bit tough, I feel the future will be bright",education,hopeful,"internal,hopeful",low,high
+"Python programming deadline nearagudhu, romba stress ah irukku","My Python programming deadline is approaching, I'm really stressed",education,stressed,"python,stressed",high,high
+"hackathon la top score vangiten, semma santhosham","I scored the top marks in my hackathon, I'm so delighted",education,happy,"hackathon,happy",low,high
+graduation nalla mudinjadhu nu kelvi pattu happy ah irukken,"I heard my graduation went well, I'm happy about it",education,happy,"graduation,happy",low,high
+"placements preparation ku register pannitten, romba excited ah irukku","I registered for my placements preparation, I'm really excited",education,excited,"placements,excited",low,high
+"GATE preparation nearagunna nenju padhapadhukudhu, anxious ah irukku","My heart races as my GATE preparation approaches, I feel anxious",education,anxious,"gate,anxious",medium,high
+classroom nalla poidum nu nambikkai irukku,I have hope that my classroom will go well,education,hopeful,"classroom,hopeful",low,high
+"school pathi yosichaale hands shake aagudhu, romba anxious","My hands shake when I think about my school, I'm really anxious",education,anxious,"school,anxious",high,high
+"group study pathi pesa yarum illa hostel la, lonely ah irukku","There's no one to talk to about my group study in the hostel, I feel lonely",education,lonely,"group,lonely",medium,high
+"hackathon ku parallel ah vera work kooda irukku, stress adhigama irukku","I have other work along with my hackathon, the stress is very high",education,stressed,"hackathon,stressed",high,high
+"school preparation ellam thaniya pannuren, konjam lonely ah irukku","I'm doing all my school preparation alone, I feel a bit lonely",education,lonely,"school,lonely",medium,high
+"AI course pathi ninacha thalai suthudhu, stress ah irukku","My head spins when I think about my AI course, I'm stressed",education,stressed,"ai,stressed",high,high
+"technical symposium plan pannitten, ipo mind peaceful ah irukku","I've planned my technical symposium, my mind feels peaceful now",education,calm,"technical,calm",low,high
+internal exam la fail aayidumo nu romba bayanthu irukken,I'm really scared that I might fail my internal exam,education,fear,"internal,fear",high,high
+hackathon pathi yosikkama calm ah irukka try panren,I'm trying to stay calm without overthinking my hackathon,education,calm,"hackathon,calm",low,high
+"exam stress schedule last nimushathula maathitanga, romba irritation","They changed the exam stress schedule at the last minute, it's really irritating",education,angry,"exam,angry",medium,high
+"concentration ku nalla prepare aagalaya nu doubt varudhu, anxious ah irukku","I keep doubting whether I've prepared well for my concentration, I'm anxious",education,anxious,"concentration,anxious",medium,high
+record work nalla poidum nu nambikkai irukku,I have hope that my record work will go well,education,hopeful,"record,hopeful",low,high
+"fees payment ku register pannitten, romba excited ah irukku","I registered for my fees payment, I'm really excited",education,excited,"fees,excited",low,high
+"technical symposium pathi pesa yarum illa hostel la, lonely ah irukku","There's no one to talk to about my technical symposium in the hostel, I feel lonely",education,lonely,"technical,lonely",medium,high
+homework pathi yosichaale nenju padhapadhukudhu,My heart races with fear whenever I think about my homework,education,fear,"homework,fear",medium,high
+"workshop pathi nalla feedback kedaichudhu, mood romba happy","I got good feedback about my workshop, my mood is really happy",education,happy,"workshop,happy",low,high
+"time management time la yaarum help panna maatanga, thaniya feel panren","Nobody helps me during my time management, I feel alone",education,lonely,"time,lonely",medium,high
+"friends ellarum classmates pathi busy, naan thaniya irukken","All my friends are busy with their classmates, I'm on my own",education,lonely,"classmates,lonely",low,high
+"seminar ku promise panni miss pannitten, romba guilty ah feel panren","I promised something for my seminar and missed it, I feel really guilty",education,guilty,"seminar,guilty",medium,high
+arrears ku team ah let down pannitten nu guilt irukku,I feel guilty that I let my team down regarding my arrears,education,guilty,"arrears,guilty",medium,high
+communication engineering ku decision edukka mudiyama irukken innum,I still can't make a decision about my communication engineering,education,confused,"communication,confused",medium,high
+"group study pathi teacher venaama kadinama pesinanga, kobama irukku","The teacher spoke harshly to me about my group study for no reason, I'm angry",education,angry,"group,angry",medium,high
+attendance result paathu romba sad ah aayiduchen,I felt really sad after seeing my attendance result,education,sad,"attendance,sad",medium,high
+university nalla mudinjadhu nu kelvi pattu happy ah irukken,"I heard my university went well, I'm happy about it",education,happy,"university,happy",low,high
+"internship vishayathula unfair ah treat pannanga nu feel panren, romba frustration","I feel like I was treated unfairly regarding my internship, it's really frustrating",education,angry,"internship,angry",medium,high
+"class teacher expect panna madhiri nadakala, romba vaguthadhu","My class teacher didn't turn out as I expected, it really disappointed me",education,sad,"class,sad",medium,high
+DSA preparation la enna approach follow pannanum nu confusion irukku,I'm confused about what approach to follow for my DSA preparation,education,confused,"dsa,confused",medium,high
+"hackathon ku promise panni miss pannitten, romba guilty ah feel panren","I promised something for my hackathon and missed it, I feel really guilty",education,guilty,"hackathon,guilty",medium,high
+academic goal nalla mudinjadhu nu kelvi pattu happy ah irukken,"I heard my academic goal went well, I'm happy about it",education,happy,"academic,happy",low,high
+AI course la fail aayidumo nu romba bayanthu irukken,I'm really scared that I might fail my AI course,education,fear,"ai,fear",high,high
+"internship schedule last nimushathula maathitanga, romba irritation","They changed the internship schedule at the last minute, it's really irritating",education,angry,"internship,angry",medium,high
+"presentation ippo kashtama irundhalum, mudivula nalladhu nadakum nu nambaren","Even though my presentation is hard right now, I believe it will end well",education,hopeful,"presentation,hopeful",low,high
+assignment pathi yosikkama calm ah irukka try panren,I'm trying to stay calm without overthinking my assignment,education,calm,"assignment,calm",low,high
+"lab work ippo kashtama irundhalum, mudivula nalladhu nadakum nu nambaren","Even though my lab work is hard right now, I believe it will end well",education,hopeful,"lab,hopeful",low,high
+"communication engineering preparation la kadaisi nimusham varaikkum procrastinate pannitten, guilt ah irukku","I procrastinated my communication engineering preparation till the last minute, I feel guilty",education,guilty,"communication,guilty",medium,high
+certification course nalla poidum nu nambikkai irukku,I have hope that my certification course will go well,education,hopeful,"certification,hopeful",low,high
+"scholarship ku register pannitten, romba excited ah irukku","I registered for my scholarship, I'm really excited",education,excited,"scholarship,excited",low,high
+project ku team ah let down pannitten nu guilt irukku,I feel guilty that I let my team down regarding my project,education,guilty,"project,guilty",medium,high
+"hackathon konjam kashtama irundhalum, future bright ah irukum nu feel panren","Even though my hackathon is a bit tough, I feel the future will be bright",education,hopeful,"hackathon,hopeful",low,high
+"professor pathi results announce panna poranga, wait pannitu excited ah irukken","They're about to announce professor results, I'm waiting excitedly",education,excited,"professor,excited",low,high
+scholarship ku decision edukka mudiyama irukken innum,I still can't make a decision about my scholarship,education,confused,"scholarship,confused",medium,high
+"scholarship ku hard work pannitu irukken, result nalladhu varum nu nambikkai","I'm working hard on my scholarship, I hope the result will be good",education,hopeful,"scholarship,hopeful",low,high
+"certification course nalla prepare pannitten, ipo calm ah irukken","I've prepared well for my certification course, I feel calm now",education,calm,"certification,calm",low,high
+"electronics subject vishayathula unfair ah treat pannanga nu feel panren, romba frustration","I feel like I was treated unfairly regarding my electronics subject, it's really frustrating",education,angry,"electronics,angry",medium,high
+"university exam deadline nearagudhu, romba stress ah irukku","My university exam deadline is approaching, I'm really stressed",education,stressed,"university,stressed",high,high
+"record work time la yaarum help panna maatanga, thaniya feel panren","Nobody helps me during my record work, I feel alone",education,lonely,"record,lonely",medium,high
+competitive exam pathi ninaicha kobam adangala,My anger doesn't settle down when I think about my competitive exam,education,angry,"competitive,angry",medium,high
+"embedded systems subject nalla prepare pannitten, ipo calm ah irukken","I've prepared well for my embedded systems subject, I feel calm now",education,calm,"embedded,calm",low,high
+"viva vishayathula unfair ah treat pannanga nu feel panren, romba frustration","I feel like I was treated unfairly regarding my viva, it's really frustrating",education,angry,"viva,angry",medium,high
+"study motivation result nalla vandhudhu, semma happy ah irukken","My study motivation result came out well, I'm so happy about it",education,happy,"study,happy",low,high
+"fear of failure pathi results announce panna poranga, wait pannitu excited ah irukken","They're about to announce fear of failure results, I'm waiting excitedly",education,excited,"fear,excited",low,high
+"communication engineering pathi ninacha thalai suthudhu, stress ah irukku","My head spins when I think about my communication engineering, I'm stressed",education,stressed,"communication,stressed",high,high
+"coding practice ku hard work pannitu irukken, result nalladhu varum nu nambikkai","I'm working hard on my coding practice, I hope the result will be good",education,hopeful,"coding,hopeful",low,high
+"scholarship ku nalla prepare aagalaya nu doubt varudhu, anxious ah irukku","I keep doubting whether I've prepared well for my scholarship, I'm anxious",education,anxious,"scholarship,anxious",medium,high
+concentration la enna approach follow pannanum nu confusion irukku,I'm confused about what approach to follow for my concentration,education,confused,"concentration,confused",medium,high
+"project syllabus romba periya level la irukku, stress ah irukku","The syllabus for my project is huge, I'm stressed",education,stressed,"project,stressed",medium,high
+communication engineering preparation romba stress kudukudhu,Preparing for my communication engineering is giving me a lot of stress,education,stressed,"communication,stressed",high,high
+"workshop schedule last nimushathula maathitanga, romba irritation","They changed the workshop schedule at the last minute, it's really irritating",education,angry,"workshop,angry",medium,high
+"classmates result nalla vandhudhu, semma happy ah irukken","My classmates result came out well, I'm so happy about it",education,happy,"classmates,happy",low,high
+project nalla poidum nu nambikkai irukku,I have hope that my project will go well,education,hopeful,"project,hopeful",low,high
+"attendance ku parallel ah vera work kooda irukku, stress adhigama irukku","I have other work along with my attendance, the stress is very high",education,stressed,"attendance,stressed",high,high
+class teacher la nalla mark varamale poidumo nu bayama irukku,I'm afraid I might not get good marks in my class teacher,education,fear,"class,fear",medium,high
+"academic goal nalla nadakala, manasu heavy ah irukku","My academic goal did not go well, my heart feels heavy",education,sad,"academic,sad",medium,high
+Python programming pathi negative outcome varumo nu fear ah irukku,I'm scared that my Python programming might have a negative outcome,education,fear,"python,fear",medium,high
+group study pathi yosichaale nenju padhapadhukudhu,My heart races with fear whenever I think about my group study,education,fear,"group,fear",medium,high
+"record work pathi accept pannitten, calm ah feel panren","I've accepted things about my record work, I feel calm",education,calm,"record,calm",low,high
+"workshop pathi over thinking pannitu irukken, sleep kooda varala","I've been overthinking about my workshop, I can't even sleep",education,anxious,"workshop,anxious",medium,high
+record work la nalla mark varamale poidumo nu bayama irukku,I'm afraid I might not get good marks in my record work,education,fear,"record,fear",medium,high
+communication engineering nalla poidum nu nambikkai irukku,I have hope that my communication engineering will go well,education,hopeful,"communication,hopeful",low,high
+AI course la enna approach follow pannanum nu confusion irukku,I'm confused about what approach to follow for my AI course,education,confused,"ai,confused",medium,high
+university la enna approach follow pannanum nu confusion irukku,I'm confused about what approach to follow for my university,education,confused,"university,confused",medium,high
+"practical exam pathi friends ellarum different advice kudukranga, confuse ah irukku","All my friends are giving different advice about my practical exam, I'm confused",education,confused,"practical,confused",medium,high
+"university pathi teacher venaama kadinama pesinanga, kobama irukku","The teacher spoke harshly to me about my university for no reason, I'm angry",education,angry,"university,angry",medium,high
+"higher studies plan time la yaarum help panna maatanga, thaniya feel panren","Nobody helps me during my higher studies plan, I feel alone",education,lonely,"higher,lonely",medium,high
+"arrears pathi friends ellarum different advice kudukranga, confuse ah irukku","All my friends are giving different advice about my arrears, I'm confused",education,confused,"arrears,confused",medium,high
+"certification course pathi nalla feedback kedaichudhu, mood romba happy","I got good feedback about my certification course, my mood is really happy",education,happy,"certification,happy",low,high
+"concentration vishayathula unfair ah treat pannanga nu feel panren, romba frustration","I feel like I was treated unfairly regarding my concentration, it's really frustrating",education,angry,"concentration,angry",medium,high
+hostel life pathi yosikkama calm ah irukka try panren,I'm trying to stay calm without overthinking my hostel life,education,calm,"hostel,calm",low,high
+"research paper pathi nalla feedback kedaichudhu, mood romba happy","I got good feedback about my research paper, my mood is really happy",education,happy,"research,happy",low,high
+competitive exam result eppo varum nu ninachu anxious ah irukken,I feel anxious wondering when my competitive exam result will come,education,anxious,"competitive,anxious",medium,high
+"classmates la nalla opportunity kedaichudhu, semma excited","I got a great opportunity in my classmates, I'm so excited",education,excited,"classmates,excited",low,high
+"competitive exam ku promise panni miss pannitten, romba guilty ah feel panren","I promised something for my competitive exam and missed it, I feel really guilty",education,guilty,"competitive,guilty",medium,high
+"practical exam pathi yosichaale hands shake aagudhu, romba anxious","My hands shake when I think about my practical exam, I'm really anxious",education,anxious,"practical,anxious",high,high
+Python programming result eppo varum nu ninachu anxious ah irukken,I feel anxious wondering when my Python programming result will come,education,anxious,"python,anxious",medium,high
+"embedded systems subject ku new topics padikka poren nu thonudhu, excited ah irukku",I'm excited thinking about the new topics I'll learn in my embedded systems subject,education,excited,"embedded,excited",low,high
+"scholarship la nalla opportunity kedaichudhu, semma excited","I got a great opportunity in my scholarship, I'm so excited",education,excited,"scholarship,excited",low,high
+"homework ku parallel ah vera work kooda irukku, stress adhigama irukku","I have other work along with my homework, the stress is very high",education,stressed,"homework,stressed",high,high
+viva eppadi start pannanum nu theriyala,I don't know how to start my viva,education,confused,"viva,confused",medium,high
+"university exam preparation la kadaisi nimusham varaikkum procrastinate pannitten, guilt ah irukku","I procrastinated my university exam preparation till the last minute, I feel guilty",education,guilty,"university,guilty",medium,high
+"electronics subject ku nalla prepare aagalaya nu doubt varudhu, anxious ah irukku","I keep doubting whether I've prepared well for my electronics subject, I'm anxious",education,anxious,"electronics,anxious",medium,high
+"workshop preparation ellam thaniya pannuren, konjam lonely ah irukku","I'm doing all my workshop preparation alone, I feel a bit lonely",education,lonely,"workshop,lonely",medium,high
+study motivation nalla poidum nu nambikkai irukku,I have hope that my study motivation will go well,education,hopeful,"study,hopeful",low,high
+"electronics subject ku promise panni miss pannitten, romba guilty ah feel panren","I promised something for my electronics subject and missed it, I feel really guilty",education,guilty,"electronics,guilty",medium,high
+hackathon pathi yosichaale nenju padhapadhukudhu,My heart races with fear whenever I think about my hackathon,education,fear,"hackathon,fear",medium,high
+time management pathi yosikkama calm ah irukka try panren,I'm trying to stay calm without overthinking my time management,education,calm,"time,calm",low,high
+"viva ku nalla prepare aagalaya nu doubt varudhu, anxious ah irukku","I keep doubting whether I've prepared well for my viva, I'm anxious",education,anxious,"viva,anxious",medium,high
+"lab work plan pannitten, ipo mind peaceful ah irukku","I've planned my lab work, my mind feels peaceful now",education,calm,"lab,calm",low,high
+"AI course ku register pannitten, romba excited ah irukku","I registered for my AI course, I'm really excited",education,excited,"ai,excited",low,high
+exam stress ku decision edukka mudiyama irukken innum,I still can't make a decision about my exam stress,education,confused,"exam,confused",medium,high
+"homework schedule last nimushathula maathitanga, romba irritation","They changed the homework schedule at the last minute, it's really irritating",education,angry,"homework,angry",medium,high
+"hostel life pathi nalla feedback kedaichudhu, mood romba happy","I got good feedback about my hostel life, my mood is really happy",education,happy,"hostel,happy",low,high
+university pathi yosikkama calm ah irukka try panren,I'm trying to stay calm without overthinking my university,education,calm,"university,calm",low,high
+"practical exam schedule last nimushathula maathitanga, romba irritation","They changed the practical exam schedule at the last minute, it's really irritating",education,angry,"practical,angry",medium,high
+"group study pathi teacher solradhukum notes irukradhukum match aagala, confuse ah irukku","What the teacher said about my group study doesn't match the notes, I'm confused",education,confused,"group,confused",medium,high
+"lab work pathi ninacha thalai suthudhu, stress ah irukku","My head spins when I think about my lab work, I'm stressed",education,stressed,"lab,stressed",high,high
+professor pathi ninaicha kobam adangala,My anger doesn't settle down when I think about my professor,education,angry,"professor,angry",medium,high
+"university nalla nadakala, manasu heavy ah irukku","My university did not go well, my heart feels heavy",education,sad,"university,sad",medium,high
+"professor pathi friends ellarum different advice kudukranga, confuse ah irukku","All my friends are giving different advice about my professor, I'm confused",education,confused,"professor,confused",medium,high
+presentation la fail aayiduchen nu therinjadhum mind heavy ah aayiduchu,"The moment I found out I failed my presentation, my mind felt heavy",education,sad,"presentation,sad",medium,high
+"coding practice plan pannitten, ipo mind peaceful ah irukku","I've planned my coding practice, my mind feels peaceful now",education,calm,"coding,calm",low,high
+"arrears deadline nearagudhu, romba stress ah irukku","My arrears deadline is approaching, I'm really stressed",education,stressed,"arrears,stressed",high,high
+model exam result eppo varum nu ninachu anxious ah irukken,I feel anxious wondering when my model exam result will come,education,anxious,"model,anxious",medium,high
+"electronics subject pathi teacher solradhukum notes irukradhukum match aagala, confuse ah irukku","What the teacher said about my electronics subject doesn't match the notes, I'm confused",education,confused,"electronics,confused",medium,high
+"concentration pathi konjam tension irundhalum, positive ah dhaan irukken","Even with some tension about my concentration, I'm staying positive",education,hopeful,"concentration,hopeful",low,high
+"internship ku register pannitten, romba excited ah irukku","I registered for my internship, I'm really excited",education,excited,"internship,excited",low,high
+"hackathon deadline nearagudhu, romba stress ah irukku","My hackathon deadline is approaching, I'm really stressed",education,stressed,"hackathon,stressed",high,high
+"model exam ippo kashtama irundhalum, mudivula nalladhu nadakum nu nambaren","Even though my model exam is hard right now, I believe it will end well",education,hopeful,"model,hopeful",low,high
+university result paathu romba sad ah aayiduchen,I felt really sad after seeing my university result,education,sad,"university,sad",medium,high
+"classroom pathi pesa yarum illa hostel la, lonely ah irukku","There's no one to talk to about my classroom in the hostel, I feel lonely",education,lonely,"classroom,lonely",medium,high
+"internal exam preparation ellam thaniya pannuren, konjam lonely ah irukku","I'm doing all my internal exam preparation alone, I feel a bit lonely",education,lonely,"internal,lonely",medium,high
+"concentration discuss panna yarum kedaikala, lonely feel aagudhu","I couldn't find anyone to discuss my concentration with, I feel lonely",education,lonely,"concentration,lonely",medium,high
+"homework pathi ninacha thalai suthudhu, stress ah irukku","My head spins when I think about my homework, I'm stressed",education,stressed,"homework,stressed",high,high
+"new skill learning time la yaarum help panna maatanga, thaniya feel panren","Nobody helps me during my learning a new skill, I feel alone",education,lonely,"new,lonely",medium,high
+"internal exam preparation la kadaisi nimusham varaikkum procrastinate pannitten, guilt ah irukku","I procrastinated my internal exam preparation till the last minute, I feel guilty",education,guilty,"internal,guilty",medium,high
+"university exam start aaga innum konjam naal dhaan irukku, romba excited ah irukken","There's only a few days left for my university exam to start, I'm really excited",education,excited,"university,excited",low,high
+"model exam preparation ellam thaniya pannuren, konjam lonely ah irukku","I'm doing all my model exam preparation alone, I feel a bit lonely",education,lonely,"model,lonely",medium,high
+semester exam result eppo varum nu ninachu anxious ah irukken,I feel anxious wondering when my semester exam result will come,education,anxious,"semester,anxious",medium,high
+"research paper pathi results announce panna poranga, wait pannitu excited ah irukken","They're about to announce research paper results, I'm waiting excitedly",education,excited,"research,excited",low,high
+workshop pathi negative outcome varumo nu fear ah irukku,I'm scared that my workshop might have a negative outcome,education,fear,"workshop,fear",medium,high
+internship pathi ninaicha kobam adangala,My anger doesn't settle down when I think about my internship,education,angry,"internship,angry",medium,high
+"research paper deadline nearagudhu, romba stress ah irukku","My research paper deadline is approaching, I'm really stressed",education,stressed,"research,stressed",high,high
+exam stress la fail aayidumo nu romba bayanthu irukken,I'm really scared that I might fail my exam stress,education,fear,"exam,fear",high,high
+"classmates pathi over thinking pannitu irukken, sleep kooda varala","I've been overthinking about my classmates, I can't even sleep",education,anxious,"classmates,anxious",medium,high
+"scholarship syllabus romba periya level la irukku, stress ah irukku","The syllabus for my scholarship is huge, I'm stressed",education,stressed,"scholarship,stressed",medium,high
+"model exam nalla nadakala, manasu heavy ah irukku","My model exam did not go well, my heart feels heavy",education,sad,"model,sad",medium,high
+AI course ku team ah let down pannitten nu guilt irukku,I feel guilty that I let my team down regarding my AI course,education,guilty,"ai,guilty",medium,high
+"group study pathi results announce panna poranga, wait pannitu excited ah irukken","They're about to announce group study results, I'm waiting excitedly",education,excited,"group,excited",low,high
+"technical symposium result nalla vandhudhu, semma happy ah irukken","My technical symposium result came out well, I'm so happy about it",education,happy,"technical,happy",low,high
+semester exam la fail aayiduchen nu therinjadhum mind heavy ah aayiduchu,"The moment I found out I failed my semester exam, my mind felt heavy",education,sad,"semester,sad",medium,high
+electronics subject la nalla mark varamale poidumo nu bayama irukku,I'm afraid I might not get good marks in my electronics subject,education,fear,"electronics,fear",medium,high
+"professor la top score vangiten, semma santhosham","I scored the top marks in my professor, I'm so delighted",education,happy,"professor,happy",low,high
+"Python programming la nalla opportunity kedaichudhu, semma excited","I got a great opportunity in my Python programming, I'm so excited",education,excited,"python,excited",low,high
+"classmates nearagunna nenju padhapadhukudhu, anxious ah irukku","My heart races as my classmates approaches, I feel anxious",education,anxious,"classmates,anxious",medium,high
+hostel life result eppo varum nu ninachu anxious ah irukken,I feel anxious wondering when my hostel life result will come,education,anxious,"hostel,anxious",medium,high
+seminar la fail aayiduchen nu therinjadhum mind heavy ah aayiduchu,"The moment I found out I failed my seminar, my mind felt heavy",education,sad,"seminar,sad",medium,high
+"AI course pathi konjam tension irundhalum, positive ah dhaan irukken","Even with some tension about my AI course, I'm staying positive",education,hopeful,"ai,hopeful",low,high
+"scholarship result nalla vandhudhu, semma happy ah irukken","My scholarship result came out well, I'm so happy about it",education,happy,"scholarship,happy",low,high
+"internship pathi teacher venaama kadinama pesinanga, kobama irukku","The teacher spoke harshly to me about my internship for no reason, I'm angry",education,angry,"internship,angry",medium,high
+"competitive exam discuss panna yarum kedaikala, lonely feel aagudhu","I couldn't find anyone to discuss my competitive exam with, I feel lonely",education,lonely,"competitive,lonely",medium,high
+"new skill learning ku nalla prepare aagalaya nu doubt varudhu, anxious ah irukku","I keep doubting whether I've prepared well for my learning a new skill, I'm anxious",education,anxious,"new,anxious",medium,high
+"class teacher deadline nearagudhu, romba stress ah irukku","My class teacher deadline is approaching, I'm really stressed",education,stressed,"class,stressed",high,high
+"internal exam pathi teacher venaama kadinama pesinanga, kobama irukku","The teacher spoke harshly to me about my internal exam for no reason, I'm angry",education,angry,"internal,angry",medium,high
+"workshop la nalla opportunity kedaichudhu, semma excited","I got a great opportunity in my workshop, I'm so excited",education,excited,"workshop,excited",low,high
+"presentation vishayathula unfair ah treat pannanga nu feel panren, romba frustration","I feel like I was treated unfairly regarding my presentation, it's really frustrating",education,angry,"presentation,angry",medium,high
+electronics subject result eppo varum nu ninachu anxious ah irukken,I feel anxious wondering when my electronics subject result will come,education,anxious,"electronics,anxious",medium,high
+homework nalla poidum nu nambikkai irukku,I have hope that my homework will go well,education,hopeful,"homework,hopeful",low,high
+"attendance pathi teacher venaama kadinama pesinanga, kobama irukku","The teacher spoke harshly to me about my attendance for no reason, I'm angry",education,angry,"attendance,angry",medium,high
+"exam stress plan pannitten, ipo mind peaceful ah irukku","I've planned my exam stress, my mind feels peaceful now",education,calm,"exam,calm",low,high
+new skill learning la nalla mark varamale poidumo nu bayama irukku,I'm afraid I might not get good marks in my learning a new skill,education,fear,"new,fear",medium,high
+"AI course nearagunna nenju padhapadhukudhu, anxious ah irukku","My heart races as my AI course approaches, I feel anxious",education,anxious,"ai,anxious",medium,high
+"practical exam ippo kashtama irundhalum, mudivula nalladhu nadakum nu nambaren","Even though my practical exam is hard right now, I believe it will end well",education,hopeful,"practical,hopeful",low,high
+"coding practice pathi ninacha thalai suthudhu, stress ah irukku","My head spins when I think about my coding practice, I'm stressed",education,stressed,"coding,stressed",high,high
+certification course preparation romba stress kudukudhu,Preparing for my certification course is giving me a lot of stress,education,stressed,"certification,stressed",high,high
+"technical symposium deadline nearagudhu, romba stress ah irukku","My technical symposium deadline is approaching, I'm really stressed",education,stressed,"technical,stressed",high,high
+"communication engineering discuss panna yarum kedaikala, lonely feel aagudhu","I couldn't find anyone to discuss my communication engineering with, I feel lonely",education,lonely,"communication,lonely",medium,high
+attendance pathi ninaicha kobam adangala,My anger doesn't settle down when I think about my attendance,education,angry,"attendance,angry",medium,high
+"coding practice nearagunna nenju padhapadhukudhu, anxious ah irukku","My heart races as my coding practice approaches, I feel anxious",education,anxious,"coding,anxious",medium,high
+"hackathon vetri aaga mudinjadhu, happy ah irukku","I managed to succeed in my hackathon, I feel happy",education,happy,"hackathon,happy",low,high
+"academic goal pathi nalla feedback kedaichudhu, mood romba happy","I got good feedback about my academic goal, my mood is really happy",education,happy,"academic,happy",low,high
+"classmates nalla prepare pannitten, ipo calm ah irukken","I've prepared well for my classmates, I feel calm now",education,calm,"classmates,calm",low,high
+"workshop start aaga innum konjam naal dhaan irukku, romba excited ah irukken","There's only a few days left for my workshop to start, I'm really excited",education,excited,"workshop,excited",low,high
+"model exam pathi pesa yarum illa hostel la, lonely ah irukku","There's no one to talk to about my model exam in the hostel, I feel lonely",education,lonely,"model,lonely",medium,high
+"college ippo kashtama irundhalum, mudivula nalladhu nadakum nu nambaren","Even though my college is hard right now, I believe it will end well",education,hopeful,"college,hopeful",low,high
+"electronics subject ku hard work pannitu irukken, result nalladhu varum nu nambikkai","I'm working hard on my electronics subject, I hope the result will be good",education,hopeful,"electronics,hopeful",low,high
+"graduation la top score vangiten, semma santhosham","I scored the top marks in my graduation, I'm so delighted",education,happy,"graduation,happy",low,high
+model exam ku decision edukka mudiyama irukken innum,I still can't make a decision about my model exam,education,confused,"model,confused",medium,high
+"study motivation pathi accept pannitten, calm ah feel panren","I've accepted things about my study motivation, I feel calm",education,calm,"study,calm",low,high
+electronics subject la enna approach follow pannanum nu confusion irukku,I'm confused about what approach to follow for my electronics subject,education,confused,"electronics,confused",medium,high
+classmates pathi negative outcome varumo nu fear ah irukku,I'm scared that my classmates might have a negative outcome,education,fear,"classmates,fear",medium,high
+"internal exam pathi accept pannitten, calm ah feel panren","I've accepted things about my internal exam, I feel calm",education,calm,"internal,calm",low,high
+attendance la enna approach follow pannanum nu confusion irukku,I'm confused about what approach to follow for my attendance,education,confused,"attendance,confused",medium,high
+"higher studies plan pathi ninacha thalai suthudhu, stress ah irukku","My head spins when I think about my higher studies plan, I'm stressed",education,stressed,"higher,stressed",high,high
+"assignment ku parallel ah vera work kooda irukku, stress adhigama irukku","I have other work along with my assignment, the stress is very high",education,stressed,"assignment,stressed",high,high
+certification course eppadi start pannanum nu theriyala,I don't know how to start my certification course,education,confused,"certification,confused",medium,high
+"project time la yaarum help panna maatanga, thaniya feel panren","Nobody helps me during my project, I feel alone",education,lonely,"project,lonely",medium,high
+"concentration plan pannitten, ipo mind peaceful ah irukku","I've planned my concentration, my mind feels peaceful now",education,calm,"concentration,calm",low,high
+"hostel life ku promise panni miss pannitten, romba guilty ah feel panren","I promised something for my hostel life and missed it, I feel really guilty",education,guilty,"hostel,guilty",medium,high
+"attendance expect panna madhiri nadakala, romba vaguthadhu","My attendance didn't turn out as I expected, it really disappointed me",education,sad,"attendance,sad",medium,high
+"internship pathi konjam tension irundhalum, positive ah dhaan irukken","Even with some tension about my internship, I'm staying positive",education,hopeful,"internship,hopeful",low,high
+"fees payment syllabus romba periya level la irukku, stress ah irukku","The syllabus for my fees payment is huge, I'm stressed",education,stressed,"fees,stressed",medium,high
+classmates la parents expectation meet panna mudiyala nu guilt irukku,I feel guilty that I couldn't meet my parents' expectations in my classmates,education,guilty,"classmates,guilty",medium,high
+"technical symposium ku new topics padikka poren nu thonudhu, excited ah irukku",I'm excited thinking about the new topics I'll learn in my technical symposium,education,excited,"technical,excited",low,high
+semester exam la parents expectation meet panna mudiyala nu guilt irukku,I feel guilty that I couldn't meet my parents' expectations in my semester exam,education,guilty,"semester,guilty",medium,high
+lab work la parents expectation meet panna mudiyala nu guilt irukku,I feel guilty that I couldn't meet my parents' expectations in my lab work,education,guilty,"lab,guilty",medium,high
+classmates result paathu romba sad ah aayiduchen,I felt really sad after seeing my classmates result,education,sad,"classmates,sad",medium,high
+academic goal result paathu romba sad ah aayiduchen,I felt really sad after seeing my academic goal result,education,sad,"academic,sad",medium,high
+"arrears pathi yosichaale hands shake aagudhu, romba anxious","My hands shake when I think about my arrears, I'm really anxious",education,anxious,"arrears,anxious",high,high
+"project vetri aaga mudinjadhu, happy ah irukku","I managed to succeed in my project, I feel happy",education,happy,"project,happy",low,high
+academic goal la fail aayidumo nu romba bayanthu irukken,I'm really scared that I might fail my academic goal,education,fear,"academic,fear",high,high
+"fees payment pathi pesa yarum illa hostel la, lonely ah irukku","There's no one to talk to about my fees payment in the hostel, I feel lonely",education,lonely,"fees,lonely",medium,high
+college preparation romba stress kudukudhu,Preparing for my college is giving me a lot of stress,education,stressed,"college,stressed",high,high
+technical symposium pathi ninachaale sad ah irukku,Thinking about my technical symposium makes me feel sad,education,sad,"technical,sad",medium,high
+arrears result paathu romba sad ah aayiduchen,I felt really sad after seeing my arrears result,education,sad,"arrears,sad",medium,high
+presentation la fail aayidumo nu romba bayanthu irukken,I'm really scared that I might fail my presentation,education,fear,"presentation,fear",high,high
+"project pathi teacher venaama kadinama pesinanga, kobama irukku","The teacher spoke harshly to me about my project for no reason, I'm angry",education,angry,"project,angry",medium,high
+"assignment pathi teacher venaama kadinama pesinanga, kobama irukku","The teacher spoke harshly to me about my assignment for no reason, I'm angry",education,angry,"assignment,angry",medium,high
+classroom pathi yosikkama calm ah irukka try panren,I'm trying to stay calm without overthinking my classroom,education,calm,"classroom,calm",low,high
+"group study ku parallel ah vera work kooda irukku, stress adhigama irukku","I have other work along with my group study, the stress is very high",education,stressed,"group,stressed",high,high
+"competitive exam deadline nearagudhu, romba stress ah irukku","My competitive exam deadline is approaching, I'm really stressed",education,stressed,"competitive,stressed",high,high
+"professor schedule last nimushathula maathitanga, romba irritation","They changed the professor schedule at the last minute, it's really irritating",education,angry,"professor,angry",medium,high
+"communication engineering pathi over thinking pannitu irukken, sleep kooda varala","I've been overthinking about my communication engineering, I can't even sleep",education,anxious,"communication,anxious",medium,high
+"homework pathi yosichaale hands shake aagudhu, romba anxious","My hands shake when I think about my homework, I'm really anxious",education,anxious,"homework,anxious",high,high
+new skill learning nearagudhu nu ninachaale bayam varudhu,I feel scared whenever I think my learning a new skill is approaching,education,fear,"new,fear",medium,high
+"scholarship pathi ninacha thalai suthudhu, stress ah irukku","My head spins when I think about my scholarship, I'm stressed",education,stressed,"scholarship,stressed",high,high
+certification course ku sariyaana effort podala nu ippo guilt varudhu,I feel guilty now that I didn't put proper effort into my certification course,education,guilty,"certification,guilty",medium,high
+academic goal nearagudhu nu ninachaale bayam varudhu,I feel scared whenever I think my academic goal is approaching,education,fear,"academic,fear",medium,high
+"academic goal ku nalla prepare aagalaya nu doubt varudhu, anxious ah irukku","I keep doubting whether I've prepared well for my academic goal, I'm anxious",education,anxious,"academic,anxious",medium,high
+group study result paathu romba sad ah aayiduchen,I felt really sad after seeing my group study result,education,sad,"group,sad",medium,high
+university ku decision edukka mudiyama irukken innum,I still can't make a decision about my university,education,confused,"university,confused",medium,high
+"Python programming ku nalla prepare aagalaya nu doubt varudhu, anxious ah irukku","I keep doubting whether I've prepared well for my Python programming, I'm anxious",education,anxious,"python,anxious",medium,high
+"viva la top score vangiten, semma santhosham","I scored the top marks in my viva, I'm so delighted",education,happy,"viva,happy",low,high
+"GATE preparation plan pannitten, ipo mind peaceful ah irukku","I've planned my GATE preparation, my mind feels peaceful now",education,calm,"gate,calm",low,high
+certification course pathi yosikkama calm ah irukka try panren,I'm trying to stay calm without overthinking my certification course,education,calm,"certification,calm",low,high
+"certification course preparation ellam thaniya pannuren, konjam lonely ah irukku","I'm doing all my certification course preparation alone, I feel a bit lonely",education,lonely,"certification,lonely",medium,high
+"fees payment vishayathula unfair ah treat pannanga nu feel panren, romba frustration","I feel like I was treated unfairly regarding my fees payment, it's really frustrating",education,angry,"fees,angry",medium,high
+"viva ku parallel ah vera work kooda irukku, stress adhigama irukku","I have other work along with my viva, the stress is very high",education,stressed,"viva,stressed",high,high
+"record work result nalla vandhudhu, semma happy ah irukken","My record work result came out well, I'm so happy about it",education,happy,"record,happy",low,high
+"competitive exam nearagunna nenju padhapadhukudhu, anxious ah irukku","My heart races as my competitive exam approaches, I feel anxious",education,anxious,"competitive,anxious",medium,high
+"hostel life pathi ipo tension illa, mind calm ah irukku","I don't feel tense about my hostel life anymore, my mind feels calm",education,calm,"hostel,calm",low,high
+"concentration pathi teacher venaama kadinama pesinanga, kobama irukku","The teacher spoke harshly to me about my concentration for no reason, I'm angry",education,angry,"concentration,angry",medium,high
+fear of failure ku sariyaana effort podala nu ippo guilt varudhu,I feel guilty now that I didn't put proper effort into my fear of failure,education,guilty,"fear,guilty",medium,high
+Python programming la enna approach follow pannanum nu confusion irukku,I'm confused about what approach to follow for my Python programming,education,confused,"python,confused",medium,high
+"record work ku parallel ah vera work kooda irukku, stress adhigama irukku","I have other work along with my record work, the stress is very high",education,stressed,"record,stressed",high,high
+"workshop expect panna madhiri nadakala, romba vaguthadhu","My workshop didn't turn out as I expected, it really disappointed me",education,sad,"workshop,sad",medium,high
+arrears nearagudhu nu ninachaale bayam varudhu,I feel scared whenever I think my arrears is approaching,education,fear,"arrears,fear",medium,high
+scholarship pathi yosichaale nenju padhapadhukudhu,My heart races with fear whenever I think about my scholarship,education,fear,"scholarship,fear",medium,high
+"scholarship konjam kashtama irundhalum, future bright ah irukum nu feel panren","Even though my scholarship is a bit tough, I feel the future will be bright",education,hopeful,"scholarship,hopeful",low,high
+"college ku register pannitten, romba excited ah irukku","I registered for my college, I'm really excited",education,excited,"college,excited",low,high
+"presentation la nalla opportunity kedaichudhu, semma excited","I got a great opportunity in my presentation, I'm so excited",education,excited,"presentation,excited",low,high
+"practical exam time la yaarum help panna maatanga, thaniya feel panren","Nobody helps me during my practical exam, I feel alone",education,lonely,"practical,lonely",medium,high
+embedded systems subject la nalla mark varamale poidumo nu bayama irukku,I'm afraid I might not get good marks in my embedded systems subject,education,fear,"embedded,fear",medium,high
+"academic goal nalla prepare pannitten, ipo calm ah irukken","I've prepared well for my academic goal, I feel calm now",education,calm,"academic,calm",low,high
+"time management pathi results announce panna poranga, wait pannitu excited ah irukken","They're about to announce time management results, I'm waiting excitedly",education,excited,"time,excited",low,high
+higher studies plan nearagudhu nu ninachaale bayam varudhu,I feel scared whenever I think my higher studies plan is approaching,education,fear,"higher,fear",medium,high
+technical symposium la marks correct ah kudukala nu kobam varudhu,I'm angry that they didn't give correct marks for my technical symposium,education,angry,"technical,angry",medium,high
+"higher studies plan vetri aaga mudinjadhu, happy ah irukku","I managed to succeed in my higher studies plan, I feel happy",education,happy,"higher,happy",low,high
+fees payment pathi yosikkama calm ah irukka try panren,I'm trying to stay calm without overthinking my fees payment,education,calm,"fees,calm",low,high
+classmates nearagudhu nu ninachaale bayam varudhu,I feel scared whenever I think my classmates is approaching,education,fear,"classmates,fear",medium,high
+"semester exam expect panna madhiri nadakala, romba vaguthadhu","My semester exam didn't turn out as I expected, it really disappointed me",education,sad,"semester,sad",medium,high
+university exam nalla poidum nu nambikkai irukku,I have hope that my university exam will go well,education,hopeful,"university,hopeful",low,high
+fear of failure nalla poidum nu nambikkai irukku,I have hope that my fear of failure will go well,education,hopeful,"fear,hopeful",low,high
+graduation ku team ah let down pannitten nu guilt irukku,I feel guilty that I let my team down regarding my graduation,education,guilty,"graduation,guilty",medium,high
+presentation pathi yosikkama calm ah irukka try panren,I'm trying to stay calm without overthinking my presentation,education,calm,"presentation,calm",low,high
+presentation nearagudhu nu ninachaale bayam varudhu,I feel scared whenever I think my presentation is approaching,education,fear,"presentation,fear",medium,high
+"fees payment deadline nearagudhu, romba stress ah irukku","My fees payment deadline is approaching, I'm really stressed",education,stressed,"fees,stressed",high,high
+college pathi ninachaale sad ah irukku,Thinking about my college makes me feel sad,education,sad,"college,sad",medium,high
+academic goal preparation romba stress kudukudhu,Preparing for my academic goal is giving me a lot of stress,education,stressed,"academic,stressed",high,high
+"graduation preparation ellam thaniya pannuren, konjam lonely ah irukku","I'm doing all my graduation preparation alone, I feel a bit lonely",education,lonely,"graduation,lonely",medium,high
+"new skill learning pathi teacher solradhukum notes irukradhukum match aagala, confuse ah irukku","What the teacher said about my learning a new skill doesn't match the notes, I'm confused",education,confused,"new,confused",medium,high
+GATE preparation pathi negative outcome varumo nu fear ah irukku,I'm scared that my GATE preparation might have a negative outcome,education,fear,"gate,fear",medium,high
+"hostel life pathi over thinking pannitu irukken, sleep kooda varala","I've been overthinking about my hostel life, I can't even sleep",education,anxious,"hostel,anxious",medium,high
+"fear of failure la top score vangiten, semma santhosham","I scored the top marks in my fear of failure, I'm so delighted",education,happy,"fear,happy",low,high
+"placements preparation nearagunna nenju padhapadhukudhu, anxious ah irukku","My heart races as my placements preparation approaches, I feel anxious",education,anxious,"placements,anxious",medium,high
+hackathon result eppo varum nu ninachu anxious ah irukken,I feel anxious wondering when my hackathon result will come,education,anxious,"hackathon,anxious",medium,high
+hackathon nalla poidum nu nambikkai irukku,I have hope that my hackathon will go well,education,hopeful,"hackathon,hopeful",low,high
+"record work pathi over thinking pannitu irukken, sleep kooda varala","I've been overthinking about my record work, I can't even sleep",education,anxious,"record,anxious",medium,high
+"college nearagunna nenju padhapadhukudhu, anxious ah irukku","My heart races as my college approaches, I feel anxious",education,anxious,"college,anxious",medium,high
+placements preparation la parents expectation meet panna mudiyala nu guilt irukku,I feel guilty that I couldn't meet my parents' expectations in my placements preparation,education,guilty,"placements,guilty",medium,high
+"college time la yaarum help panna maatanga, thaniya feel panren","Nobody helps me during my college, I feel alone",education,lonely,"college,lonely",medium,high
+"lab work pathi results announce panna poranga, wait pannitu excited ah irukken","They're about to announce lab work results, I'm waiting excitedly",education,excited,"lab,excited",low,high
+viva result eppo varum nu ninachu anxious ah irukken,I feel anxious wondering when my viva result will come,education,anxious,"viva,anxious",medium,high
+internal exam preparation romba stress kudukudhu,Preparing for my internal exam is giving me a lot of stress,education,stressed,"internal,stressed",high,high
+competitive exam la marks correct ah kudukala nu kobam varudhu,I'm angry that they didn't give correct marks for my competitive exam,education,angry,"competitive,angry",medium,high
+semester exam pathi negative outcome varumo nu fear ah irukku,I'm scared that my semester exam might have a negative outcome,education,fear,"semester,fear",medium,high
+Python programming result paathu romba sad ah aayiduchen,I felt really sad after seeing my Python programming result,education,sad,"python,sad",medium,high
+"time management plan pannitten, ipo mind peaceful ah irukku","I've planned my time management, my mind feels peaceful now",education,calm,"time,calm",low,high
+"GATE preparation vishayathula unfair ah treat pannanga nu feel panren, romba frustration","I feel like I was treated unfairly regarding my GATE preparation, it's really frustrating",education,angry,"gate,angry",medium,high
+"technical symposium konjam kashtama irundhalum, future bright ah irukum nu feel panren","Even though my technical symposium is a bit tough, I feel the future will be bright",education,hopeful,"technical,hopeful",low,high
+"Python programming pathi friends ellarum different advice kudukranga, confuse ah irukku","All my friends are giving different advice about my Python programming, I'm confused",education,confused,"python,confused",medium,high
+homework pathi yosikkama calm ah irukka try panren,I'm trying to stay calm without overthinking my homework,education,calm,"homework,calm",low,high
+"electronics subject schedule last nimushathula maathitanga, romba irritation","They changed the electronics subject schedule at the last minute, it's really irritating",education,angry,"electronics,angry",medium,high
+"embedded systems subject vishayathula unfair ah treat pannanga nu feel panren, romba frustration","I feel like I was treated unfairly regarding my embedded systems subject, it's really frustrating",education,angry,"embedded,angry",medium,high
+"classmates pathi teacher solradhukum notes irukradhukum match aagala, confuse ah irukku","What the teacher said about my classmates doesn't match the notes, I'm confused",education,confused,"classmates,confused",medium,high
+"communication engineering pathi friends ellarum different advice kudukranga, confuse ah irukku","All my friends are giving different advice about my communication engineering, I'm confused",education,confused,"communication,confused",medium,high
+seminar pathi yosikkama calm ah irukka try panren,I'm trying to stay calm without overthinking my seminar,education,calm,"seminar,calm",low,high
+"record work expect panna madhiri nadakala, romba vaguthadhu","My record work didn't turn out as I expected, it really disappointed me",education,sad,"record,sad",medium,high
+hostel life pathi negative outcome varumo nu fear ah irukku,I'm scared that my hostel life might have a negative outcome,education,fear,"hostel,fear",medium,high
+embedded systems subject la fail aayidumo nu romba bayanthu irukken,I'm really scared that I might fail my embedded systems subject,education,fear,"embedded,fear",high,high
+"practical exam ku hard work pannitu irukken, result nalladhu varum nu nambikkai","I'm working hard on my practical exam, I hope the result will be good",education,hopeful,"practical,hopeful",low,high
+"college nalla nadakala, manasu heavy ah irukku","My college did not go well, my heart feels heavy",education,sad,"college,sad",medium,high
+arrears ku sariyaana effort podala nu ippo guilt varudhu,I feel guilty now that I didn't put proper effort into my arrears,education,guilty,"arrears,guilty",medium,high
+"scholarship start aaga innum konjam naal dhaan irukku, romba excited ah irukken","There's only a few days left for my scholarship to start, I'm really excited",education,excited,"scholarship,excited",low,high
+"group study expect panna madhiri nadakala, romba vaguthadhu","My group study didn't turn out as I expected, it really disappointed me",education,sad,"group,sad",medium,high
+"embedded systems subject preparation ellam thaniya pannuren, konjam lonely ah irukku","I'm doing all my embedded systems subject preparation alone, I feel a bit lonely",education,lonely,"embedded,lonely",medium,high
+DSA preparation pathi ninaicha kobam adangala,My anger doesn't settle down when I think about my DSA preparation,education,angry,"dsa,angry",medium,high
+"university exam pathi ipo tension illa, mind calm ah irukku","I don't feel tense about my university exam anymore, my mind feels calm",education,calm,"university,calm",low,high
+"communication engineering syllabus romba periya level la irukku, stress ah irukku","The syllabus for my communication engineering is huge, I'm stressed",education,stressed,"communication,stressed",medium,high
+"certification course pathi accept pannitten, calm ah feel panren","I've accepted things about my certification course, I feel calm",education,calm,"certification,calm",low,high
+homework eppadi start pannanum nu theriyala,I don't know how to start my homework,education,confused,"homework,confused",medium,high
+"group study syllabus romba periya level la irukku, stress ah irukku","The syllabus for my group study is huge, I'm stressed",education,stressed,"group,stressed",medium,high
+time management pathi negative outcome varumo nu fear ah irukku,I'm scared that my time management might have a negative outcome,education,fear,"time,fear",medium,high
+"coding practice nalla nadakala, manasu heavy ah irukku","My coding practice did not go well, my heart feels heavy",education,sad,"coding,sad",medium,high
+competitive exam pathi yosichaale nenju padhapadhukudhu,My heart races with fear whenever I think about my competitive exam,education,fear,"competitive,fear",medium,high
+"electronics subject nearagunna nenju padhapadhukudhu, anxious ah irukku","My heart races as my electronics subject approaches, I feel anxious",education,anxious,"electronics,anxious",medium,high
+arrears result eppo varum nu ninachu anxious ah irukken,I feel anxious wondering when my arrears result will come,education,anxious,"arrears,anxious",medium,high
+arrears la parents expectation meet panna mudiyala nu guilt irukku,I feel guilty that I couldn't meet my parents' expectations in my arrears,education,guilty,"arrears,guilty",medium,high
+"internal exam pathi konjam tension irundhalum, positive ah dhaan irukken","Even with some tension about my internal exam, I'm staying positive",education,hopeful,"internal,hopeful",low,high
+"placements preparation pathi ninacha thalai suthudhu, stress ah irukku","My head spins when I think about my placements preparation, I'm stressed",education,stressed,"placements,stressed",high,high
+"graduation pathi results announce panna poranga, wait pannitu excited ah irukken","They're about to announce graduation results, I'm waiting excitedly",education,excited,"graduation,excited",low,high
+study motivation pathi yosikkama calm ah irukka try panren,I'm trying to stay calm without overthinking my study motivation,education,calm,"study,calm",low,high
+"new skill learning pathi nalla feedback kedaichudhu, mood romba happy","I got good feedback about my learning a new skill, my mood is really happy",education,happy,"new,happy",low,high
+classroom la nalla mark varamale poidumo nu bayama irukku,I'm afraid I might not get good marks in my classroom,education,fear,"classroom,fear",medium,high
+"time management start aaga innum konjam naal dhaan irukku, romba excited ah irukken","There's only a few days left for my time management to start, I'm really excited",education,excited,"time,excited",low,high
+certification course la parents expectation meet panna mudiyala nu guilt irukku,I feel guilty that I couldn't meet my parents' expectations in my certification course,education,guilty,"certification,guilty",medium,high
+placements preparation la fail aayiduchen nu therinjadhum mind heavy ah aayiduchu,"The moment I found out I failed my placements preparation, my mind felt heavy",education,sad,"placements,sad",medium,high
+"record work preparation la kadaisi nimusham varaikkum procrastinate pannitten, guilt ah irukku","I procrastinated my record work preparation till the last minute, I feel guilty",education,guilty,"record,guilty",medium,high
+seminar ku team ah let down pannitten nu guilt irukku,I feel guilty that I let my team down regarding my seminar,education,guilty,"seminar,guilty",medium,high
+"school pathi pesa yarum illa hostel la, lonely ah irukku","There's no one to talk to about my school in the hostel, I feel lonely",education,lonely,"school,lonely",medium,high
+"class teacher pathi accept pannitten, calm ah feel panren","I've accepted things about my class teacher, I feel calm",education,calm,"class,calm",low,high
+"record work nalla nadakala, manasu heavy ah irukku","My record work did not go well, my heart feels heavy",education,sad,"record,sad",medium,high
+coding practice la enna approach follow pannanum nu confusion irukku,I'm confused about what approach to follow for my coding practice,education,confused,"coding,confused",medium,high
+"presentation la top score vangiten, semma santhosham","I scored the top marks in my presentation, I'm so delighted",education,happy,"presentation,happy",low,high
+time management result eppo varum nu ninachu anxious ah irukken,I feel anxious wondering when my time management result will come,education,anxious,"time,anxious",medium,high
+hackathon eppadi start pannanum nu theriyala,I don't know how to start my hackathon,education,confused,"hackathon,confused",medium,high
+internship la parents expectation meet panna mudiyala nu guilt irukku,I feel guilty that I couldn't meet my parents' expectations in my internship,education,guilty,"internship,guilty",medium,high
+"arrears ippo kashtama irundhalum, mudivula nalladhu nadakum nu nambaren","Even though my arrears is hard right now, I believe it will end well",education,hopeful,"arrears,hopeful",low,high
+model exam pathi yosikkama calm ah irukka try panren,I'm trying to stay calm without overthinking my model exam,education,calm,"model,calm",low,high
+"communication engineering plan pannitten, ipo mind peaceful ah irukku","I've planned my communication engineering, my mind feels peaceful now",education,calm,"communication,calm",low,high
+"competitive exam syllabus romba periya level la irukku, stress ah irukku","The syllabus for my competitive exam is huge, I'm stressed",education,stressed,"competitive,stressed",medium,high
+"university nearagunna nenju padhapadhukudhu, anxious ah irukku","My heart races as my university approaches, I feel anxious",education,anxious,"university,anxious",medium,high
+"lab work deadline nearagudhu, romba stress ah irukku","My lab work deadline is approaching, I'm really stressed",education,stressed,"lab,stressed",high,high
+"attendance pathi accept pannitten, calm ah feel panren","I've accepted things about my attendance, I feel calm",education,calm,"attendance,calm",low,high
+"practical exam konjam kashtama irundhalum, future bright ah irukum nu feel panren","Even though my practical exam is a bit tough, I feel the future will be bright",education,hopeful,"practical,hopeful",low,high
+"coding practice schedule last nimushathula maathitanga, romba irritation","They changed the coding practice schedule at the last minute, it's really irritating",education,angry,"coding,angry",medium,high
+"GATE preparation deadline nearagudhu, romba stress ah irukku","My GATE preparation deadline is approaching, I'm really stressed",education,stressed,"gate,stressed",high,high
+attendance pathi yosichaale nenju padhapadhukudhu,My heart races with fear whenever I think about my attendance,education,fear,"attendance,fear",medium,high
+record work ku decision edukka mudiyama irukken innum,I still can't make a decision about my record work,education,confused,"record,confused",medium,high
+semester exam la marks correct ah kudukala nu kobam varudhu,I'm angry that they didn't give correct marks for my semester exam,education,angry,"semester,angry",medium,high
+"attendance pathi friends ellarum different advice kudukranga, confuse ah irukku","All my friends are giving different advice about my attendance, I'm confused",education,confused,"attendance,confused",medium,high
+seminar la marks correct ah kudukala nu kobam varudhu,I'm angry that they didn't give correct marks for my seminar,education,angry,"seminar,angry",medium,high
+"academic goal la nalla opportunity kedaichudhu, semma excited","I got a great opportunity in my academic goal, I'm so excited",education,excited,"academic,excited",low,high
+"technical symposium nearagunna nenju padhapadhukudhu, anxious ah irukku","My heart races as my technical symposium approaches, I feel anxious",education,anxious,"technical,anxious",medium,high
+hostel life la parents expectation meet panna mudiyala nu guilt irukku,I feel guilty that I couldn't meet my parents' expectations in my hostel life,education,guilty,"hostel,guilty",medium,high
+"internship ku nalla prepare aagalaya nu doubt varudhu, anxious ah irukku","I keep doubting whether I've prepared well for my internship, I'm anxious",education,anxious,"internship,anxious",medium,high
+practical exam pathi yosichaale nenju padhapadhukudhu,My heart races with fear whenever I think about my practical exam,education,fear,"practical,fear",medium,high
+"practical exam nalla prepare pannitten, ipo calm ah irukken","I've prepared well for my practical exam, I feel calm now",education,calm,"practical,calm",low,high
+"fear of failure ku hard work pannitu irukken, result nalladhu varum nu nambikkai","I'm working hard on my fear of failure, I hope the result will be good",education,hopeful,"fear,hopeful",low,high
+record work la enna approach follow pannanum nu confusion irukku,I'm confused about what approach to follow for my record work,education,confused,"record,confused",medium,high
+"technical symposium pathi teacher venaama kadinama pesinanga, kobama irukku","The teacher spoke harshly to me about my technical symposium for no reason, I'm angry",education,angry,"technical,angry",medium,high
+GATE preparation pathi ninaicha kobam adangala,My anger doesn't settle down when I think about my GATE preparation,education,angry,"gate,angry",medium,high
+"GATE preparation pathi teacher solradhukum notes irukradhukum match aagala, confuse ah irukku","What the teacher said about my GATE preparation doesn't match the notes, I'm confused",education,confused,"gate,confused",medium,high
+academic goal ku decision edukka mudiyama irukken innum,I still can't make a decision about my academic goal,education,confused,"academic,confused",medium,high
+"group study pathi accept pannitten, calm ah feel panren","I've accepted things about my group study, I feel calm",education,calm,"group,calm",low,high
+model exam result paathu romba sad ah aayiduchen,I felt really sad after seeing my model exam result,education,sad,"model,sad",medium,high
+professor pathi yosichaale nenju padhapadhukudhu,My heart races with fear whenever I think about my professor,education,fear,"professor,fear",medium,high
+"friends ellarum coding practice pathi busy, naan thaniya irukken","All my friends are busy with their coding practice, I'm on my own",education,lonely,"coding,lonely",low,high
+scholarship nalla mudinjadhu nu kelvi pattu happy ah irukken,"I heard my scholarship went well, I'm happy about it",education,happy,"scholarship,happy",low,high

@@ -1,0 +1,1001 @@
+tanglish_input,english_output,intent,emotion,keywords,urgency,confidence
+family illness expectation meet panna mudiyala nu guilt irukku,I feel guilty that I couldn't meet my family illness's expectations,family,guilty,"family,guilty",medium,high
+grandparents nalla poidum nu nambikkai irukku,I have hope that my grandparents will go well,family,hopeful,"grandparents,hopeful",low,high
+advice nalla poidum nu nambikkai irukku,I have hope that my advice will go well,family,hopeful,"advice,hopeful",low,high
+"advice ippo kashtama irundhalum, nalladhu nadakum nu nambaren","Even though my advice is tough right now, I believe it will turn out well",family,hopeful,"advice,hopeful",low,high
+grandparents time la semma santhosham feel panren,I feel so joyful during my grandparents,family,happy,"grandparents,happy",low,high
+family reunion nalla poidum nu nambikkai irukku,I have hope that my family reunion will go well,family,hopeful,"family,hopeful",low,high
+family expectation news eppo varum nu ninachu anxious ah irukken,I feel anxious wondering when news about my family expectation will come,family,anxious,"family,anxious",medium,high
+"wedding function pathi nalla news kekka poren nu thonudhu, excited ah irukku",I feel excited thinking I might hear good news about my wedding function,family,excited,"wedding,excited",low,high
+"marriage pathi accept pannitten, calm ah feel panren","I've accepted things about my marriage, I feel calm",family,calm,"marriage,calm",low,high
+"grandparents vishayam expect panna madhiri nadakala, romba vaguthadhu","My grandparents didn't turn out as I expected, it really hurt me",family,sad,"grandparents,sad",medium,high
+"family reunion pathi nalla news kekka poren nu thonudhu, excited ah irukku",I feel excited thinking I might hear good news about my family reunion,family,excited,"family,excited",low,high
+daily family conversation pathi ninachaale sad ah aayidudhu,Thinking about my daily family conversation makes me feel sad,family,sad,"daily,sad",medium,high
+brother dhooram poiten apparam romba lonely ah irukku,"Since I moved away from my brother, I feel really lonely",family,lonely,"brother,lonely",medium,high
+"advice vishayam expect panna madhiri nadakala, romba vaguthadhu","My advice didn't turn out as I expected, it really hurt me",family,sad,"advice,sad",medium,high
+"home vishayam expect panna madhiri nadakala, romba vaguthadhu","My home didn't turn out as I expected, it really hurt me",family,sad,"home,sad",medium,high
+family loss pathi bad news varumo nu fear ah irukku,I'm scared that bad news might come about my family loss,family,fear,"family,fear",medium,high
+family respect la ellarum sera irundhu semma fun ah irundhudhu,Everyone came together for my family respect and it was so much fun,family,happy,"family,happy",low,high
+daily family conversation la ellarum sera irundhu semma fun ah irundhudhu,Everyone came together for my daily family conversation and it was so much fun,family,happy,"daily,happy",low,high
+family support pathi nalla news kelvi pattu happy ah irukken,"I heard good news about my family support, I'm happy about it",family,happy,"family,happy",low,high
+family illness pathi amma solradhukum appa solradhukum match aagala,"What amma says about my family illness doesn't match what appa says, I'm confused",family,confused,"family,confused",medium,high
+"family reunion pathi ninacha thalai suthudhu, stress ah irukku","My head spins when I think about my family reunion, I'm stressed",family,stressed,"family,stressed",high,high
+uncle pathi yosichaale nenju padhapadhukudhu,My heart races with fear whenever I think about my uncle,family,fear,"uncle,fear",medium,high
+"elders health nalla nadakumaa nu doubt varudhu, anxious ah irukku","I keep doubting whether my elders' health will go well, I'm anxious",family,anxious,"elders,anxious",medium,high
+"family happiness pathi accept pannitten, calm ah feel panren","I've accepted things about my family happiness, I feel calm",family,calm,"family,calm",low,high
+home pathi therinjadhum manasu heavy ah aayiduchu,"The moment I heard about my home, my heart felt heavy",family,sad,"home,sad",medium,high
+sister nalla poidum nu nambikkai irukku,I have hope that my sister will go well,family,hopeful,"sister,hopeful",low,high
+"uncle vishayathula family ellarum different opinion sollranga, confuse ah irukku","Everyone in the family has a different opinion about my uncle, I'm confused",family,confused,"uncle,confused",medium,high
+grief decision eduka mudiyama irukken innum,I still can't make a decision about my grief,family,confused,"grief,confused",medium,high
+"family responsibility vishayathula yaaraiyum kekkama edhuvum pannitanga, kobam adangala","They did something about my family responsibility without asking anyone, my anger won't settle",family,angry,"family,angry",medium,high
+misunderstanding vishayathula pressure adhigama irukku,There's a lot of pressure regarding my misunderstanding,family,stressed,"misunderstanding,stressed",medium,high
+financial struggle vishayathula unfair ah treat pannanga nu kobam,"I feel like I was treated unfairly regarding my financial struggle, I'm angry",family,angry,"financial,angry",medium,high
+"amma pathi venaama kadinama pesinanga, frustration ah irukku","They spoke harshly about my mother for no reason, it's frustrating",family,angry,"amma,angry",medium,high
+"parenting promise panni miss pannitten, romba guilty ah feel panren","I promised something for my parenting and missed it, I feel really guilty",family,guilty,"parenting,guilty",medium,high
+advice pathi ninachaale mukham la smile varudhu,Just thinking about my advice brings a smile to my face,family,happy,"advice,happy",low,high
+"financial struggle pathi nalla news kekka poren nu thonudhu, excited ah irukku",I feel excited thinking I might hear good news about my financial struggle,family,excited,"financial,excited",low,high
+family support eppadi handle pannanum nu puriyala,I don't understand how to handle my family support,family,confused,"family,confused",medium,high
+family problem time la semma santhosham feel panren,I feel so joyful during my family problem,family,happy,"family,happy",low,high
+"kids upbringing vishayathula konjam tension irundhalum, positive ah dhaan irukken","Even with some tension about my kids' upbringing, I'm staying positive",family,hopeful,"kids,hopeful",low,high
+"festival celebration arrangements start pannitanga, romba excited ah irukku","They've started the arrangements for my festival celebration, I'm really excited",family,excited,"festival,excited",low,high
+cousins decision eduka mudiyama irukken innum,I still can't make a decision about my cousins,family,confused,"cousins,confused",medium,high
+family support pathi ninachaale sad ah aayidudhu,Thinking about my family support makes me feel sad,family,sad,"family,sad",medium,high
+"family reunion vishayathula ella pesitten, ipo calm ah irukken","I've talked things through about my family reunion, I feel calm now",family,calm,"family,calm",low,high
+"family care nalla nadandhudhu, veetla ellarum happy ah irukanga","My family care went really well, everyone at home is happy",family,happy,"family,happy",low,high
+family problem pathi enna pannanum nu theriyala,I don't know what to do about my family problem,family,confused,"family,confused",medium,high
+elders health vishayam romba stress kudukudhu,Dealing with my elders' health is giving me a lot of stress,family,stressed,"elders,stressed",high,high
+"emotional support vishayathula family ellarum different opinion sollranga, confuse ah irukku","Everyone in the family has a different opinion about my emotional support, I'm confused",family,confused,"emotional,confused",medium,high
+grief nalla aagaadho nu bayama irukku,I'm afraid my grief might not turn out well,family,fear,"grief,fear",medium,high
+"gratitude vishayathula konjam tension irundhalum, positive ah dhaan irukken","Even with some tension about my gratitude, I'm staying positive",family,hopeful,"gratitude,hopeful",low,high
+"daily family conversation pathi yosichaale hands shake aagudhu, romba anxious","My hands shake when I think about my daily family conversation, I'm really anxious",family,anxious,"daily,anxious",high,high
+kids upbringing time la semma santhosham feel panren,I feel so joyful during my kids' upbringing,family,happy,"kids,happy",low,high
+"family bonding pesama edhavadhu decision edutanga, romba kobam varudhu","They made a decision about my family bonding without talking to me, I'm really angry",family,angry,"family,angry",medium,high
+"family support health pathi worry ah irukku, edhavadhu aagidumo nu bayam","I'm worried about my family support's health, scared something might happen",family,fear,"family,fear",high,high
+"gratitude nalla nadakala, veetla ellarum sad ah irukanga","My gratitude didn't go well, everyone at home is sad",family,sad,"gratitude,sad",medium,high
+"financial struggle pathi effort pannitu irukken, nalladhu varum nu nambikkai","I'm putting in effort for my financial struggle, I hope good things will come",family,hopeful,"financial,hopeful",low,high
+"family finances nalla nadandhudhu, veetla ellarum happy ah irukanga","My family finances went really well, everyone at home is happy",family,happy,"family,happy",low,high
+veetla family happiness pathi pesa yarum kooda illa,There's no one at home to talk about my family happiness with,family,lonely,"family,lonely",low,high
+parenting vishayathula unfair ah treat pannanga nu kobam,"I feel like I was treated unfairly regarding my parenting, I'm angry",family,angry,"parenting,angry",medium,high
+emotional support pathi amma solradhukum appa solradhukum match aagala,"What amma says about my emotional support doesn't match what appa says, I'm confused",family,confused,"emotional,confused",medium,high
+grief vishayathula unfair ah treat pannanga nu kobam,"I feel like I was treated unfairly regarding my grief, I'm angry",family,angry,"grief,angry",medium,high
+family bonding pathi bad news varumo nu fear ah irukku,I'm scared that bad news might come about my family bonding,family,fear,"family,fear",medium,high
+"family trip pathi ninacha thalai suthudhu, stress ah irukku","My head spins when I think about my family trip, I'm stressed",family,stressed,"family,stressed",high,high
+"advice pathi yosichaale hands shake aagudhu, romba anxious","My hands shake when I think about my advice, I'm really anxious",family,anxious,"advice,anxious",high,high
+cousins pathi pesa yarum illama thaniya feel panren,"There's no one to talk to about my cousins, I feel alone",family,lonely,"cousins,lonely",medium,high
+"aunty pathi over thinking pannitu irukken, sleep kooda varala","I've been overthinking about my aunt, I can't even sleep",family,anxious,"aunty,anxious",medium,high
+sister soon solve aagum nu nambaren,I believe my sister will be resolved soon,family,hopeful,"sister,hopeful",low,high
+"aunty pathi accept pannitten, calm ah feel panren","I've accepted things about my aunt, I feel calm",family,calm,"aunty,calm",low,high
+"grief pathi effort pannitu irukken, nalladhu varum nu nambikkai","I'm putting in effort for my grief, I hope good things will come",family,hopeful,"grief,hopeful",low,high
+"family happiness nalla nadandhudhu, veetla ellarum happy ah irukanga","My family happiness went really well, everyone at home is happy",family,happy,"family,happy",low,high
+family expectation vishayathula thappa nadandhukiten nu ippo guilt varudhu,I feel guilty now that I behaved wrongly regarding my family expectation,family,guilty,"family,guilty",medium,high
+family bonding time la semma santhosham feel panren,I feel so joyful during my family bonding,family,happy,"family,happy",low,high
+family illness decision eduka mudiyama irukken innum,I still can't make a decision about my family illness,family,confused,"family,confused",medium,high
+"elders health vishayathula family ellarum different opinion sollranga, confuse ah irukku","Everyone in the family has a different opinion about my elders' health, I'm confused",family,confused,"elders,confused",medium,high
+parenting pathi yosikkama calm ah irukka try panren,I'm trying to stay calm without overthinking my parenting,family,calm,"parenting,calm",low,high
+"misunderstanding innum konjam naal dhaan irukku, romba excited ah irukken","There's only a few days left for my misunderstanding, I'm really excited",family,excited,"misunderstanding,excited",low,high
+uncle nyabagam vandha kannu filaagudhu,"When I remember my uncle, my eyes well up",family,sad,"uncle,sad",medium,high
+"family responsibility pathi venaama kadinama pesinanga, frustration ah irukku","They spoke harshly about my family responsibility for no reason, it's frustrating",family,angry,"family,angry",medium,high
+cousins pathi nalla news kelvi pattu happy ah irukken,"I heard good news about my cousins, I'm happy about it",family,happy,"cousins,happy",low,high
+"family happiness matter ku parallel ah vera responsibility kooda irukku, stress adhigam","I have other responsibilities along with my family happiness, the stress is very high",family,stressed,"family,stressed",high,high
+family reunion illama veedu verumaiya irukku,The house feels empty without my family reunion,family,lonely,"family,lonely",medium,high
+"elders health vishayathula yaaraiyum kekkama edhuvum pannitanga, kobam adangala","They did something about my elders' health without asking anyone, my anger won't settle",family,angry,"elders,angry",medium,high
+family love nalla aagaadho nu bayama irukku,I'm afraid my family love might not turn out well,family,fear,"family,fear",medium,high
+"family responsibility pathi over thinking pannitu irukken, sleep kooda varala","I've been overthinking about my family responsibility, I can't even sleep",family,anxious,"family,anxious",medium,high
+"family happiness innum konjam naal dhaan irukku, romba excited ah irukken","There's only a few days left for my family happiness, I'm really excited",family,excited,"family,excited",low,high
+marriage nyabagam vandha kannu filaagudhu,"When I remember my marriage, my eyes well up",family,sad,"marriage,sad",medium,high
+elders health la ellarum sera irundhu semma fun ah irundhudhu,Everyone came together for my elders' health and it was so much fun,family,happy,"elders,happy",low,high
+daily family conversation vishayathula thappa nadandhukiten nu ippo guilt varudhu,I feel guilty now that I behaved wrongly regarding my daily family conversation,family,guilty,"daily,guilty",medium,high
+family finances news eppo varum nu ninachu anxious ah irukken,I feel anxious wondering when news about my family finances will come,family,anxious,"family,anxious",medium,high
+home vishayathula thappa nadandhukiten nu ippo guilt varudhu,I feel guilty now that I behaved wrongly regarding my home,family,guilty,"home,guilty",medium,high
+family respect vishayathula pressure adhigama irukku,There's a lot of pressure regarding my family respect,family,stressed,"family,stressed",medium,high
+family illness vishayathula pressure adhigama irukku,There's a lot of pressure regarding my family illness,family,stressed,"family,stressed",medium,high
+"uncle kooda irukkum pozhudhu miss pannuren, ippo thaniya irukken","I miss the time I spent with my uncle, now I feel alone",family,lonely,"uncle,lonely",medium,high
+gratitude pathi yosichaale nenju padhapadhukudhu,My heart races with fear whenever I think about my gratitude,family,fear,"gratitude,fear",medium,high
+emotional support soon solve aagum nu nambaren,I believe my emotional support will be resolved soon,family,hopeful,"emotional,hopeful",low,high
+cousins illama veedu verumaiya irukku,The house feels empty without my cousins,family,lonely,"cousins,lonely",medium,high
+parenting pathi ninachaale mukham la smile varudhu,Just thinking about my parenting brings a smile to my face,family,happy,"parenting,happy",low,high
+elders health nalla poidum nu nambikkai irukku,I have hope that my elders' health will go well,family,hopeful,"elders,hopeful",low,high
+"family support ippo kashtama irundhalum, nalladhu nadakum nu nambaren","Even though my family support is tough right now, I believe it will turn out well",family,hopeful,"family,hopeful",low,high
+veetla family respect pathi pesa yarum kooda illa,There's no one at home to talk about my family respect with,family,lonely,"family,lonely",low,high
+kids upbringing nalla aagaadho nu bayama irukku,I'm afraid my kids' upbringing might not turn out well,family,fear,"kids,fear",medium,high
+grandparents vishayathula edhachum thappu nadandhudumo nu bayam,I'm scared something might go wrong with my grandparents,family,fear,"grandparents,fear",high,high
+"family argument la ellarum sera poravanga, wait pannitu excited ah irukken","Everyone is coming together for my family argument, I'm waiting excitedly",family,excited,"family,excited",low,high
+"marriage pathi effort pannitu irukken, nalladhu varum nu nambikkai","I'm putting in effort for my marriage, I hope good things will come",family,hopeful,"marriage,hopeful",low,high
+"childhood memories pesama edhavadhu decision edutanga, romba kobam varudhu","They made a decision about my childhood memories without talking to me, I'm really angry",family,angry,"childhood,angry",medium,high
+"wedding function vishayathula ella pesitten, ipo calm ah irukken","I've talked things through about my wedding function, I feel calm now",family,calm,"wedding,calm",low,high
+"home matter ku parallel ah vera responsibility kooda irukku, stress adhigam","I have other responsibilities along with my home, the stress is very high",family,stressed,"home,stressed",high,high
+amma nalla aagaadho nu bayama irukku,I'm afraid my mother might not turn out well,family,fear,"amma,fear",medium,high
+childhood memories pathi yosikkama calm ah irukka try panren,I'm trying to stay calm without overthinking my childhood memories,family,calm,"childhood,calm",low,high
+"aunty pathi ninacha thalai suthudhu, stress ah irukku","My head spins when I think about my aunt, I'm stressed",family,stressed,"aunty,stressed",high,high
+sister news eppo varum nu ninachu anxious ah irukken,I feel anxious wondering when news about my sister will come,family,anxious,"sister,anxious",medium,high
+"family argument innum konjam naal dhaan irukku, romba excited ah irukken","There's only a few days left for my family argument, I'm really excited",family,excited,"family,excited",low,high
+"sister pathi ninacha thalai suthudhu, stress ah irukku","My head spins when I think about my sister, I'm stressed",family,stressed,"sister,stressed",high,high
+"marriage nalla nadandhudhu, veetla ellarum happy ah irukanga","My marriage went really well, everyone at home is happy",family,happy,"marriage,happy",low,high
+family happiness vishayathula unfair ah treat pannanga nu kobam,"I feel like I was treated unfairly regarding my family happiness, I'm angry",family,angry,"family,angry",medium,high
+"family respect arrangements start pannitanga, romba excited ah irukku","They've started the arrangements for my family respect, I'm really excited",family,excited,"family,excited",low,high
+sister expectation meet panna mudiyala nu guilt irukku,I feel guilty that I couldn't meet my sister's expectations,family,guilty,"sister,guilty",medium,high
+"aunty matter ku parallel ah vera responsibility kooda irukku, stress adhigam","I have other responsibilities along with my aunt, the stress is very high",family,stressed,"aunty,stressed",high,high
+"family happiness solve aagiduchu, ipo manasu peaceful ah irukku","My family happiness got resolved, my heart feels peaceful now",family,calm,"family,calm",low,high
+"family finances innum konjam naal dhaan irukku, romba excited ah irukken","There's only a few days left for my family finances, I'm really excited",family,excited,"family,excited",low,high
+"gratitude promise panni miss pannitten, romba guilty ah feel panren","I promised something for my gratitude and missed it, I feel really guilty",family,guilty,"gratitude,guilty",medium,high
+"family responsibility nalla nadakala, veetla ellarum sad ah irukanga","My family responsibility didn't go well, everyone at home is sad",family,sad,"family,sad",medium,high
+advice handle panna time illama stress ah irukku,I'm stressed because I don't have time to handle my advice,family,stressed,"advice,stressed",high,high
+advice pathi ninachaale sad ah aayidudhu,Thinking about my advice makes me feel sad,family,sad,"advice,sad",medium,high
+family problem decision eduka mudiyama irukken innum,I still can't make a decision about my family problem,family,confused,"family,confused",medium,high
+sister vishayam romba stress kudukudhu,Dealing with my sister is giving me a lot of stress,family,stressed,"sister,stressed",high,high
+marriage expectation meet panna mudiyala nu guilt irukku,I feel guilty that I couldn't meet my marriage's expectations,family,guilty,"marriage,guilty",medium,high
+"amma vishayathula family ellarum different opinion sollranga, confuse ah irukku","Everyone in the family has a different opinion about my mother, I'm confused",family,confused,"amma,confused",medium,high
+encouragement vishayathula pressure adhigama irukku,There's a lot of pressure regarding my encouragement,family,stressed,"encouragement,stressed",medium,high
+family care pathi amma solradhukum appa solradhukum match aagala,"What amma says about my family care doesn't match what appa says, I'm confused",family,confused,"family,confused",medium,high
+"gratitude pathi plan pannitu irukom, semma excited ah irukku","We're planning for my gratitude, I'm so excited",family,excited,"gratitude,excited",low,high
+misunderstanding handle panna time illama stress ah irukku,I'm stressed because I don't have time to handle my misunderstanding,family,stressed,"misunderstanding,stressed",high,high
+"wedding function vishayam expect panna madhiri nadakala, romba vaguthadhu","My wedding function didn't turn out as I expected, it really hurt me",family,sad,"wedding,sad",medium,high
+family trust expectation meet panna mudiyala nu guilt irukku,I feel guilty that I couldn't meet my family trust's expectations,family,guilty,"family,guilty",medium,high
+grief vishayathula edhachum thappu nadandhudumo nu bayam,I'm scared something might go wrong with my grief,family,fear,"grief,fear",high,high
+encouragement expectation meet panna mudiyala nu guilt irukku,I feel guilty that I couldn't meet my encouragement's expectations,family,guilty,"encouragement,guilty",medium,high
+"advice promise panni miss pannitten, romba guilty ah feel panren","I promised something for my advice and missed it, I feel really guilty",family,guilty,"advice,guilty",medium,high
+elders health pathi bad news varumo nu fear ah irukku,I'm scared that bad news might come about my elders' health,family,fear,"elders,fear",medium,high
+marriage pathi ninachaale sad ah aayidudhu,Thinking about my marriage makes me feel sad,family,sad,"marriage,sad",medium,high
+family reunion pathi amma solradhukum appa solradhukum match aagala,"What amma says about my family reunion doesn't match what appa says, I'm confused",family,confused,"family,confused",medium,high
+"family loss pathi venaama kadinama pesinanga, frustration ah irukku","They spoke harshly about my family loss for no reason, it's frustrating",family,angry,"family,angry",medium,high
+"gratitude pathi effort pannitu irukken, nalladhu varum nu nambikkai","I'm putting in effort for my gratitude, I hope good things will come",family,hopeful,"gratitude,hopeful",low,high
+"marriage nalla nadakala, veetla ellarum sad ah irukanga","My marriage didn't go well, everyone at home is sad",family,sad,"marriage,sad",medium,high
+family finances kooda neram selavazhikama irundhadhukku guilt ah irukku,I feel guilty for not spending enough time with my family finances,family,guilty,"family,guilty",medium,high
+family trust ku sariyaana neram kudukala nu guilt irukku,I feel guilty that I didn't give proper time to my family trust,family,guilty,"family,guilty",medium,high
+veetla misunderstanding pathi pesa yarum kooda illa,There's no one at home to talk about my misunderstanding with,family,lonely,"misunderstanding,lonely",low,high
+"family support vishayathula ella pesitten, ipo calm ah irukken","I've talked things through about my family support, I feel calm now",family,calm,"family,calm",low,high
+"gratitude pesama edhavadhu decision edutanga, romba kobam varudhu","They made a decision about my gratitude without talking to me, I'm really angry",family,angry,"gratitude,angry",medium,high
+"wedding function health pathi worry ah irukku, edhavadhu aagidumo nu bayam","I'm worried about my wedding function's health, scared something might happen",family,fear,"wedding,fear",high,high
+family trust pathi nalla news kelvi pattu happy ah irukken,"I heard good news about my family trust, I'm happy about it",family,happy,"family,happy",low,high
+parenting ku sariyaana neram kudukala nu guilt irukku,I feel guilty that I didn't give proper time to my parenting,family,guilty,"parenting,guilty",medium,high
+home la ellarum sera irundhu semma fun ah irundhudhu,Everyone came together for my home and it was so much fun,family,happy,"home,happy",low,high
+family illness pathi nalla news kelvi pattu happy ah irukken,"I heard good news about my family illness, I'm happy about it",family,happy,"family,happy",low,high
+family happiness illama veedu verumaiya irukku,The house feels empty without my family happiness,family,lonely,"family,lonely",medium,high
+uncle decision eduka mudiyama irukken innum,I still can't make a decision about my uncle,family,confused,"uncle,confused",medium,high
+family bonding pathi therinjadhum manasu heavy ah aayiduchu,"The moment I heard about my family bonding, my heart felt heavy",family,sad,"family,sad",medium,high
+appa ku sariyaana neram kudukala nu guilt irukku,I feel guilty that I didn't give proper time to my father,family,guilty,"appa,guilty",medium,high
+"encouragement innum konjam naal dhaan irukku, romba excited ah irukken","There's only a few days left for my encouragement, I'm really excited",family,excited,"encouragement,excited",low,high
+amma eppadi handle pannanum nu puriyala,I don't understand how to handle my mother,family,confused,"amma,confused",medium,high
+"appa innum konjam naal dhaan irukku, romba excited ah irukken","There's only a few days left for my father, I'm really excited",family,excited,"appa,excited",low,high
+"cousins matter la promise mudika illa, romba irritation","They didn't keep their promise about my cousins, it's really irritating",family,angry,"cousins,angry",medium,high
+family loss soon solve aagum nu nambaren,I believe my family loss will be resolved soon,family,hopeful,"family,hopeful",low,high
+family respect decision eduka mudiyama irukken innum,I still can't make a decision about my family respect,family,confused,"family,confused",medium,high
+"home nalla nadandhudhu, veetla ellarum happy ah irukanga","My home went really well, everyone at home is happy",family,happy,"home,happy",low,high
+sacrifice vishayathula pressure adhigama irukku,There's a lot of pressure regarding my sacrifice,family,stressed,"sacrifice,stressed",medium,high
+"advice arrangements start pannitanga, romba excited ah irukku","They've started the arrangements for my advice, I'm really excited",family,excited,"advice,excited",low,high
+gratitude pathi enna pannanum nu theriyala,I don't know what to do about my gratitude,family,confused,"gratitude,confused",medium,high
+sister la ellarum sera irundhu semma fun ah irundhudhu,Everyone came together for my sister and it was so much fun,family,happy,"sister,happy",low,high
+"family reunion vishayathula konjam tension irundhalum, positive ah dhaan irukken","Even with some tension about my family reunion, I'm staying positive",family,hopeful,"family,hopeful",low,high
+family love time la semma santhosham feel panren,I feel so joyful during my family love,family,happy,"family,happy",low,high
+childhood memories dhooram poiten apparam romba lonely ah irukku,"Since I moved away from my childhood memories, I feel really lonely",family,lonely,"childhood,lonely",medium,high
+"family problem matter la promise mudika illa, romba irritation","They didn't keep their promise about my family problem, it's really irritating",family,angry,"family,angry",medium,high
+"wedding function pathi venaama kadinama pesinanga, frustration ah irukku","They spoke harshly about my wedding function for no reason, it's frustrating",family,angry,"wedding,angry",medium,high
+"encouragement arrangements start pannitanga, romba excited ah irukku","They've started the arrangements for my encouragement, I'm really excited",family,excited,"encouragement,excited",low,high
+"parenting pathi ninacha thalai suthudhu, stress ah irukku","My head spins when I think about my parenting, I'm stressed",family,stressed,"parenting,stressed",high,high
+"family happiness nalla nadakala, veetla ellarum sad ah irukanga","My family happiness didn't go well, everyone at home is sad",family,sad,"family,sad",medium,high
+"elders health arrangements start pannitanga, romba excited ah irukku","They've started the arrangements for my elders' health, I'm really excited",family,excited,"elders,excited",low,high
+"sacrifice ippo kashtama irundhalum, nalladhu nadakum nu nambaren","Even though my sacrifice is tough right now, I believe it will turn out well",family,hopeful,"sacrifice,hopeful",low,high
+family trip nyabagam vandha kannu filaagudhu,"When I remember my family trip, my eyes well up",family,sad,"family,sad",medium,high
+"amma matter la promise mudika illa, romba irritation","They didn't keep their promise about my mother, it's really irritating",family,angry,"amma,angry",medium,high
+"marriage pathi over thinking pannitu irukken, sleep kooda varala","I've been overthinking about my marriage, I can't even sleep",family,anxious,"marriage,anxious",medium,high
+childhood memories pathi pesa yarum illama thaniya feel panren,"There's no one to talk to about my childhood memories, I feel alone",family,lonely,"childhood,lonely",medium,high
+amma dhooram poiten apparam romba lonely ah irukku,"Since I moved away from my mother, I feel really lonely",family,lonely,"amma,lonely",medium,high
+uncle pathi therinjadhum manasu heavy ah aayiduchu,"The moment I heard about my uncle, my heart felt heavy",family,sad,"uncle,sad",medium,high
+"family happiness la ellarum sera poravanga, wait pannitu excited ah irukken","Everyone is coming together for my family happiness, I'm waiting excitedly",family,excited,"family,excited",low,high
+childhood memories pathi bad news varumo nu fear ah irukku,I'm scared that bad news might come about my childhood memories,family,fear,"childhood,fear",medium,high
+"family illness kooda irukkum pozhudhu miss pannuren, ippo thaniya irukken","I miss the time I spent with my family illness, now I feel alone",family,lonely,"family,lonely",medium,high
+"family trust matter la promise mudika illa, romba irritation","They didn't keep their promise about my family trust, it's really irritating",family,angry,"family,angry",medium,high
+family finances nyabagam vandha kannu filaagudhu,"When I remember my family finances, my eyes well up",family,sad,"family,sad",medium,high
+"festival celebration pathi over thinking pannitu irukken, sleep kooda varala","I've been overthinking about my festival celebration, I can't even sleep",family,anxious,"festival,anxious",medium,high
+family finances time la semma santhosham feel panren,I feel so joyful during my family finances,family,happy,"family,happy",low,high
+gratitude pathi bad news varumo nu fear ah irukku,I'm scared that bad news might come about my gratitude,family,fear,"gratitude,fear",medium,high
+"kids upbringing promise panni miss pannitten, romba guilty ah feel panren","I promised something for my kids' upbringing and missed it, I feel really guilty",family,guilty,"kids,guilty",medium,high
+grief expectation meet panna mudiyala nu guilt irukku,I feel guilty that I couldn't meet my grief's expectations,family,guilty,"grief,guilty",medium,high
+parenting eppadi handle pannanum nu puriyala,I don't understand how to handle my parenting,family,confused,"parenting,confused",medium,high
+family finances vishayathula unfair ah treat pannanga nu kobam,"I feel like I was treated unfairly regarding my family finances, I'm angry",family,angry,"family,angry",medium,high
+"elders health health pathi worry ah irukku, edhavadhu aagidumo nu bayam","I'm worried about my elders' health's health, scared something might happen",family,fear,"elders,fear",high,high
+parenting pathi yosichaale nenju padhapadhukudhu,My heart races with fear whenever I think about my parenting,family,fear,"parenting,fear",medium,high
+"amma vishayathula ella pesitten, ipo calm ah irukken","I've talked things through about my mother, I feel calm now",family,calm,"amma,calm",low,high
+family trust pathi yosichaale nenju padhapadhukudhu,My heart races with fear whenever I think about my family trust,family,fear,"family,fear",medium,high
+childhood memories decision eduka mudiyama irukken innum,I still can't make a decision about my childhood memories,family,confused,"childhood,confused",medium,high
+"aunty nalla nadakumaa nu doubt varudhu, anxious ah irukku","I keep doubting whether my aunt will go well, I'm anxious",family,anxious,"aunty,anxious",medium,high
+"advice pathi nalla news kekka poren nu thonudhu, excited ah irukku",I feel excited thinking I might hear good news about my advice,family,excited,"advice,excited",low,high
+daily family conversation nalla poidum nu nambikkai irukku,I have hope that my daily family conversation will go well,family,hopeful,"daily,hopeful",low,high
+"family problem pathi venaama kadinama pesinanga, frustration ah irukku","They spoke harshly about my family problem for no reason, it's frustrating",family,angry,"family,angry",medium,high
+"cousins promise panni miss pannitten, romba guilty ah feel panren","I promised something for my cousins and missed it, I feel really guilty",family,guilty,"cousins,guilty",medium,high
+parenting vishayathula edhachum thappu nadandhudumo nu bayam,I'm scared something might go wrong with my parenting,family,fear,"parenting,fear",high,high
+"daily family conversation ippo kashtama irundhalum, nalladhu nadakum nu nambaren","Even though my daily family conversation is tough right now, I believe it will turn out well",family,hopeful,"daily,hopeful",low,high
+"daily family conversation pathi nenju padhapadhukkudhu, anxious feel panren","My heart races about my daily family conversation, I feel anxious",family,anxious,"daily,anxious",medium,high
+"family argument pathi ipo tension illa, manasu calm ah irukku","I don't feel tense about my family argument anymore, my heart feels calm",family,calm,"family,calm",low,high
+grandparents illama veedu verumaiya irukku,The house feels empty without my grandparents,family,lonely,"grandparents,lonely",medium,high
+financial struggle handle panna time illama stress ah irukku,I'm stressed because I don't have time to handle my financial struggle,family,stressed,"financial,stressed",high,high
+"family trip vishayam expect panna madhiri nadakala, romba vaguthadhu","My family trip didn't turn out as I expected, it really hurt me",family,sad,"family,sad",medium,high
+appa decision eduka mudiyama irukken innum,I still can't make a decision about my father,family,confused,"appa,confused",medium,high
+family responsibility pathi enna pannanum nu theriyala,I don't know what to do about my family responsibility,family,confused,"family,confused",medium,high
+kids upbringing pathi pesa yarum illama thaniya feel panren,"There's no one to talk to about my kids' upbringing, I feel alone",family,lonely,"kids,lonely",medium,high
+family trip pathi amma solradhukum appa solradhukum match aagala,"What amma says about my family trip doesn't match what appa says, I'm confused",family,confused,"family,confused",medium,high
+"kids upbringing vishayathula ella pesitten, ipo calm ah irukken","I've talked things through about my kids' upbringing, I feel calm now",family,calm,"kids,calm",low,high
+"family argument matter la promise mudika illa, romba irritation","They didn't keep their promise about my family argument, it's really irritating",family,angry,"family,angry",medium,high
+"parenting pathi effort pannitu irukken, nalladhu varum nu nambikkai","I'm putting in effort for my parenting, I hope good things will come",family,hopeful,"parenting,hopeful",low,high
+grief pathi therinjadhum manasu heavy ah aayiduchu,"The moment I heard about my grief, my heart felt heavy",family,sad,"grief,sad",medium,high
+"family trip pathi plan pannitu irukom, semma excited ah irukku","We're planning for my family trip, I'm so excited",family,excited,"family,excited",low,high
+"family bonding promise panni miss pannitten, romba guilty ah feel panren","I promised something for my family bonding and missed it, I feel really guilty",family,guilty,"family,guilty",medium,high
+family support pathi ninachaale mukham la smile varudhu,Just thinking about my family support brings a smile to my face,family,happy,"family,happy",low,high
+sister pathi yosichaale nenju padhapadhukudhu,My heart races with fear whenever I think about my sister,family,fear,"sister,fear",medium,high
+"aunty pathi yosichaale hands shake aagudhu, romba anxious","My hands shake when I think about my aunt, I'm really anxious",family,anxious,"aunty,anxious",high,high
+"aunty vishayathula konjam tension irundhalum, positive ah dhaan irukken","Even with some tension about my aunt, I'm staying positive",family,hopeful,"aunty,hopeful",low,high
+sacrifice news eppo varum nu ninachu anxious ah irukken,I feel anxious wondering when news about my sacrifice will come,family,anxious,"sacrifice,anxious",medium,high
+daily family conversation time la semma santhosham feel panren,I feel so joyful during my daily family conversation,family,happy,"daily,happy",low,high
+"marriage health pathi worry ah irukku, edhavadhu aagidumo nu bayam","I'm worried about my marriage's health, scared something might happen",family,fear,"marriage,fear",high,high
+"family problem health pathi worry ah irukku, edhavadhu aagidumo nu bayam","I'm worried about my family problem's health, scared something might happen",family,fear,"family,fear",high,high
+parenting pathi nalla news kelvi pattu happy ah irukken,"I heard good news about my parenting, I'm happy about it",family,happy,"parenting,happy",low,high
+"misunderstanding pathi plan pannitu irukom, semma excited ah irukku","We're planning for my misunderstanding, I'm so excited",family,excited,"misunderstanding,excited",low,high
+family responsibility pathi therinjadhum manasu heavy ah aayiduchu,"The moment I heard about my family responsibility, my heart felt heavy",family,sad,"family,sad",medium,high
+"parenting vishayathula yaaraiyum kekkama edhuvum pannitanga, kobam adangala","They did something about my parenting without asking anyone, my anger won't settle",family,angry,"parenting,angry",medium,high
+family expectation la ellarum sera irundhu semma fun ah irundhudhu,Everyone came together for my family expectation and it was so much fun,family,happy,"family,happy",low,high
+family care eppadi handle pannanum nu puriyala,I don't understand how to handle my family care,family,confused,"family,confused",medium,high
+childhood memories vishayathula pressure adhigama irukku,There's a lot of pressure regarding my childhood memories,family,stressed,"childhood,stressed",medium,high
+"family expectation vishayathula yaaraiyum kekkama edhuvum pannitanga, kobam adangala","They did something about my family expectation without asking anyone, my anger won't settle",family,angry,"family,angry",medium,high
+"childhood memories pathi venaama kadinama pesinanga, frustration ah irukku","They spoke harshly about my childhood memories for no reason, it's frustrating",family,angry,"childhood,angry",medium,high
+marriage pathi amma solradhukum appa solradhukum match aagala,"What amma says about my marriage doesn't match what appa says, I'm confused",family,confused,"marriage,confused",medium,high
+"family trust nalla nadakala, veetla ellarum sad ah irukanga","My family trust didn't go well, everyone at home is sad",family,sad,"family,sad",medium,high
+"gratitude health pathi worry ah irukku, edhavadhu aagidumo nu bayam","I'm worried about my gratitude's health, scared something might happen",family,fear,"gratitude,fear",high,high
+daily family conversation soon solve aagum nu nambaren,I believe my daily family conversation will be resolved soon,family,hopeful,"daily,hopeful",low,high
+misunderstanding news eppo varum nu ninachu anxious ah irukken,I feel anxious wondering when news about my misunderstanding will come,family,anxious,"misunderstanding,anxious",medium,high
+veetla elders health pathi pesa yarum kooda illa,There's no one at home to talk about my elders' health with,family,lonely,"elders,lonely",low,high
+family finances decision eduka mudiyama irukken innum,I still can't make a decision about my family finances,family,confused,"family,confused",medium,high
+"kids upbringing pathi ninacha thalai suthudhu, stress ah irukku","My head spins when I think about my kids' upbringing, I'm stressed",family,stressed,"kids,stressed",high,high
+wedding function expectation meet panna mudiyala nu guilt irukku,I feel guilty that I couldn't meet my wedding function's expectations,family,guilty,"wedding,guilty",medium,high
+"elders health pathi effort pannitu irukken, nalladhu varum nu nambikkai","I'm putting in effort for my elders' health, I hope good things will come",family,hopeful,"elders,hopeful",low,high
+family problem vishayathula pressure adhigama irukku,There's a lot of pressure regarding my family problem,family,stressed,"family,stressed",medium,high
+family responsibility soon solve aagum nu nambaren,I believe my family responsibility will be resolved soon,family,hopeful,"family,hopeful",low,high
+"grandparents pathi nenju padhapadhukkudhu, anxious feel panren","My heart races about my grandparents, I feel anxious",family,anxious,"grandparents,anxious",medium,high
+advice kooda neram selavazhikama irundhadhukku guilt ah irukku,I feel guilty for not spending enough time with my advice,family,guilty,"advice,guilty",medium,high
+"emotional support innum konjam naal dhaan irukku, romba excited ah irukken","There's only a few days left for my emotional support, I'm really excited",family,excited,"emotional,excited",low,high
+elders health time la semma santhosham feel panren,I feel so joyful during my elders' health,family,happy,"elders,happy",low,high
+"childhood memories promise panni miss pannitten, romba guilty ah feel panren","I promised something for my childhood memories and missed it, I feel really guilty",family,guilty,"childhood,guilty",medium,high
+"family loss ippo kashtama irundhalum, nalladhu nadakum nu nambaren","Even though my family loss is tough right now, I believe it will turn out well",family,hopeful,"family,hopeful",low,high
+financial struggle nalla poidum nu nambikkai irukku,I have hope that my financial struggle will go well,family,hopeful,"financial,hopeful",low,high
+family expectation dhooram poiten apparam romba lonely ah irukku,"Since I moved away from my family expectation, I feel really lonely",family,lonely,"family,lonely",medium,high
+family trust handle panna time illama stress ah irukku,I'm stressed because I don't have time to handle my family trust,family,stressed,"family,stressed",high,high
+"family illness pathi venaama kadinama pesinanga, frustration ah irukku","They spoke harshly about my family illness for no reason, it's frustrating",family,angry,"family,angry",medium,high
+family illness eppadi handle pannanum nu puriyala,I don't understand how to handle my family illness,family,confused,"family,confused",medium,high
+amma nalla poidum nu nambikkai irukku,I have hope that my mother will go well,family,hopeful,"amma,hopeful",low,high
+gratitude pathi amma solradhukum appa solradhukum match aagala,"What amma says about my gratitude doesn't match what appa says, I'm confused",family,confused,"gratitude,confused",medium,high
+"wedding function nalla nadandhudhu, veetla ellarum happy ah irukanga","My wedding function went really well, everyone at home is happy",family,happy,"wedding,happy",low,high
+sister kooda neram selavazhikama irundhadhukku guilt ah irukku,I feel guilty for not spending enough time with my sister,family,guilty,"sister,guilty",medium,high
+"home matter la promise mudika illa, romba irritation","They didn't keep their promise about my home, it's really irritating",family,angry,"home,angry",medium,high
+"cousins pathi nenju padhapadhukkudhu, anxious feel panren","My heart races about my cousins, I feel anxious",family,anxious,"cousins,anxious",medium,high
+"family love vishayathula family ellarum different opinion sollranga, confuse ah irukku","Everyone in the family has a different opinion about my family love, I'm confused",family,confused,"family,confused",medium,high
+sacrifice handle panna time illama stress ah irukku,I'm stressed because I don't have time to handle my sacrifice,family,stressed,"sacrifice,stressed",high,high
+sacrifice vishayathula edhachum thappu nadandhudumo nu bayam,I'm scared something might go wrong with my sacrifice,family,fear,"sacrifice,fear",high,high
+family expectation decision eduka mudiyama irukken innum,I still can't make a decision about my family expectation,family,confused,"family,confused",medium,high
+family bonding la ellarum sera irundhu semma fun ah irundhudhu,Everyone came together for my family bonding and it was so much fun,family,happy,"family,happy",low,high
+family argument ku sariyaana neram kudukala nu guilt irukku,I feel guilty that I didn't give proper time to my family argument,family,guilty,"family,guilty",medium,high
+"family finances health pathi worry ah irukku, edhavadhu aagidumo nu bayam","I'm worried about my family finances's health, scared something might happen",family,fear,"family,fear",high,high
+family illness pathi ninachaale sad ah aayidudhu,Thinking about my family illness makes me feel sad,family,sad,"family,sad",medium,high
+"amma innum konjam naal dhaan irukku, romba excited ah irukken","There's only a few days left for my mother, I'm really excited",family,excited,"amma,excited",low,high
+"family care pathi ipo tension illa, manasu calm ah irukku","I don't feel tense about my family care anymore, my heart feels calm",family,calm,"family,calm",low,high
+encouragement pathi amma solradhukum appa solradhukum match aagala,"What amma says about my encouragement doesn't match what appa says, I'm confused",family,confused,"encouragement,confused",medium,high
+elders health illama veedu verumaiya irukku,The house feels empty without my elders' health,family,lonely,"elders,lonely",medium,high
+amma news eppo varum nu ninachu anxious ah irukken,I feel anxious wondering when news about my mother will come,family,anxious,"amma,anxious",medium,high
+"family responsibility pathi effort pannitu irukken, nalladhu varum nu nambikkai","I'm putting in effort for my family responsibility, I hope good things will come",family,hopeful,"family,hopeful",low,high
+"family bonding matter la promise mudika illa, romba irritation","They didn't keep their promise about my family bonding, it's really irritating",family,angry,"family,angry",medium,high
+family care pathi ninachaale sad ah aayidudhu,Thinking about my family care makes me feel sad,family,sad,"family,sad",medium,high
+"sacrifice kooda irukkum pozhudhu miss pannuren, ippo thaniya irukken","I miss the time I spent with my sacrifice, now I feel alone",family,lonely,"sacrifice,lonely",medium,high
+marriage pathi yosikkama calm ah irukka try panren,I'm trying to stay calm without overthinking my marriage,family,calm,"marriage,calm",low,high
+veetla amma pathi pesa yarum kooda illa,There's no one at home to talk about my mother with,family,lonely,"amma,lonely",low,high
+family problem ku sariyaana neram kudukala nu guilt irukku,I feel guilty that I didn't give proper time to my family problem,family,guilty,"family,guilty",medium,high
+"grandparents pathi ipo tension illa, manasu calm ah irukku","I don't feel tense about my grandparents anymore, my heart feels calm",family,calm,"grandparents,calm",low,high
+"family respect la ellarum sera poravanga, wait pannitu excited ah irukken","Everyone is coming together for my family respect, I'm waiting excitedly",family,excited,"family,excited",low,high
+"gratitude vishayathula ella pesitten, ipo calm ah irukken","I've talked things through about my gratitude, I feel calm now",family,calm,"gratitude,calm",low,high
+"grandparents vishayathula ella pesitten, ipo calm ah irukken","I've talked things through about my grandparents, I feel calm now",family,calm,"grandparents,calm",low,high
+elders health soon solve aagum nu nambaren,I believe my elders' health will be resolved soon,family,hopeful,"elders,hopeful",low,high
+elders health expectation meet panna mudiyala nu guilt irukku,I feel guilty that I couldn't meet my elders' health's expectations,family,guilty,"elders,guilty",medium,high
+"sacrifice vishayathula family ellarum different opinion sollranga, confuse ah irukku","Everyone in the family has a different opinion about my sacrifice, I'm confused",family,confused,"sacrifice,confused",medium,high
+"emotional support pathi ninacha thalai suthudhu, stress ah irukku","My head spins when I think about my emotional support, I'm stressed",family,stressed,"emotional,stressed",high,high
+"sister promise panni miss pannitten, romba guilty ah feel panren","I promised something for my sister and missed it, I feel really guilty",family,guilty,"sister,guilty",medium,high
+"family respect pathi over thinking pannitu irukken, sleep kooda varala","I've been overthinking about my family respect, I can't even sleep",family,anxious,"family,anxious",medium,high
+family responsibility pathi ninachaale mukham la smile varudhu,Just thinking about my family responsibility brings a smile to my face,family,happy,"family,happy",low,high
+"misunderstanding nalla nadakala, veetla ellarum sad ah irukanga","My misunderstanding didn't go well, everyone at home is sad",family,sad,"misunderstanding,sad",medium,high
+kids upbringing dhooram poiten apparam romba lonely ah irukku,"Since I moved away from my kids' upbringing, I feel really lonely",family,lonely,"kids,lonely",medium,high
+family argument vishayam romba stress kudukudhu,Dealing with my family argument is giving me a lot of stress,family,stressed,"family,stressed",high,high
+"parenting vishayathula ella pesitten, ipo calm ah irukken","I've talked things through about my parenting, I feel calm now",family,calm,"parenting,calm",low,high
+wedding function pathi therinjadhum manasu heavy ah aayiduchu,"The moment I heard about my wedding function, my heart felt heavy",family,sad,"wedding,sad",medium,high
+"family illness solve aagiduchu, ipo manasu peaceful ah irukku","My family illness got resolved, my heart feels peaceful now",family,calm,"family,calm",low,high
+"emotional support matter la promise mudika illa, romba irritation","They didn't keep their promise about my emotional support, it's really irritating",family,angry,"emotional,angry",medium,high
+childhood memories pathi enna pannanum nu theriyala,I don't know what to do about my childhood memories,family,confused,"childhood,confused",medium,high
+"festival celebration promise panni miss pannitten, romba guilty ah feel panren","I promised something for my festival celebration and missed it, I feel really guilty",family,guilty,"festival,guilty",medium,high
+grief kooda neram selavazhikama irundhadhukku guilt ah irukku,I feel guilty for not spending enough time with my grief,family,guilty,"grief,guilty",medium,high
+uncle illama veedu verumaiya irukku,The house feels empty without my uncle,family,lonely,"uncle,lonely",medium,high
+family loss pathi amma solradhukum appa solradhukum match aagala,"What amma says about my family loss doesn't match what appa says, I'm confused",family,confused,"family,confused",medium,high
+"family trip pathi nalla news kekka poren nu thonudhu, excited ah irukku",I feel excited thinking I might hear good news about my family trip,family,excited,"family,excited",low,high
+grief ku sariyaana neram kudukala nu guilt irukku,I feel guilty that I didn't give proper time to my grief,family,guilty,"grief,guilty",medium,high
+"grandparents nalla nadakala, veetla ellarum sad ah irukanga","My grandparents didn't go well, everyone at home is sad",family,sad,"grandparents,sad",medium,high
+"family bonding ippo kashtama irundhalum, nalladhu nadakum nu nambaren","Even though my family bonding is tough right now, I believe it will turn out well",family,hopeful,"family,hopeful",low,high
+family trust pathi enna pannanum nu theriyala,I don't know what to do about my family trust,family,confused,"family,confused",medium,high
+"financial struggle innum konjam naal dhaan irukku, romba excited ah irukken","There's only a few days left for my financial struggle, I'm really excited",family,excited,"financial,excited",low,high
+"financial struggle pathi yosichaale hands shake aagudhu, romba anxious","My hands shake when I think about my financial struggle, I'm really anxious",family,anxious,"financial,anxious",high,high
+childhood memories vishayam romba stress kudukudhu,Dealing with my childhood memories is giving me a lot of stress,family,stressed,"childhood,stressed",high,high
+aunty pathi therinjadhum manasu heavy ah aayiduchu,"The moment I heard about my aunt, my heart felt heavy",family,sad,"aunty,sad",medium,high
+"gratitude vishayam expect panna madhiri nadakala, romba vaguthadhu","My gratitude didn't turn out as I expected, it really hurt me",family,sad,"gratitude,sad",medium,high
+"childhood memories vishayathula konjam tension irundhalum, positive ah dhaan irukken","Even with some tension about my childhood memories, I'm staying positive",family,hopeful,"childhood,hopeful",low,high
+brother ku sariyaana neram kudukala nu guilt irukku,I feel guilty that I didn't give proper time to my brother,family,guilty,"brother,guilty",medium,high
+gratitude vishayathula edhachum thappu nadandhudumo nu bayam,I'm scared something might go wrong with my gratitude,family,fear,"gratitude,fear",high,high
+veetla family reunion pathi pesa yarum kooda illa,There's no one at home to talk about my family reunion with,family,lonely,"family,lonely",low,high
+appa vishayathula thappa nadandhukiten nu ippo guilt varudhu,I feel guilty now that I behaved wrongly regarding my father,family,guilty,"appa,guilty",medium,high
+"misunderstanding ippo kashtama irundhalum, nalladhu nadakum nu nambaren","Even though my misunderstanding is tough right now, I believe it will turn out well",family,hopeful,"misunderstanding,hopeful",low,high
+family happiness pathi therinjadhum manasu heavy ah aayiduchu,"The moment I heard about my family happiness, my heart felt heavy",family,sad,"family,sad",medium,high
+family finances pathi pesa yarum illama thaniya feel panren,"There's no one to talk to about my family finances, I feel alone",family,lonely,"family,lonely",medium,high
+"family love ippo kashtama irundhalum, nalladhu nadakum nu nambaren","Even though my family love is tough right now, I believe it will turn out well",family,hopeful,"family,hopeful",low,high
+"financial struggle pathi venaama kadinama pesinanga, frustration ah irukku","They spoke harshly about my financial struggle for no reason, it's frustrating",family,angry,"financial,angry",medium,high
+"parenting kooda irukkum pozhudhu miss pannuren, ippo thaniya irukken","I miss the time I spent with my parenting, now I feel alone",family,lonely,"parenting,lonely",medium,high
+"family trip pathi accept pannitten, calm ah feel panren","I've accepted things about my family trip, I feel calm",family,calm,"family,calm",low,high
+encouragement eppadi handle pannanum nu puriyala,I don't understand how to handle my encouragement,family,confused,"encouragement,confused",medium,high
+family happiness nyabagam vandha kannu filaagudhu,"When I remember my family happiness, my eyes well up",family,sad,"family,sad",medium,high
+"encouragement pathi ninacha thalai suthudhu, stress ah irukku","My head spins when I think about my encouragement, I'm stressed",family,stressed,"encouragement,stressed",high,high
+"sacrifice la ellarum sera poravanga, wait pannitu excited ah irukken","Everyone is coming together for my sacrifice, I'm waiting excitedly",family,excited,"sacrifice,excited",low,high
+grandparents pathi amma solradhukum appa solradhukum match aagala,"What amma says about my grandparents doesn't match what appa says, I'm confused",family,confused,"grandparents,confused",medium,high
+family respect pathi nalla news kelvi pattu happy ah irukken,"I heard good news about my family respect, I'm happy about it",family,happy,"family,happy",low,high
+"appa nalla nadakumaa nu doubt varudhu, anxious ah irukku","I keep doubting whether my father will go well, I'm anxious",family,anxious,"appa,anxious",medium,high
+aunty la ellarum sera irundhu semma fun ah irundhudhu,Everyone came together for my aunt and it was so much fun,family,happy,"aunty,happy",low,high
+home vishayathula pressure adhigama irukku,There's a lot of pressure regarding my home,family,stressed,"home,stressed",medium,high
+"elders health matter la promise mudika illa, romba irritation","They didn't keep their promise about my elders' health, it's really irritating",family,angry,"elders,angry",medium,high
+family trust la ellarum sera irundhu semma fun ah irundhudhu,Everyone came together for my family trust and it was so much fun,family,happy,"family,happy",low,high
+"wedding function vishayathula yaaraiyum kekkama edhuvum pannitanga, kobam adangala","They did something about my wedding function without asking anyone, my anger won't settle",family,angry,"wedding,angry",medium,high
+"financial struggle pathi ninacha thalai suthudhu, stress ah irukku","My head spins when I think about my financial struggle, I'm stressed",family,stressed,"financial,stressed",high,high
+grief pathi ninachaale mukham la smile varudhu,Just thinking about my grief brings a smile to my face,family,happy,"grief,happy",low,high
+sister illama veedu verumaiya irukku,The house feels empty without my sister,family,lonely,"sister,lonely",medium,high
+uncle nalla aagaadho nu bayama irukku,I'm afraid my uncle might not turn out well,family,fear,"uncle,fear",medium,high
+"aunty ippo kashtama irundhalum, nalladhu nadakum nu nambaren","Even though my aunt is tough right now, I believe it will turn out well",family,hopeful,"aunty,hopeful",low,high
+"family care pathi ninacha thalai suthudhu, stress ah irukku","My head spins when I think about my family care, I'm stressed",family,stressed,"family,stressed",high,high
+wedding function illama veedu verumaiya irukku,The house feels empty without my wedding function,family,lonely,"wedding,lonely",medium,high
+"home health pathi worry ah irukku, edhavadhu aagidumo nu bayam","I'm worried about my home's health, scared something might happen",family,fear,"home,fear",high,high
+family problem nalla aagaadho nu bayama irukku,I'm afraid my family problem might not turn out well,family,fear,"family,fear",medium,high
+"sister vishayathula ella pesitten, ipo calm ah irukken","I've talked things through about my sister, I feel calm now",family,calm,"sister,calm",low,high
+"grief pesama edhavadhu decision edutanga, romba kobam varudhu","They made a decision about my grief without talking to me, I'm really angry",family,angry,"grief,angry",medium,high
+"family expectation matter ku parallel ah vera responsibility kooda irukku, stress adhigam","I have other responsibilities along with my family expectation, the stress is very high",family,stressed,"family,stressed",high,high
+"family expectation pathi venaama kadinama pesinanga, frustration ah irukku","They spoke harshly about my family expectation for no reason, it's frustrating",family,angry,"family,angry",medium,high
+cousins pathi yosikkama calm ah irukka try panren,I'm trying to stay calm without overthinking my cousins,family,calm,"cousins,calm",low,high
+gratitude nalla aagaadho nu bayama irukku,I'm afraid my gratitude might not turn out well,family,fear,"gratitude,fear",medium,high
+"misunderstanding pathi nenju padhapadhukkudhu, anxious feel panren","My heart races about my misunderstanding, I feel anxious",family,anxious,"misunderstanding,anxious",medium,high
+family respect pathi pesa yarum illama thaniya feel panren,"There's no one to talk to about my family respect, I feel alone",family,lonely,"family,lonely",medium,high
+grief eppadi handle pannanum nu puriyala,I don't understand how to handle my grief,family,confused,"grief,confused",medium,high
+"family argument pathi venaama kadinama pesinanga, frustration ah irukku","They spoke harshly about my family argument for no reason, it's frustrating",family,angry,"family,angry",medium,high
+cousins pathi ninachaale sad ah aayidudhu,Thinking about my cousins makes me feel sad,family,sad,"cousins,sad",medium,high
+family reunion soon solve aagum nu nambaren,I believe my family reunion will be resolved soon,family,hopeful,"family,hopeful",low,high
+"marriage vishayathula konjam tension irundhalum, positive ah dhaan irukken","Even with some tension about my marriage, I'm staying positive",family,hopeful,"marriage,hopeful",low,high
+home pathi bad news varumo nu fear ah irukku,I'm scared that bad news might come about my home,family,fear,"home,fear",medium,high
+family bonding vishayathula thappa nadandhukiten nu ippo guilt varudhu,I feel guilty now that I behaved wrongly regarding my family bonding,family,guilty,"family,guilty",medium,high
+"wedding function solve aagiduchu, ipo manasu peaceful ah irukku","My wedding function got resolved, my heart feels peaceful now",family,calm,"wedding,calm",low,high
+"family care vishayam expect panna madhiri nadakala, romba vaguthadhu","My family care didn't turn out as I expected, it really hurt me",family,sad,"family,sad",medium,high
+"family care solve aagiduchu, ipo manasu peaceful ah irukku","My family care got resolved, my heart feels peaceful now",family,calm,"family,calm",low,high
+encouragement vishayam romba stress kudukudhu,Dealing with my encouragement is giving me a lot of stress,family,stressed,"encouragement,stressed",high,high
+family love handle panna time illama stress ah irukku,I'm stressed because I don't have time to handle my family love,family,stressed,"family,stressed",high,high
+family bonding eppadi handle pannanum nu puriyala,I don't understand how to handle my family bonding,family,confused,"family,confused",medium,high
+family respect illama veedu verumaiya irukku,The house feels empty without my family respect,family,lonely,"family,lonely",medium,high
+"grandparents kooda irukkum pozhudhu miss pannuren, ippo thaniya irukken","I miss the time I spent with my grandparents, now I feel alone",family,lonely,"grandparents,lonely",medium,high
+"family reunion vishayathula family ellarum different opinion sollranga, confuse ah irukku","Everyone in the family has a different opinion about my family reunion, I'm confused",family,confused,"family,confused",medium,high
+"aunty kooda irukkum pozhudhu miss pannuren, ippo thaniya irukken","I miss the time I spent with my aunt, now I feel alone",family,lonely,"aunty,lonely",medium,high
+"family trip kooda irukkum pozhudhu miss pannuren, ippo thaniya irukken","I miss the time I spent with my family trip, now I feel alone",family,lonely,"family,lonely",medium,high
+"family support matter ku parallel ah vera responsibility kooda irukku, stress adhigam","I have other responsibilities along with my family support, the stress is very high",family,stressed,"family,stressed",high,high
+"encouragement ippo kashtama irundhalum, nalladhu nadakum nu nambaren","Even though my encouragement is tough right now, I believe it will turn out well",family,hopeful,"encouragement,hopeful",low,high
+"family happiness pathi yosichaale hands shake aagudhu, romba anxious","My hands shake when I think about my family happiness, I'm really anxious",family,anxious,"family,anxious",high,high
+family illness handle panna time illama stress ah irukku,I'm stressed because I don't have time to handle my family illness,family,stressed,"family,stressed",high,high
+family loss vishayathula pressure adhigama irukku,There's a lot of pressure regarding my family loss,family,stressed,"family,stressed",medium,high
+"daily family conversation kooda irukkum pozhudhu miss pannuren, ippo thaniya irukken","I miss the time I spent with my daily family conversation, now I feel alone",family,lonely,"daily,lonely",medium,high
+daily family conversation dhooram poiten apparam romba lonely ah irukku,"Since I moved away from my daily family conversation, I feel really lonely",family,lonely,"daily,lonely",medium,high
+encouragement la ellarum sera irundhu semma fun ah irundhudhu,Everyone came together for my encouragement and it was so much fun,family,happy,"encouragement,happy",low,high
+gratitude pathi ninachaale sad ah aayidudhu,Thinking about my gratitude makes me feel sad,family,sad,"gratitude,sad",medium,high
+family argument vishayathula unfair ah treat pannanga nu kobam,"I feel like I was treated unfairly regarding my family argument, I'm angry",family,angry,"family,angry",medium,high
+misunderstanding nyabagam vandha kannu filaagudhu,"When I remember my misunderstanding, my eyes well up",family,sad,"misunderstanding,sad",medium,high
+festival celebration expectation meet panna mudiyala nu guilt irukku,I feel guilty that I couldn't meet my festival celebration's expectations,family,guilty,"festival,guilty",medium,high
+"festival celebration pathi ninacha thalai suthudhu, stress ah irukku","My head spins when I think about my festival celebration, I'm stressed",family,stressed,"festival,stressed",high,high
+aunty soon solve aagum nu nambaren,I believe my aunt will be resolved soon,family,hopeful,"aunty,hopeful",low,high
+family responsibility vishayathula pressure adhigama irukku,There's a lot of pressure regarding my family responsibility,family,stressed,"family,stressed",medium,high
+"family bonding pathi nalla news kekka poren nu thonudhu, excited ah irukku",I feel excited thinking I might hear good news about my family bonding,family,excited,"family,excited",low,high
+"brother pathi venaama kadinama pesinanga, frustration ah irukku","They spoke harshly about my brother for no reason, it's frustrating",family,angry,"brother,angry",medium,high
+"family love pathi ninacha thalai suthudhu, stress ah irukku","My head spins when I think about my family love, I'm stressed",family,stressed,"family,stressed",high,high
+encouragement pathi yosikkama calm ah irukka try panren,I'm trying to stay calm without overthinking my encouragement,family,calm,"encouragement,calm",low,high
+"amma vishayathula konjam tension irundhalum, positive ah dhaan irukken","Even with some tension about my mother, I'm staying positive",family,hopeful,"amma,hopeful",low,high
+"emotional support solve aagiduchu, ipo manasu peaceful ah irukku","My emotional support got resolved, my heart feels peaceful now",family,calm,"emotional,calm",low,high
+"childhood memories nalla nadakumaa nu doubt varudhu, anxious ah irukku","I keep doubting whether my childhood memories will go well, I'm anxious",family,anxious,"childhood,anxious",medium,high
+"family problem vishayam expect panna madhiri nadakala, romba vaguthadhu","My family problem didn't turn out as I expected, it really hurt me",family,sad,"family,sad",medium,high
+appa kooda neram selavazhikama irundhadhukku guilt ah irukku,I feel guilty for not spending enough time with my father,family,guilty,"appa,guilty",medium,high
+"uncle vishayam expect panna madhiri nadakala, romba vaguthadhu","My uncle didn't turn out as I expected, it really hurt me",family,sad,"uncle,sad",medium,high
+"sacrifice vishayathula ella pesitten, ipo calm ah irukken","I've talked things through about my sacrifice, I feel calm now",family,calm,"sacrifice,calm",low,high
+"family happiness pathi over thinking pannitu irukken, sleep kooda varala","I've been overthinking about my family happiness, I can't even sleep",family,anxious,"family,anxious",medium,high
+"brother solve aagiduchu, ipo manasu peaceful ah irukku","My brother got resolved, my heart feels peaceful now",family,calm,"brother,calm",low,high
+"family respect pathi ninacha thalai suthudhu, stress ah irukku","My head spins when I think about my family respect, I'm stressed",family,stressed,"family,stressed",high,high
+grief pathi pesa yarum illama thaniya feel panren,"There's no one to talk to about my grief, I feel alone",family,lonely,"grief,lonely",medium,high
+amma kooda neram selavazhikama irundhadhukku guilt ah irukku,I feel guilty for not spending enough time with my mother,family,guilty,"amma,guilty",medium,high
+gratitude news eppo varum nu ninachu anxious ah irukken,I feel anxious wondering when news about my gratitude will come,family,anxious,"gratitude,anxious",medium,high
+"encouragement matter ku parallel ah vera responsibility kooda irukku, stress adhigam","I have other responsibilities along with my encouragement, the stress is very high",family,stressed,"encouragement,stressed",high,high
+family responsibility nalla aagaadho nu bayama irukku,I'm afraid my family responsibility might not turn out well,family,fear,"family,fear",medium,high
+"family finances pathi over thinking pannitu irukken, sleep kooda varala","I've been overthinking about my family finances, I can't even sleep",family,anxious,"family,anxious",medium,high
+family care pathi enna pannanum nu theriyala,I don't know what to do about my family care,family,confused,"family,confused",medium,high
+"advice vishayathula yaaraiyum kekkama edhuvum pannitanga, kobam adangala","They did something about my advice without asking anyone, my anger won't settle",family,angry,"advice,angry",medium,high
+"parenting nalla nadandhudhu, veetla ellarum happy ah irukanga","My parenting went really well, everyone at home is happy",family,happy,"parenting,happy",low,high
+"elders health vishayam expect panna madhiri nadakala, romba vaguthadhu","My elders' health didn't turn out as I expected, it really hurt me",family,sad,"elders,sad",medium,high
+"family problem arrangements start pannitanga, romba excited ah irukku","They've started the arrangements for my family problem, I'm really excited",family,excited,"family,excited",low,high
+family happiness pathi pesa yarum illama thaniya feel panren,"There's no one to talk to about my family happiness, I feel alone",family,lonely,"family,lonely",medium,high
+childhood memories expectation meet panna mudiyala nu guilt irukku,I feel guilty that I couldn't meet my childhood memories's expectations,family,guilty,"childhood,guilty",medium,high
+"daily family conversation vishayathula konjam tension irundhalum, positive ah dhaan irukken","Even with some tension about my daily family conversation, I'm staying positive",family,hopeful,"daily,hopeful",low,high
+family finances pathi ninachaale mukham la smile varudhu,Just thinking about my family finances brings a smile to my face,family,happy,"family,happy",low,high
+family trust nalla aagaadho nu bayama irukku,I'm afraid my family trust might not turn out well,family,fear,"family,fear",medium,high
+gratitude eppadi handle pannanum nu puriyala,I don't understand how to handle my gratitude,family,confused,"gratitude,confused",medium,high
+grief nalla poidum nu nambikkai irukku,I have hope that my grief will go well,family,hopeful,"grief,hopeful",low,high
+"aunty pathi nenju padhapadhukkudhu, anxious feel panren","My heart races about my aunt, I feel anxious",family,anxious,"aunty,anxious",medium,high
+aunty vishayam romba stress kudukudhu,Dealing with my aunt is giving me a lot of stress,family,stressed,"aunty,stressed",high,high
+"festival celebration kooda irukkum pozhudhu miss pannuren, ippo thaniya irukken","I miss the time I spent with my festival celebration, now I feel alone",family,lonely,"festival,lonely",medium,high
+"sacrifice pathi venaama kadinama pesinanga, frustration ah irukku","They spoke harshly about my sacrifice for no reason, it's frustrating",family,angry,"sacrifice,angry",medium,high
+"brother vishayathula family ellarum different opinion sollranga, confuse ah irukku","Everyone in the family has a different opinion about my brother, I'm confused",family,confused,"brother,confused",medium,high
+family finances pathi amma solradhukum appa solradhukum match aagala,"What amma says about my family finances doesn't match what appa says, I'm confused",family,confused,"family,confused",medium,high
+"appa solve aagiduchu, ipo manasu peaceful ah irukku","My father got resolved, my heart feels peaceful now",family,calm,"appa,calm",low,high
+family reunion vishayathula unfair ah treat pannanga nu kobam,"I feel like I was treated unfairly regarding my family reunion, I'm angry",family,angry,"family,angry",medium,high
+"misunderstanding promise panni miss pannitten, romba guilty ah feel panren","I promised something for my misunderstanding and missed it, I feel really guilty",family,guilty,"misunderstanding,guilty",medium,high
+appa illama veedu verumaiya irukku,The house feels empty without my father,family,lonely,"appa,lonely",medium,high
+grandparents nalla aagaadho nu bayama irukku,I'm afraid my grandparents might not turn out well,family,fear,"grandparents,fear",medium,high
+"encouragement pathi accept pannitten, calm ah feel panren","I've accepted things about my encouragement, I feel calm",family,calm,"encouragement,calm",low,high
+family loss pathi therinjadhum manasu heavy ah aayiduchu,"The moment I heard about my family loss, my heart felt heavy",family,sad,"family,sad",medium,high
+family bonding expectation meet panna mudiyala nu guilt irukku,I feel guilty that I couldn't meet my family bonding's expectations,family,guilty,"family,guilty",medium,high
+"family responsibility pathi ninacha thalai suthudhu, stress ah irukku","My head spins when I think about my family responsibility, I'm stressed",family,stressed,"family,stressed",high,high
+"amma pathi over thinking pannitu irukken, sleep kooda varala","I've been overthinking about my mother, I can't even sleep",family,anxious,"amma,anxious",medium,high
+"grief pathi venaama kadinama pesinanga, frustration ah irukku","They spoke harshly about my grief for no reason, it's frustrating",family,angry,"grief,angry",medium,high
+"family trip pathi ipo tension illa, manasu calm ah irukku","I don't feel tense about my family trip anymore, my heart feels calm",family,calm,"family,calm",low,high
+"family respect innum konjam naal dhaan irukku, romba excited ah irukken","There's only a few days left for my family respect, I'm really excited",family,excited,"family,excited",low,high
+family reunion handle panna time illama stress ah irukku,I'm stressed because I don't have time to handle my family reunion,family,stressed,"family,stressed",high,high
+family happiness la ellarum sera irundhu semma fun ah irundhudhu,Everyone came together for my family happiness and it was so much fun,family,happy,"family,happy",low,high
+"uncle arrangements start pannitanga, romba excited ah irukku","They've started the arrangements for my uncle, I'm really excited",family,excited,"uncle,excited",low,high
+"family argument vishayathula yaaraiyum kekkama edhuvum pannitanga, kobam adangala","They did something about my family argument without asking anyone, my anger won't settle",family,angry,"family,angry",medium,high
+"appa pathi venaama kadinama pesinanga, frustration ah irukku","They spoke harshly about my father for no reason, it's frustrating",family,angry,"appa,angry",medium,high
+family reunion time la semma santhosham feel panren,I feel so joyful during my family reunion,family,happy,"family,happy",low,high
+"grief pathi nalla news kekka poren nu thonudhu, excited ah irukku",I feel excited thinking I might hear good news about my grief,family,excited,"grief,excited",low,high
+"sacrifice nalla nadandhudhu, veetla ellarum happy ah irukanga","My sacrifice went really well, everyone at home is happy",family,happy,"sacrifice,happy",low,high
+"encouragement pathi over thinking pannitu irukken, sleep kooda varala","I've been overthinking about my encouragement, I can't even sleep",family,anxious,"encouragement,anxious",medium,high
+"financial struggle nalla nadandhudhu, veetla ellarum happy ah irukanga","My financial struggle went really well, everyone at home is happy",family,happy,"financial,happy",low,high
+"appa pathi plan pannitu irukom, semma excited ah irukku","We're planning for my father, I'm so excited",family,excited,"appa,excited",low,high
+"grief vishayathula konjam tension irundhalum, positive ah dhaan irukken","Even with some tension about my grief, I'm staying positive",family,hopeful,"grief,hopeful",low,high
+encouragement pathi nalla news kelvi pattu happy ah irukken,"I heard good news about my encouragement, I'm happy about it",family,happy,"encouragement,happy",low,high
+appa pathi yosichaale nenju padhapadhukudhu,My heart races with fear whenever I think about my father,family,fear,"appa,fear",medium,high
+wedding function pathi ninachaale mukham la smile varudhu,Just thinking about my wedding function brings a smile to my face,family,happy,"wedding,happy",low,high
+"family bonding innum konjam naal dhaan irukku, romba excited ah irukken","There's only a few days left for my family bonding, I'm really excited",family,excited,"family,excited",low,high
+"advice health pathi worry ah irukku, edhavadhu aagidumo nu bayam","I'm worried about my advice's health, scared something might happen",family,fear,"advice,fear",high,high
+family trip illama veedu verumaiya irukku,The house feels empty without my family trip,family,lonely,"family,lonely",medium,high
+sister decision eduka mudiyama irukken innum,I still can't make a decision about my sister,family,confused,"sister,confused",medium,high
+"financial struggle pathi over thinking pannitu irukken, sleep kooda varala","I've been overthinking about my financial struggle, I can't even sleep",family,anxious,"financial,anxious",medium,high
+family reunion pathi therinjadhum manasu heavy ah aayiduchu,"The moment I heard about my family reunion, my heart felt heavy",family,sad,"family,sad",medium,high
+kids upbringing decision eduka mudiyama irukken innum,I still can't make a decision about my kids' upbringing,family,confused,"kids,confused",medium,high
+uncle dhooram poiten apparam romba lonely ah irukku,"Since I moved away from my uncle, I feel really lonely",family,lonely,"uncle,lonely",medium,high
+family respect news eppo varum nu ninachu anxious ah irukken,I feel anxious wondering when news about my family respect will come,family,anxious,"family,anxious",medium,high
+gratitude ku sariyaana neram kudukala nu guilt irukku,I feel guilty that I didn't give proper time to my gratitude,family,guilty,"gratitude,guilty",medium,high
+wedding function pathi yosichaale nenju padhapadhukudhu,My heart races with fear whenever I think about my wedding function,family,fear,"wedding,fear",medium,high
+"wedding function pathi over thinking pannitu irukken, sleep kooda varala","I've been overthinking about my wedding function, I can't even sleep",family,anxious,"wedding,anxious",medium,high
+family trip pathi pesa yarum illama thaniya feel panren,"There's no one to talk to about my family trip, I feel alone",family,lonely,"family,lonely",medium,high
+"family respect matter la promise mudika illa, romba irritation","They didn't keep their promise about my family respect, it's really irritating",family,angry,"family,angry",medium,high
+family loss pathi yosichaale nenju padhapadhukudhu,My heart races with fear whenever I think about my family loss,family,fear,"family,fear",medium,high
+family bonding nalla aagaadho nu bayama irukku,I'm afraid my family bonding might not turn out well,family,fear,"family,fear",medium,high
+financial struggle vishayathula pressure adhigama irukku,There's a lot of pressure regarding my financial struggle,family,stressed,"financial,stressed",medium,high
+"family trust pathi yosichaale hands shake aagudhu, romba anxious","My hands shake when I think about my family trust, I'm really anxious",family,anxious,"family,anxious",high,high
+encouragement pathi bad news varumo nu fear ah irukku,I'm scared that bad news might come about my encouragement,family,fear,"encouragement,fear",medium,high
+sacrifice pathi nalla news kelvi pattu happy ah irukken,"I heard good news about my sacrifice, I'm happy about it",family,happy,"sacrifice,happy",low,high
+parenting soon solve aagum nu nambaren,I believe my parenting will be resolved soon,family,hopeful,"parenting,hopeful",low,high
+cousins kooda neram selavazhikama irundhadhukku guilt ah irukku,I feel guilty for not spending enough time with my cousins,family,guilty,"cousins,guilty",medium,high
+"grandparents pathi plan pannitu irukom, semma excited ah irukku","We're planning for my grandparents, I'm so excited",family,excited,"grandparents,excited",low,high
+family support nalla aagaadho nu bayama irukku,I'm afraid my family support might not turn out well,family,fear,"family,fear",medium,high
+family problem nyabagam vandha kannu filaagudhu,"When I remember my family problem, my eyes well up",family,sad,"family,sad",medium,high
+financial struggle vishayam romba stress kudukudhu,Dealing with my financial struggle is giving me a lot of stress,family,stressed,"financial,stressed",high,high
+"elders health pathi plan pannitu irukom, semma excited ah irukku","We're planning for my elders' health, I'm so excited",family,excited,"elders,excited",low,high
+sacrifice pathi therinjadhum manasu heavy ah aayiduchu,"The moment I heard about my sacrifice, my heart felt heavy",family,sad,"sacrifice,sad",medium,high
+"family argument solve aagiduchu, ipo manasu peaceful ah irukku","My family argument got resolved, my heart feels peaceful now",family,calm,"family,calm",low,high
+parenting nalla poidum nu nambikkai irukku,I have hope that my parenting will go well,family,hopeful,"parenting,hopeful",low,high
+"aunty vishayathula ella pesitten, ipo calm ah irukken","I've talked things through about my aunt, I feel calm now",family,calm,"aunty,calm",low,high
+"family happiness pesama edhavadhu decision edutanga, romba kobam varudhu","They made a decision about my family happiness without talking to me, I'm really angry",family,angry,"family,angry",medium,high
+"family problem pathi plan pannitu irukom, semma excited ah irukku","We're planning for my family problem, I'm so excited",family,excited,"family,excited",low,high
+uncle pathi yosikkama calm ah irukka try panren,I'm trying to stay calm without overthinking my uncle,family,calm,"uncle,calm",low,high
+family love vishayathula edhachum thappu nadandhudumo nu bayam,I'm scared something might go wrong with my family love,family,fear,"family,fear",high,high
+parenting news eppo varum nu ninachu anxious ah irukken,I feel anxious wondering when news about my parenting will come,family,anxious,"parenting,anxious",medium,high
+family happiness handle panna time illama stress ah irukku,I'm stressed because I don't have time to handle my family happiness,family,stressed,"family,stressed",high,high
+marriage pathi enna pannanum nu theriyala,I don't know what to do about my marriage,family,confused,"marriage,confused",medium,high
+"amma nalla nadakala, veetla ellarum sad ah irukanga","My mother didn't go well, everyone at home is sad",family,sad,"amma,sad",medium,high
+brother pathi bad news varumo nu fear ah irukku,I'm scared that bad news might come about my brother,family,fear,"brother,fear",medium,high
+"advice pathi venaama kadinama pesinanga, frustration ah irukku","They spoke harshly about my advice for no reason, it's frustrating",family,angry,"advice,angry",medium,high
+"amma vishayam expect panna madhiri nadakala, romba vaguthadhu","My mother didn't turn out as I expected, it really hurt me",family,sad,"amma,sad",medium,high
+family trip vishayathula pressure adhigama irukku,There's a lot of pressure regarding my family trip,family,stressed,"family,stressed",medium,high
+"family illness pathi nalla news kekka poren nu thonudhu, excited ah irukku",I feel excited thinking I might hear good news about my family illness,family,excited,"family,excited",low,high
+family happiness pathi ninachaale sad ah aayidudhu,Thinking about my family happiness makes me feel sad,family,sad,"family,sad",medium,high
+"grandparents ippo kashtama irundhalum, nalladhu nadakum nu nambaren","Even though my grandparents is tough right now, I believe it will turn out well",family,hopeful,"grandparents,hopeful",low,high
+"family trust kooda irukkum pozhudhu miss pannuren, ippo thaniya irukken","I miss the time I spent with my family trust, now I feel alone",family,lonely,"family,lonely",medium,high
+"encouragement pathi plan pannitu irukom, semma excited ah irukku","We're planning for my encouragement, I'm so excited",family,excited,"encouragement,excited",low,high
+advice la ellarum sera irundhu semma fun ah irundhudhu,Everyone came together for my advice and it was so much fun,family,happy,"advice,happy",low,high
+family finances expectation meet panna mudiyala nu guilt irukku,I feel guilty that I couldn't meet my family finances's expectations,family,guilty,"family,guilty",medium,high
+"family bonding kooda irukkum pozhudhu miss pannuren, ippo thaniya irukken","I miss the time I spent with my family bonding, now I feel alone",family,lonely,"family,lonely",medium,high
+"grief vishayathula family ellarum different opinion sollranga, confuse ah irukku","Everyone in the family has a different opinion about my grief, I'm confused",family,confused,"grief,confused",medium,high
+brother pathi amma solradhukum appa solradhukum match aagala,"What amma says about my brother doesn't match what appa says, I'm confused",family,confused,"brother,confused",medium,high
+childhood memories pathi yosichaale nenju padhapadhukudhu,My heart races with fear whenever I think about my childhood memories,family,fear,"childhood,fear",medium,high
+"grandparents pathi over thinking pannitu irukken, sleep kooda varala","I've been overthinking about my grandparents, I can't even sleep",family,anxious,"grandparents,anxious",medium,high
+family expectation pathi enna pannanum nu theriyala,I don't know what to do about my family expectation,family,confused,"family,confused",medium,high
+family loss nalla poidum nu nambikkai irukku,I have hope that my family loss will go well,family,hopeful,"family,hopeful",low,high
+"family finances vishayathula family ellarum different opinion sollranga, confuse ah irukku","Everyone in the family has a different opinion about my family finances, I'm confused",family,confused,"family,confused",medium,high
+brother pathi enna pannanum nu theriyala,I don't know what to do about my brother,family,confused,"brother,confused",medium,high
+"grief promise panni miss pannitten, romba guilty ah feel panren","I promised something for my grief and missed it, I feel really guilty",family,guilty,"grief,guilty",medium,high
+"home vishayathula family ellarum different opinion sollranga, confuse ah irukku","Everyone in the family has a different opinion about my home, I'm confused",family,confused,"home,confused",medium,high
+aunty expectation meet panna mudiyala nu guilt irukku,I feel guilty that I couldn't meet my aunt's expectations,family,guilty,"aunty,guilty",medium,high
+family expectation nalla poidum nu nambikkai irukku,I have hope that my family expectation will go well,family,hopeful,"family,hopeful",low,high
+"amma pathi yosichaale hands shake aagudhu, romba anxious","My hands shake when I think about my mother, I'm really anxious",family,anxious,"amma,anxious",high,high
+"kids upbringing ippo kashtama irundhalum, nalladhu nadakum nu nambaren","Even though my kids' upbringing is tough right now, I believe it will turn out well",family,hopeful,"kids,hopeful",low,high
+family problem vishayathula thappa nadandhukiten nu ippo guilt varudhu,I feel guilty now that I behaved wrongly regarding my family problem,family,guilty,"family,guilty",medium,high
+brother illama veedu verumaiya irukku,The house feels empty without my brother,family,lonely,"brother,lonely",medium,high
+daily family conversation expectation meet panna mudiyala nu guilt irukku,I feel guilty that I couldn't meet my daily family conversation's expectations,family,guilty,"daily,guilty",medium,high
+"grief innum konjam naal dhaan irukku, romba excited ah irukken","There's only a few days left for my grief, I'm really excited",family,excited,"grief,excited",low,high
+"misunderstanding vishayathula family ellarum different opinion sollranga, confuse ah irukku","Everyone in the family has a different opinion about my misunderstanding, I'm confused",family,confused,"misunderstanding,confused",medium,high
+"daily family conversation pesama edhavadhu decision edutanga, romba kobam varudhu","They made a decision about my daily family conversation without talking to me, I'm really angry",family,angry,"daily,angry",medium,high
+"encouragement pesama edhavadhu decision edutanga, romba kobam varudhu","They made a decision about my encouragement without talking to me, I'm really angry",family,angry,"encouragement,angry",medium,high
+"kids upbringing kooda irukkum pozhudhu miss pannuren, ippo thaniya irukken","I miss the time I spent with my kids' upbringing, now I feel alone",family,lonely,"kids,lonely",medium,high
+uncle vishayathula unfair ah treat pannanga nu kobam,"I feel like I was treated unfairly regarding my uncle, I'm angry",family,angry,"uncle,angry",medium,high
+kids upbringing illama veedu verumaiya irukku,The house feels empty without my kids' upbringing,family,lonely,"kids,lonely",medium,high
+sacrifice nyabagam vandha kannu filaagudhu,"When I remember my sacrifice, my eyes well up",family,sad,"sacrifice,sad",medium,high
+parenting expectation meet panna mudiyala nu guilt irukku,I feel guilty that I couldn't meet my parenting's expectations,family,guilty,"parenting,guilty",medium,high
+family responsibility pathi bad news varumo nu fear ah irukku,I'm scared that bad news might come about my family responsibility,family,fear,"family,fear",medium,high
+"brother ippo kashtama irundhalum, nalladhu nadakum nu nambaren","Even though my brother is tough right now, I believe it will turn out well",family,hopeful,"brother,hopeful",low,high
+family respect pathi yosikkama calm ah irukka try panren,I'm trying to stay calm without overthinking my family respect,family,calm,"family,calm",low,high
+festival celebration soon solve aagum nu nambaren,I believe my festival celebration will be resolved soon,family,hopeful,"festival,hopeful",low,high
+kids upbringing kooda neram selavazhikama irundhadhukku guilt ah irukku,I feel guilty for not spending enough time with my kids' upbringing,family,guilty,"kids,guilty",medium,high
+"family trip nalla nadakala, veetla ellarum sad ah irukanga","My family trip didn't go well, everyone at home is sad",family,sad,"family,sad",medium,high
+"brother pathi nenju padhapadhukkudhu, anxious feel panren","My heart races about my brother, I feel anxious",family,anxious,"brother,anxious",medium,high
+"misunderstanding vishayam expect panna madhiri nadakala, romba vaguthadhu","My misunderstanding didn't turn out as I expected, it really hurt me",family,sad,"misunderstanding,sad",medium,high
+"family problem la ellarum sera poravanga, wait pannitu excited ah irukken","Everyone is coming together for my family problem, I'm waiting excitedly",family,excited,"family,excited",low,high
+"family reunion pesama edhavadhu decision edutanga, romba kobam varudhu","They made a decision about my family reunion without talking to me, I'm really angry",family,angry,"family,angry",medium,high
+brother pathi nalla news kelvi pattu happy ah irukken,"I heard good news about my brother, I'm happy about it",family,happy,"brother,happy",low,high
+"kids upbringing pathi effort pannitu irukken, nalladhu varum nu nambikkai","I'm putting in effort for my kids' upbringing, I hope good things will come",family,hopeful,"kids,hopeful",low,high
+daily family conversation decision eduka mudiyama irukken innum,I still can't make a decision about my daily family conversation,family,confused,"daily,confused",medium,high
+"advice vishayathula konjam tension irundhalum, positive ah dhaan irukken","Even with some tension about my advice, I'm staying positive",family,hopeful,"advice,hopeful",low,high
+wedding function nalla poidum nu nambikkai irukku,I have hope that my wedding function will go well,family,hopeful,"wedding,hopeful",low,high
+"financial struggle pathi plan pannitu irukom, semma excited ah irukku","We're planning for my financial struggle, I'm so excited",family,excited,"financial,excited",low,high
+"family bonding matter ku parallel ah vera responsibility kooda irukku, stress adhigam","I have other responsibilities along with my family bonding, the stress is very high",family,stressed,"family,stressed",high,high
+family argument pathi amma solradhukum appa solradhukum match aagala,"What amma says about my family argument doesn't match what appa says, I'm confused",family,confused,"family,confused",medium,high
+aunty eppadi handle pannanum nu puriyala,I don't understand how to handle my aunt,family,confused,"aunty,confused",medium,high
+"family problem nalla nadakala, veetla ellarum sad ah irukanga","My family problem didn't go well, everyone at home is sad",family,sad,"family,sad",medium,high
+"festival celebration la ellarum sera poravanga, wait pannitu excited ah irukken","Everyone is coming together for my festival celebration, I'm waiting excitedly",family,excited,"festival,excited",low,high
+encouragement soon solve aagum nu nambaren,I believe my encouragement will be resolved soon,family,hopeful,"encouragement,hopeful",low,high
+"wedding function la ellarum sera poravanga, wait pannitu excited ah irukken","Everyone is coming together for my wedding function, I'm waiting excitedly",family,excited,"wedding,excited",low,high
+encouragement pathi pesa yarum illama thaniya feel panren,"There's no one to talk to about my encouragement, I feel alone",family,lonely,"encouragement,lonely",medium,high
+"kids upbringing nalla nadakumaa nu doubt varudhu, anxious ah irukku","I keep doubting whether my kids' upbringing will go well, I'm anxious",family,anxious,"kids,anxious",medium,high
+family respect nalla aagaadho nu bayama irukku,I'm afraid my family respect might not turn out well,family,fear,"family,fear",medium,high
+sister ku sariyaana neram kudukala nu guilt irukku,I feel guilty that I didn't give proper time to my sister,family,guilty,"sister,guilty",medium,high
+"home kooda irukkum pozhudhu miss pannuren, ippo thaniya irukken","I miss the time I spent with my home, now I feel alone",family,lonely,"home,lonely",medium,high
+"elders health solve aagiduchu, ipo manasu peaceful ah irukku","My elders' health got resolved, my heart feels peaceful now",family,calm,"elders,calm",low,high
+"financial struggle matter la promise mudika illa, romba irritation","They didn't keep their promise about my financial struggle, it's really irritating",family,angry,"financial,angry",medium,high
+gratitude kooda neram selavazhikama irundhadhukku guilt ah irukku,I feel guilty for not spending enough time with my gratitude,family,guilty,"gratitude,guilty",medium,high
+"uncle pathi effort pannitu irukken, nalladhu varum nu nambikkai","I'm putting in effort for my uncle, I hope good things will come",family,hopeful,"uncle,hopeful",low,high
+family illness vishayathula edhachum thappu nadandhudumo nu bayam,I'm scared something might go wrong with my family illness,family,fear,"family,fear",high,high
+family argument vishayathula pressure adhigama irukku,There's a lot of pressure regarding my family argument,family,stressed,"family,stressed",medium,high
+family respect vishayam romba stress kudukudhu,Dealing with my family respect is giving me a lot of stress,family,stressed,"family,stressed",high,high
+"appa vishayathula konjam tension irundhalum, positive ah dhaan irukken","Even with some tension about my father, I'm staying positive",family,hopeful,"appa,hopeful",low,high
+"family care pathi plan pannitu irukom, semma excited ah irukku","We're planning for my family care, I'm so excited",family,excited,"family,excited",low,high
+aunty vishayathula thappa nadandhukiten nu ippo guilt varudhu,I feel guilty now that I behaved wrongly regarding my aunt,family,guilty,"aunty,guilty",medium,high
+"financial struggle pathi nenju padhapadhukkudhu, anxious feel panren","My heart races about my financial struggle, I feel anxious",family,anxious,"financial,anxious",medium,high
+veetla kids upbringing pathi pesa yarum kooda illa,There's no one at home to talk about my kids' upbringing with,family,lonely,"kids,lonely",low,high
+"childhood memories vishayathula family ellarum different opinion sollranga, confuse ah irukku","Everyone in the family has a different opinion about my childhood memories, I'm confused",family,confused,"childhood,confused",medium,high
+"uncle pathi nenju padhapadhukkudhu, anxious feel panren","My heart races about my uncle, I feel anxious",family,anxious,"uncle,anxious",medium,high
+"family bonding pathi ipo tension illa, manasu calm ah irukku","I don't feel tense about my family bonding anymore, my heart feels calm",family,calm,"family,calm",low,high
+marriage pathi ninachaale mukham la smile varudhu,Just thinking about my marriage brings a smile to my face,family,happy,"marriage,happy",low,high
+"family bonding vishayathula ella pesitten, ipo calm ah irukken","I've talked things through about my family bonding, I feel calm now",family,calm,"family,calm",low,high
+brother pathi yosichaale nenju padhapadhukudhu,My heart races with fear whenever I think about my brother,family,fear,"brother,fear",medium,high
+gratitude soon solve aagum nu nambaren,I believe my gratitude will be resolved soon,family,hopeful,"gratitude,hopeful",low,high
+"financial struggle vishayam expect panna madhiri nadakala, romba vaguthadhu","My financial struggle didn't turn out as I expected, it really hurt me",family,sad,"financial,sad",medium,high
+family illness ku sariyaana neram kudukala nu guilt irukku,I feel guilty that I didn't give proper time to my family illness,family,guilty,"family,guilty",medium,high
+"family finances nalla nadakala, veetla ellarum sad ah irukanga","My family finances didn't go well, everyone at home is sad",family,sad,"family,sad",medium,high
+"family trip ippo kashtama irundhalum, nalladhu nadakum nu nambaren","Even though my family trip is tough right now, I believe it will turn out well",family,hopeful,"family,hopeful",low,high
+"misunderstanding matter ku parallel ah vera responsibility kooda irukku, stress adhigam","I have other responsibilities along with my misunderstanding, the stress is very high",family,stressed,"misunderstanding,stressed",high,high
+"appa vishayathula yaaraiyum kekkama edhuvum pannitanga, kobam adangala","They did something about my father without asking anyone, my anger won't settle",family,angry,"appa,angry",medium,high
+daily family conversation pathi pesa yarum illama thaniya feel panren,"There's no one to talk to about my daily family conversation, I feel alone",family,lonely,"daily,lonely",medium,high
+"home pathi plan pannitu irukom, semma excited ah irukku","We're planning for my home, I'm so excited",family,excited,"home,excited",low,high
+cousins pathi amma solradhukum appa solradhukum match aagala,"What amma says about my cousins doesn't match what appa says, I'm confused",family,confused,"cousins,confused",medium,high
+family expectation ku sariyaana neram kudukala nu guilt irukku,I feel guilty that I didn't give proper time to my family expectation,family,guilty,"family,guilty",medium,high
+family love expectation meet panna mudiyala nu guilt irukku,I feel guilty that I couldn't meet my family love's expectations,family,guilty,"family,guilty",medium,high
+"cousins solve aagiduchu, ipo manasu peaceful ah irukku","My cousins got resolved, my heart feels peaceful now",family,calm,"cousins,calm",low,high
+"family illness arrangements start pannitanga, romba excited ah irukku","They've started the arrangements for my family illness, I'm really excited",family,excited,"family,excited",low,high
+childhood memories pathi ninachaale sad ah aayidudhu,Thinking about my childhood memories makes me feel sad,family,sad,"childhood,sad",medium,high
+"family argument matter ku parallel ah vera responsibility kooda irukku, stress adhigam","I have other responsibilities along with my family argument, the stress is very high",family,stressed,"family,stressed",high,high
+"family happiness health pathi worry ah irukku, edhavadhu aagidumo nu bayam","I'm worried about my family happiness's health, scared something might happen",family,fear,"family,fear",high,high
+"grief la ellarum sera poravanga, wait pannitu excited ah irukken","Everyone is coming together for my grief, I'm waiting excitedly",family,excited,"grief,excited",low,high
+uncle expectation meet panna mudiyala nu guilt irukku,I feel guilty that I couldn't meet my uncle's expectations,family,guilty,"uncle,guilty",medium,high
+family finances handle panna time illama stress ah irukku,I'm stressed because I don't have time to handle my family finances,family,stressed,"family,stressed",high,high
+grandparents pathi bad news varumo nu fear ah irukku,I'm scared that bad news might come about my grandparents,family,fear,"grandparents,fear",medium,high
+aunty dhooram poiten apparam romba lonely ah irukku,"Since I moved away from my aunt, I feel really lonely",family,lonely,"aunty,lonely",medium,high
+"cousins pathi ninacha thalai suthudhu, stress ah irukku","My head spins when I think about my cousins, I'm stressed",family,stressed,"cousins,stressed",high,high
+veetla family support pathi pesa yarum kooda illa,There's no one at home to talk about my family support with,family,lonely,"family,lonely",low,high
+"family happiness kooda irukkum pozhudhu miss pannuren, ippo thaniya irukken","I miss the time I spent with my family happiness, now I feel alone",family,lonely,"family,lonely",medium,high
+family respect pathi therinjadhum manasu heavy ah aayiduchu,"The moment I heard about my family respect, my heart felt heavy",family,sad,"family,sad",medium,high
+"daily family conversation nalla nadakumaa nu doubt varudhu, anxious ah irukku","I keep doubting whether my daily family conversation will go well, I'm anxious",family,anxious,"daily,anxious",medium,high
+family trip pathi ninachaale sad ah aayidudhu,Thinking about my family trip makes me feel sad,family,sad,"family,sad",medium,high
+grief handle panna time illama stress ah irukku,I'm stressed because I don't have time to handle my grief,family,stressed,"grief,stressed",high,high
+family trust pathi yosikkama calm ah irukka try panren,I'm trying to stay calm without overthinking my family trust,family,calm,"family,calm",low,high
+aunty pathi yosikkama calm ah irukka try panren,I'm trying to stay calm without overthinking my aunt,family,calm,"aunty,calm",low,high
+elders health kooda neram selavazhikama irundhadhukku guilt ah irukku,I feel guilty for not spending enough time with my elders' health,family,guilty,"elders,guilty",medium,high
+emotional support nalla aagaadho nu bayama irukku,I'm afraid my emotional support might not turn out well,family,fear,"emotional,fear",medium,high
+"family care ippo kashtama irundhalum, nalladhu nadakum nu nambaren","Even though my family care is tough right now, I believe it will turn out well",family,hopeful,"family,hopeful",low,high
+"sacrifice arrangements start pannitanga, romba excited ah irukku","They've started the arrangements for my sacrifice, I'm really excited",family,excited,"sacrifice,excited",low,high
+amma pathi therinjadhum manasu heavy ah aayiduchu,"The moment I heard about my mother, my heart felt heavy",family,sad,"amma,sad",medium,high
+"sister matter la promise mudika illa, romba irritation","They didn't keep their promise about my sister, it's really irritating",family,angry,"sister,angry",medium,high
+"family support pathi ipo tension illa, manasu calm ah irukku","I don't feel tense about my family support anymore, my heart feels calm",family,calm,"family,calm",low,high
+family problem eppadi handle pannanum nu puriyala,I don't understand how to handle my family problem,family,confused,"family,confused",medium,high
+"family bonding vishayam expect panna madhiri nadakala, romba vaguthadhu","My family bonding didn't turn out as I expected, it really hurt me",family,sad,"family,sad",medium,high
+"sister ippo kashtama irundhalum, nalladhu nadakum nu nambaren","Even though my sister is tough right now, I believe it will turn out well",family,hopeful,"sister,hopeful",low,high
+grief vishayam romba stress kudukudhu,Dealing with my grief is giving me a lot of stress,family,stressed,"grief,stressed",high,high
+grandparents vishayathula thappa nadandhukiten nu ippo guilt varudhu,I feel guilty now that I behaved wrongly regarding my grandparents,family,guilty,"grandparents,guilty",medium,high
+advice pathi nalla news kelvi pattu happy ah irukken,"I heard good news about my advice, I'm happy about it",family,happy,"advice,happy",low,high
+home pathi nalla news kelvi pattu happy ah irukken,"I heard good news about my home, I'm happy about it",family,happy,"home,happy",low,high
+advice vishayathula pressure adhigama irukku,There's a lot of pressure regarding my advice,family,stressed,"advice,stressed",medium,high
+wedding function la ellarum sera irundhu semma fun ah irundhudhu,Everyone came together for my wedding function and it was so much fun,family,happy,"wedding,happy",low,high
+"marriage pesama edhavadhu decision edutanga, romba kobam varudhu","They made a decision about my marriage without talking to me, I'm really angry",family,angry,"marriage,angry",medium,high
+family trip pathi yosikkama calm ah irukka try panren,I'm trying to stay calm without overthinking my family trip,family,calm,"family,calm",low,high
+"advice pathi ipo tension illa, manasu calm ah irukku","I don't feel tense about my advice anymore, my heart feels calm",family,calm,"advice,calm",low,high
+"family illness pathi nenju padhapadhukkudhu, anxious feel panren","My heart races about my family illness, I feel anxious",family,anxious,"family,anxious",medium,high
+childhood memories la ellarum sera irundhu semma fun ah irundhudhu,Everyone came together for my childhood memories and it was so much fun,family,happy,"childhood,happy",low,high
+family love eppadi handle pannanum nu puriyala,I don't understand how to handle my family love,family,confused,"family,confused",medium,high
+"childhood memories pathi effort pannitu irukken, nalladhu varum nu nambikkai","I'm putting in effort for my childhood memories, I hope good things will come",family,hopeful,"childhood,hopeful",low,high
+amma la ellarum sera irundhu semma fun ah irundhudhu,Everyone came together for my mother and it was so much fun,family,happy,"amma,happy",low,high
+kids upbringing nalla poidum nu nambikkai irukku,I have hope that my kids' upbringing will go well,family,hopeful,"kids,hopeful",low,high
+"family happiness pathi ninacha thalai suthudhu, stress ah irukku","My head spins when I think about my family happiness, I'm stressed",family,stressed,"family,stressed",high,high
+uncle pathi amma solradhukum appa solradhukum match aagala,"What amma says about my uncle doesn't match what appa says, I'm confused",family,confused,"uncle,confused",medium,high
+"family problem pesama edhavadhu decision edutanga, romba kobam varudhu","They made a decision about my family problem without talking to me, I'm really angry",family,angry,"family,angry",medium,high
+"wedding function pathi ipo tension illa, manasu calm ah irukku","I don't feel tense about my wedding function anymore, my heart feels calm",family,calm,"wedding,calm",low,high
+cousins dhooram poiten apparam romba lonely ah irukku,"Since I moved away from my cousins, I feel really lonely",family,lonely,"cousins,lonely",medium,high
+family trust vishayathula pressure adhigama irukku,There's a lot of pressure regarding my family trust,family,stressed,"family,stressed",medium,high
+family bonding soon solve aagum nu nambaren,I believe my family bonding will be resolved soon,family,hopeful,"family,hopeful",low,high
+"wedding function kooda irukkum pozhudhu miss pannuren, ippo thaniya irukken","I miss the time I spent with my wedding function, now I feel alone",family,lonely,"wedding,lonely",medium,high
+aunty vishayathula pressure adhigama irukku,There's a lot of pressure regarding my aunt,family,stressed,"aunty,stressed",medium,high
+emotional support illama veedu verumaiya irukku,The house feels empty without my emotional support,family,lonely,"emotional,lonely",medium,high
+sacrifice pathi yosikkama calm ah irukka try panren,I'm trying to stay calm without overthinking my sacrifice,family,calm,"sacrifice,calm",low,high
+emotional support dhooram poiten apparam romba lonely ah irukku,"Since I moved away from my emotional support, I feel really lonely",family,lonely,"emotional,lonely",medium,high
+"grief ippo kashtama irundhalum, nalladhu nadakum nu nambaren","Even though my grief is tough right now, I believe it will turn out well",family,hopeful,"grief,hopeful",low,high
+family love kooda neram selavazhikama irundhadhukku guilt ah irukku,I feel guilty for not spending enough time with my family love,family,guilty,"family,guilty",medium,high
+"grandparents pathi yosichaale hands shake aagudhu, romba anxious","My hands shake when I think about my grandparents, I'm really anxious",family,anxious,"grandparents,anxious",high,high
+home pathi ninachaale sad ah aayidudhu,Thinking about my home makes me feel sad,family,sad,"home,sad",medium,high
+"grandparents pathi ninacha thalai suthudhu, stress ah irukku","My head spins when I think about my grandparents, I'm stressed",family,stressed,"grandparents,stressed",high,high
+"gratitude vishayathula family ellarum different opinion sollranga, confuse ah irukku","Everyone in the family has a different opinion about my gratitude, I'm confused",family,confused,"gratitude,confused",medium,high
+kids upbringing pathi bad news varumo nu fear ah irukku,I'm scared that bad news might come about my kids' upbringing,family,fear,"kids,fear",medium,high
+family illness nalla aagaadho nu bayama irukku,I'm afraid my family illness might not turn out well,family,fear,"family,fear",medium,high
+brother eppadi handle pannanum nu puriyala,I don't understand how to handle my brother,family,confused,"brother,confused",medium,high
+family happiness pathi amma solradhukum appa solradhukum match aagala,"What amma says about my family happiness doesn't match what appa says, I'm confused",family,confused,"family,confused",medium,high
+"family care nalla nadakumaa nu doubt varudhu, anxious ah irukku","I keep doubting whether my family care will go well, I'm anxious",family,anxious,"family,anxious",medium,high
+"marriage kooda irukkum pozhudhu miss pannuren, ippo thaniya irukken","I miss the time I spent with my marriage, now I feel alone",family,lonely,"marriage,lonely",medium,high
+advice eppadi handle pannanum nu puriyala,I don't understand how to handle my advice,family,confused,"advice,confused",medium,high
+emotional support vishayathula thappa nadandhukiten nu ippo guilt varudhu,I feel guilty now that I behaved wrongly regarding my emotional support,family,guilty,"emotional,guilty",medium,high
+uncle soon solve aagum nu nambaren,I believe my uncle will be resolved soon,family,hopeful,"uncle,hopeful",low,high
+"daily family conversation matter ku parallel ah vera responsibility kooda irukku, stress adhigam","I have other responsibilities along with my daily family conversation, the stress is very high",family,stressed,"daily,stressed",high,high
+marriage handle panna time illama stress ah irukku,I'm stressed because I don't have time to handle my marriage,family,stressed,"marriage,stressed",high,high
+"kids upbringing vishayathula yaaraiyum kekkama edhuvum pannitanga, kobam adangala","They did something about my kids' upbringing without asking anyone, my anger won't settle",family,angry,"kids,angry",medium,high
+"home pesama edhavadhu decision edutanga, romba kobam varudhu","They made a decision about my home without talking to me, I'm really angry",family,angry,"home,angry",medium,high
+"family responsibility pathi nalla news kekka poren nu thonudhu, excited ah irukku",I feel excited thinking I might hear good news about my family responsibility,family,excited,"family,excited",low,high
+"appa kooda irukkum pozhudhu miss pannuren, ippo thaniya irukken","I miss the time I spent with my father, now I feel alone",family,lonely,"appa,lonely",medium,high
+advice dhooram poiten apparam romba lonely ah irukku,"Since I moved away from my advice, I feel really lonely",family,lonely,"advice,lonely",medium,high
+family trip eppadi handle pannanum nu puriyala,I don't understand how to handle my family trip,family,confused,"family,confused",medium,high
+"family reunion la ellarum sera poravanga, wait pannitu excited ah irukken","Everyone is coming together for my family reunion, I'm waiting excitedly",family,excited,"family,excited",low,high
+grief pathi enna pannanum nu theriyala,I don't know what to do about my grief,family,confused,"grief,confused",medium,high
+family responsibility illama veedu verumaiya irukku,The house feels empty without my family responsibility,family,lonely,"family,lonely",medium,high
+family argument eppadi handle pannanum nu puriyala,I don't understand how to handle my family argument,family,confused,"family,confused",medium,high
+"family reunion pathi plan pannitu irukom, semma excited ah irukku","We're planning for my family reunion, I'm so excited",family,excited,"family,excited",low,high
+festival celebration pathi yosichaale nenju padhapadhukudhu,My heart races with fear whenever I think about my festival celebration,family,fear,"festival,fear",medium,high
+family loss vishayathula edhachum thappu nadandhudumo nu bayam,I'm scared something might go wrong with my family loss,family,fear,"family,fear",high,high
+advice pathi bad news varumo nu fear ah irukku,I'm scared that bad news might come about my advice,family,fear,"advice,fear",medium,high
+wedding function vishayathula pressure adhigama irukku,There's a lot of pressure regarding my wedding function,family,stressed,"wedding,stressed",medium,high
+family illness pathi therinjadhum manasu heavy ah aayiduchu,"The moment I heard about my family illness, my heart felt heavy",family,sad,"family,sad",medium,high
+aunty pathi ninachaale sad ah aayidudhu,Thinking about my aunt makes me feel sad,family,sad,"aunty,sad",medium,high
+"wedding function pathi ninacha thalai suthudhu, stress ah irukku","My head spins when I think about my wedding function, I'm stressed",family,stressed,"wedding,stressed",high,high
+"gratitude pathi nenju padhapadhukkudhu, anxious feel panren","My heart races about my gratitude, I feel anxious",family,anxious,"gratitude,anxious",medium,high
+grief illama veedu verumaiya irukku,The house feels empty without my grief,family,lonely,"grief,lonely",medium,high
+family trip pathi bad news varumo nu fear ah irukku,I'm scared that bad news might come about my family trip,family,fear,"family,fear",medium,high
+"family trip pathi nenju padhapadhukkudhu, anxious feel panren","My heart races about my family trip, I feel anxious",family,anxious,"family,anxious",medium,high
+"festival celebration vishayathula ella pesitten, ipo calm ah irukken","I've talked things through about my festival celebration, I feel calm now",family,calm,"festival,calm",low,high
+"gratitude la ellarum sera poravanga, wait pannitu excited ah irukken","Everyone is coming together for my gratitude, I'm waiting excitedly",family,excited,"gratitude,excited",low,high
+family love news eppo varum nu ninachu anxious ah irukken,I feel anxious wondering when news about my family love will come,family,anxious,"family,anxious",medium,high
+"family argument ippo kashtama irundhalum, nalladhu nadakum nu nambaren","Even though my family argument is tough right now, I believe it will turn out well",family,hopeful,"family,hopeful",low,high
+emotional support expectation meet panna mudiyala nu guilt irukku,I feel guilty that I couldn't meet my emotional support's expectations,family,guilty,"emotional,guilty",medium,high
+"kids upbringing matter ku parallel ah vera responsibility kooda irukku, stress adhigam","I have other responsibilities along with my kids' upbringing, the stress is very high",family,stressed,"kids,stressed",high,high
+"family loss vishayathula konjam tension irundhalum, positive ah dhaan irukken","Even with some tension about my family loss, I'm staying positive",family,hopeful,"family,hopeful",low,high
+sacrifice vishayam romba stress kudukudhu,Dealing with my sacrifice is giving me a lot of stress,family,stressed,"sacrifice,stressed",high,high
+"grandparents vishayathula family ellarum different opinion sollranga, confuse ah irukku","Everyone in the family has a different opinion about my grandparents, I'm confused",family,confused,"grandparents,confused",medium,high
+family loss pathi pesa yarum illama thaniya feel panren,"There's no one to talk to about my family loss, I feel alone",family,lonely,"family,lonely",medium,high
+uncle pathi pesa yarum illama thaniya feel panren,"There's no one to talk to about my uncle, I feel alone",family,lonely,"uncle,lonely",medium,high
+"parenting pathi nalla news kekka poren nu thonudhu, excited ah irukku",I feel excited thinking I might hear good news about my parenting,family,excited,"parenting,excited",low,high
+family care handle panna time illama stress ah irukku,I'm stressed because I don't have time to handle my family care,family,stressed,"family,stressed",high,high
+misunderstanding decision eduka mudiyama irukken innum,I still can't make a decision about my misunderstanding,family,confused,"misunderstanding,confused",medium,high
+family trust pathi pesa yarum illama thaniya feel panren,"There's no one to talk to about my family trust, I feel alone",family,lonely,"family,lonely",medium,high
+"family finances la ellarum sera poravanga, wait pannitu excited ah irukken","Everyone is coming together for my family finances, I'm waiting excitedly",family,excited,"family,excited",low,high
+"family expectation pathi effort pannitu irukken, nalladhu varum nu nambikkai","I'm putting in effort for my family expectation, I hope good things will come",family,hopeful,"family,hopeful",low,high
+family trip soon solve aagum nu nambaren,I believe my family trip will be resolved soon,family,hopeful,"family,hopeful",low,high
+"family trust health pathi worry ah irukku, edhavadhu aagidumo nu bayam","I'm worried about my family trust's health, scared something might happen",family,fear,"family,fear",high,high
+"grief pathi ipo tension illa, manasu calm ah irukku","I don't feel tense about my grief anymore, my heart feels calm",family,calm,"grief,calm",low,high
+daily family conversation pathi yosichaale nenju padhapadhukudhu,My heart races with fear whenever I think about my daily family conversation,family,fear,"daily,fear",medium,high
+"marriage nalla nadakumaa nu doubt varudhu, anxious ah irukku","I keep doubting whether my marriage will go well, I'm anxious",family,anxious,"marriage,anxious",medium,high
+family problem kooda neram selavazhikama irundhadhukku guilt ah irukku,I feel guilty for not spending enough time with my family problem,family,guilty,"family,guilty",medium,high
+cousins nalla poidum nu nambikkai irukku,I have hope that my cousins will go well,family,hopeful,"cousins,hopeful",low,high
+family problem handle panna time illama stress ah irukku,I'm stressed because I don't have time to handle my family problem,family,stressed,"family,stressed",high,high
+family argument pathi pesa yarum illama thaniya feel panren,"There's no one to talk to about my family argument, I feel alone",family,lonely,"family,lonely",medium,high
+"wedding function ippo kashtama irundhalum, nalladhu nadakum nu nambaren","Even though my wedding function is tough right now, I believe it will turn out well",family,hopeful,"wedding,hopeful",low,high
+family care time la semma santhosham feel panren,I feel so joyful during my family care,family,happy,"family,happy",low,high
+uncle nalla poidum nu nambikkai irukku,I have hope that my uncle will go well,family,hopeful,"uncle,hopeful",low,high
+advice nyabagam vandha kannu filaagudhu,"When I remember my advice, my eyes well up",family,sad,"advice,sad",medium,high
+grandparents pathi ninachaale mukham la smile varudhu,Just thinking about my grandparents brings a smile to my face,family,happy,"grandparents,happy",low,high
+veetla cousins pathi pesa yarum kooda illa,There's no one at home to talk about my cousins with,family,lonely,"cousins,lonely",low,high
+family support pathi therinjadhum manasu heavy ah aayiduchu,"The moment I heard about my family support, my heart felt heavy",family,sad,"family,sad",medium,high
+appa pathi ninachaale sad ah aayidudhu,Thinking about my father makes me feel sad,family,sad,"appa,sad",medium,high
+"family finances vishayathula konjam tension irundhalum, positive ah dhaan irukken","Even with some tension about my family finances, I'm staying positive",family,hopeful,"family,hopeful",low,high
+"family bonding pathi plan pannitu irukom, semma excited ah irukku","We're planning for my family bonding, I'm so excited",family,excited,"family,excited",low,high
+"parenting innum konjam naal dhaan irukku, romba excited ah irukken","There's only a few days left for my parenting, I'm really excited",family,excited,"parenting,excited",low,high
+"family problem promise panni miss pannitten, romba guilty ah feel panren","I promised something for my family problem and missed it, I feel really guilty",family,guilty,"family,guilty",medium,high
+daily family conversation pathi yosikkama calm ah irukka try panren,I'm trying to stay calm without overthinking my daily family conversation,family,calm,"daily,calm",low,high
+emotional support vishayathula pressure adhigama irukku,There's a lot of pressure regarding my emotional support,family,stressed,"emotional,stressed",medium,high
+family argument time la semma santhosham feel panren,I feel so joyful during my family argument,family,happy,"family,happy",low,high
+encouragement vishayathula thappa nadandhukiten nu ippo guilt varudhu,I feel guilty now that I behaved wrongly regarding my encouragement,family,guilty,"encouragement,guilty",medium,high
+"misunderstanding vishayathula ella pesitten, ipo calm ah irukken","I've talked things through about my misunderstanding, I feel calm now",family,calm,"misunderstanding,calm",low,high
+"family responsibility la ellarum sera poravanga, wait pannitu excited ah irukken","Everyone is coming together for my family responsibility, I'm waiting excitedly",family,excited,"family,excited",low,high
+"family love matter ku parallel ah vera responsibility kooda irukku, stress adhigam","I have other responsibilities along with my family love, the stress is very high",family,stressed,"family,stressed",high,high
+"family care vishayathula yaaraiyum kekkama edhuvum pannitanga, kobam adangala","They did something about my family care without asking anyone, my anger won't settle",family,angry,"family,angry",medium,high
+"childhood memories vishayathula ella pesitten, ipo calm ah irukken","I've talked things through about my childhood memories, I feel calm now",family,calm,"childhood,calm",low,high
+family love illama veedu verumaiya irukku,The house feels empty without my family love,family,lonely,"family,lonely",medium,high
+"encouragement pathi nalla news kekka poren nu thonudhu, excited ah irukku",I feel excited thinking I might hear good news about my encouragement,family,excited,"encouragement,excited",low,high
+family expectation vishayathula pressure adhigama irukku,There's a lot of pressure regarding my family expectation,family,stressed,"family,stressed",medium,high
+kids upbringing pathi yosichaale nenju padhapadhukudhu,My heart races with fear whenever I think about my kids' upbringing,family,fear,"kids,fear",medium,high
+brother pathi pesa yarum illama thaniya feel panren,"There's no one to talk to about my brother, I feel alone",family,lonely,"brother,lonely",medium,high
+"aunty vishayathula yaaraiyum kekkama edhuvum pannitanga, kobam adangala","They did something about my aunt without asking anyone, my anger won't settle",family,angry,"aunty,angry",medium,high
+"family reunion solve aagiduchu, ipo manasu peaceful ah irukku","My family reunion got resolved, my heart feels peaceful now",family,calm,"family,calm",low,high
+"amma pathi ninacha thalai suthudhu, stress ah irukku","My head spins when I think about my mother, I'm stressed",family,stressed,"amma,stressed",high,high
+"brother arrangements start pannitanga, romba excited ah irukku","They've started the arrangements for my brother, I'm really excited",family,excited,"brother,excited",low,high
+"family bonding vishayathula yaaraiyum kekkama edhuvum pannitanga, kobam adangala","They did something about my family bonding without asking anyone, my anger won't settle",family,angry,"family,angry",medium,high
+wedding function nalla aagaadho nu bayama irukku,I'm afraid my wedding function might not turn out well,family,fear,"wedding,fear",medium,high
+"grief pathi nenju padhapadhukkudhu, anxious feel panren","My heart races about my grief, I feel anxious",family,anxious,"grief,anxious",medium,high
+"family trust la ellarum sera poravanga, wait pannitu excited ah irukken","Everyone is coming together for my family trust, I'm waiting excitedly",family,excited,"family,excited",low,high
+elders health decision eduka mudiyama irukken innum,I still can't make a decision about my elders' health,family,confused,"elders,confused",medium,high
+"cousins nalla nadakala, veetla ellarum sad ah irukanga","My cousins didn't go well, everyone at home is sad",family,sad,"cousins,sad",medium,high
+gratitude pathi pesa yarum illama thaniya feel panren,"There's no one to talk to about my gratitude, I feel alone",family,lonely,"gratitude,lonely",medium,high
+family reunion pathi pesa yarum illama thaniya feel panren,"There's no one to talk to about my family reunion, I feel alone",family,lonely,"family,lonely",medium,high
+"family trust ippo kashtama irundhalum, nalladhu nadakum nu nambaren","Even though my family trust is tough right now, I believe it will turn out well",family,hopeful,"family,hopeful",low,high
+"uncle pathi ninacha thalai suthudhu, stress ah irukku","My head spins when I think about my uncle, I'm stressed",family,stressed,"uncle,stressed",high,high
+home nyabagam vandha kannu filaagudhu,"When I remember my home, my eyes well up",family,sad,"home,sad",medium,high
+marriage vishayathula thappa nadandhukiten nu ippo guilt varudhu,I feel guilty now that I behaved wrongly regarding my marriage,family,guilty,"marriage,guilty",medium,high
+"parenting pathi over thinking pannitu irukken, sleep kooda varala","I've been overthinking about my parenting, I can't even sleep",family,anxious,"parenting,anxious",medium,high
+family illness pathi bad news varumo nu fear ah irukku,I'm scared that bad news might come about my family illness,family,fear,"family,fear",medium,high
+"festival celebration innum konjam naal dhaan irukku, romba excited ah irukken","There's only a few days left for my festival celebration, I'm really excited",family,excited,"festival,excited",low,high
+kids upbringing pathi therinjadhum manasu heavy ah aayiduchu,"The moment I heard about my kids' upbringing, my heart felt heavy",family,sad,"kids,sad",medium,high
+family care vishayathula pressure adhigama irukku,There's a lot of pressure regarding my family care,family,stressed,"family,stressed",medium,high
+"gratitude kooda irukkum pozhudhu miss pannuren, ippo thaniya irukken","I miss the time I spent with my gratitude, now I feel alone",family,lonely,"gratitude,lonely",medium,high
+family argument expectation meet panna mudiyala nu guilt irukku,I feel guilty that I couldn't meet my family argument's expectations,family,guilty,"family,guilty",medium,high
+"sacrifice innum konjam naal dhaan irukku, romba excited ah irukken","There's only a few days left for my sacrifice, I'm really excited",family,excited,"sacrifice,excited",low,high
+veetla family love pathi pesa yarum kooda illa,There's no one at home to talk about my family love with,family,lonely,"family,lonely",low,high
+marriage time la semma santhosham feel panren,I feel so joyful during my marriage,family,happy,"marriage,happy",low,high
+festival celebration kooda neram selavazhikama irundhadhukku guilt ah irukku,I feel guilty for not spending enough time with my festival celebration,family,guilty,"festival,guilty",medium,high
+kids upbringing pathi enna pannanum nu theriyala,I don't know what to do about my kids' upbringing,family,confused,"kids,confused",medium,high
+"festival celebration pathi ipo tension illa, manasu calm ah irukku","I don't feel tense about my festival celebration anymore, my heart feels calm",family,calm,"festival,calm",low,high
+festival celebration vishayam romba stress kudukudhu,Dealing with my festival celebration is giving me a lot of stress,family,stressed,"festival,stressed",high,high
+"family care pathi over thinking pannitu irukken, sleep kooda varala","I've been overthinking about my family care, I can't even sleep",family,anxious,"family,anxious",medium,high
+sister pathi amma solradhukum appa solradhukum match aagala,"What amma says about my sister doesn't match what appa says, I'm confused",family,confused,"sister,confused",medium,high
+family finances vishayam romba stress kudukudhu,Dealing with my family finances is giving me a lot of stress,family,stressed,"family,stressed",high,high
+"marriage vishayathula family ellarum different opinion sollranga, confuse ah irukku","Everyone in the family has a different opinion about my marriage, I'm confused",family,confused,"marriage,confused",medium,high
+"festival celebration matter ku parallel ah vera responsibility kooda irukku, stress adhigam","I have other responsibilities along with my festival celebration, the stress is very high",family,stressed,"festival,stressed",high,high
+"family finances arrangements start pannitanga, romba excited ah irukku","They've started the arrangements for my family finances, I'm really excited",family,excited,"family,excited",low,high
+festival celebration pathi amma solradhukum appa solradhukum match aagala,"What amma says about my festival celebration doesn't match what appa says, I'm confused",family,confused,"festival,confused",medium,high
+home vishayam romba stress kudukudhu,Dealing with my home is giving me a lot of stress,family,stressed,"home,stressed",high,high
+uncle pathi ninachaale sad ah aayidudhu,Thinking about my uncle makes me feel sad,family,sad,"uncle,sad",medium,high
+"childhood memories pathi nenju padhapadhukkudhu, anxious feel panren","My heart races about my childhood memories, I feel anxious",family,anxious,"childhood,anxious",medium,high
+family illness pathi yosikkama calm ah irukka try panren,I'm trying to stay calm without overthinking my family illness,family,calm,"family,calm",low,high
+"emotional support nalla nadakala, veetla ellarum sad ah irukanga","My emotional support didn't go well, everyone at home is sad",family,sad,"emotional,sad",medium,high
+sacrifice ku sariyaana neram kudukala nu guilt irukku,I feel guilty that I didn't give proper time to my sacrifice,family,guilty,"sacrifice,guilty",medium,high
+"family respect vishayathula family ellarum different opinion sollranga, confuse ah irukku","Everyone in the family has a different opinion about my family respect, I'm confused",family,confused,"family,confused",medium,high
+"family argument arrangements start pannitanga, romba excited ah irukku","They've started the arrangements for my family argument, I'm really excited",family,excited,"family,excited",low,high
+"emotional support pesama edhavadhu decision edutanga, romba kobam varudhu","They made a decision about my emotional support without talking to me, I'm really angry",family,angry,"emotional,angry",medium,high
+"misunderstanding arrangements start pannitanga, romba excited ah irukku","They've started the arrangements for my misunderstanding, I'm really excited",family,excited,"misunderstanding,excited",low,high
+"sister kooda irukkum pozhudhu miss pannuren, ippo thaniya irukken","I miss the time I spent with my sister, now I feel alone",family,lonely,"sister,lonely",medium,high
+veetla family trust pathi pesa yarum kooda illa,There's no one at home to talk about my family trust with,family,lonely,"family,lonely",low,high
+"family trip pathi yosichaale hands shake aagudhu, romba anxious","My hands shake when I think about my family trip, I'm really anxious",family,anxious,"family,anxious",high,high
+cousins ku sariyaana neram kudukala nu guilt irukku,I feel guilty that I didn't give proper time to my cousins,family,guilty,"cousins,guilty",medium,high
+"grief nalla nadandhudhu, veetla ellarum happy ah irukanga","My grief went really well, everyone at home is happy",family,happy,"grief,happy",low,high
+grandparents decision eduka mudiyama irukken innum,I still can't make a decision about my grandparents,family,confused,"grandparents,confused",medium,high
+family expectation expectation meet panna mudiyala nu guilt irukku,I feel guilty that I couldn't meet my family expectation's expectations,family,guilty,"family,guilty",medium,high
+"brother vishayathula konjam tension irundhalum, positive ah dhaan irukken","Even with some tension about my brother, I'm staying positive",family,hopeful,"brother,hopeful",low,high
+"family respect pathi venaama kadinama pesinanga, frustration ah irukku","They spoke harshly about my family respect for no reason, it's frustrating",family,angry,"family,angry",medium,high
+"brother nalla nadandhudhu, veetla ellarum happy ah irukanga","My brother went really well, everyone at home is happy",family,happy,"brother,happy",low,high
+family bonding vishayathula unfair ah treat pannanga nu kobam,"I feel like I was treated unfairly regarding my family bonding, I'm angry",family,angry,"family,angry",medium,high
+family problem dhooram poiten apparam romba lonely ah irukku,"Since I moved away from my family problem, I feel really lonely",family,lonely,"family,lonely",medium,high
+"elders health pathi over thinking pannitu irukken, sleep kooda varala","I've been overthinking about my elders' health, I can't even sleep",family,anxious,"elders,anxious",medium,high
+family responsibility pathi nalla news kelvi pattu happy ah irukken,"I heard good news about my family responsibility, I'm happy about it",family,happy,"family,happy",low,high
+"appa nalla nadandhudhu, veetla ellarum happy ah irukanga","My father went really well, everyone at home is happy",family,happy,"appa,happy",low,high
+"gratitude nalla nadakumaa nu doubt varudhu, anxious ah irukku","I keep doubting whether my gratitude will go well, I'm anxious",family,anxious,"gratitude,anxious",medium,high
+"family bonding pathi yosichaale hands shake aagudhu, romba anxious","My hands shake when I think about my family bonding, I'm really anxious",family,anxious,"family,anxious",high,high
+"marriage pathi venaama kadinama pesinanga, frustration ah irukku","They spoke harshly about my marriage for no reason, it's frustrating",family,angry,"marriage,angry",medium,high
+"sister pathi plan pannitu irukom, semma excited ah irukku","We're planning for my sister, I'm so excited",family,excited,"sister,excited",low,high
+family loss nyabagam vandha kannu filaagudhu,"When I remember my family loss, my eyes well up",family,sad,"family,sad",medium,high
+"grief pathi ninacha thalai suthudhu, stress ah irukku","My head spins when I think about my grief, I'm stressed",family,stressed,"grief,stressed",high,high
+festival celebration vishayathula unfair ah treat pannanga nu kobam,"I feel like I was treated unfairly regarding my festival celebration, I'm angry",family,angry,"festival,angry",medium,high
+amma pathi amma solradhukum appa solradhukum match aagala,"What amma says about my mother doesn't match what appa says, I'm confused",family,confused,"amma,confused",medium,high
+"brother la ellarum sera poravanga, wait pannitu excited ah irukken","Everyone is coming together for my brother, I'm waiting excitedly",family,excited,"brother,excited",low,high
+"uncle pathi accept pannitten, calm ah feel panren","I've accepted things about my uncle, I feel calm",family,calm,"uncle,calm",low,high
+gratitude pathi ninachaale mukham la smile varudhu,Just thinking about my gratitude brings a smile to my face,family,happy,"gratitude,happy",low,high
+"elders health pathi accept pannitten, calm ah feel panren","I've accepted things about my elders' health, I feel calm",family,calm,"elders,calm",low,high
+"family illness matter ku parallel ah vera responsibility kooda irukku, stress adhigam","I have other responsibilities along with my family illness, the stress is very high",family,stressed,"family,stressed",high,high
+"grandparents health pathi worry ah irukku, edhavadhu aagidumo nu bayam","I'm worried about my grandparents's health, scared something might happen",family,fear,"grandparents,fear",high,high
+"gratitude innum konjam naal dhaan irukku, romba excited ah irukken","There's only a few days left for my gratitude, I'm really excited",family,excited,"gratitude,excited",low,high
+appa handle panna time illama stress ah irukku,I'm stressed because I don't have time to handle my father,family,stressed,"appa,stressed",high,high
+family trip vishayathula unfair ah treat pannanga nu kobam,"I feel like I was treated unfairly regarding my family trip, I'm angry",family,angry,"family,angry",medium,high
+childhood memories soon solve aagum nu nambaren,I believe my childhood memories will be resolved soon,family,hopeful,"childhood,hopeful",low,high
+"family trip nalla nadakumaa nu doubt varudhu, anxious ah irukku","I keep doubting whether my family trip will go well, I'm anxious",family,anxious,"family,anxious",medium,high
+"childhood memories matter la promise mudika illa, romba irritation","They didn't keep their promise about my childhood memories, it's really irritating",family,angry,"childhood,angry",medium,high
+advice pathi therinjadhum manasu heavy ah aayiduchu,"The moment I heard about my advice, my heart felt heavy",family,sad,"advice,sad",medium,high
+advice vishayam romba stress kudukudhu,Dealing with my advice is giving me a lot of stress,family,stressed,"advice,stressed",high,high
+family bonding pathi ninachaale sad ah aayidudhu,Thinking about my family bonding makes me feel sad,family,sad,"family,sad",medium,high
+emotional support ku sariyaana neram kudukala nu guilt irukku,I feel guilty that I didn't give proper time to my emotional support,family,guilty,"emotional,guilty",medium,high
+daily family conversation pathi amma solradhukum appa solradhukum match aagala,"What amma says about my daily family conversation doesn't match what appa says, I'm confused",family,confused,"daily,confused",medium,high
+encouragement pathi ninachaale mukham la smile varudhu,Just thinking about my encouragement brings a smile to my face,family,happy,"encouragement,happy",low,high
+family care expectation meet panna mudiyala nu guilt irukku,I feel guilty that I couldn't meet my family care's expectations,family,guilty,"family,guilty",medium,high
+"family trust pathi venaama kadinama pesinanga, frustration ah irukku","They spoke harshly about my family trust for no reason, it's frustrating",family,angry,"family,angry",medium,high
+"family illness la ellarum sera poravanga, wait pannitu excited ah irukken","Everyone is coming together for my family illness, I'm waiting excitedly",family,excited,"family,excited",low,high
+"family respect vishayathula konjam tension irundhalum, positive ah dhaan irukken","Even with some tension about my family respect, I'm staying positive",family,hopeful,"family,hopeful",low,high
+financial struggle vishayathula thappa nadandhukiten nu ippo guilt varudhu,I feel guilty now that I behaved wrongly regarding my financial struggle,family,guilty,"financial,guilty",medium,high
+family respect vishayathula edhachum thappu nadandhudumo nu bayam,I'm scared something might go wrong with my family respect,family,fear,"family,fear",high,high
+"family problem nalla nadakumaa nu doubt varudhu, anxious ah irukku","I keep doubting whether my family problem will go well, I'm anxious",family,anxious,"family,anxious",medium,high
+"misunderstanding pathi venaama kadinama pesinanga, frustration ah irukku","They spoke harshly about my misunderstanding for no reason, it's frustrating",family,angry,"misunderstanding,angry",medium,high
+family expectation vishayathula unfair ah treat pannanga nu kobam,"I feel like I was treated unfairly regarding my family expectation, I'm angry",family,angry,"family,angry",medium,high
+"family responsibility ippo kashtama irundhalum, nalladhu nadakum nu nambaren","Even though my family responsibility is tough right now, I believe it will turn out well",family,hopeful,"family,hopeful",low,high
+"marriage ippo kashtama irundhalum, nalladhu nadakum nu nambaren","Even though my marriage is tough right now, I believe it will turn out well",family,hopeful,"marriage,hopeful",low,high
+childhood memories vishayathula thappa nadandhukiten nu ippo guilt varudhu,I feel guilty now that I behaved wrongly regarding my childhood memories,family,guilty,"childhood,guilty",medium,high
+family support nyabagam vandha kannu filaagudhu,"When I remember my family support, my eyes well up",family,sad,"family,sad",medium,high
+"childhood memories nalla nadakala, veetla ellarum sad ah irukanga","My childhood memories didn't go well, everyone at home is sad",family,sad,"childhood,sad",medium,high
+sacrifice la ellarum sera irundhu semma fun ah irundhudhu,Everyone came together for my sacrifice and it was so much fun,family,happy,"sacrifice,happy",low,high
+"encouragement pathi yosichaale hands shake aagudhu, romba anxious","My hands shake when I think about my encouragement, I'm really anxious",family,anxious,"encouragement,anxious",high,high
+family responsibility vishayam romba stress kudukudhu,Dealing with my family responsibility is giving me a lot of stress,family,stressed,"family,stressed",high,high
+family finances pathi enna pannanum nu theriyala,I don't know what to do about my family finances,family,confused,"family,confused",medium,high
+marriage eppadi handle pannanum nu puriyala,I don't understand how to handle my marriage,family,confused,"marriage,confused",medium,high
+"family problem ippo kashtama irundhalum, nalladhu nadakum nu nambaren","Even though my family problem is tough right now, I believe it will turn out well",family,hopeful,"family,hopeful",low,high
+family responsibility decision eduka mudiyama irukken innum,I still can't make a decision about my family responsibility,family,confused,"family,confused",medium,high
+"family illness vishayathula family ellarum different opinion sollranga, confuse ah irukku","Everyone in the family has a different opinion about my family illness, I'm confused",family,confused,"family,confused",medium,high
+family support news eppo varum nu ninachu anxious ah irukken,I feel anxious wondering when news about my family support will come,family,anxious,"family,anxious",medium,high
+family care pathi ninachaale mukham la smile varudhu,Just thinking about my family care brings a smile to my face,family,happy,"family,happy",low,high
+"elders health pathi nenju padhapadhukkudhu, anxious feel panren","My heart races about my elders' health, I feel anxious",family,anxious,"elders,anxious",medium,high
+"family argument pathi nalla news kekka poren nu thonudhu, excited ah irukku",I feel excited thinking I might hear good news about my family argument,family,excited,"family,excited",low,high
+family problem pathi amma solradhukum appa solradhukum match aagala,"What amma says about my family problem doesn't match what appa says, I'm confused",family,confused,"family,confused",medium,high
+"appa pesama edhavadhu decision edutanga, romba kobam varudhu","They made a decision about my father without talking to me, I'm really angry",family,angry,"appa,angry",medium,high
+family care pathi therinjadhum manasu heavy ah aayiduchu,"The moment I heard about my family care, my heart felt heavy",family,sad,"family,sad",medium,high
+"family love la ellarum sera poravanga, wait pannitu excited ah irukken","Everyone is coming together for my family love, I'm waiting excitedly",family,excited,"family,excited",low,high
+"family happiness vishayathula ella pesitten, ipo calm ah irukken","I've talked things through about my family happiness, I feel calm now",family,calm,"family,calm",low,high
+family happiness pathi enna pannanum nu theriyala,I don't know what to do about my family happiness,family,confused,"family,confused",medium,high
+"uncle pathi venaama kadinama pesinanga, frustration ah irukku","They spoke harshly about my uncle for no reason, it's frustrating",family,angry,"uncle,angry",medium,high
+sacrifice decision eduka mudiyama irukken innum,I still can't make a decision about my sacrifice,family,confused,"sacrifice,confused",medium,high
+"kids upbringing pesama edhavadhu decision edutanga, romba kobam varudhu","They made a decision about my kids' upbringing without talking to me, I'm really angry",family,angry,"kids,angry",medium,high
+family bonding vishayathula edhachum thappu nadandhudumo nu bayam,I'm scared something might go wrong with my family bonding,family,fear,"family,fear",high,high
+wedding function vishayathula unfair ah treat pannanga nu kobam,"I feel like I was treated unfairly regarding my wedding function, I'm angry",family,angry,"wedding,angry",medium,high
+marriage vishayathula pressure adhigama irukku,There's a lot of pressure regarding my marriage,family,stressed,"marriage,stressed",medium,high
+"misunderstanding nalla nadandhudhu, veetla ellarum happy ah irukanga","My misunderstanding went really well, everyone at home is happy",family,happy,"misunderstanding,happy",low,high
+"home pathi venaama kadinama pesinanga, frustration ah irukku","They spoke harshly about my home for no reason, it's frustrating",family,angry,"home,angry",medium,high
+"family trip vishayathula ella pesitten, ipo calm ah irukken","I've talked things through about my family trip, I feel calm now",family,calm,"family,calm",low,high
+grandparents pathi pesa yarum illama thaniya feel panren,"There's no one to talk to about my grandparents, I feel alone",family,lonely,"grandparents,lonely",medium,high
+"elders health pathi yosichaale hands shake aagudhu, romba anxious","My hands shake when I think about my elders' health, I'm really anxious",family,anxious,"elders,anxious",high,high
+"childhood memories vishayathula yaaraiyum kekkama edhuvum pannitanga, kobam adangala","They did something about my childhood memories without asking anyone, my anger won't settle",family,angry,"childhood,angry",medium,high
+"kids upbringing pathi nenju padhapadhukkudhu, anxious feel panren","My heart races about my kids' upbringing, I feel anxious",family,anxious,"kids,anxious",medium,high
+financial struggle soon solve aagum nu nambaren,I believe my financial struggle will be resolved soon,family,hopeful,"financial,hopeful",low,high
+kids upbringing pathi ninachaale mukham la smile varudhu,Just thinking about my kids' upbringing brings a smile to my face,family,happy,"kids,happy",low,high
+"sister pesama edhavadhu decision edutanga, romba kobam varudhu","They made a decision about my sister without talking to me, I'm really angry",family,angry,"sister,angry",medium,high
+"home pathi accept pannitten, calm ah feel panren","I've accepted things about my home, I feel calm",family,calm,"home,calm",low,high
+"festival celebration vishayam expect panna madhiri nadakala, romba vaguthadhu","My festival celebration didn't turn out as I expected, it really hurt me",family,sad,"festival,sad",medium,high
+marriage dhooram poiten apparam romba lonely ah irukku,"Since I moved away from my marriage, I feel really lonely",family,lonely,"marriage,lonely",medium,high
+"family trip pathi effort pannitu irukken, nalladhu varum nu nambikkai","I'm putting in effort for my family trip, I hope good things will come",family,hopeful,"family,hopeful",low,high
+sacrifice soon solve aagum nu nambaren,I believe my sacrifice will be resolved soon,family,hopeful,"sacrifice,hopeful",low,high
+misunderstanding nalla aagaadho nu bayama irukku,I'm afraid my misunderstanding might not turn out well,family,fear,"misunderstanding,fear",medium,high
+"appa promise panni miss pannitten, romba guilty ah feel panren","I promised something for my father and missed it, I feel really guilty",family,guilty,"appa,guilty",medium,high
+parenting pathi amma solradhukum appa solradhukum match aagala,"What amma says about my parenting doesn't match what appa says, I'm confused",family,confused,"parenting,confused",medium,high
+"family illness ippo kashtama irundhalum, nalladhu nadakum nu nambaren","Even though my family illness is tough right now, I believe it will turn out well",family,hopeful,"family,hopeful",low,high
+"festival celebration ippo kashtama irundhalum, nalladhu nadakum nu nambaren","Even though my festival celebration is tough right now, I believe it will turn out well",family,hopeful,"festival,hopeful",low,high
+elders health vishayathula thappa nadandhukiten nu ippo guilt varudhu,I feel guilty now that I behaved wrongly regarding my elders' health,family,guilty,"elders,guilty",medium,high
+family reunion pathi bad news varumo nu fear ah irukku,I'm scared that bad news might come about my family reunion,family,fear,"family,fear",medium,high
+"family loss solve aagiduchu, ipo manasu peaceful ah irukku","My family loss got resolved, my heart feels peaceful now",family,calm,"family,calm",low,high
+"family care nalla nadakala, veetla ellarum sad ah irukanga","My family care didn't go well, everyone at home is sad",family,sad,"family,sad",medium,high
+"family love pathi ipo tension illa, manasu calm ah irukku","I don't feel tense about my family love anymore, my heart feels calm",family,calm,"family,calm",low,high
+family responsibility vishayathula edhachum thappu nadandhudumo nu bayam,I'm scared something might go wrong with my family responsibility,family,fear,"family,fear",high,high
+"daily family conversation pathi venaama kadinama pesinanga, frustration ah irukku","They spoke harshly about my daily family conversation for no reason, it's frustrating",family,angry,"daily,angry",medium,high
+emotional support news eppo varum nu ninachu anxious ah irukken,I feel anxious wondering when news about my emotional support will come,family,anxious,"emotional,anxious",medium,high
+"family loss promise panni miss pannitten, romba guilty ah feel panren","I promised something for my family loss and missed it, I feel really guilty",family,guilty,"family,guilty",medium,high
+"misunderstanding vishayathula konjam tension irundhalum, positive ah dhaan irukken","Even with some tension about my misunderstanding, I'm staying positive",family,hopeful,"misunderstanding,hopeful",low,high
+"family trust nalla nadakumaa nu doubt varudhu, anxious ah irukku","I keep doubting whether my family trust will go well, I'm anxious",family,anxious,"family,anxious",medium,high
+veetla festival celebration pathi pesa yarum kooda illa,There's no one at home to talk about my festival celebration with,family,lonely,"festival,lonely",low,high
+marriage pathi therinjadhum manasu heavy ah aayiduchu,"The moment I heard about my marriage, my heart felt heavy",family,sad,"marriage,sad",medium,high
+"family responsibility kooda irukkum pozhudhu miss pannuren, ippo thaniya irukken","I miss the time I spent with my family responsibility, now I feel alone",family,lonely,"family,lonely",medium,high
+"family illness pathi yosichaale hands shake aagudhu, romba anxious","My hands shake when I think about my family illness, I'm really anxious",family,anxious,"family,anxious",high,high
+"family expectation pathi plan pannitu irukom, semma excited ah irukku","We're planning for my family expectation, I'm so excited",family,excited,"family,excited",low,high
+family love la ellarum sera irundhu semma fun ah irundhudhu,Everyone came together for my family love and it was so much fun,family,happy,"family,happy",low,high
+"family care pathi nalla news kekka poren nu thonudhu, excited ah irukku",I feel excited thinking I might hear good news about my family care,family,excited,"family,excited",low,high
+misunderstanding illama veedu verumaiya irukku,The house feels empty without my misunderstanding,family,lonely,"misunderstanding,lonely",medium,high
+financial struggle kooda neram selavazhikama irundhadhukku guilt ah irukku,I feel guilty for not spending enough time with my financial struggle,family,guilty,"financial,guilty",medium,high
+"amma pesama edhavadhu decision edutanga, romba kobam varudhu","They made a decision about my mother without talking to me, I'm really angry",family,angry,"amma,angry",medium,high
+"family respect ippo kashtama irundhalum, nalladhu nadakum nu nambaren","Even though my family respect is tough right now, I believe it will turn out well",family,hopeful,"family,hopeful",low,high
+"appa pathi nenju padhapadhukkudhu, anxious feel panren","My heart races about my father, I feel anxious",family,anxious,"appa,anxious",medium,high
+"brother pesama edhavadhu decision edutanga, romba kobam varudhu","They made a decision about my brother without talking to me, I'm really angry",family,angry,"brother,angry",medium,high
+family finances vishayathula thappa nadandhukiten nu ippo guilt varudhu,I feel guilty now that I behaved wrongly regarding my family finances,family,guilty,"family,guilty",medium,high
+"parenting matter ku parallel ah vera responsibility kooda irukku, stress adhigam","I have other responsibilities along with my parenting, the stress is very high",family,stressed,"parenting,stressed",high,high
+family finances la ellarum sera irundhu semma fun ah irundhudhu,Everyone came together for my family finances and it was so much fun,family,happy,"family,happy",low,high
+grief vishayathula pressure adhigama irukku,There's a lot of pressure regarding my grief,family,stressed,"grief,stressed",medium,high
+family trip pathi nalla news kelvi pattu happy ah irukken,"I heard good news about my family trip, I'm happy about it",family,happy,"family,happy",low,high
+family reunion la ellarum sera irundhu semma fun ah irundhudhu,Everyone came together for my family reunion and it was so much fun,family,happy,"family,happy",low,high
+"family respect pesama edhavadhu decision edutanga, romba kobam varudhu","They made a decision about my family respect without talking to me, I'm really angry",family,angry,"family,angry",medium,high
+family support handle panna time illama stress ah irukku,I'm stressed because I don't have time to handle my family support,family,stressed,"family,stressed",high,high
+"sacrifice pathi ninacha thalai suthudhu, stress ah irukku","My head spins when I think about my sacrifice, I'm stressed",family,stressed,"sacrifice,stressed",high,high
+family support vishayathula pressure adhigama irukku,There's a lot of pressure regarding my family support,family,stressed,"family,stressed",medium,high
+family loss time la semma santhosham feel panren,I feel so joyful during my family loss,family,happy,"family,happy",low,high
+financial struggle decision eduka mudiyama irukken innum,I still can't make a decision about my financial struggle,family,confused,"financial,confused",medium,high
+"family expectation pathi over thinking pannitu irukken, sleep kooda varala","I've been overthinking about my family expectation, I can't even sleep",family,anxious,"family,anxious",medium,high
+"parenting vishayathula family ellarum different opinion sollranga, confuse ah irukku","Everyone in the family has a different opinion about my parenting, I'm confused",family,confused,"parenting,confused",medium,high
+elders health pathi ninachaale sad ah aayidudhu,Thinking about my elders' health makes me feel sad,family,sad,"elders,sad",medium,high
+"family support pathi accept pannitten, calm ah feel panren","I've accepted things about my family support, I feel calm",family,calm,"family,calm",low,high
+wedding function pathi yosikkama calm ah irukka try panren,I'm trying to stay calm without overthinking my wedding function,family,calm,"wedding,calm",low,high
+uncle vishayathula pressure adhigama irukku,There's a lot of pressure regarding my uncle,family,stressed,"uncle,stressed",medium,high
+"family support pathi over thinking pannitu irukken, sleep kooda varala","I've been overthinking about my family support, I can't even sleep",family,anxious,"family,anxious",medium,high
+"daily family conversation solve aagiduchu, ipo manasu peaceful ah irukku","My daily family conversation got resolved, my heart feels peaceful now",family,calm,"daily,calm",low,high
+"grandparents nalla nadandhudhu, veetla ellarum happy ah irukanga","My grandparents went really well, everyone at home is happy",family,happy,"grandparents,happy",low,high
+"encouragement promise panni miss pannitten, romba guilty ah feel panren","I promised something for my encouragement and missed it, I feel really guilty",family,guilty,"encouragement,guilty",medium,high
+family illness dhooram poiten apparam romba lonely ah irukku,"Since I moved away from my family illness, I feel really lonely",family,lonely,"family,lonely",medium,high
+uncle la ellarum sera irundhu semma fun ah irundhudhu,Everyone came together for my uncle and it was so much fun,family,happy,"uncle,happy",low,high
+"brother vishayathula ella pesitten, ipo calm ah irukken","I've talked things through about my brother, I feel calm now",family,calm,"brother,calm",low,high
+misunderstanding pathi yosichaale nenju padhapadhukudhu,My heart races with fear whenever I think about my misunderstanding,family,fear,"misunderstanding,fear",medium,high
+"family happiness vishayathula yaaraiyum kekkama edhuvum pannitanga, kobam adangala","They did something about my family happiness without asking anyone, my anger won't settle",family,angry,"family,angry",medium,high
+"family care innum konjam naal dhaan irukku, romba excited ah irukken","There's only a few days left for my family care, I'm really excited",family,excited,"family,excited",low,high
+marriage kooda neram selavazhikama irundhadhukku guilt ah irukku,I feel guilty for not spending enough time with my marriage,family,guilty,"marriage,guilty",medium,high
+"family love arrangements start pannitanga, romba excited ah irukku","They've started the arrangements for my family love, I'm really excited",family,excited,"family,excited",low,high
+"family responsibility health pathi worry ah irukku, edhavadhu aagidumo nu bayam","I'm worried about my family responsibility's health, scared something might happen",family,fear,"family,fear",high,high
+"brother pathi plan pannitu irukom, semma excited ah irukku","We're planning for my brother, I'm so excited",family,excited,"brother,excited",low,high
+"emotional support pathi ipo tension illa, manasu calm ah irukku","I don't feel tense about my emotional support anymore, my heart feels calm",family,calm,"emotional,calm",low,high
+family expectation nyabagam vandha kannu filaagudhu,"When I remember my family expectation, my eyes well up",family,sad,"family,sad",medium,high
+grief soon solve aagum nu nambaren,I believe my grief will be resolved soon,family,hopeful,"grief,hopeful",low,high
+"appa health pathi worry ah irukku, edhavadhu aagidumo nu bayam","I'm worried about my father's health, scared something might happen",family,fear,"appa,fear",high,high
+"sister pathi ipo tension illa, manasu calm ah irukku","I don't feel tense about my sister anymore, my heart feels calm",family,calm,"sister,calm",low,high
+"grandparents pesama edhavadhu decision edutanga, romba kobam varudhu","They made a decision about my grandparents without talking to me, I'm really angry",family,angry,"grandparents,angry",medium,high
+"family respect nalla nadandhudhu, veetla ellarum happy ah irukanga","My family respect went really well, everyone at home is happy",family,happy,"family,happy",low,high
+family argument pathi ninachaale mukham la smile varudhu,Just thinking about my family argument brings a smile to my face,family,happy,"family,happy",low,high
+"emotional support vishayam expect panna madhiri nadakala, romba vaguthadhu","My emotional support didn't turn out as I expected, it really hurt me",family,sad,"emotional,sad",medium,high
+family expectation pathi amma solradhukum appa solradhukum match aagala,"What amma says about my family expectation doesn't match what appa says, I'm confused",family,confused,"family,confused",medium,high
+encouragement news eppo varum nu ninachu anxious ah irukken,I feel anxious wondering when news about my encouragement will come,family,anxious,"encouragement,anxious",medium,high
+"family expectation vishayam expect panna madhiri nadakala, romba vaguthadhu","My family expectation didn't turn out as I expected, it really hurt me",family,sad,"family,sad",medium,high
+kids upbringing pathi amma solradhukum appa solradhukum match aagala,"What amma says about my kids' upbringing doesn't match what appa says, I'm confused",family,confused,"kids,confused",medium,high
+grandparents kooda neram selavazhikama irundhadhukku guilt ah irukku,I feel guilty for not spending enough time with my grandparents,family,guilty,"grandparents,guilty",medium,high
+home pathi pesa yarum illama thaniya feel panren,"There's no one to talk to about my home, I feel alone",family,lonely,"home,lonely",medium,high
+family loss pathi nalla news kelvi pattu happy ah irukken,"I heard good news about my family loss, I'm happy about it",family,happy,"family,happy",low,high
+home pathi enna pannanum nu theriyala,I don't know what to do about my home,family,confused,"home,confused",medium,high
+"family happiness pathi effort pannitu irukken, nalladhu varum nu nambikkai","I'm putting in effort for my family happiness, I hope good things will come",family,hopeful,"family,hopeful",low,high
+appa pathi enna pannanum nu theriyala,I don't know what to do about my father,family,confused,"appa,confused",medium,high
+financial struggle nalla aagaadho nu bayama irukku,I'm afraid my financial struggle might not turn out well,family,fear,"financial,fear",medium,high
+veetla emotional support pathi pesa yarum kooda illa,There's no one at home to talk about my emotional support with,family,lonely,"emotional,lonely",low,high
+"encouragement pathi venaama kadinama pesinanga, frustration ah irukku","They spoke harshly about my encouragement for no reason, it's frustrating",family,angry,"encouragement,angry",medium,high
+"family bonding pathi nenju padhapadhukkudhu, anxious feel panren","My heart races about my family bonding, I feel anxious",family,anxious,"family,anxious",medium,high
+amma illama veedu verumaiya irukku,The house feels empty without my mother,family,lonely,"amma,lonely",medium,high
+"family respect kooda irukkum pozhudhu miss pannuren, ippo thaniya irukken","I miss the time I spent with my family respect, now I feel alone",family,lonely,"family,lonely",medium,high
+family love pathi ninachaale mukham la smile varudhu,Just thinking about my family love brings a smile to my face,family,happy,"family,happy",low,high
+parenting vishayathula thappa nadandhukiten nu ippo guilt varudhu,I feel guilty now that I behaved wrongly regarding my parenting,family,guilty,"parenting,guilty",medium,high
+"festival celebration pathi effort pannitu irukken, nalladhu varum nu nambikkai","I'm putting in effort for my festival celebration, I hope good things will come",family,hopeful,"festival,hopeful",low,high
+"gratitude matter ku parallel ah vera responsibility kooda irukku, stress adhigam","I have other responsibilities along with my gratitude, the stress is very high",family,stressed,"gratitude,stressed",high,high
+sister eppadi handle pannanum nu puriyala,I don't understand how to handle my sister,family,confused,"sister,confused",medium,high
+family support expectation meet panna mudiyala nu guilt irukku,I feel guilty that I couldn't meet my family support's expectations,family,guilty,"family,guilty",medium,high
+"aunty nalla nadakala, veetla ellarum sad ah irukanga","My aunt didn't go well, everyone at home is sad",family,sad,"aunty,sad",medium,high
+brother vishayam romba stress kudukudhu,Dealing with my brother is giving me a lot of stress,family,stressed,"brother,stressed",high,high
+"family reunion pathi nenju padhapadhukkudhu, anxious feel panren","My heart races about my family reunion, I feel anxious",family,anxious,"family,anxious",medium,high
+"childhood memories health pathi worry ah irukku, edhavadhu aagidumo nu bayam","I'm worried about my childhood memories's health, scared something might happen",family,fear,"childhood,fear",high,high
+festival celebration pathi therinjadhum manasu heavy ah aayiduchu,"The moment I heard about my festival celebration, my heart felt heavy",family,sad,"festival,sad",medium,high
+"family illness health pathi worry ah irukku, edhavadhu aagidumo nu bayam","I'm worried about my family illness's health, scared something might happen",family,fear,"family,fear",high,high
+family happiness pathi bad news varumo nu fear ah irukku,I'm scared that bad news might come about my family happiness,family,fear,"family,fear",medium,high
+grandparents handle panna time illama stress ah irukku,I'm stressed because I don't have time to handle my grandparents,family,stressed,"grandparents,stressed",high,high
+family happiness vishayathula edhachum thappu nadandhudumo nu bayam,I'm scared something might go wrong with my family happiness,family,fear,"family,fear",high,high
+family reunion nyabagam vandha kannu filaagudhu,"When I remember my family reunion, my eyes well up",family,sad,"family,sad",medium,high
+"advice la ellarum sera poravanga, wait pannitu excited ah irukken","Everyone is coming together for my advice, I'm waiting excitedly",family,excited,"advice,excited",low,high
+grief time la semma santhosham feel panren,I feel so joyful during my grief,family,happy,"grief,happy",low,high
+"family trust promise panni miss pannitten, romba guilty ah feel panren","I promised something for my family trust and missed it, I feel really guilty",family,guilty,"family,guilty",medium,high
+daily family conversation nyabagam vandha kannu filaagudhu,"When I remember my daily family conversation, my eyes well up",family,sad,"daily,sad",medium,high
+cousins vishayathula pressure adhigama irukku,There's a lot of pressure regarding my cousins,family,stressed,"cousins,stressed",medium,high
+"gratitude pathi accept pannitten, calm ah feel panren","I've accepted things about my gratitude, I feel calm",family,calm,"gratitude,calm",low,high
+"family love nalla nadandhudhu, veetla ellarum happy ah irukanga","My family love went really well, everyone at home is happy",family,happy,"family,happy",low,high
+family trip pathi ninachaale mukham la smile varudhu,Just thinking about my family trip brings a smile to my face,family,happy,"family,happy",low,high
+family happiness news eppo varum nu ninachu anxious ah irukken,I feel anxious wondering when news about my family happiness will come,family,anxious,"family,anxious",medium,high
+family happiness vishayam romba stress kudukudhu,Dealing with my family happiness is giving me a lot of stress,family,stressed,"family,stressed",high,high
+emotional support eppadi handle pannanum nu puriyala,I don't understand how to handle my emotional support,family,confused,"emotional,confused",medium,high
+sacrifice pathi amma solradhukum appa solradhukum match aagala,"What amma says about my sacrifice doesn't match what appa says, I'm confused",family,confused,"sacrifice,confused",medium,high
+parenting handle panna time illama stress ah irukku,I'm stressed because I don't have time to handle my parenting,family,stressed,"parenting,stressed",high,high
+"festival celebration pathi nenju padhapadhukkudhu, anxious feel panren","My heart races about my festival celebration, I feel anxious",family,anxious,"festival,anxious",medium,high
+"sacrifice pathi effort pannitu irukken, nalladhu varum nu nambikkai","I'm putting in effort for my sacrifice, I hope good things will come",family,hopeful,"sacrifice,hopeful",low,high

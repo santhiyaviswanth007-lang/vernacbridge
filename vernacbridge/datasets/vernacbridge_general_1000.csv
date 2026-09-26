@@ -1,0 +1,1001 @@
+tanglish_input,english_output,intent,emotion,keywords,urgency,confidence
+En ex ah miss panren romba,I really miss my ex,relationship,lonely,"ex,lonely",medium,high
+coding assignment mudinjadhukku aprom romba relief ah irukku,After finishing my coding assignment I feel really relieved,education,calm,"coding,calm",low,high
+grandparents visit pathi veetla romba tension irukku,There's a lot of tension at home about grandparents' visit,family,stressed,"grandparents,stressed",medium,high
+"gas leak pathi ippove call pannunga, delay panna koodathu","Please call about gas leak right now, we can't delay",emergency,fear,"gas,fear",high,high
+"Enakku allergic reaction irukku, urgent ah help pannunga","I have severe allergic reaction, please help urgently",emergency,fear,"allergic,fear",high,high
+En habit building pathi self doubt varudhu,I have self doubt about my habit building,motivation,confused,"habit,confused",medium,high
+"En boyfriend kooda long time ah pesave illa, miss aaguthu","I haven't spoken to my boyfriend in a long time, I miss them",relationship,lonely,"boyfriend,lonely",medium,high
+"joint family issue pathi guilt ah irukku, naan help panna mudiyala","I feel guilty about the joint family issue, I couldn't help",family,guilty,"joint,guilty",medium,high
+grandparents visit pathi ninachaale sad ah irukku,Thinking about the grandparents' visit makes me feel sad,family,sad,"grandparents,sad",medium,high
+resignation letter ku decide panna mudiyala innum,I still can't decide about my resignation letter,career,confused,"resignation,confused",medium,high
+relative's dispute ku ellarum koodi irundhadhu romba nalla irundhuchu,Everyone coming together for the relative's dispute felt really nice,family,happy,"relative's,happy",low,high
+exam stress la irundhu recover aaganum nu try panren,I'm trying to recover from exam stress,mental_health,hopeful,"exam,hopeful",medium,high
+rainy weather pathi kelvi pattu romba curious ah irukken,I heard about the rainy weather and I'm really curious,daily_conversation,excited,"rainy,excited",low,high
+En new skill ku consistency maintain panna kastama irukku,It's hard to stay consistent with my new skill,motivation,stressed,"new,stressed",medium,high
+En spouse kitta cheat pannitten nu guilt ah irukku,I feel guilty that I cheated on my spouse,relationship,guilty,"spouse,guilty",high,high
+scholarship form pathi enakku innum confuse ah irukku,I'm still confused about my scholarship form,education,confused,"scholarship,confused",medium,high
+"Appa ku breathing trouble start aayiduchu, hospital ku poganum urgent ah","My father has started having breathing trouble, we need to get to the hospital urgently",emergency,fear,"breathing,fear",high,high
+En habit building ku consistency maintain panna kastama irukku,It's hard to stay consistent with my habit building,motivation,stressed,"habit,stressed",medium,high
+En new skill pathi motivation completely poachu,My motivation for my new skill has completely disappeared,motivation,sad,"new,sad",medium,high
+"severe bleeding nadanthuchu, yaro udanadiya help pannanum","There's been severe bleeding, someone needs to help immediately",emergency,fear,"severe,fear",high,high
+"En fiance propose panniten, yes sonnanga","I proposed to my fiance, and they said yes",relationship,excited,"fiance,excited",low,high
+"En savings goal ku romba tired ah irukken, but continue panren","I'm really tired from my savings goal, but I'll keep going",motivation,stressed,"savings,stressed",medium,high
+Naan en weight loss journey ku romba hard work panren,I'm working really hard towards my weight loss journey,motivation,excited,"weight,excited",low,high
+"En crush propose panniten, yes sonnanga","I proposed to my crush, and they said yes",relationship,excited,"crush,excited",low,high
+"project deadline nalla ah poachu, romba happy ah irukken","My project deadline went well, I'm really happy",career,happy,"project,happy",low,high
+salary negotiation pathi romba nervous ah irukken,I'm really nervous about my salary negotiation,career,fear,"salary,fear",medium,high
+English viva pathi enakku innum confuse ah irukku,I'm still confused about my English viva,education,confused,"English,confused",medium,high
+sister marriage nalla mudiyum nu nambikkai irukku,I have hope that the sister's marriage will turn out well,family,hopeful,"sister,hopeful",low,high
+physics test fail aagiduven nu bayama irukku,I'm scared I might fail my physics test,education,fear,"physics,fear",medium,high
+"rainy weather nalla irundhuchu, mood improve aayiduchu","The rainy weather was nice, my mood improved",daily_conversation,happy,"rainy,happy",low,high
+"En girlfriend propose panniten, yes sonnanga","I proposed to my girlfriend, and they said yes",relationship,excited,"girlfriend,excited",low,high
+En girlfriend kooda trust issues start aayiduchu,Trust issues have started with my girlfriend,relationship,anxious,"girlfriend,anxious",medium,high
+online quiz mudinjadhukku aprom romba relief ah irukku,After finishing my online quiz I feel really relieved,education,calm,"online,calm",low,high
+cricket match pathi kelvi pattu romba curious ah irukken,I heard about the cricket match and I'm really curious,daily_conversation,excited,"cricket,excited",low,high
+semester project pathi yosichaale bayama irukku,Just thinking about my semester project scares me,education,fear,"semester,fear",medium,high
+freelance project ku decide panna mudiyala innum,I still can't decide about my freelance project,career,confused,"freelance,confused",medium,high
+family function pathi enakku bayama irukku,I'm scared about the family function,family,fear,"family,fear",medium,high
+cricket match vechu konjam late aayiduchu,Because of the cricket match I got a bit late,daily_conversation,stressed,"cricket,stressed",low,high
+client meeting kku aprom future pathi confidence vandhuchu,"After the client meeting, I feel confident about the future",career,hopeful,"client,hopeful",low,high
+"festival prep pathi enakku onnume theriyala, sollunga","I don't know anything about the festival preparation, tell me",daily_conversation,confused,"festival,confused",low,high
+freelance project ku romba naala kaathurukken,I've been waiting a long time for this freelance project,career,anxious,"freelance,anxious",medium,high
+"En spouse pathi confuse ah irukken, munnadi poganuma nu","I'm confused about my spouse, whether to move forward or not",relationship,confused,"spouse,confused",medium,high
+En new skill pathi self doubt varudhu,I have self doubt about my new skill,motivation,confused,"new,confused",medium,high
+home loan ku ellarum koodi irundhadhu romba nalla irundhuchu,Everyone coming together for the home loan felt really nice,family,happy,"home,happy",low,high
+"traffic today nalla irundhuchu, mood improve aayiduchu","The traffic today was nice, my mood improved",daily_conversation,happy,"traffic,happy",low,high
+therapy sessions pathi yaridamum solla mudiyala,I can't tell anyone about my therapy sessions,mental_health,lonely,"therapy,lonely",medium,high
+"Appa ku child missing start aayiduchu, hospital ku poganum urgent ah","My father has started having missing child, we need to get to the hospital urgently",emergency,fear,"child,fear",high,high
+layoff rumor ku decide panna mudiyala innum,I still can't decide about my layoff round,career,confused,"layoff,confused",medium,high
+"history record results vandhuchu, expect panna maari varala","The results for my history record came out, not what I expected",education,sad,"history,sad",medium,high
+English viva pathi yosichaale bayama irukku,Just thinking about my English viva scares me,education,fear,"English,fear",medium,high
+"home loan ku ellarum kudi decide pannom, nalla feel aaguthu","We all decided about the home loan together, it feels good",family,calm,"home,calm",low,high
+neighbor's function vechu konjam late aayiduchu,Because of the neighbor's function I got a bit late,daily_conversation,stressed,"neighbor's,stressed",low,high
+"internship offer nalla ah poachu, romba happy ah irukken","My internship offer went well, I'm really happy",career,happy,"internship,happy",low,high
+"En arranged match ennai ignore pannuranga, romba hurt ah irukku","My arranged match has been ignoring me, it really hurts",relationship,lonely,"arranged,lonely",medium,high
+new gadget vechu konjam late aayiduchu,Because of the new gadget I got a bit late,daily_conversation,stressed,"new,stressed",low,high
+"entrance exam ku full ah prepare aayiten, confident ah irukken","I've fully prepared for my entrance exam, I feel confident",education,hopeful,"entrance,hopeful",low,high
+brother's job vishayathula amma appa kooda fight aayiduchu,I had a fight with my parents over the brother's job,family,angry,"brother's,angry",medium,high
+En marathon training pathi self doubt varudhu,I have self doubt about my marathon training,motivation,confused,"marathon,confused",medium,high
+promotion round ku romba naala kaathurukken,I've been waiting a long time for this promotion round,career,anxious,"promotion,anxious",medium,high
+"family trip pathi guilt ah irukku, naan help panna mudiyala","I feel guilty about the family trip, I couldn't help",family,guilty,"family,guilty",medium,high
+"office transfer nalla ah poachu, romba happy ah irukken","My office transfer went well, I'm really happy",career,happy,"office,happy",low,high
+rainy weather vechu weekend full ah busy ah irundhuchu,"Because of the rainy weather, my whole weekend was busy",daily_conversation,calm,"rainy,calm",low,high
+"client meeting pathi guilt ah irukku, better ah panniruka mudiyum","I feel guilty about the client meeting, I could have done it better",career,guilty,"client,guilty",medium,high
+scholarship form pathi yosichaale bayama irukku,Just thinking about my scholarship form scares me,education,fear,"scholarship,fear",medium,high
+job interview pathi romba nervous ah irukken,I'm really nervous about my job interview,career,fear,"job,fear",medium,high
+En startup dream pathi motivation completely poachu,My motivation for my startup dream has completely disappeared,motivation,sad,"startup,sad",medium,high
+"exam stress ku therapy help pannuchu, konjam better ah irukken","Therapy has been helping with my exam stress, I feel a bit better",mental_health,calm,"exam,calm",low,high
+startup idea pathi kettavudan romba stress ah aayiduchu,"The moment I heard about the startup idea, I got really stressed",career,stressed,"startup,stressed",high,high
+"stroke symptoms ku first aid theriyuma yaarukavadhu, urgent ah venum","Does anyone know first aid for stroke symptoms, we need it urgently",emergency,fear,"stroke,fear",high,high
+power cut vechu konjam late aayiduchu,Because of the power cut I got a bit late,daily_conversation,stressed,"power,stressed",low,high
+"freelance project pathi guilt ah irukku, better ah panniruka mudiyum","I feel guilty about the freelance project, I could have done it better",career,guilty,"freelance,guilty",medium,high
+cricket match vechu weekend full ah busy ah irundhuchu,"Because of the cricket match, my whole weekend was busy",daily_conversation,calm,"cricket,calm",low,high
+"grandparents visit ku ellarum kudi decide pannom, nalla feel aaguthu","We all decided about the grandparents' visit together, it feels good",family,calm,"grandparents,calm",low,high
+physics test pathi enakku innum confuse ah irukku,I'm still confused about my physics test,education,confused,"physics,confused",medium,high
+En business plan ku consistency maintain panna kastama irukku,It's hard to stay consistent with my business plan,motivation,stressed,"business,stressed",medium,high
+"maths exam nalla ah mudinjuduchu, romba santhosama irukku","My math exam went really well, I'm very happy",education,happy,"maths,happy",low,high
+semester project fail aagiduven nu bayama irukku,I'm scared I might fail my semester project,education,fear,"semester,fear",medium,high
+"Appa ku chest pain start aayiduchu, hospital ku poganum urgent ah","My father has started having chest pain, we need to get to the hospital urgently",emergency,fear,"chest,fear",high,high
+"client meeting success aachu, romba excited ah irukken","The client meeting was a success, I'm really excited",career,excited,"client,excited",low,high
+house renovation pathi ninachaale sad ah irukku,Thinking about the house renovation makes me feel sad,family,sad,"house,sad",medium,high
+En art practice pathi self doubt varudhu,I have self doubt about my art practice,motivation,confused,"art,confused",medium,high
+"snake bite ku first aid theriyuma yaarukavadhu, urgent ah venum","Does anyone know first aid for snake bite, we need it urgently",emergency,fear,"snake,fear",high,high
+En marathon training ku consistency maintain panna kastama irukku,It's hard to stay consistent with my marathon training,motivation,stressed,"marathon,stressed",medium,high
+"En college friend turned partner pathi confuse ah irukken, munnadi poganuma nu","I'm confused about my close friend turned partner, whether to move forward or not",relationship,confused,"college,confused",medium,high
+lab record pathi enakku innum confuse ah irukku,I'm still confused about my lab record,education,confused,"lab,confused",medium,high
+"team lead role nalla ah poachu, romba happy ah irukken","My team lead role went well, I'm really happy",career,happy,"team,happy",low,high
+"Amma ku allergic reaction vandhuchu, ambulance venum ippove","My mother has severe allergic reaction, we need an ambulance right now",emergency,fear,"allergic,fear",high,high
+"En girlfriend kooda fight aayiduchu, romba sad ah irukku","I had a fight with my girlfriend, I feel really sad",relationship,sad,"girlfriend,sad",medium,high
+"startup idea success aachu, romba excited ah irukken","The startup idea was a success, I'm really excited",career,excited,"startup,excited",low,high
+promotion round kku aprom future pathi confidence vandhuchu,"After the promotion round, I feel confident about the future",career,hopeful,"promotion,hopeful",low,high
+work burnout la irundhu recover aaganum nu try panren,I'm trying to recover from work burnout,mental_health,hopeful,"work,hopeful",medium,high
+"kid's admission pathi guilt ah irukku, naan help panna mudiyala","I feel guilty about the child's school admission, I couldn't help",family,guilty,"kid's,guilty",medium,high
+En startup dream nalla direction la poguthu nu nambikkai irukku,I believe my startup dream is heading in a good direction,motivation,hopeful,"startup,hopeful",low,high
+Naan en language learning ku romba hard work panren,I'm working really hard towards my language learning,motivation,excited,"language,excited",low,high
+En crush kitta cheat pannitten nu guilt ah irukku,I feel guilty that I cheated on my crush,relationship,guilty,"crush,guilty",high,high
+self doubt vechu raathiri thoonga mudiyala,Because of self doubt I can't sleep at night,mental_health,anxious,"self,anxious",medium,high
+"chemistry practical results vandhuchu, expect panna maari varala","The results for my chemistry practical came out, not what I expected",education,sad,"chemistry,sad",medium,high
+new restaurant pathi kelvi pattu romba curious ah irukken,I heard about the new restaurant and I'm really curious,daily_conversation,excited,"new,excited",low,high
+Naan snake bite paathu romba panic aayiduchen,I saw snake bite and I panicked completely,emergency,fear,"snake,fear",high,high
+movie release ku naan innum ready aagala,I'm still not ready for the movie release,daily_conversation,calm,"movie,calm",low,high
+"brother's job pathi guilt ah irukku, naan help panna mudiyala","I feel guilty about the brother's job, I couldn't help",family,guilty,"brother's,guilty",medium,high
+En language learning nalla direction la poguthu nu nambikkai irukku,I believe my language learning is heading in a good direction,motivation,hopeful,"language,hopeful",low,high
+"semester project results vandhuchu, expect panna maari varala","The results for my semester project came out, not what I expected",education,sad,"semester,sad",medium,high
+En marathon training pathi motivation completely poachu,My motivation for my marathon training has completely disappeared,motivation,sad,"marathon,sad",medium,high
+power cut ku naan innum ready aagala,I'm still not ready for the power cut,daily_conversation,calm,"power,calm",low,high
+"En language learning la achievement adaichen, proud ah irukken","I achieved something in my language learning, I feel proud",motivation,happy,"language,happy",low,high
+"En arranged match kooda long time ah pesave illa, miss aaguthu","I haven't spoken to my arranged match in a long time, I miss them",relationship,lonely,"arranged,lonely",medium,high
+En ex kooda trust issues start aayiduchu,Trust issues have started with my ex,relationship,anxious,"ex,anxious",medium,high
+Naan en side hustle ku romba hard work panren,I'm working really hard towards my side hustle,motivation,excited,"side,excited",low,high
+panic attacks vechu raathiri thoonga mudiyala,Because of panic attacks I can't sleep at night,mental_health,anxious,"panic,anxious",medium,high
+social anxiety pathi yaridamum solla mudiyala,I can't tell anyone about my social anxiety,mental_health,lonely,"social,lonely",medium,high
+"house fire nadanthuchu, yaro udanadiya help pannanum","There's been house fire, someone needs to help immediately",emergency,fear,"house,fear",high,high
+sister marriage ku ellarum koodi irundhadhu romba nalla irundhuchu,Everyone coming together for the sister's marriage felt really nice,family,happy,"sister,happy",low,high
+En language learning pathi self doubt varudhu,I have self doubt about my language learning,motivation,confused,"language,confused",medium,high
+family trip pathi enakku bayama irukku,I'm scared about the family trip,family,fear,"family,fear",medium,high
+Naan therapy sessions vachi romba struggle panren,I'm really struggling with therapy sessions,mental_health,stressed,"therapy,stressed",medium,high
+"En fitness goal la oru small win kedaichuchu, romba santhosam","I got a small win in my fitness goal, I'm really happy",motivation,happy,"fitness,happy",low,high
+startup idea pathi romba nervous ah irukken,I'm really nervous about my startup idea,career,fear,"startup,fear",medium,high
+kid's admission nalla mudiyum nu nambikkai irukku,I have hope that the child's school admission will turn out well,family,hopeful,"kid's,hopeful",low,high
+"work burnout konjam kammiya irukku indha vaaram, nalla feel aaguthu","My work burnout has reduced a bit this week, I feel good",mental_health,calm,"work,calm",low,high
+"En startup dream la achievement adaichen, proud ah irukken","I achieved something in my startup dream, I feel proud",motivation,happy,"startup,happy",low,high
+chemistry practical fail aagiduven nu bayama irukku,I'm scared I might fail my chemistry practical,education,fear,"chemistry,fear",medium,high
+En girlfriend kooda future pathi romba worry ah irukken,I'm really worried about the future with my girlfriend,relationship,anxious,"girlfriend,anxious",medium,high
+"road accident nadanthuchu, yaro udanadiya help pannanum","There's been road accident, someone needs to help immediately",emergency,fear,"road,fear",high,high
+"client meeting expect panna maari nadakala, romba sad ah irukken","My client meeting didn't go as I expected, I feel really sad",career,sad,"client,sad",medium,high
+salary negotiation ku decide panna mudiyala innum,I still can't decide about my salary negotiation,career,confused,"salary,confused",medium,high
+power cut vechu weekend full ah busy ah irundhuchu,"Because of the power cut, my whole weekend was busy",daily_conversation,calm,"power,calm",low,high
+"En boyfriend propose panniten, yes sonnanga","I proposed to my boyfriend, and they said yes",relationship,excited,"boyfriend,excited",low,high
+"team lead role pathi guilt ah irukku, better ah panniruka mudiyum","I feel guilty about the team lead role, I could have done it better",career,guilty,"team,guilty",medium,high
+"new restaurant pathi enakku onnume theriyala, sollunga","I don't know anything about the new restaurant, tell me",daily_conversation,confused,"new,confused",low,high
+new gadget vechu weekend full ah busy ah irundhuchu,"Because of the new gadget, my whole weekend was busy",daily_conversation,calm,"new,calm",low,high
+low self esteem la irundhu recover aaganum nu try panren,I'm trying to recover from low self esteem,mental_health,hopeful,"low,hopeful",medium,high
+"job application nalla ah poachu, romba happy ah irukken","My job application went well, I'm really happy",career,happy,"job,happy",low,high
+movie release pathi ellarum pesikittu irundhanga,Everyone was talking about the movie release,daily_conversation,calm,"movie,calm",low,high
+"Kozhandhaiku gas leak irukku, doctor ku koodithama poganum","My child has gas leak, we need to see a doctor immediately",emergency,fear,"gas,fear",high,high
+"En long distance partner propose panniten, yes sonnanga","I proposed to my long distance partner, and they said yes",relationship,excited,"long,excited",low,high
+home loan pathi ninachaale sad ah irukku,Thinking about the home loan makes me feel sad,family,sad,"home,sad",medium,high
+loneliness pathi yaridamum solla mudiyala,I can't tell anyone about my loneliness,mental_health,lonely,"loneliness,lonely",medium,high
+grocery shopping ku naan innum ready aagala,I'm still not ready for the grocery shopping,daily_conversation,calm,"grocery,calm",low,high
+En weight loss journey ku innum konjam push venum,I need a bit more push for my weight loss journey,motivation,stressed,"weight,stressed",medium,high
+history record pathi enakku innum confuse ah irukku,I'm still confused about my history record,education,confused,"history,confused",medium,high
+home loan pathi veetla romba tension irukku,There's a lot of tension at home about home loan,family,stressed,"home,stressed",medium,high
+Naan allergic reaction paathu romba panic aayiduchen,I saw severe allergic reaction and I panicked completely,emergency,fear,"allergic,fear",high,high
+elders decision vishayathula amma appa kooda fight aayiduchu,I had a fight with my parents over the elders' decision,family,angry,"elders,angry",medium,high
+Naan sleepless nights vachi romba struggle panren,I'm really struggling with sleepless nights,mental_health,stressed,"sleepless,stressed",medium,high
+Naan en new skill ku romba hard work panren,I'm working really hard towards my new skill,motivation,excited,"new,excited",low,high
+brother's job pathi ninachaale sad ah irukku,Thinking about the brother's job makes me feel sad,family,sad,"brother's,sad",medium,high
+"En startup dream la fail aayiten, but thirumba try panren","I failed at my startup dream, but I'll try again",motivation,hopeful,"startup,hopeful",medium,high
+"parents expectation nalla ah nadanthuchu, ellarum happy ah irundhom","The parents' expectations went well, everyone was happy",family,happy,"parents,happy",low,high
+"En weight loss journey la achievement adaichen, proud ah irukken","I achieved something in my weight loss journey, I feel proud",motivation,happy,"weight,happy",low,high
+family trip vishayam pathi konjam confuse ah irukken,I'm a bit confused about the family trip,family,confused,"family,confused",medium,high
+kid's admission pathi ninachaale sad ah irukku,Thinking about the child's school admission makes me feel sad,family,sad,"kid's,sad",medium,high
+"festival prep pathi enna nenaikra, poganuma","What do you think about the festival preparation, shall we go",daily_conversation,calm,"festival,calm",low,high
+"panic attacks pathi guilt ah irukku, control panna mudiyala","I feel guilty about panic attacks, I can't seem to control it",mental_health,guilty,"panic,guilty",medium,high
+sleepless nights vandha udane body react panna start aaguthu,"The moment sleepless nights hits, my body starts reacting",mental_health,anxious,"sleepless,anxious",high,high
+En boyfriend kooda trust issues start aayiduchu,Trust issues have started with my boyfriend,relationship,anxious,"boyfriend,anxious",medium,high
+"resignation letter expect panna maari nadakala, romba sad ah irukken","My resignation letter didn't go as I expected, I feel really sad",career,sad,"resignation,sad",medium,high
+Naan panic attacks vachi romba struggle panren,I'm really struggling with panic attacks,mental_health,stressed,"panic,stressed",medium,high
+"Appa ku allergic reaction start aayiduchu, hospital ku poganum urgent ah","My father has started having severe allergic reaction, we need to get to the hospital urgently",emergency,fear,"allergic,fear",high,high
+"resignation letter success aachu, romba excited ah irukken","The resignation letter was a success, I'm really excited",career,excited,"resignation,excited",low,high
+En ex kitta cheat pannitten nu guilt ah irukku,I feel guilty that I cheated on my ex,relationship,guilty,"ex,guilty",high,high
+"Appa ku severe bleeding start aayiduchu, hospital ku poganum urgent ah","My father has started having severe bleeding, we need to get to the hospital urgently",emergency,fear,"severe,fear",high,high
+grocery shopping vechu konjam late aayiduchu,Because of the grocery shopping I got a bit late,daily_conversation,stressed,"grocery,stressed",low,high
+"En fitness goal ku romba tired ah irukken, but continue panren","I'm really tired from my fitness goal, but I'll keep going",motivation,stressed,"fitness,stressed",medium,high
+job interview ku romba naala kaathurukken,I've been waiting a long time for this job interview,career,anxious,"job,anxious",medium,high
+online delivery vechu konjam late aayiduchu,Because of the online delivery I got a bit late,daily_conversation,stressed,"online,stressed",low,high
+En marathon training nalla direction la poguthu nu nambikkai irukku,I believe my marathon training is heading in a good direction,motivation,hopeful,"marathon,hopeful",low,high
+"En arranged match pathi confuse ah irukken, munnadi poganuma nu","I'm confused about my arranged match, whether to move forward or not",relationship,confused,"arranged,confused",medium,high
+"weekend plan pathi enna nenaikra, poganuma","What do you think about the weekend plan, shall we go",daily_conversation,calm,"weekend,calm",low,high
+parents expectation pathi ninachaale sad ah irukku,Thinking about the parents' expectations makes me feel sad,family,sad,"parents,sad",medium,high
+"Enakku road accident irukku, urgent ah help pannunga","I have road accident, please help urgently",emergency,fear,"road,fear",high,high
+"parents expectation pathi guilt ah irukku, naan help panna mudiyala","I feel guilty about the parents' expectations, I couldn't help",family,guilty,"parents,guilty",medium,high
+group presentation ku prepare panna time podave illa,I haven't had time to prepare for my group presentation,education,stressed,"group,stressed",high,high
+"Enakku severe bleeding irukku, urgent ah help pannunga","I have severe bleeding, please help urgently",emergency,fear,"severe,fear",high,high
+"En competitive exam prep la achievement adaichen, proud ah irukken","I achieved something in my competitive exam preparation, I feel proud",motivation,happy,"competitive,happy",low,high
+"Appa ku stroke symptoms start aayiduchu, hospital ku poganum urgent ah","My father has started having stroke symptoms, we need to get to the hospital urgently",emergency,fear,"stroke,fear",high,high
+En long distance partner kooda romba nalla irukken ippo,I'm doing really well with my long distance partner now,relationship,happy,"long,happy",low,high
+guilt over a mistake vechu raathiri thoonga mudiyala,Because of guilt over a mistake I can't sleep at night,mental_health,anxious,"guilt,anxious",medium,high
+power cut romba super ah irundhuchu,The power cut was really great,daily_conversation,excited,"power,excited",low,high
+En savings goal pathi motivation completely poachu,My motivation for my savings goal has completely disappeared,motivation,sad,"savings,sad",medium,high
+En long distance partner ah miss panren romba,I really miss my long distance partner,relationship,lonely,"long,lonely",medium,high
+office transfer ku romba naala kaathurukken,I've been waiting a long time for this office transfer,career,anxious,"office,anxious",medium,high
+"relative's dispute ku ellarum kudi decide pannom, nalla feel aaguthu","We all decided about the relative's dispute together, it feels good",family,calm,"relative's,calm",low,high
+amma health vishayam pathi konjam confuse ah irukken,I'm a bit confused about the mother's health,family,confused,"amma,confused",medium,high
+cousin's wedding pathi veetla romba tension irukku,There's a lot of tension at home about cousin's wedding,family,stressed,"cousin's,stressed",medium,high
+internal assessment pathi enakku innum confuse ah irukku,I'm still confused about my internal assessment,education,confused,"internal,confused",medium,high
+entrance exam fail aagiduven nu bayama irukku,I'm scared I might fail my entrance exam,education,fear,"entrance,fear",medium,high
+En new skill nalla direction la poguthu nu nambikkai irukku,I believe my new skill is heading in a good direction,motivation,hopeful,"new,hopeful",low,high
+"exam stress pathi guilt ah irukku, control panna mudiyala","I feel guilty about exam stress, I can't seem to control it",mental_health,guilty,"exam,guilty",medium,high
+grief la irundhu recover aaganum nu try panren,I'm trying to recover from grief,mental_health,hopeful,"grief,hopeful",medium,high
+"En ex ennai ignore pannuranga, romba hurt ah irukku","My ex has been ignoring me, it really hurts",relationship,lonely,"ex,lonely",medium,high
+"Kozhandhaiku stroke symptoms irukku, doctor ku koodithama poganum","My child has stroke symptoms, we need to see a doctor immediately",emergency,fear,"stroke,fear",high,high
+"appa retirement pathi guilt ah irukku, naan help panna mudiyala","I feel guilty about the father's retirement, I couldn't help",family,guilty,"appa,guilty",medium,high
+"promotion round success aachu, romba excited ah irukken","The promotion round was a success, I'm really excited",career,excited,"promotion,excited",low,high
+chemistry practical pathi enakku innum confuse ah irukku,I'm still confused about my chemistry practical,education,confused,"chemistry,confused",medium,high
+grandparents visit vishayathula amma appa kooda fight aayiduchu,I had a fight with my parents over the grandparents' visit,family,angry,"grandparents,angry",medium,high
+elders decision nalla mudiyum nu nambikkai irukku,I have hope that the elders' decision will turn out well,family,hopeful,"elders,hopeful",low,high
+"overthinking konjam kammiya irukku indha vaaram, nalla feel aaguthu","My overthinking has reduced a bit this week, I feel good",mental_health,calm,"overthinking,calm",low,high
+"online delivery miss pannitten, adhu kastama irundhuchu","I missed the online delivery, that was disappointing",daily_conversation,sad,"online,sad",low,high
+"En partner kooda breakup aayiduchu, heartbroken ah irukken","I broke up with my partner, I'm heartbroken",relationship,sad,"partner,sad",medium,high
+Naan English viva pathi romba tension ah irukken,I'm really tense about my English viva,education,stressed,"English,stressed",medium,high
+internship offer pathi ippozhum romba angry ah irukken,I'm still really angry about the internship offer,career,angry,"internship,angry",medium,high
+"cousin's wedding pathi guilt ah irukku, naan help panna mudiyala","I feel guilty about the cousin's wedding, I couldn't help",family,guilty,"cousin's,guilty",medium,high
+new gadget pathi kelvi pattu romba curious ah irukken,I heard about the new gadget and I'm really curious,daily_conversation,excited,"new,excited",low,high
+promotion round pathi kettavudan romba stress ah aayiduchu,"The moment I heard about the promotion round, I got really stressed",career,stressed,"promotion,stressed",high,high
+"online quiz la nalla marks vangiten, romba proud ah irukken","I scored well in my online quiz, I'm really proud",education,happy,"online,happy",low,high
+project deadline pathi romba nervous ah irukken,I'm really nervous about my project deadline,career,fear,"project,fear",medium,high
+loneliness vandha udane body react panna start aaguthu,"The moment loneliness hits, my body starts reacting",mental_health,anxious,"loneliness,anxious",high,high
+online quiz fail aagiduven nu bayama irukku,I'm scared I might fail my online quiz,education,fear,"online,fear",medium,high
+"guilt over a mistake konjam kammiya irukku indha vaaram, nalla feel aaguthu","My guilt over a mistake has reduced a bit this week, I feel good",mental_health,calm,"guilt,calm",low,high
+lab record mudinjadhukku aprom romba relief ah irukku,After finishing my lab record I feel really relieved,education,calm,"lab,calm",low,high
+appa retirement vishayam pathi konjam confuse ah irukken,I'm a bit confused about the father's retirement,family,confused,"appa,confused",medium,high
+Naan severe bleeding paathu romba panic aayiduchen,I saw severe bleeding and I panicked completely,emergency,fear,"severe,fear",high,high
+parents expectation vishayathula amma appa kooda fight aayiduchu,I had a fight with my parents over the parents' expectations,family,angry,"parents,angry",medium,high
+En startup dream pathi self doubt varudhu,I have self doubt about my startup dream,motivation,confused,"startup,confused",medium,high
+"En spouse propose panniten, yes sonnanga","I proposed to my spouse, and they said yes",relationship,excited,"spouse,excited",low,high
+sleepless nights vechu raathiri thoonga mudiyala,Because of sleepless nights I can't sleep at night,mental_health,anxious,"sleepless,anxious",medium,high
+family function ku ellarum koodi irundhadhu romba nalla irundhuchu,Everyone coming together for the family function felt really nice,family,happy,"family,happy",low,high
+relative's dispute vishayam pathi konjam confuse ah irukken,I'm a bit confused about the relative's dispute,family,confused,"relative's,confused",medium,high
+"high fever ku first aid theriyuma yaarukavadhu, urgent ah venum","Does anyone know first aid for high fever, we need it urgently",emergency,fear,"high,fear",high,high
+"En side hustle la achievement adaichen, proud ah irukken","I achieved something in my side hustle, I feel proud",motivation,happy,"side,happy",low,high
+Naan loneliness vachi romba struggle panren,I'm really struggling with loneliness,mental_health,stressed,"loneliness,stressed",medium,high
+En startup dream ku innum konjam push venum,I need a bit more push for my startup dream,motivation,stressed,"startup,stressed",medium,high
+"En ex kooda fight aayiduchu, romba sad ah irukku","I had a fight with my ex, I feel really sad",relationship,sad,"ex,sad",medium,high
+scholarship form mudinjadhukku aprom romba relief ah irukku,After finishing my scholarship form I feel really relieved,education,calm,"scholarship,calm",low,high
+En partner kitta cheat pannitten nu guilt ah irukku,I feel guilty that I cheated on my partner,relationship,guilty,"partner,guilty",high,high
+"online quiz results vandhuchu, expect panna maari varala","The results for my online quiz came out, not what I expected",education,sad,"online,sad",medium,high
+chemistry practical mudinjadhukku aprom romba relief ah irukku,After finishing my chemistry practical I feel really relieved,education,calm,"chemistry,calm",low,high
+En business plan pathi self doubt varudhu,I have self doubt about my business plan,motivation,confused,"business,confused",medium,high
+"model exam nalla ah mudinjuduchu, romba santhosama irukku","My model exam went really well, I'm very happy",education,happy,"model,happy",low,high
+"appa retirement nalla ah nadanthuchu, ellarum happy ah irundhom","The father's retirement went well, everyone was happy",family,happy,"appa,happy",low,high
+"history record nalla ah mudinjuduchu, romba santhosama irukku","My history record went really well, I'm very happy",education,happy,"history,happy",low,high
+"sister marriage ku ellarum kudi decide pannom, nalla feel aaguthu","We all decided about the sister's marriage together, it feels good",family,calm,"sister,calm",low,high
+"breathing trouble nadanthuchu, yaro udanadiya help pannanum","There's been breathing trouble, someone needs to help immediately",emergency,fear,"breathing,fear",high,high
+"maths exam ku full ah prepare aayiten, confident ah irukken","I've fully prepared for my math exam, I feel confident",education,hopeful,"maths,hopeful",low,high
+kid's admission vishayathula amma appa kooda fight aayiduchu,I had a fight with my parents over the child's school admission,family,angry,"kid's,angry",medium,high
+"En savings goal la fail aayiten, but thirumba try panren","I failed at my savings goal, but I'll try again",motivation,hopeful,"savings,hopeful",medium,high
+elders decision pathi ninachaale sad ah irukku,Thinking about the elders' decision makes me feel sad,family,sad,"elders,sad",medium,high
+movie release romba super ah irundhuchu,The movie release was really great,daily_conversation,excited,"movie,excited",low,high
+resignation letter pathi kettavudan romba stress ah aayiduchu,"The moment I heard about the resignation letter, I got really stressed",career,stressed,"resignation,stressed",high,high
+"online delivery pathi enakku onnume theriyala, sollunga","I don't know anything about the online delivery, tell me",daily_conversation,confused,"online,confused",low,high
+En new skill ku innum konjam push venum,I need a bit more push for my new skill,motivation,stressed,"new,stressed",medium,high
+self doubt pathi yaridamum solla mudiyala,I can't tell anyone about my self doubt,mental_health,lonely,"self,lonely",medium,high
+"physics test la nalla marks vangiten, romba proud ah irukken","I scored well in my physics test, I'm really proud",education,happy,"physics,happy",low,high
+"En spouse kooda breakup aayiduchu, heartbroken ah irukken","I broke up with my spouse, I'm heartbroken",relationship,sad,"spouse,sad",medium,high
+"snake bite nadanthuchu, yaro udanadiya help pannanum","There's been snake bite, someone needs to help immediately",emergency,fear,"snake,fear",high,high
+"kid's admission ku ellarum kudi decide pannom, nalla feel aaguthu","We all decided about the child's school admission together, it feels good",family,calm,"kid's,calm",low,high
+parents expectation pathi veetla romba tension irukku,There's a lot of tension at home about parents' expectations,family,stressed,"parents,stressed",medium,high
+higher studies plan ku decide panna mudiyala innum,I still can't decide about my plan for higher studies,career,confused,"higher,confused",medium,high
+internal assessment fail aagiduven nu bayama irukku,I'm scared I might fail my internal assessment,education,fear,"internal,fear",medium,high
+"resignation letter nalla ah poachu, romba happy ah irukken","My resignation letter went well, I'm really happy",career,happy,"resignation,happy",low,high
+"maths exam results vandhuchu, expect panna maari varala","The results for my math exam came out, not what I expected",education,sad,"maths,sad",medium,high
+En weight loss journey pathi motivation completely poachu,My motivation for my weight loss journey has completely disappeared,motivation,sad,"weight,sad",medium,high
+Naan chemistry practical pathi romba tension ah irukken,I'm really tense about my chemistry practical,education,stressed,"chemistry,stressed",medium,high
+project deadline pathi kettavudan romba stress ah aayiduchu,"The moment I heard about the project deadline, I got really stressed",career,stressed,"project,stressed",high,high
+model exam mudinjadhukku aprom romba relief ah irukku,After finishing my model exam I feel really relieved,education,calm,"model,calm",low,high
+amma health pathi enakku bayama irukku,I'm scared about the mother's health,family,fear,"amma,fear",medium,high
+En fitness goal pathi motivation completely poachu,My motivation for my fitness goal has completely disappeared,motivation,sad,"fitness,sad",medium,high
+layoff rumor kku aprom future pathi confidence vandhuchu,"After the layoff round, I feel confident about the future",career,hopeful,"layoff,hopeful",low,high
+"En business plan ku romba tired ah irukken, but continue panren","I'm really tired from my business plan, but I'll keep going",motivation,stressed,"business,stressed",medium,high
+family trip nalla mudiyum nu nambikkai irukku,I have hope that the family trip will turn out well,family,hopeful,"family,hopeful",low,high
+job application ku decide panna mudiyala innum,I still can't decide about my job application,career,confused,"job,confused",medium,high
+festival prep pathi ellarum pesikittu irundhanga,Everyone was talking about the festival preparation,daily_conversation,calm,"festival,calm",low,high
+En side hustle pathi self doubt varudhu,I have self doubt about my side hustle,motivation,confused,"side,confused",medium,high
+"En partner pathi family ku pudikala, romba tension irukku","My family doesn't like my partner, there's a lot of tension",relationship,stressed,"partner,stressed",medium,high
+"En crush kooda fight aayiduchu, romba sad ah irukku","I had a fight with my crush, I feel really sad",relationship,sad,"crush,sad",medium,high
+grandparents visit ku ellarum koodi irundhadhu romba nalla irundhuchu,Everyone coming together for the grandparents' visit felt really nice,family,happy,"grandparents,happy",low,high
+Naan gas leak paathu romba panic aayiduchen,I saw gas leak and I panicked completely,emergency,fear,"gas,fear",high,high
+job application pathi ippozhum romba angry ah irukken,I'm still really angry about the job application,career,angry,"job,angry",medium,high
+"En new skill ku romba tired ah irukken, but continue panren","I'm really tired from my new skill, but I'll keep going",motivation,stressed,"new,stressed",medium,high
+traffic today vechu weekend full ah busy ah irundhuchu,"Because of the traffic today, my whole weekend was busy",daily_conversation,calm,"traffic,calm",low,high
+En marathon training ku innum konjam push venum,I need a bit more push for my marathon training,motivation,stressed,"marathon,stressed",medium,high
+En crush kooda future pathi romba worry ah irukken,I'm really worried about the future with my crush,relationship,anxious,"crush,anxious",medium,high
+"salary negotiation nalla ah poachu, romba happy ah irukken","My salary negotiation went well, I'm really happy",career,happy,"salary,happy",low,high
+physics test pathi yosichaale bayama irukku,Just thinking about my physics test scares me,education,fear,"physics,fear",medium,high
+"En spouse kooda fight aayiduchu, romba sad ah irukku","I had a fight with my spouse, I feel really sad",relationship,sad,"spouse,sad",medium,high
+"En habit building la oru small win kedaichuchu, romba santhosam","I got a small win in my habit building, I'm really happy",motivation,happy,"habit,happy",low,high
+"job application pathi guilt ah irukku, better ah panniruka mudiyum","I feel guilty about the job application, I could have done it better",career,guilty,"job,guilty",medium,high
+"entrance exam results vandhuchu, expect panna maari varala","The results for my entrance exam came out, not what I expected",education,sad,"entrance,sad",medium,high
+En spouse ah miss panren romba,I really miss my spouse,relationship,lonely,"spouse,lonely",medium,high
+promotion round ku decide panna mudiyala innum,I still can't decide about my promotion round,career,confused,"promotion,confused",medium,high
+"Kozhandhaiku electric shock irukku, doctor ku koodithama poganum","My child has electric shock, we need to see a doctor immediately",emergency,fear,"electric,fear",high,high
+En crush kooda trust issues start aayiduchu,Trust issues have started with my crush,relationship,anxious,"crush,anxious",medium,high
+brother's job pathi veetla romba tension irukku,There's a lot of tension at home about brother's job,family,stressed,"brother's,stressed",medium,high
+online delivery vechu weekend full ah busy ah irundhuchu,"Because of the online delivery, my whole weekend was busy",daily_conversation,calm,"online,calm",low,high
+relative's dispute pathi ninachaale sad ah irukku,Thinking about the relative's dispute makes me feel sad,family,sad,"relative's,sad",medium,high
+En fitness goal pathi self doubt varudhu,I have self doubt about my fitness goal,motivation,confused,"fitness,confused",medium,high
+"office transfer pathi guilt ah irukku, better ah panniruka mudiyum","I feel guilty about the office transfer, I could have done it better",career,guilty,"office,guilty",medium,high
+"home loan nalla ah nadanthuchu, ellarum happy ah irundhom","The home loan went well, everyone was happy",family,happy,"home,happy",low,high
+"higher studies plan pathi guilt ah irukku, better ah panniruka mudiyum","I feel guilty about the plan for higher studies, I could have done it better",career,guilty,"higher,guilty",medium,high
+social anxiety vandha udane body react panna start aaguthu,"The moment social anxiety hits, my body starts reacting",mental_health,anxious,"social,anxious",high,high
+"allergic reaction pathi ippove call pannunga, delay panna koodathu","Please call about severe allergic reaction right now, we can't delay",emergency,fear,"allergic,fear",high,high
+"amma health nalla ah nadanthuchu, ellarum happy ah irundhom","The mother's health went well, everyone was happy",family,happy,"amma,happy",low,high
+"Kozhandhaiku allergic reaction irukku, doctor ku koodithama poganum","My child has severe allergic reaction, we need to see a doctor immediately",emergency,fear,"allergic,fear",high,high
+client meeting pathi romba nervous ah irukken,I'm really nervous about my client meeting,career,fear,"client,fear",medium,high
+"En arranged match kooda fight aayiduchu, romba sad ah irukku","I had a fight with my arranged match, I feel really sad",relationship,sad,"arranged,sad",medium,high
+"En business plan la fail aayiten, but thirumba try panren","I failed at my business plan, but I'll try again",motivation,hopeful,"business,hopeful",medium,high
+kid's admission vishayam pathi konjam confuse ah irukken,I'm a bit confused about the child's school admission,family,confused,"kid's,confused",medium,high
+"house renovation ku ellarum kudi decide pannom, nalla feel aaguthu","We all decided about the house renovation together, it feels good",family,calm,"house,calm",low,high
+Naan physics test pathi romba tension ah irukken,I'm really tense about my physics test,education,stressed,"physics,stressed",medium,high
+"startup idea pathi guilt ah irukku, better ah panniruka mudiyum","I feel guilty about the startup idea, I could have done it better",career,guilty,"startup,guilty",medium,high
+"resignation letter pathi guilt ah irukku, better ah panniruka mudiyum","I feel guilty about the resignation letter, I could have done it better",career,guilty,"resignation,guilty",medium,high
+joint family issue pathi veetla romba tension irukku,There's a lot of tension at home about joint family issue,family,stressed,"joint,stressed",medium,high
+"En long distance partner pathi confuse ah irukken, munnadi poganuma nu","I'm confused about my long distance partner, whether to move forward or not",relationship,confused,"long,confused",medium,high
+"semester project nalla ah mudinjuduchu, romba santhosama irukku","My semester project went really well, I'm very happy",education,happy,"semester,happy",low,high
+"En girlfriend pathi family ku pudikala, romba tension irukku","My family doesn't like my girlfriend, there's a lot of tension",relationship,stressed,"girlfriend,stressed",medium,high
+parents expectation ku ellarum koodi irundhadhu romba nalla irundhuchu,Everyone coming together for the parents' expectations felt really nice,family,happy,"parents,happy",low,high
+higher studies plan ku romba naala kaathurukken,I've been waiting a long time for this plan for higher studies,career,anxious,"higher,anxious",medium,high
+"En marathon training ku romba tired ah irukken, but continue panren","I'm really tired from my marathon training, but I'll keep going",motivation,stressed,"marathon,stressed",medium,high
+"En art practice la oru small win kedaichuchu, romba santhosam","I got a small win in my art practice, I'm really happy",motivation,happy,"art,happy",low,high
+"En girlfriend ennai ignore pannuranga, romba hurt ah irukku","My girlfriend has been ignoring me, it really hurts",relationship,lonely,"girlfriend,lonely",medium,high
+"cricket match pathi enakku onnume theriyala, sollunga","I don't know anything about the cricket match, tell me",daily_conversation,confused,"cricket,confused",low,high
+Naan en marathon training ku romba hard work panren,I'm working really hard towards my marathon training,motivation,excited,"marathon,excited",low,high
+lab record fail aagiduven nu bayama irukku,I'm scared I might fail my lab record,education,fear,"lab,fear",medium,high
+"power cut miss pannitten, adhu kastama irundhuchu","I missed the power cut, that was disappointing",daily_conversation,sad,"power,sad",low,high
+En fitness goal ku innum konjam push venum,I need a bit more push for my fitness goal,motivation,stressed,"fitness,stressed",medium,high
+festival prep vechu weekend full ah busy ah irundhuchu,"Because of the festival preparation, my whole weekend was busy",daily_conversation,calm,"festival,calm",low,high
+festival prep vechu konjam late aayiduchu,Because of the festival preparation I got a bit late,daily_conversation,stressed,"festival,stressed",low,high
+"coding assignment nalla ah mudinjuduchu, romba santhosama irukku","My coding assignment went really well, I'm very happy",education,happy,"coding,happy",low,high
+Naan work burnout vachi romba struggle panren,I'm really struggling with work burnout,mental_health,stressed,"work,stressed",medium,high
+En spouse kooda romba nalla irukken ippo,I'm doing really well with my spouse now,relationship,happy,"spouse,happy",low,high
+family trip vishayathula amma appa kooda fight aayiduchu,I had a fight with my parents over the family trip,family,angry,"family,angry",medium,high
+internal assessment mudinjadhukku aprom romba relief ah irukku,After finishing my internal assessment I feel really relieved,education,calm,"internal,calm",low,high
+"Amma ku high fever vandhuchu, ambulance venum ippove","My mother has high fever, we need an ambulance right now",emergency,fear,"high,fear",high,high
+relative's dispute nalla mudiyum nu nambikkai irukku,I have hope that the relative's dispute will turn out well,family,hopeful,"relative's,hopeful",low,high
+festival prep pathi kelvi pattu romba curious ah irukken,I heard about the festival preparation and I'm really curious,daily_conversation,excited,"festival,excited",low,high
+movie release vechu konjam late aayiduchu,Because of the movie release I got a bit late,daily_conversation,stressed,"movie,stressed",low,high
+Naan online quiz pathi romba tension ah irukken,I'm really tense about my online quiz,education,stressed,"online,stressed",medium,high
+"En new skill la achievement adaichen, proud ah irukken","I achieved something in my new skill, I feel proud",motivation,happy,"new,happy",low,high
+sister marriage pathi veetla romba tension irukku,There's a lot of tension at home about sister's marriage,family,stressed,"sister,stressed",medium,high
+"traffic today pathi enna nenaikra, poganuma","What do you think about the traffic today, shall we go",daily_conversation,calm,"traffic,calm",low,high
+grocery shopping pathi kelvi pattu romba curious ah irukken,I heard about the grocery shopping and I'm really curious,daily_conversation,excited,"grocery,excited",low,high
+"Amma ku severe bleeding vandhuchu, ambulance venum ippove","My mother has severe bleeding, we need an ambulance right now",emergency,fear,"severe,fear",high,high
+"sister marriage pathi guilt ah irukku, naan help panna mudiyala","I feel guilty about the sister's marriage, I couldn't help",family,guilty,"sister,guilty",medium,high
+model exam pathi enakku innum confuse ah irukku,I'm still confused about my model exam,education,confused,"model,confused",medium,high
+internal assessment ku prepare panna time podave illa,I haven't had time to prepare for my internal assessment,education,stressed,"internal,stressed",high,high
+"grocery shopping pathi enna nenaikra, poganuma","What do you think about the grocery shopping, shall we go",daily_conversation,calm,"grocery,calm",low,high
+"cousin's wedding nalla ah nadanthuchu, ellarum happy ah irundhom","The cousin's wedding went well, everyone was happy",family,happy,"cousin's,happy",low,high
+work burnout pathi yaridamum solla mudiyala,I can't tell anyone about my work burnout,mental_health,lonely,"work,lonely",medium,high
+"Kozhandhaiku child missing irukku, doctor ku koodithama poganum","My child has missing child, we need to see a doctor immediately",emergency,fear,"child,fear",high,high
+"new restaurant pathi enna nenaikra, poganuma","What do you think about the new restaurant, shall we go",daily_conversation,calm,"new,calm",low,high
+"social anxiety pathi guilt ah irukku, control panna mudiyala","I feel guilty about social anxiety, I can't seem to control it",mental_health,guilty,"social,guilty",medium,high
+"internship offer success aachu, romba excited ah irukken","The internship offer was a success, I'm really excited",career,excited,"internship,excited",low,high
+appa retirement vishayathula amma appa kooda fight aayiduchu,I had a fight with my parents over the father's retirement,family,angry,"appa,angry",medium,high
+parents expectation nalla mudiyum nu nambikkai irukku,I have hope that the parents' expectations will turn out well,family,hopeful,"parents,hopeful",low,high
+performance review ku decide panna mudiyala innum,I still can't decide about my performance review,career,confused,"performance,confused",medium,high
+amma health pathi ninachaale sad ah irukku,Thinking about the mother's health makes me feel sad,family,sad,"amma,sad",medium,high
+freelance project pathi ippozhum romba angry ah irukken,I'm still really angry about the freelance project,career,angry,"freelance,angry",medium,high
+En competitive exam prep pathi motivation completely poachu,My motivation for my competitive exam preparation has completely disappeared,motivation,sad,"competitive,sad",medium,high
+joint family issue ku ellarum koodi irundhadhu romba nalla irundhuchu,Everyone coming together for the joint family issue felt really nice,family,happy,"joint,happy",low,high
+"cricket match miss pannitten, adhu kastama irundhuchu","I missed the cricket match, that was disappointing",daily_conversation,sad,"cricket,sad",low,high
+history record fail aagiduven nu bayama irukku,I'm scared I might fail my history record,education,fear,"history,fear",medium,high
+"En college friend turned partner kooda fight aayiduchu, romba sad ah irukku","I had a fight with my close friend turned partner, I feel really sad",relationship,sad,"college,sad",medium,high
+En savings goal ku consistency maintain panna kastama irukku,It's hard to stay consistent with my savings goal,motivation,stressed,"savings,stressed",medium,high
+"panic attacks konjam kammiya irukku indha vaaram, nalla feel aaguthu","My panic attacks has reduced a bit this week, I feel good",mental_health,calm,"panic,calm",low,high
+"En habit building la fail aayiten, but thirumba try panren","I failed at my habit building, but I'll try again",motivation,hopeful,"habit,hopeful",medium,high
+"En spouse ennai ignore pannuranga, romba hurt ah irukku","My spouse has been ignoring me, it really hurts",relationship,lonely,"spouse,lonely",medium,high
+job application ku romba naala kaathurukken,I've been waiting a long time for this job application,career,anxious,"job,anxious",medium,high
+"layoff rumor expect panna maari nadakala, romba sad ah irukken","My layoff round didn't go as I expected, I feel really sad",career,sad,"layoff,sad",medium,high
+house renovation pathi enakku bayama irukku,I'm scared about the house renovation,family,fear,"house,fear",medium,high
+Naan group presentation pathi romba tension ah irukken,I'm really tense about my group presentation,education,stressed,"group,stressed",medium,high
+"gas leak nadanthuchu, yaro udanadiya help pannanum","There's been gas leak, someone needs to help immediately",emergency,fear,"gas,fear",high,high
+Naan child missing paathu romba panic aayiduchen,I saw missing child and I panicked completely,emergency,fear,"child,fear",high,high
+"English viva results vandhuchu, expect panna maari varala","The results for my English viva came out, not what I expected",education,sad,"English,sad",medium,high
+"En art practice ku romba tired ah irukken, but continue panren","I'm really tired from my art practice, but I'll keep going",motivation,stressed,"art,stressed",medium,high
+"social anxiety konjam kammiya irukku indha vaaram, nalla feel aaguthu","My social anxiety has reduced a bit this week, I feel good",mental_health,calm,"social,calm",low,high
+"relative's dispute nalla ah nadanthuchu, ellarum happy ah irundhom","The relative's dispute went well, everyone was happy",family,happy,"relative's,happy",low,high
+"cousin's wedding ku ellarum kudi decide pannom, nalla feel aaguthu","We all decided about the cousin's wedding together, it feels good",family,calm,"cousin's,calm",low,high
+"model exam results vandhuchu, expect panna maari varala","The results for my model exam came out, not what I expected",education,sad,"model,sad",medium,high
+"En crush kooda long time ah pesave illa, miss aaguthu","I haven't spoken to my crush in a long time, I miss them",relationship,lonely,"crush,lonely",medium,high
+grocery shopping romba super ah irundhuchu,The grocery shopping was really great,daily_conversation,excited,"grocery,excited",low,high
+En habit building nalla direction la poguthu nu nambikkai irukku,I believe my habit building is heading in a good direction,motivation,hopeful,"habit,hopeful",low,high
+"joint family issue ku ellarum kudi decide pannom, nalla feel aaguthu","We all decided about the joint family issue together, it feels good",family,calm,"joint,calm",low,high
+low self esteem vandha udane body react panna start aaguthu,"The moment low self esteem hits, my body starts reacting",mental_health,anxious,"low,anxious",high,high
+"new restaurant nalla irundhuchu, mood improve aayiduchu","The new restaurant was nice, my mood improved",daily_conversation,happy,"new,happy",low,high
+startup idea kku aprom future pathi confidence vandhuchu,"After the startup idea, I feel confident about the future",career,hopeful,"startup,hopeful",low,high
+"child missing ku first aid theriyuma yaarukavadhu, urgent ah venum","Does anyone know first aid for missing child, we need it urgently",emergency,fear,"child,fear",high,high
+project deadline ku decide panna mudiyala innum,I still can't decide about my project deadline,career,confused,"project,confused",medium,high
+online delivery romba super ah irundhuchu,The online delivery was really great,daily_conversation,excited,"online,excited",low,high
+"semester project la nalla marks vangiten, romba proud ah irukken","I scored well in my semester project, I'm really proud",education,happy,"semester,happy",low,high
+En fiance ah miss panren romba,I really miss my fiance,relationship,lonely,"fiance,lonely",medium,high
+"cricket match pathi enna nenaikra, poganuma","What do you think about the cricket match, shall we go",daily_conversation,calm,"cricket,calm",low,high
+"model exam ku full ah prepare aayiten, confident ah irukken","I've fully prepared for my model exam, I feel confident",education,hopeful,"model,hopeful",low,high
+chemistry practical pathi yosichaale bayama irukku,Just thinking about my chemistry practical scares me,education,fear,"chemistry,fear",medium,high
+En fiance kooda romba nalla irukken ippo,I'm doing really well with my fiance now,relationship,happy,"fiance,happy",low,high
+"En competitive exam prep ku romba tired ah irukken, but continue panren","I'm really tired from my competitive exam preparation, but I'll keep going",motivation,stressed,"competitive,stressed",medium,high
+"thesis submission nalla ah mudinjuduchu, romba santhosama irukku","My thesis submission went really well, I'm very happy",education,happy,"thesis,happy",low,high
+"scholarship form ku full ah prepare aayiten, confident ah irukken","I've fully prepared for my scholarship form, I feel confident",education,hopeful,"scholarship,hopeful",low,high
+rainy weather pathi ellarum pesikittu irundhanga,Everyone was talking about the rainy weather,daily_conversation,calm,"rainy,calm",low,high
+"low self esteem pathi guilt ah irukku, control panna mudiyala","I feel guilty about low self esteem, I can't seem to control it",mental_health,guilty,"low,guilty",medium,high
+Naan model exam pathi romba tension ah irukken,I'm really tense about my model exam,education,stressed,"model,stressed",medium,high
+cousin's wedding pathi ninachaale sad ah irukku,Thinking about the cousin's wedding makes me feel sad,family,sad,"cousin's,sad",medium,high
+"coding assignment la nalla marks vangiten, romba proud ah irukken","I scored well in my coding assignment, I'm really proud",education,happy,"coding,happy",low,high
+"promotion round nalla ah poachu, romba happy ah irukken","My promotion round went well, I'm really happy",career,happy,"promotion,happy",low,high
+appa retirement nalla mudiyum nu nambikkai irukku,I have hope that the father's retirement will turn out well,family,hopeful,"appa,hopeful",low,high
+sister marriage pathi ninachaale sad ah irukku,Thinking about the sister's marriage makes me feel sad,family,sad,"sister,sad",medium,high
+"elders decision pathi guilt ah irukku, naan help panna mudiyala","I feel guilty about the elders' decision, I couldn't help",family,guilty,"elders,guilty",medium,high
+layoff rumor pathi kettavudan romba stress ah aayiduchu,"The moment I heard about the layoff round, I got really stressed",career,stressed,"layoff,stressed",high,high
+"online quiz ku full ah prepare aayiten, confident ah irukken","I've fully prepared for my online quiz, I feel confident",education,hopeful,"online,hopeful",low,high
+coding assignment pathi yosichaale bayama irukku,Just thinking about my coding assignment scares me,education,fear,"coding,fear",medium,high
+"En ex pathi family ku pudikala, romba tension irukku","My family doesn't like my ex, there's a lot of tension",relationship,stressed,"ex,stressed",medium,high
+entrance exam pathi enakku innum confuse ah irukku,I'm still confused about my entrance exam,education,confused,"entrance,confused",medium,high
+"house renovation pathi guilt ah irukku, naan help panna mudiyala","I feel guilty about the house renovation, I couldn't help",family,guilty,"house,guilty",medium,high
+"En spouse kooda long time ah pesave illa, miss aaguthu","I haven't spoken to my spouse in a long time, I miss them",relationship,lonely,"spouse,lonely",medium,high
+Naan en habit building ku romba hard work panren,I'm working really hard towards my habit building,motivation,excited,"habit,excited",low,high
+"En weight loss journey la fail aayiten, but thirumba try panren","I failed at my weight loss journey, but I'll try again",motivation,hopeful,"weight,hopeful",medium,high
+"family function ku ellarum kudi decide pannom, nalla feel aaguthu","We all decided about the family function together, it feels good",family,calm,"family,calm",low,high
+"power cut pathi enna nenaikra, poganuma","What do you think about the power cut, shall we go",daily_conversation,calm,"power,calm",low,high
+team lead role pathi ippozhum romba angry ah irukken,I'm still really angry about the team lead role,career,angry,"team,angry",medium,high
+work burnout vandha udane body react panna start aaguthu,"The moment work burnout hits, my body starts reacting",mental_health,anxious,"work,anxious",high,high
+performance review kku aprom future pathi confidence vandhuchu,"After the performance review, I feel confident about the future",career,hopeful,"performance,hopeful",low,high
+"brother's job ku ellarum kudi decide pannom, nalla feel aaguthu","We all decided about the brother's job together, it feels good",family,calm,"brother's,calm",low,high
+En partner kooda romba nalla irukken ippo,I'm doing really well with my partner now,relationship,happy,"partner,happy",low,high
+work burnout vechu raathiri thoonga mudiyala,Because of work burnout I can't sleep at night,mental_health,anxious,"work,anxious",medium,high
+En partner ah miss panren romba,I really miss my partner,relationship,lonely,"partner,lonely",medium,high
+En college friend turned partner kitta cheat pannitten nu guilt ah irukku,I feel guilty that I cheated on my close friend turned partner,relationship,guilty,"college,guilty",high,high
+"thesis submission la nalla marks vangiten, romba proud ah irukken","I scored well in my thesis submission, I'm really proud",education,happy,"thesis,happy",low,high
+"Enakku child missing irukku, urgent ah help pannunga","I have missing child, please help urgently",emergency,fear,"child,fear",high,high
+"job interview expect panna maari nadakala, romba sad ah irukken","My job interview didn't go as I expected, I feel really sad",career,sad,"job,sad",medium,high
+"En boyfriend kooda fight aayiduchu, romba sad ah irukku","I had a fight with my boyfriend, I feel really sad",relationship,sad,"boyfriend,sad",medium,high
+freelance project pathi romba nervous ah irukken,I'm really nervous about my freelance project,career,fear,"freelance,fear",medium,high
+salary negotiation ku romba naala kaathurukken,I've been waiting a long time for this salary negotiation,career,anxious,"salary,anxious",medium,high
+job interview kku aprom future pathi confidence vandhuchu,"After the job interview, I feel confident about the future",career,hopeful,"job,hopeful",low,high
+"En startup dream ku romba tired ah irukken, but continue panren","I'm really tired from my startup dream, but I'll keep going",motivation,stressed,"startup,stressed",medium,high
+En long distance partner kitta cheat pannitten nu guilt ah irukku,I feel guilty that I cheated on my long distance partner,relationship,guilty,"long,guilty",high,high
+therapy sessions vandha udane body react panna start aaguthu,"The moment therapy sessions hits, my body starts reacting",mental_health,anxious,"therapy,anxious",high,high
+cousin's wedding vishayathula amma appa kooda fight aayiduchu,I had a fight with my parents over the cousin's wedding,family,angry,"cousin's,angry",medium,high
+"Amma ku road accident vandhuchu, ambulance venum ippove","My mother has road accident, we need an ambulance right now",emergency,fear,"road,fear",high,high
+"stroke symptoms pathi ippove call pannunga, delay panna koodathu","Please call about stroke symptoms right now, we can't delay",emergency,fear,"stroke,fear",high,high
+En girlfriend kooda romba nalla irukken ippo,I'm doing really well with my girlfriend now,relationship,happy,"girlfriend,happy",low,high
+En long distance partner kooda trust issues start aayiduchu,Trust issues have started with my long distance partner,relationship,anxious,"long,anxious",medium,high
+"En ex kooda long time ah pesave illa, miss aaguthu","I haven't spoken to my ex in a long time, I miss them",relationship,lonely,"ex,lonely",medium,high
+online delivery ku naan innum ready aagala,I'm still not ready for the online delivery,daily_conversation,calm,"online,calm",low,high
+En arranged match ah miss panren romba,I really miss my arranged match,relationship,lonely,"arranged,lonely",medium,high
+"stroke symptoms nadanthuchu, yaro udanadiya help pannanum","There's been stroke symptoms, someone needs to help immediately",emergency,fear,"stroke,fear",high,high
+"grandparents visit pathi guilt ah irukku, naan help panna mudiyala","I feel guilty about the grandparents' visit, I couldn't help",family,guilty,"grandparents,guilty",medium,high
+salary negotiation pathi ippozhum romba angry ah irukken,I'm still really angry about the salary negotiation,career,angry,"salary,angry",medium,high
+"loneliness ku therapy help pannuchu, konjam better ah irukken","Therapy has been helping with my loneliness, I feel a bit better",mental_health,calm,"loneliness,calm",low,high
+neighbor's function pathi kelvi pattu romba curious ah irukken,I heard about the neighbor's function and I'm really curious,daily_conversation,excited,"neighbor's,excited",low,high
+guilt over a mistake vandha udane body react panna start aaguthu,"The moment guilt over a mistake hits, my body starts reacting",mental_health,anxious,"guilt,anxious",high,high
+"En spouse pathi family ku pudikala, romba tension irukku","My family doesn't like my spouse, there's a lot of tension",relationship,stressed,"spouse,stressed",medium,high
+"internship offer pathi guilt ah irukku, better ah panniruka mudiyum","I feel guilty about the internship offer, I could have done it better",career,guilty,"internship,guilty",medium,high
+job interview pathi kettavudan romba stress ah aayiduchu,"The moment I heard about the job interview, I got really stressed",career,stressed,"job,stressed",high,high
+En girlfriend kitta cheat pannitten nu guilt ah irukku,I feel guilty that I cheated on my girlfriend,relationship,guilty,"girlfriend,guilty",high,high
+history record pathi yosichaale bayama irukku,Just thinking about my history record scares me,education,fear,"history,fear",medium,high
+joint family issue pathi ninachaale sad ah irukku,Thinking about the joint family issue makes me feel sad,family,sad,"joint,sad",medium,high
+brother's job ku ellarum koodi irundhadhu romba nalla irundhuchu,Everyone coming together for the brother's job felt really nice,family,happy,"brother's,happy",low,high
+"En partner pathi confuse ah irukken, munnadi poganuma nu","I'm confused about my partner, whether to move forward or not",relationship,confused,"partner,confused",medium,high
+"new gadget pathi enna nenaikra, poganuma","What do you think about the new gadget, shall we go",daily_conversation,calm,"new,calm",low,high
+"therapy sessions konjam kammiya irukku indha vaaram, nalla feel aaguthu","My therapy sessions has reduced a bit this week, I feel good",mental_health,calm,"therapy,calm",low,high
+"sleepless nights ku therapy help pannuchu, konjam better ah irukken","Therapy has been helping with my sleepless nights, I feel a bit better",mental_health,calm,"sleepless,calm",low,high
+"En ex propose panniten, yes sonnanga","I proposed to my ex, and they said yes",relationship,excited,"ex,excited",low,high
+Naan overthinking vachi romba struggle panren,I'm really struggling with overthinking,mental_health,stressed,"overthinking,stressed",medium,high
+client meeting pathi ippozhum romba angry ah irukken,I'm still really angry about the client meeting,career,angry,"client,angry",medium,high
+"Enakku breathing trouble irukku, urgent ah help pannunga","I have breathing trouble, please help urgently",emergency,fear,"breathing,fear",high,high
+family function vishayathula amma appa kooda fight aayiduchu,I had a fight with my parents over the family function,family,angry,"family,angry",medium,high
+house renovation nalla mudiyum nu nambikkai irukku,I have hope that the house renovation will turn out well,family,hopeful,"house,hopeful",low,high
+"allergic reaction ku first aid theriyuma yaarukavadhu, urgent ah venum","Does anyone know first aid for severe allergic reaction, we need it urgently",emergency,fear,"allergic,fear",high,high
+home loan vishayam pathi konjam confuse ah irukken,I'm a bit confused about the home loan,family,confused,"home,confused",medium,high
+"Appa ku electric shock start aayiduchu, hospital ku poganum urgent ah","My father has started having electric shock, we need to get to the hospital urgently",emergency,fear,"electric,fear",high,high
+"higher studies plan expect panna maari nadakala, romba sad ah irukken","My plan for higher studies didn't go as I expected, I feel really sad",career,sad,"higher,sad",medium,high
+therapy sessions la irundhu recover aaganum nu try panren,I'm trying to recover from therapy sessions,mental_health,hopeful,"therapy,hopeful",medium,high
+layoff rumor pathi ippozhum romba angry ah irukken,I'm still really angry about the layoff round,career,angry,"layoff,angry",medium,high
+neighbor's function ku naan innum ready aagala,I'm still not ready for the neighbor's function,daily_conversation,calm,"neighbor's,calm",low,high
+"En partner kooda fight aayiduchu, romba sad ah irukku","I had a fight with my partner, I feel really sad",relationship,sad,"partner,sad",medium,high
+Naan grief vachi romba struggle panren,I'm really struggling with grief,mental_health,stressed,"grief,stressed",medium,high
+chemistry practical ku prepare panna time podave illa,I haven't had time to prepare for my chemistry practical,education,stressed,"chemistry,stressed",high,high
+"En long distance partner kooda long time ah pesave illa, miss aaguthu","I haven't spoken to my long distance partner in a long time, I miss them",relationship,lonely,"long,lonely",medium,high
+"group presentation la nalla marks vangiten, romba proud ah irukken","I scored well in my group presentation, I'm really proud",education,happy,"group,happy",low,high
+"startup idea expect panna maari nadakala, romba sad ah irukken","My startup idea didn't go as I expected, I feel really sad",career,sad,"startup,sad",medium,high
+"En girlfriend kooda long time ah pesave illa, miss aaguthu","I haven't spoken to my girlfriend in a long time, I miss them",relationship,lonely,"girlfriend,lonely",medium,high
+resignation letter ku romba naala kaathurukken,I've been waiting a long time for this resignation letter,career,anxious,"resignation,anxious",medium,high
+En crush ah miss panren romba,I really miss my crush,relationship,lonely,"crush,lonely",medium,high
+"layoff rumor nalla ah poachu, romba happy ah irukken","My layoff round went well, I'm really happy",career,happy,"layoff,happy",low,high
+appa retirement pathi veetla romba tension irukku,There's a lot of tension at home about father's retirement,family,stressed,"appa,stressed",medium,high
+grief pathi yaridamum solla mudiyala,I can't tell anyone about my grief,mental_health,lonely,"grief,lonely",medium,high
+performance review pathi romba nervous ah irukken,I'm really nervous about my performance review,career,fear,"performance,fear",medium,high
+parents expectation pathi enakku bayama irukku,I'm scared about the parents' expectations,family,fear,"parents,fear",medium,high
+traffic today pathi kelvi pattu romba curious ah irukken,I heard about the traffic today and I'm really curious,daily_conversation,excited,"traffic,excited",low,high
+promotion round pathi ippozhum romba angry ah irukken,I'm still really angry about the promotion round,career,angry,"promotion,angry",medium,high
+En savings goal nalla direction la poguthu nu nambikkai irukku,I believe my savings goal is heading in a good direction,motivation,hopeful,"savings,hopeful",low,high
+"festival prep nalla irundhuchu, mood improve aayiduchu","The festival preparation was nice, my mood improved",daily_conversation,happy,"festival,happy",low,high
+"chest pain ku first aid theriyuma yaarukavadhu, urgent ah venum","Does anyone know first aid for chest pain, we need it urgently",emergency,fear,"chest,fear",high,high
+"neighbor's function miss pannitten, adhu kastama irundhuchu","I missed the neighbor's function, that was disappointing",daily_conversation,sad,"neighbor's,sad",low,high
+En competitive exam prep ku consistency maintain panna kastama irukku,It's hard to stay consistent with my competitive exam preparation,motivation,stressed,"competitive,stressed",medium,high
+startup idea ku romba naala kaathurukken,I've been waiting a long time for this startup idea,career,anxious,"startup,anxious",medium,high
+"group presentation nalla ah mudinjuduchu, romba santhosama irukku","My group presentation went really well, I'm very happy",education,happy,"group,happy",low,high
+"En college friend turned partner pathi family ku pudikala, romba tension irukku","My family doesn't like my close friend turned partner, there's a lot of tension",relationship,stressed,"college,stressed",medium,high
+elders decision ku ellarum koodi irundhadhu romba nalla irundhuchu,Everyone coming together for the elders' decision felt really nice,family,happy,"elders,happy",low,high
+En savings goal ku innum konjam push venum,I need a bit more push for my savings goal,motivation,stressed,"savings,stressed",medium,high
+"physics test results vandhuchu, expect panna maari varala","The results for my physics test came out, not what I expected",education,sad,"physics,sad",medium,high
+"En partner ennai ignore pannuranga, romba hurt ah irukku","My partner has been ignoring me, it really hurts",relationship,lonely,"partner,lonely",medium,high
+rainy weather romba super ah irundhuchu,The rainy weather was really great,daily_conversation,excited,"rainy,excited",low,high
+"Kozhandhaiku house fire irukku, doctor ku koodithama poganum","My child has house fire, we need to see a doctor immediately",emergency,fear,"house,fear",high,high
+"joint family issue nalla ah nadanthuchu, ellarum happy ah irundhom","The joint family issue went well, everyone was happy",family,happy,"joint,happy",low,high
+weekend plan romba super ah irundhuchu,The weekend plan was really great,daily_conversation,excited,"weekend,excited",low,high
+"En ex kooda breakup aayiduchu, heartbroken ah irukken","I broke up with my ex, I'm heartbroken",relationship,sad,"ex,sad",medium,high
+layoff rumor pathi romba nervous ah irukken,I'm really nervous about my layoff round,career,fear,"layoff,fear",medium,high
+sister marriage vishayam pathi konjam confuse ah irukken,I'm a bit confused about the sister's marriage,family,confused,"sister,confused",medium,high
+"promotion round pathi guilt ah irukku, better ah panniruka mudiyum","I feel guilty about the promotion round, I could have done it better",career,guilty,"promotion,guilty",medium,high
+"work burnout ku therapy help pannuchu, konjam better ah irukken","Therapy has been helping with my work burnout, I feel a bit better",mental_health,calm,"work,calm",low,high
+"family trip ku ellarum kudi decide pannom, nalla feel aaguthu","We all decided about the family trip together, it feels good",family,calm,"family,calm",low,high
+"En crush kooda breakup aayiduchu, heartbroken ah irukken","I broke up with my crush, I'm heartbroken",relationship,sad,"crush,sad",medium,high
+"semester project ku full ah prepare aayiten, confident ah irukken","I've fully prepared for my semester project, I feel confident",education,hopeful,"semester,hopeful",low,high
+elders decision pathi enakku bayama irukku,I'm scared about the elders' decision,family,fear,"elders,fear",medium,high
+Naan breathing trouble paathu romba panic aayiduchen,I saw breathing trouble and I panicked completely,emergency,fear,"breathing,fear",high,high
+"weekend plan nalla irundhuchu, mood improve aayiduchu","The weekend plan was nice, my mood improved",daily_conversation,happy,"weekend,happy",low,high
+"En fiance ennai ignore pannuranga, romba hurt ah irukku","My fiance has been ignoring me, it really hurts",relationship,lonely,"fiance,lonely",medium,high
+group presentation fail aagiduven nu bayama irukku,I'm scared I might fail my group presentation,education,fear,"group,fear",medium,high
+brother's job nalla mudiyum nu nambikkai irukku,I have hope that the brother's job will turn out well,family,hopeful,"brother's,hopeful",low,high
+physics test ku prepare panna time podave illa,I haven't had time to prepare for my physics test,education,stressed,"physics,stressed",high,high
+self doubt vandha udane body react panna start aaguthu,"The moment self doubt hits, my body starts reacting",mental_health,anxious,"self,anxious",high,high
+"work burnout pathi guilt ah irukku, control panna mudiyala","I feel guilty about work burnout, I can't seem to control it",mental_health,guilty,"work,guilty",medium,high
+appa retirement pathi enakku bayama irukku,I'm scared about the father's retirement,family,fear,"appa,fear",medium,high
+grandparents visit vishayam pathi konjam confuse ah irukken,I'm a bit confused about the grandparents' visit,family,confused,"grandparents,confused",medium,high
+"En boyfriend kooda breakup aayiduchu, heartbroken ah irukken","I broke up with my boyfriend, I'm heartbroken",relationship,sad,"boyfriend,sad",medium,high
+salary negotiation kku aprom future pathi confidence vandhuchu,"After the salary negotiation, I feel confident about the future",career,hopeful,"salary,hopeful",low,high
+team lead role ku romba naala kaathurukken,I've been waiting a long time for this team lead role,career,anxious,"team,anxious",medium,high
+En partner kooda future pathi romba worry ah irukken,I'm really worried about the future with my partner,relationship,anxious,"partner,anxious",medium,high
+semester project mudinjadhukku aprom romba relief ah irukku,After finishing my semester project I feel really relieved,education,calm,"semester,calm",low,high
+"family trip nalla ah nadanthuchu, ellarum happy ah irundhom","The family trip went well, everyone was happy",family,happy,"family,happy",low,high
+Naan scholarship form pathi romba tension ah irukken,I'm really tense about my scholarship form,education,stressed,"scholarship,stressed",medium,high
+"Enakku gas leak irukku, urgent ah help pannunga","I have gas leak, please help urgently",emergency,fear,"gas,fear",high,high
+"Kozhandhaiku chest pain irukku, doctor ku koodithama poganum","My child has chest pain, we need to see a doctor immediately",emergency,fear,"chest,fear",high,high
+weekend plan pathi ellarum pesikittu irundhanga,Everyone was talking about the weekend plan,daily_conversation,calm,"weekend,calm",low,high
+"kid's admission nalla ah nadanthuchu, ellarum happy ah irundhom","The child's school admission went well, everyone was happy",family,happy,"kid's,happy",low,high
+family function pathi veetla romba tension irukku,There's a lot of tension at home about family function,family,stressed,"family,stressed",medium,high
+client meeting pathi kettavudan romba stress ah aayiduchu,"The moment I heard about the client meeting, I got really stressed",career,stressed,"client,stressed",high,high
+self doubt la irundhu recover aaganum nu try panren,I'm trying to recover from self doubt,mental_health,hopeful,"self,hopeful",medium,high
+kid's admission pathi enakku bayama irukku,I'm scared about the child's school admission,family,fear,"kid's,fear",medium,high
+"client meeting nalla ah poachu, romba happy ah irukken","My client meeting went well, I'm really happy",career,happy,"client,happy",low,high
+"sleepless nights konjam kammiya irukku indha vaaram, nalla feel aaguthu","My sleepless nights has reduced a bit this week, I feel good",mental_health,calm,"sleepless,calm",low,high
+"Appa ku road accident start aayiduchu, hospital ku poganum urgent ah","My father has started having road accident, we need to get to the hospital urgently",emergency,fear,"road,fear",high,high
+"En art practice la fail aayiten, but thirumba try panren","I failed at my art practice, but I'll try again",motivation,hopeful,"art,hopeful",medium,high
+"En side hustle la oru small win kedaichuchu, romba santhosam","I got a small win in my side hustle, I'm really happy",motivation,happy,"side,happy",low,high
+new restaurant vechu konjam late aayiduchu,Because of the new restaurant I got a bit late,daily_conversation,stressed,"new,stressed",low,high
+"thesis submission ku full ah prepare aayiten, confident ah irukken","I've fully prepared for my thesis submission, I feel confident",education,hopeful,"thesis,hopeful",low,high
+"En side hustle ku romba tired ah irukken, but continue panren","I'm really tired from my side hustle, but I'll keep going",motivation,stressed,"side,stressed",medium,high
+"En fitness goal la fail aayiten, but thirumba try panren","I failed at my fitness goal, but I'll try again",motivation,hopeful,"fitness,hopeful",medium,high
+"home loan pathi guilt ah irukku, naan help panna mudiyala","I feel guilty about the home loan, I couldn't help",family,guilty,"home,guilty",medium,high
+therapy sessions vechu raathiri thoonga mudiyala,Because of therapy sessions I can't sleep at night,mental_health,anxious,"therapy,anxious",medium,high
+exam stress vandha udane body react panna start aaguthu,"The moment exam stress hits, my body starts reacting",mental_health,anxious,"exam,anxious",high,high
+"appa retirement ku ellarum kudi decide pannom, nalla feel aaguthu","We all decided about the father's retirement together, it feels good",family,calm,"appa,calm",low,high
+coding assignment ku prepare panna time podave illa,I haven't had time to prepare for my coding assignment,education,stressed,"coding,stressed",high,high
+Naan internal assessment pathi romba tension ah irukken,I'm really tense about my internal assessment,education,stressed,"internal,stressed",medium,high
+elders decision pathi veetla romba tension irukku,There's a lot of tension at home about elders' decision,family,stressed,"elders,stressed",medium,high
+"job interview nalla ah poachu, romba happy ah irukken","My job interview went well, I'm really happy",career,happy,"job,happy",low,high
+traffic today vechu konjam late aayiduchu,Because of the traffic today I got a bit late,daily_conversation,stressed,"traffic,stressed",low,high
+semester project pathi enakku innum confuse ah irukku,I'm still confused about my semester project,education,confused,"semester,confused",medium,high
+job interview ku decide panna mudiyala innum,I still can't decide about my job interview,career,confused,"job,confused",medium,high
+En side hustle nalla direction la poguthu nu nambikkai irukku,I believe my side hustle is heading in a good direction,motivation,hopeful,"side,hopeful",low,high
+"power cut pathi enakku onnume theriyala, sollunga","I don't know anything about the power cut, tell me",daily_conversation,confused,"power,confused",low,high
+loneliness la irundhu recover aaganum nu try panren,I'm trying to recover from loneliness,mental_health,hopeful,"loneliness,hopeful",medium,high
+joint family issue nalla mudiyum nu nambikkai irukku,I have hope that the joint family issue will turn out well,family,hopeful,"joint,hopeful",low,high
+"En girlfriend pathi confuse ah irukken, munnadi poganuma nu","I'm confused about my girlfriend, whether to move forward or not",relationship,confused,"girlfriend,confused",medium,high
+"chest pain nadanthuchu, yaro udanadiya help pannanum","There's been chest pain, someone needs to help immediately",emergency,fear,"chest,fear",high,high
+"layoff rumor success aachu, romba excited ah irukken","The layoff round was a success, I'm really excited",career,excited,"layoff,excited",low,high
+internal assessment pathi yosichaale bayama irukku,Just thinking about my internal assessment scares me,education,fear,"internal,fear",medium,high
+"family function nalla ah nadanthuchu, ellarum happy ah irundhom","The family function went well, everyone was happy",family,happy,"family,happy",low,high
+"online delivery nalla irundhuchu, mood improve aayiduchu","The online delivery was nice, my mood improved",daily_conversation,happy,"online,happy",low,high
+"coding assignment ku full ah prepare aayiten, confident ah irukken","I've fully prepared for my coding assignment, I feel confident",education,hopeful,"coding,hopeful",low,high
+freelance project pathi kettavudan romba stress ah aayiduchu,"The moment I heard about the freelance project, I got really stressed",career,stressed,"freelance,stressed",high,high
+"Kozhandhaiku snake bite irukku, doctor ku koodithama poganum","My child has snake bite, we need to see a doctor immediately",emergency,fear,"snake,fear",high,high
+low self esteem vechu raathiri thoonga mudiyala,Because of low self esteem I can't sleep at night,mental_health,anxious,"low,anxious",medium,high
+English viva ku prepare panna time podave illa,I haven't had time to prepare for my English viva,education,stressed,"English,stressed",high,high
+"road accident pathi ippove call pannunga, delay panna koodathu","Please call about road accident right now, we can't delay",emergency,fear,"road,fear",high,high
+"low self esteem konjam kammiya irukku indha vaaram, nalla feel aaguthu","My low self esteem has reduced a bit this week, I feel good",mental_health,calm,"low,calm",low,high
+grief vandha udane body react panna start aaguthu,"The moment grief hits, my body starts reacting",mental_health,anxious,"grief,anxious",high,high
+En business plan ku innum konjam push venum,I need a bit more push for my business plan,motivation,stressed,"business,stressed",medium,high
+"salary negotiation success aachu, romba excited ah irukken","The salary negotiation was a success, I'm really excited",career,excited,"salary,excited",low,high
+"grandparents visit nalla ah nadanthuchu, ellarum happy ah irundhom","The grandparents' visit went well, everyone was happy",family,happy,"grandparents,happy",low,high
+"project deadline expect panna maari nadakala, romba sad ah irukken","My project deadline didn't go as I expected, I feel really sad",career,sad,"project,sad",medium,high
+"freelance project success aachu, romba excited ah irukken","The freelance project was a success, I'm really excited",career,excited,"freelance,excited",low,high
+"higher studies plan success aachu, romba excited ah irukken","The plan for higher studies was a success, I'm really excited",career,excited,"higher,excited",low,high
+overthinking vandha udane body react panna start aaguthu,"The moment overthinking hits, my body starts reacting",mental_health,anxious,"overthinking,anxious",high,high
+"Kozhandhaiku road accident irukku, doctor ku koodithama poganum","My child has road accident, we need to see a doctor immediately",emergency,fear,"road,fear",high,high
+thesis submission mudinjadhukku aprom romba relief ah irukku,After finishing my thesis submission I feel really relieved,education,calm,"thesis,calm",low,high
+scholarship form fail aagiduven nu bayama irukku,I'm scared I might fail my scholarship form,education,fear,"scholarship,fear",medium,high
+social anxiety la irundhu recover aaganum nu try panren,I'm trying to recover from social anxiety,mental_health,hopeful,"social,hopeful",medium,high
+"internal assessment la nalla marks vangiten, romba proud ah irukken","I scored well in my internal assessment, I'm really proud",education,happy,"internal,happy",low,high
+thesis submission pathi enakku innum confuse ah irukku,I'm still confused about my thesis submission,education,confused,"thesis,confused",medium,high
+"amma health pathi guilt ah irukku, naan help panna mudiyala","I feel guilty about the mother's health, I couldn't help",family,guilty,"amma,guilty",medium,high
+"Enakku house fire irukku, urgent ah help pannunga","I have house fire, please help urgently",emergency,fear,"house,fear",high,high
+maths exam fail aagiduven nu bayama irukku,I'm scared I might fail my math exam,education,fear,"maths,fear",medium,high
+"house fire ku first aid theriyuma yaarukavadhu, urgent ah venum","Does anyone know first aid for house fire, we need it urgently",emergency,fear,"house,fear",high,high
+amma health ku ellarum koodi irundhadhu romba nalla irundhuchu,Everyone coming together for the mother's health felt really nice,family,happy,"amma,happy",low,high
+"En college friend turned partner kooda long time ah pesave illa, miss aaguthu","I haven't spoken to my close friend turned partner in a long time, I miss them",relationship,lonely,"college,lonely",medium,high
+"grocery shopping nalla irundhuchu, mood improve aayiduchu","The grocery shopping was nice, my mood improved",daily_conversation,happy,"grocery,happy",low,high
+"En marathon training la achievement adaichen, proud ah irukken","I achieved something in my marathon training, I feel proud",motivation,happy,"marathon,happy",low,high
+"startup idea nalla ah poachu, romba happy ah irukken","My startup idea went well, I'm really happy",career,happy,"startup,happy",low,high
+house renovation vishayam pathi konjam confuse ah irukken,I'm a bit confused about the house renovation,family,confused,"house,confused",medium,high
+"Amma ku stroke symptoms vandhuchu, ambulance venum ippove","My mother has stroke symptoms, we need an ambulance right now",emergency,fear,"stroke,fear",high,high
+"En marathon training la fail aayiten, but thirumba try panren","I failed at my marathon training, but I'll try again",motivation,hopeful,"marathon,hopeful",medium,high
+grandparents visit nalla mudiyum nu nambikkai irukku,I have hope that the grandparents' visit will turn out well,family,hopeful,"grandparents,hopeful",low,high
+overthinking la irundhu recover aaganum nu try panren,I'm trying to recover from overthinking,mental_health,hopeful,"overthinking,hopeful",medium,high
+social anxiety vechu raathiri thoonga mudiyala,Because of social anxiety I can't sleep at night,mental_health,anxious,"social,anxious",medium,high
+En fiance kitta cheat pannitten nu guilt ah irukku,I feel guilty that I cheated on my fiance,relationship,guilty,"fiance,guilty",high,high
+En language learning ku consistency maintain panna kastama irukku,It's hard to stay consistent with my language learning,motivation,stressed,"language,stressed",medium,high
+En college friend turned partner kooda trust issues start aayiduchu,Trust issues have started with my close friend turned partner,relationship,anxious,"college,anxious",medium,high
+"lab record ku full ah prepare aayiten, confident ah irukken","I've fully prepared for my lab record, I feel confident",education,hopeful,"lab,hopeful",low,high
+thesis submission ku prepare panna time podave illa,I haven't had time to prepare for my thesis submission,education,stressed,"thesis,stressed",high,high
+"En fitness goal la achievement adaichen, proud ah irukken","I achieved something in my fitness goal, I feel proud",motivation,happy,"fitness,happy",low,high
+"Amma ku child missing vandhuchu, ambulance venum ippove","My mother has missing child, we need an ambulance right now",emergency,fear,"child,fear",high,high
+maths exam mudinjadhukku aprom romba relief ah irukku,After finishing my math exam I feel really relieved,education,calm,"maths,calm",low,high
+"lab record results vandhuchu, expect panna maari varala","The results for my lab record came out, not what I expected",education,sad,"lab,sad",medium,high
+En business plan pathi motivation completely poachu,My motivation for my business plan has completely disappeared,motivation,sad,"business,sad",medium,high
+"En boyfriend ennai ignore pannuranga, romba hurt ah irukku","My boyfriend has been ignoring me, it really hurts",relationship,lonely,"boyfriend,lonely",medium,high
+amma health nalla mudiyum nu nambikkai irukku,I have hope that the mother's health will turn out well,family,hopeful,"amma,hopeful",low,high
+"internal assessment results vandhuchu, expect panna maari varala","The results for my internal assessment came out, not what I expected",education,sad,"internal,sad",medium,high
+"child missing nadanthuchu, yaro udanadiya help pannanum","There's been missing child, someone needs to help immediately",emergency,fear,"child,fear",high,high
+En art practice ku innum konjam push venum,I need a bit more push for my art practice,motivation,stressed,"art,stressed",medium,high
+office transfer kku aprom future pathi confidence vandhuchu,"After the office transfer, I feel confident about the future",career,hopeful,"office,hopeful",low,high
+panic attacks vandha udane body react panna start aaguthu,"The moment panic attacks hits, my body starts reacting",mental_health,anxious,"panic,anxious",high,high
+"salary negotiation pathi guilt ah irukku, better ah panniruka mudiyum","I feel guilty about the salary negotiation, I could have done it better",career,guilty,"salary,guilty",medium,high
+layoff rumor ku romba naala kaathurukken,I've been waiting a long time for this layoff round,career,anxious,"layoff,anxious",medium,high
+Naan house fire paathu romba panic aayiduchen,I saw house fire and I panicked completely,emergency,fear,"house,fear",high,high
+"En long distance partner kooda fight aayiduchu, romba sad ah irukku","I had a fight with my long distance partner, I feel really sad",relationship,sad,"long,sad",medium,high
+En fitness goal nalla direction la poguthu nu nambikkai irukku,I believe my fitness goal is heading in a good direction,motivation,hopeful,"fitness,hopeful",low,high
+"severe bleeding pathi ippove call pannunga, delay panna koodathu","Please call about severe bleeding right now, we can't delay",emergency,fear,"severe,fear",high,high
+Naan guilt over a mistake vachi romba struggle panren,I'm really struggling with guilt over a mistake,mental_health,stressed,"guilt,stressed",medium,high
+entrance exam pathi yosichaale bayama irukku,Just thinking about my entrance exam scares me,education,fear,"entrance,fear",medium,high
+Naan coding assignment pathi romba tension ah irukken,I'm really tense about my coding assignment,education,stressed,"coding,stressed",medium,high
+En weight loss journey nalla direction la poguthu nu nambikkai irukku,I believe my weight loss journey is heading in a good direction,motivation,hopeful,"weight,hopeful",low,high
+En competitive exam prep pathi self doubt varudhu,I have self doubt about my competitive exam preparation,motivation,confused,"competitive,confused",medium,high
+"breathing trouble pathi ippove call pannunga, delay panna koodathu","Please call about breathing trouble right now, we can't delay",emergency,fear,"breathing,fear",high,high
+"En startup dream la oru small win kedaichuchu, romba santhosam","I got a small win in my startup dream, I'm really happy",motivation,happy,"startup,happy",low,high
+model exam ku prepare panna time podave illa,I haven't had time to prepare for my model exam,education,stressed,"model,stressed",high,high
+relative's dispute vishayathula amma appa kooda fight aayiduchu,I had a fight with my parents over the relative's dispute,family,angry,"relative's,angry",medium,high
+office transfer pathi romba nervous ah irukken,I'm really nervous about my office transfer,career,fear,"office,fear",medium,high
+"cricket match nalla irundhuchu, mood improve aayiduchu","The cricket match was nice, my mood improved",daily_conversation,happy,"cricket,happy",low,high
+"En weight loss journey ku romba tired ah irukken, but continue panren","I'm really tired from my weight loss journey, but I'll keep going",motivation,stressed,"weight,stressed",medium,high
+"chest pain pathi ippove call pannunga, delay panna koodathu","Please call about chest pain right now, we can't delay",emergency,fear,"chest,fear",high,high
+resignation letter pathi romba nervous ah irukken,I'm really nervous about my resignation letter,career,fear,"resignation,fear",medium,high
+entrance exam ku prepare panna time podave illa,I haven't had time to prepare for my entrance exam,education,stressed,"entrance,stressed",high,high
+"En fiance kooda long time ah pesave illa, miss aaguthu","I haven't spoken to my fiance in a long time, I miss them",relationship,lonely,"fiance,lonely",medium,high
+"Amma ku gas leak vandhuchu, ambulance venum ippove","My mother has gas leak, we need an ambulance right now",emergency,fear,"gas,fear",high,high
+online delivery pathi ellarum pesikittu irundhanga,Everyone was talking about the online delivery,daily_conversation,calm,"online,calm",low,high
+"neighbor's function nalla irundhuchu, mood improve aayiduchu","The neighbor's function was nice, my mood improved",daily_conversation,happy,"neighbor's,happy",low,high
+En fiance kooda trust issues start aayiduchu,Trust issues have started with my fiance,relationship,anxious,"fiance,anxious",medium,high
+"En crush pathi confuse ah irukken, munnadi poganuma nu","I'm confused about my crush, whether to move forward or not",relationship,confused,"crush,confused",medium,high
+"panic attacks ku therapy help pannuchu, konjam better ah irukken","Therapy has been helping with my panic attacks, I feel a bit better",mental_health,calm,"panic,calm",low,high
+"electric shock nadanthuchu, yaro udanadiya help pannanum","There's been electric shock, someone needs to help immediately",emergency,fear,"electric,fear",high,high
+English viva fail aagiduven nu bayama irukku,I'm scared I might fail my English viva,education,fear,"English,fear",medium,high
+"sister marriage nalla ah nadanthuchu, ellarum happy ah irundhom","The sister's marriage went well, everyone was happy",family,happy,"sister,happy",low,high
+weekend plan pathi kelvi pattu romba curious ah irukken,I heard about the weekend plan and I'm really curious,daily_conversation,excited,"weekend,excited",low,high
+"En college friend turned partner kooda breakup aayiduchu, heartbroken ah irukken","I broke up with my close friend turned partner, I'm heartbroken",relationship,sad,"college,sad",medium,high
+"En competitive exam prep la oru small win kedaichuchu, romba santhosam","I got a small win in my competitive exam preparation, I'm really happy",motivation,happy,"competitive,happy",low,high
+"power cut nalla irundhuchu, mood improve aayiduchu","The power cut was nice, my mood improved",daily_conversation,happy,"power,happy",low,high
+team lead role ku decide panna mudiyala innum,I still can't decide about my team lead role,career,confused,"team,confused",medium,high
+amma health vishayathula amma appa kooda fight aayiduchu,I had a fight with my parents over the mother's health,family,angry,"amma,angry",medium,high
+"grocery shopping miss pannitten, adhu kastama irundhuchu","I missed the grocery shopping, that was disappointing",daily_conversation,sad,"grocery,sad",low,high
+"job interview success aachu, romba excited ah irukken","The job interview was a success, I'm really excited",career,excited,"job,excited",low,high
+En ex kooda romba nalla irukken ippo,I'm doing really well with my ex now,relationship,happy,"ex,happy",low,high
+"En arranged match pathi family ku pudikala, romba tension irukku","My family doesn't like my arranged match, there's a lot of tension",relationship,stressed,"arranged,stressed",medium,high
+"sleepless nights pathi guilt ah irukku, control panna mudiyala","I feel guilty about sleepless nights, I can't seem to control it",mental_health,guilty,"sleepless,guilty",medium,high
+startup idea ku decide panna mudiyala innum,I still can't decide about my startup idea,career,confused,"startup,confused",medium,high
+En boyfriend ah miss panren romba,I really miss my boyfriend,relationship,lonely,"boyfriend,lonely",medium,high
+"rainy weather pathi enna nenaikra, poganuma","What do you think about the rainy weather, shall we go",daily_conversation,calm,"rainy,calm",low,high
+family trip ku ellarum koodi irundhadhu romba nalla irundhuchu,Everyone coming together for the family trip felt really nice,family,happy,"family,happy",low,high
+maths exam ku prepare panna time podave illa,I haven't had time to prepare for my math exam,education,stressed,"maths,stressed",high,high
+Naan electric shock paathu romba panic aayiduchen,I saw electric shock and I panicked completely,emergency,fear,"electric,fear",high,high
+"performance review success aachu, romba excited ah irukken","The performance review was a success, I'm really excited",career,excited,"performance,excited",low,high
+cricket match pathi ellarum pesikittu irundhanga,Everyone was talking about the cricket match,daily_conversation,calm,"cricket,calm",low,high
+"house fire pathi ippove call pannunga, delay panna koodathu","Please call about house fire right now, we can't delay",emergency,fear,"house,fear",high,high
+"project deadline success aachu, romba excited ah irukken","The project deadline was a success, I'm really excited",career,excited,"project,excited",low,high
+"En crush ennai ignore pannuranga, romba hurt ah irukku","My crush has been ignoring me, it really hurts",relationship,lonely,"crush,lonely",medium,high
+traffic today pathi ellarum pesikittu irundhanga,Everyone was talking about the traffic today,daily_conversation,calm,"traffic,calm",low,high
+"new restaurant miss pannitten, adhu kastama irundhuchu","I missed the new restaurant, that was disappointing",daily_conversation,sad,"new,sad",low,high
+promotion round pathi romba nervous ah irukken,I'm really nervous about my promotion round,career,fear,"promotion,fear",medium,high
+office transfer ku decide panna mudiyala innum,I still can't decide about my office transfer,career,confused,"office,confused",medium,high
+grief vechu raathiri thoonga mudiyala,Because of grief I can't sleep at night,mental_health,anxious,"grief,anxious",medium,high
+"physics test ku full ah prepare aayiten, confident ah irukken","I've fully prepared for my physics test, I feel confident",education,hopeful,"physics,hopeful",low,high
+En college friend turned partner kooda future pathi romba worry ah irukken,I'm really worried about the future with my close friend turned partner,relationship,anxious,"college,anxious",medium,high
+En language learning ku innum konjam push venum,I need a bit more push for my language learning,motivation,stressed,"language,stressed",medium,high
+"English viva nalla ah mudinjuduchu, romba santhosama irukku","My English viva went really well, I'm very happy",education,happy,"English,happy",low,high
+weekend plan ku naan innum ready aagala,I'm still not ready for the weekend plan,daily_conversation,calm,"weekend,calm",low,high
+"En arranged match propose panniten, yes sonnanga","I proposed to my arranged match, and they said yes",relationship,excited,"arranged,excited",low,high
+En girlfriend ah miss panren romba,I really miss my girlfriend,relationship,lonely,"girlfriend,lonely",medium,high
+"lab record la nalla marks vangiten, romba proud ah irukken","I scored well in my lab record, I'm really proud",education,happy,"lab,happy",low,high
+"internship offer expect panna maari nadakala, romba sad ah irukken","My internship offer didn't go as I expected, I feel really sad",career,sad,"internship,sad",medium,high
+"electric shock ku first aid theriyuma yaarukavadhu, urgent ah venum","Does anyone know first aid for electric shock, we need it urgently",emergency,fear,"electric,fear",high,high
+"traffic today pathi enakku onnume theriyala, sollunga","I don't know anything about the traffic today, tell me",daily_conversation,confused,"traffic,confused",low,high
+client meeting ku romba naala kaathurukken,I've been waiting a long time for this client meeting,career,anxious,"client,anxious",medium,high
+"high fever pathi ippove call pannunga, delay panna koodathu","Please call about high fever right now, we can't delay",emergency,fear,"high,fear",high,high
+online quiz pathi yosichaale bayama irukku,Just thinking about my online quiz scares me,education,fear,"online,fear",medium,high
+"loneliness pathi guilt ah irukku, control panna mudiyala","I feel guilty about loneliness, I can't seem to control it",mental_health,guilty,"loneliness,guilty",medium,high
+Naan chest pain paathu romba panic aayiduchen,I saw chest pain and I panicked completely,emergency,fear,"chest,fear",high,high
+new restaurant pathi ellarum pesikittu irundhanga,Everyone was talking about the new restaurant,daily_conversation,calm,"new,calm",low,high
+sleepless nights pathi yaridamum solla mudiyala,I can't tell anyone about my sleepless nights,mental_health,lonely,"sleepless,lonely",medium,high
+internship offer kku aprom future pathi confidence vandhuchu,"After the internship offer, I feel confident about the future",career,hopeful,"internship,hopeful",low,high
+"scholarship form nalla ah mudinjuduchu, romba santhosama irukku","My scholarship form went really well, I'm very happy",education,happy,"scholarship,happy",low,high
+family function nalla mudiyum nu nambikkai irukku,I have hope that the family function will turn out well,family,hopeful,"family,hopeful",low,high
+relative's dispute pathi enakku bayama irukku,I'm scared about the relative's dispute,family,fear,"relative's,fear",medium,high
+history record ku prepare panna time podave illa,I haven't had time to prepare for my history record,education,stressed,"history,stressed",high,high
+Naan thesis submission pathi romba tension ah irukken,I'm really tense about my thesis submission,education,stressed,"thesis,stressed",medium,high
+"En language learning la fail aayiten, but thirumba try panren","I failed at my language learning, but I'll try again",motivation,hopeful,"language,hopeful",medium,high
+"En language learning ku romba tired ah irukken, but continue panren","I'm really tired from my language learning, but I'll keep going",motivation,stressed,"language,stressed",medium,high
+"En habit building ku romba tired ah irukken, but continue panren","I'm really tired from my habit building, but I'll keep going",motivation,stressed,"habit,stressed",medium,high
+"English viva ku full ah prepare aayiten, confident ah irukken","I've fully prepared for my English viva, I feel confident",education,hopeful,"English,hopeful",low,high
+En partner kooda trust issues start aayiduchu,Trust issues have started with my partner,relationship,anxious,"partner,anxious",medium,high
+kid's admission pathi veetla romba tension irukku,There's a lot of tension at home about child's school admission,family,stressed,"kid's,stressed",medium,high
+new gadget pathi ellarum pesikittu irundhanga,Everyone was talking about the new gadget,daily_conversation,calm,"new,calm",low,high
+home loan pathi enakku bayama irukku,I'm scared about the home loan,family,fear,"home,fear",medium,high
+"elders decision nalla ah nadanthuchu, ellarum happy ah irundhom","The elders' decision went well, everyone was happy",family,happy,"elders,happy",low,high
+En side hustle ku consistency maintain panna kastama irukku,It's hard to stay consistent with my side hustle,motivation,stressed,"side,stressed",medium,high
+"low self esteem ku therapy help pannuchu, konjam better ah irukken","Therapy has been helping with my low self esteem, I feel a bit better",mental_health,calm,"low,calm",low,high
+group presentation pathi enakku innum confuse ah irukku,I'm still confused about my group presentation,education,confused,"group,confused",medium,high
+resignation letter kku aprom future pathi confidence vandhuchu,"After the resignation letter, I feel confident about the future",career,hopeful,"resignation,hopeful",low,high
+"relative's dispute pathi guilt ah irukku, naan help panna mudiyala","I feel guilty about the relative's dispute, I couldn't help",family,guilty,"relative's,guilty",medium,high
+traffic today romba super ah irundhuchu,The traffic today was really great,daily_conversation,excited,"traffic,excited",low,high
+"office transfer success aachu, romba excited ah irukken","The office transfer was a success, I'm really excited",career,excited,"office,excited",low,high
+"En partner kooda long time ah pesave illa, miss aaguthu","I haven't spoken to my partner in a long time, I miss them",relationship,lonely,"partner,lonely",medium,high
+Naan en competitive exam prep ku romba hard work panren,I'm working really hard towards my competitive exam preparation,motivation,excited,"competitive,excited",low,high
+En startup dream ku consistency maintain panna kastama irukku,It's hard to stay consistent with my startup dream,motivation,stressed,"startup,stressed",medium,high
+"internal assessment ku full ah prepare aayiten, confident ah irukken","I've fully prepared for my internal assessment, I feel confident",education,hopeful,"internal,hopeful",low,high
+"new gadget nalla irundhuchu, mood improve aayiduchu","The new gadget was nice, my mood improved",daily_conversation,happy,"new,happy",low,high
+"project deadline pathi guilt ah irukku, better ah panniruka mudiyum","I feel guilty about the project deadline, I could have done it better",career,guilty,"project,guilty",medium,high
+"rainy weather pathi enakku onnume theriyala, sollunga","I don't know anything about the rainy weather, tell me",daily_conversation,confused,"rainy,confused",low,high
+En habit building pathi motivation completely poachu,My motivation for my habit building has completely disappeared,motivation,sad,"habit,sad",medium,high
+"freelance project expect panna maari nadakala, romba sad ah irukken","My freelance project didn't go as I expected, I feel really sad",career,sad,"freelance,sad",medium,high
+office transfer pathi kettavudan romba stress ah aayiduchu,"The moment I heard about the office transfer, I got really stressed",career,stressed,"office,stressed",high,high
+En spouse kooda trust issues start aayiduchu,Trust issues have started with my spouse,relationship,anxious,"spouse,anxious",medium,high
+new gadget romba super ah irundhuchu,The new gadget was really great,daily_conversation,excited,"new,excited",low,high
+brother's job vishayam pathi konjam confuse ah irukken,I'm a bit confused about the brother's job,family,confused,"brother's,confused",medium,high
+"Enakku snake bite irukku, urgent ah help pannunga","I have snake bite, please help urgently",emergency,fear,"snake,fear",high,high
+history record mudinjadhukku aprom romba relief ah irukku,After finishing my history record I feel really relieved,education,calm,"history,calm",low,high
+"Appa ku snake bite start aayiduchu, hospital ku poganum urgent ah","My father has started having snake bite, we need to get to the hospital urgently",emergency,fear,"snake,fear",high,high
+Naan history record pathi romba tension ah irukken,I'm really tense about my history record,education,stressed,"history,stressed",medium,high
+"En savings goal la achievement adaichen, proud ah irukken","I achieved something in my savings goal, I feel proud",motivation,happy,"savings,happy",low,high
+cricket match ku naan innum ready aagala,I'm still not ready for the cricket match,daily_conversation,calm,"cricket,calm",low,high
+lab record ku prepare panna time podave illa,I haven't had time to prepare for my lab record,education,stressed,"lab,stressed",high,high
+"maths exam la nalla marks vangiten, romba proud ah irukken","I scored well in my math exam, I'm really proud",education,happy,"maths,happy",low,high
+"loneliness konjam kammiya irukku indha vaaram, nalla feel aaguthu","My loneliness has reduced a bit this week, I feel good",mental_health,calm,"loneliness,calm",low,high
+online delivery pathi kelvi pattu romba curious ah irukken,I heard about the online delivery and I'm really curious,daily_conversation,excited,"online,excited",low,high
+"job application expect panna maari nadakala, romba sad ah irukken","My job application didn't go as I expected, I feel really sad",career,sad,"job,sad",medium,high
+"En arranged match kooda breakup aayiduchu, heartbroken ah irukken","I broke up with my arranged match, I'm heartbroken",relationship,sad,"arranged,sad",medium,high
+En weight loss journey pathi self doubt varudhu,I have self doubt about my weight loss journey,motivation,confused,"weight,confused",medium,high
+"chemistry practical nalla ah mudinjuduchu, romba santhosama irukku","My chemistry practical went really well, I'm very happy",education,happy,"chemistry,happy",low,high
+"family function pathi guilt ah irukku, naan help panna mudiyala","I feel guilty about the family function, I couldn't help",family,guilty,"family,guilty",medium,high
+"high fever nadanthuchu, yaro udanadiya help pannanum","There's been high fever, someone needs to help immediately",emergency,fear,"high,fear",high,high
+job application pathi romba nervous ah irukken,I'm really nervous about my job application,career,fear,"job,fear",medium,high
+internship offer pathi kettavudan romba stress ah aayiduchu,"The moment I heard about the internship offer, I got really stressed",career,stressed,"internship,stressed",high,high
+model exam pathi yosichaale bayama irukku,Just thinking about my model exam scares me,education,fear,"model,fear",medium,high
+En boyfriend kooda romba nalla irukken ippo,I'm doing really well with my boyfriend now,relationship,happy,"boyfriend,happy",low,high
+En spouse kooda future pathi romba worry ah irukken,I'm really worried about the future with my spouse,relationship,anxious,"spouse,anxious",medium,high
+elders decision vishayam pathi konjam confuse ah irukken,I'm a bit confused about the elders' decision,family,confused,"elders,confused",medium,high
+"neighbor's function pathi enakku onnume theriyala, sollunga","I don't know anything about the neighbor's function, tell me",daily_conversation,confused,"neighbor's,confused",low,high
+guilt over a mistake pathi yaridamum solla mudiyala,I can't tell anyone about my guilt over a mistake,mental_health,lonely,"guilt,lonely",medium,high
+En habit building ku innum konjam push venum,I need a bit more push for my habit building,motivation,stressed,"habit,stressed",medium,high
+"Kozhandhaiku severe bleeding irukku, doctor ku koodithama poganum","My child has severe bleeding, we need to see a doctor immediately",emergency,fear,"severe,fear",high,high
+appa retirement ku ellarum koodi irundhadhu romba nalla irundhuchu,Everyone coming together for the father's retirement felt really nice,family,happy,"appa,happy",low,high
+"movie release pathi enna nenaikra, poganuma","What do you think about the movie release, shall we go",daily_conversation,calm,"movie,calm",low,high
+"salary negotiation expect panna maari nadakala, romba sad ah irukken","My salary negotiation didn't go as I expected, I feel really sad",career,sad,"salary,sad",medium,high
+new restaurant vechu weekend full ah busy ah irundhuchu,"Because of the new restaurant, my whole weekend was busy",daily_conversation,calm,"new,calm",low,high
+"social anxiety ku therapy help pannuchu, konjam better ah irukken","Therapy has been helping with my social anxiety, I feel a bit better",mental_health,calm,"social,calm",low,high
+"snake bite pathi ippove call pannunga, delay panna koodathu","Please call about snake bite right now, we can't delay",emergency,fear,"snake,fear",high,high
+"Appa ku house fire start aayiduchu, hospital ku poganum urgent ah","My father has started having house fire, we need to get to the hospital urgently",emergency,fear,"house,fear",high,high
+joint family issue vishayathula amma appa kooda fight aayiduchu,I had a fight with my parents over the joint family issue,family,angry,"joint,angry",medium,high
+"En new skill la fail aayiten, but thirumba try panren","I failed at my new skill, but I'll try again",motivation,hopeful,"new,hopeful",medium,high
+"En long distance partner ennai ignore pannuranga, romba hurt ah irukku","My long distance partner has been ignoring me, it really hurts",relationship,lonely,"long,lonely",medium,high
+"breathing trouble ku first aid theriyuma yaarukavadhu, urgent ah venum","Does anyone know first aid for breathing trouble, we need it urgently",emergency,fear,"breathing,fear",high,high
+"performance review pathi guilt ah irukku, better ah panniruka mudiyum","I feel guilty about the performance review, I could have done it better",career,guilty,"performance,guilty",medium,high
+En arranged match kooda trust issues start aayiduchu,Trust issues have started with my arranged match,relationship,anxious,"arranged,anxious",medium,high
+En crush kooda romba nalla irukken ippo,I'm doing really well with my crush now,relationship,happy,"crush,happy",low,high
+En side hustle pathi motivation completely poachu,My motivation for my side hustle has completely disappeared,motivation,sad,"side,sad",medium,high
+"internal assessment nalla ah mudinjuduchu, romba santhosama irukku","My internal assessment went really well, I'm very happy",education,happy,"internal,happy",low,high
+model exam fail aagiduven nu bayama irukku,I'm scared I might fail my model exam,education,fear,"model,fear",medium,high
+"En long distance partner pathi family ku pudikala, romba tension irukku","My family doesn't like my long distance partner, there's a lot of tension",relationship,stressed,"long,stressed",medium,high
+Naan lab record pathi romba tension ah irukken,I'm really tense about my lab record,education,stressed,"lab,stressed",medium,high
+"En crush pathi family ku pudikala, romba tension irukku","My family doesn't like my crush, there's a lot of tension",relationship,stressed,"crush,stressed",medium,high
+"grocery shopping pathi enakku onnume theriyala, sollunga","I don't know anything about the grocery shopping, tell me",daily_conversation,confused,"grocery,confused",low,high
+"entrance exam la nalla marks vangiten, romba proud ah irukken","I scored well in my entrance exam, I'm really proud",education,happy,"entrance,happy",low,high
+panic attacks la irundhu recover aaganum nu try panren,I'm trying to recover from panic attacks,mental_health,hopeful,"panic,hopeful",medium,high
+Naan low self esteem vachi romba struggle panren,I'm really struggling with low self esteem,mental_health,stressed,"low,stressed",medium,high
+office transfer pathi ippozhum romba angry ah irukken,I'm still really angry about the office transfer,career,angry,"office,angry",medium,high
+English viva mudinjadhukku aprom romba relief ah irukku,After finishing my English viva I feel really relieved,education,calm,"English,calm",low,high
+"office transfer expect panna maari nadakala, romba sad ah irukken","My office transfer didn't go as I expected, I feel really sad",career,sad,"office,sad",medium,high
+appa retirement pathi ninachaale sad ah irukku,Thinking about the father's retirement makes me feel sad,family,sad,"appa,sad",medium,high
+"house renovation nalla ah nadanthuchu, ellarum happy ah irundhom","The house renovation went well, everyone was happy",family,happy,"house,happy",low,high
+"Enakku chest pain irukku, urgent ah help pannunga","I have chest pain, please help urgently",emergency,fear,"chest,fear",high,high
+physics test mudinjadhukku aprom romba relief ah irukku,After finishing my physics test I feel really relieved,education,calm,"physics,calm",low,high
+"En ex pathi confuse ah irukken, munnadi poganuma nu","I'm confused about my ex, whether to move forward or not",relationship,confused,"ex,confused",medium,high
+"brother's job nalla ah nadanthuchu, ellarum happy ah irundhom","The brother's job went well, everyone was happy",family,happy,"brother's,happy",low,high
+"En business plan la oru small win kedaichuchu, romba santhosam","I got a small win in my business plan, I'm really happy",motivation,happy,"business,happy",low,high
+Naan maths exam pathi romba tension ah irukken,I'm really tense about my math exam,education,stressed,"maths,stressed",medium,high
+"En long distance partner kooda breakup aayiduchu, heartbroken ah irukken","I broke up with my long distance partner, I'm heartbroken",relationship,sad,"long,sad",medium,high
+"En college friend turned partner ennai ignore pannuranga, romba hurt ah irukku","My close friend turned partner has been ignoring me, it really hurts",relationship,lonely,"college,lonely",medium,high
+"performance review expect panna maari nadakala, romba sad ah irukken","My performance review didn't go as I expected, I feel really sad",career,sad,"performance,sad",medium,high
+"online delivery pathi enna nenaikra, poganuma","What do you think about the online delivery, shall we go",daily_conversation,calm,"online,calm",low,high
+cousin's wedding pathi enakku bayama irukku,I'm scared about the cousin's wedding,family,fear,"cousin's,fear",medium,high
+"Appa ku gas leak start aayiduchu, hospital ku poganum urgent ah","My father has started having gas leak, we need to get to the hospital urgently",emergency,fear,"gas,fear",high,high
+guilt over a mistake la irundhu recover aaganum nu try panren,I'm trying to recover from guilt over a mistake,mental_health,hopeful,"guilt,hopeful",medium,high
+Naan stroke symptoms paathu romba panic aayiduchen,I saw stroke symptoms and I panicked completely,emergency,fear,"stroke,fear",high,high
+"festival prep miss pannitten, adhu kastama irundhuchu","I missed the festival preparation, that was disappointing",daily_conversation,sad,"festival,sad",low,high
+"self doubt konjam kammiya irukku indha vaaram, nalla feel aaguthu","My self doubt has reduced a bit this week, I feel good",mental_health,calm,"self,calm",low,high
+"amma health ku ellarum kudi decide pannom, nalla feel aaguthu","We all decided about the mother's health together, it feels good",family,calm,"amma,calm",low,high
+Naan en savings goal ku romba hard work panren,I'm working really hard towards my savings goal,motivation,excited,"savings,excited",low,high
+thesis submission fail aagiduven nu bayama irukku,I'm scared I might fail my thesis submission,education,fear,"thesis,fear",medium,high
+"En fiance kooda breakup aayiduchu, heartbroken ah irukken","I broke up with my fiance, I'm heartbroken",relationship,sad,"fiance,sad",medium,high
+client meeting ku decide panna mudiyala innum,I still can't decide about my client meeting,career,confused,"client,confused",medium,high
+"neighbor's function pathi enna nenaikra, poganuma","What do you think about the neighbor's function, shall we go",daily_conversation,calm,"neighbor's,calm",low,high
+"En fiance pathi confuse ah irukken, munnadi poganuma nu","I'm confused about my fiance, whether to move forward or not",relationship,confused,"fiance,confused",medium,high
+"Amma ku breathing trouble vandhuchu, ambulance venum ippove","My mother has breathing trouble, we need an ambulance right now",emergency,fear,"breathing,fear",high,high
+movie release vechu weekend full ah busy ah irundhuchu,"Because of the movie release, my whole weekend was busy",daily_conversation,calm,"movie,calm",low,high
+"movie release pathi enakku onnume theriyala, sollunga","I don't know anything about the movie release, tell me",daily_conversation,confused,"movie,confused",low,high
+maths exam pathi yosichaale bayama irukku,Just thinking about my math exam scares me,education,fear,"maths,fear",medium,high
+exam stress vechu raathiri thoonga mudiyala,Because of exam stress I can't sleep at night,mental_health,anxious,"exam,anxious",medium,high
+"performance review nalla ah poachu, romba happy ah irukken","My performance review went well, I'm really happy",career,happy,"performance,happy",low,high
+"elders decision ku ellarum kudi decide pannom, nalla feel aaguthu","We all decided about the elders' decision together, it feels good",family,calm,"elders,calm",low,high
+panic attacks pathi yaridamum solla mudiyala,I can't tell anyone about my panic attacks,mental_health,lonely,"panic,lonely",medium,high
+"self doubt pathi guilt ah irukku, control panna mudiyala","I feel guilty about self doubt, I can't seem to control it",mental_health,guilty,"self,guilty",medium,high
+overthinking pathi yaridamum solla mudiyala,I can't tell anyone about my overthinking,mental_health,lonely,"overthinking,lonely",medium,high
+"En art practice la achievement adaichen, proud ah irukken","I achieved something in my art practice, I feel proud",motivation,happy,"art,happy",low,high
+neighbor's function pathi ellarum pesikittu irundhanga,Everyone was talking about the neighbor's function,daily_conversation,calm,"neighbor's,calm",low,high
+"allergic reaction nadanthuchu, yaro udanadiya help pannanum","There's been severe allergic reaction, someone needs to help immediately",emergency,fear,"allergic,fear",high,high
+"rainy weather miss pannitten, adhu kastama irundhuchu","I missed the rainy weather, that was disappointing",daily_conversation,sad,"rainy,sad",low,high
+Naan social anxiety vachi romba struggle panren,I'm really struggling with social anxiety,mental_health,stressed,"social,stressed",medium,high
+"weekend plan miss pannitten, adhu kastama irundhuchu","I missed the weekend plan, that was disappointing",daily_conversation,sad,"weekend,sad",low,high
+"scholarship form la nalla marks vangiten, romba proud ah irukken","I scored well in my scholarship form, I'm really proud",education,happy,"scholarship,happy",low,high
+"movie release miss pannitten, adhu kastama irundhuchu","I missed the movie release, that was disappointing",daily_conversation,sad,"movie,sad",low,high
+Naan high fever paathu romba panic aayiduchen,I saw high fever and I panicked completely,emergency,fear,"high,fear",high,high
+"physics test nalla ah mudinjuduchu, romba santhosama irukku","My physics test went really well, I'm very happy",education,happy,"physics,happy",low,high
+En arranged match kitta cheat pannitten nu guilt ah irukku,I feel guilty that I cheated on my arranged match,relationship,guilty,"arranged,guilty",high,high
+internship offer ku romba naala kaathurukken,I've been waiting a long time for this internship offer,career,anxious,"internship,anxious",medium,high
+En long distance partner kooda future pathi romba worry ah irukken,I'm really worried about the future with my long distance partner,relationship,anxious,"long,anxious",medium,high
+"En partner propose panniten, yes sonnanga","I proposed to my partner, and they said yes",relationship,excited,"partner,excited",low,high
+"Kozhandhaiku high fever irukku, doctor ku koodithama poganum","My child has high fever, we need to see a doctor immediately",emergency,fear,"high,fear",high,high
+family trip pathi veetla romba tension irukku,There's a lot of tension at home about family trip,family,stressed,"family,stressed",medium,high
+family trip pathi ninachaale sad ah irukku,Thinking about the family trip makes me feel sad,family,sad,"family,sad",medium,high
+"history record ku full ah prepare aayiten, confident ah irukken","I've fully prepared for my history record, I feel confident",education,hopeful,"history,hopeful",low,high
+Naan en business plan ku romba hard work panren,I'm working really hard towards my business plan,motivation,excited,"business,excited",low,high
+overthinking vechu raathiri thoonga mudiyala,Because of overthinking I can't sleep at night,mental_health,anxious,"overthinking,anxious",medium,high
+weekend plan vechu weekend full ah busy ah irundhuchu,"Because of the weekend plan, my whole weekend was busy",daily_conversation,calm,"weekend,calm",low,high
+"Amma ku chest pain vandhuchu, ambulance venum ippove","My mother has chest pain, we need an ambulance right now",emergency,fear,"chest,fear",high,high
+"overthinking pathi guilt ah irukku, control panna mudiyala","I feel guilty about overthinking, I can't seem to control it",mental_health,guilty,"overthinking,guilty",medium,high
+En savings goal pathi self doubt varudhu,I have self doubt about my savings goal,motivation,confused,"savings,confused",medium,high
+job interview pathi ippozhum romba angry ah irukken,I'm still really angry about the job interview,career,angry,"job,angry",medium,high
+scholarship form ku prepare panna time podave illa,I haven't had time to prepare for my scholarship form,education,stressed,"scholarship,stressed",high,high
+coding assignment fail aagiduven nu bayama irukku,I'm scared I might fail my coding assignment,education,fear,"coding,fear",medium,high
+power cut pathi kelvi pattu romba curious ah irukken,I heard about the power cut and I'm really curious,daily_conversation,excited,"power,excited",low,high
+group presentation pathi yosichaale bayama irukku,Just thinking about my group presentation scares me,education,fear,"group,fear",medium,high
+En ex kooda future pathi romba worry ah irukken,I'm really worried about the future with my ex,relationship,anxious,"ex,anxious",medium,high
+"En fiance pathi family ku pudikala, romba tension irukku","My family doesn't like my fiance, there's a lot of tension",relationship,stressed,"fiance,stressed",medium,high
+"online quiz nalla ah mudinjuduchu, romba santhosama irukku","My online quiz went really well, I'm very happy",education,happy,"online,happy",low,high
+"Amma ku electric shock vandhuchu, ambulance venum ippove","My mother has electric shock, we need an ambulance right now",emergency,fear,"electric,fear",high,high
+sleepless nights la irundhu recover aaganum nu try panren,I'm trying to recover from sleepless nights,mental_health,hopeful,"sleepless,hopeful",medium,high
+parents expectation vishayam pathi konjam confuse ah irukken,I'm a bit confused about the parents' expectations,family,confused,"parents,confused",medium,high
+En competitive exam prep ku innum konjam push venum,I need a bit more push for my competitive exam preparation,motivation,stressed,"competitive,stressed",medium,high
+joint family issue vishayam pathi konjam confuse ah irukken,I'm a bit confused about the joint family issue,family,confused,"joint,confused",medium,high
+En competitive exam prep nalla direction la poguthu nu nambikkai irukku,I believe my competitive exam preparation is heading in a good direction,motivation,hopeful,"competitive,hopeful",low,high
+rainy weather ku naan innum ready aagala,I'm still not ready for the rainy weather,daily_conversation,calm,"rainy,calm",low,high
+"layoff rumor pathi guilt ah irukku, better ah panniruka mudiyum","I feel guilty about the layoff round, I could have done it better",career,guilty,"layoff,guilty",medium,high
+"En college friend turned partner propose panniten, yes sonnanga","I proposed to my close friend turned partner, and they said yes",relationship,excited,"college,excited",low,high
+"guilt over a mistake pathi guilt ah irukku, control panna mudiyala","I feel guilty about guilt over a mistake, I can't seem to control it",mental_health,guilty,"guilt,guilty",medium,high
+rainy weather vechu konjam late aayiduchu,Because of the rainy weather I got a bit late,daily_conversation,stressed,"rainy,stressed",low,high
+internship offer ku decide panna mudiyala innum,I still can't decide about my internship offer,career,confused,"internship,confused",medium,high
+Naan self doubt vachi romba struggle panren,I'm really struggling with self doubt,mental_health,stressed,"self,stressed",medium,high
+"higher studies plan nalla ah poachu, romba happy ah irukken","My plan for higher studies went well, I'm really happy",career,happy,"higher,happy",low,high
+online quiz pathi enakku innum confuse ah irukku,I'm still confused about my online quiz,education,confused,"online,confused",medium,high
+En boyfriend kooda future pathi romba worry ah irukken,I'm really worried about the future with my boyfriend,relationship,anxious,"boyfriend,anxious",medium,high
+En art practice nalla direction la poguthu nu nambikkai irukku,I believe my art practice is heading in a good direction,motivation,hopeful,"art,hopeful",low,high
+"parents expectation ku ellarum kudi decide pannom, nalla feel aaguthu","We all decided about the parents' expectations together, it feels good",family,calm,"parents,calm",low,high
+"En fiance kooda fight aayiduchu, romba sad ah irukku","I had a fight with my fiance, I feel really sad",relationship,sad,"fiance,sad",medium,high
+"En side hustle la fail aayiten, but thirumba try panren","I failed at my side hustle, but I'll try again",motivation,hopeful,"side,hopeful",medium,high
+project deadline ku romba naala kaathurukken,I've been waiting a long time for this project deadline,career,anxious,"project,anxious",medium,high
+sister marriage pathi enakku bayama irukku,I'm scared about the sister's marriage,family,fear,"sister,fear",medium,high
+"movie release nalla irundhuchu, mood improve aayiduchu","The movie release was nice, my mood improved",daily_conversation,happy,"movie,happy",low,high
+Naan en startup dream ku romba hard work panren,I'm working really hard towards my startup dream,motivation,excited,"startup,excited",low,high
+project deadline pathi ippozhum romba angry ah irukken,I'm still really angry about the project deadline,career,angry,"project,angry",medium,high
+"history record la nalla marks vangiten, romba proud ah irukken","I scored well in my history record, I'm really proud",education,happy,"history,happy",low,high
+higher studies plan kku aprom future pathi confidence vandhuchu,"After the plan for higher studies, I feel confident about the future",career,hopeful,"higher,hopeful",low,high
+relative's dispute pathi veetla romba tension irukku,There's a lot of tension at home about relative's dispute,family,stressed,"relative's,stressed",medium,high
+sister marriage vishayathula amma appa kooda fight aayiduchu,I had a fight with my parents over the sister's marriage,family,angry,"sister,angry",medium,high
+Naan road accident paathu romba panic aayiduchen,I saw road accident and I panicked completely,emergency,fear,"road,fear",high,high
+"grief pathi guilt ah irukku, control panna mudiyala","I feel guilty about grief, I can't seem to control it",mental_health,guilty,"grief,guilty",medium,high
+"gas leak ku first aid theriyuma yaarukavadhu, urgent ah venum","Does anyone know first aid for gas leak, we need it urgently",emergency,fear,"gas,fear",high,high
+job application kku aprom future pathi confidence vandhuchu,"After the job application, I feel confident about the future",career,hopeful,"job,hopeful",low,high
+"English viva la nalla marks vangiten, romba proud ah irukken","I scored well in my English viva, I'm really proud",education,happy,"English,happy",low,high
+festival prep ku naan innum ready aagala,I'm still not ready for the festival preparation,daily_conversation,calm,"festival,calm",low,high
+neighbor's function vechu weekend full ah busy ah irundhuchu,"Because of the neighbor's function, my whole weekend was busy",daily_conversation,calm,"neighbor's,calm",low,high
+"child missing pathi ippove call pannunga, delay panna koodathu","Please call about missing child right now, we can't delay",emergency,fear,"child,fear",high,high
+brother's job pathi enakku bayama irukku,I'm scared about the brother's job,family,fear,"brother's,fear",medium,high
+new restaurant romba super ah irundhuchu,The new restaurant was really great,daily_conversation,excited,"new,excited",low,high
+team lead role kku aprom future pathi confidence vandhuchu,"After the team lead role, I feel confident about the future",career,hopeful,"team,hopeful",low,high
+Naan en fitness goal ku romba hard work panren,I'm working really hard towards my fitness goal,motivation,excited,"fitness,excited",low,high
+new restaurant ku naan innum ready aagala,I'm still not ready for the new restaurant,daily_conversation,calm,"new,calm",low,high
+En art practice pathi motivation completely poachu,My motivation for my art practice has completely disappeared,motivation,sad,"art,sad",medium,high
+higher studies plan pathi ippozhum romba angry ah irukken,I'm still really angry about the plan for higher studies,career,angry,"higher,angry",medium,high
+cousin's wedding vishayam pathi konjam confuse ah irukken,I'm a bit confused about the cousin's wedding,family,confused,"cousin's,confused",medium,high
+"En boyfriend pathi family ku pudikala, romba tension irukku","My family doesn't like my boyfriend, there's a lot of tension",relationship,stressed,"boyfriend,stressed",medium,high
+performance review ku romba naala kaathurukken,I've been waiting a long time for this performance review,career,anxious,"performance,anxious",medium,high
+"self doubt ku therapy help pannuchu, konjam better ah irukken","Therapy has been helping with my self doubt, I feel a bit better",mental_health,calm,"self,calm",low,high
+grocery shopping vechu weekend full ah busy ah irundhuchu,"Because of the grocery shopping, my whole weekend was busy",daily_conversation,calm,"grocery,calm",low,high
+En college friend turned partner kooda romba nalla irukken ippo,I'm doing really well with my close friend turned partner now,relationship,happy,"college,happy",low,high
+"promotion round expect panna maari nadakala, romba sad ah irukken","My promotion round didn't go as I expected, I feel really sad",career,sad,"promotion,sad",medium,high
+exam stress pathi yaridamum solla mudiyala,I can't tell anyone about my exam stress,mental_health,lonely,"exam,lonely",medium,high
+"En new skill la oru small win kedaichuchu, romba santhosam","I got a small win in my new skill, I'm really happy",motivation,happy,"new,happy",low,high
+lab record pathi yosichaale bayama irukku,Just thinking about my lab record scares me,education,fear,"lab,fear",medium,high
+"En language learning la oru small win kedaichuchu, romba santhosam","I got a small win in my language learning, I'm really happy",motivation,happy,"language,happy",low,high
+"weekend plan pathi enakku onnume theriyala, sollunga","I don't know anything about the weekend plan, tell me",daily_conversation,confused,"weekend,confused",low,high
+"guilt over a mistake ku therapy help pannuchu, konjam better ah irukken","Therapy has been helping with my guilt over a mistake, I feel a bit better",mental_health,calm,"guilt,calm",low,high
+higher studies plan pathi kettavudan romba stress ah aayiduchu,"The moment I heard about the plan for higher studies, I got really stressed",career,stressed,"higher,stressed",high,high
+"En habit building la achievement adaichen, proud ah irukken","I achieved something in my habit building, I feel proud",motivation,happy,"habit,happy",low,high
+project deadline kku aprom future pathi confidence vandhuchu,"After the project deadline, I feel confident about the future",career,hopeful,"project,hopeful",low,high
+home loan vishayathula amma appa kooda fight aayiduchu,I had a fight with my parents over the home loan,family,angry,"home,angry",medium,high
+house renovation ku ellarum koodi irundhadhu romba nalla irundhuchu,Everyone coming together for the house renovation felt really nice,family,happy,"house,happy",low,high
+performance review pathi ippozhum romba angry ah irukken,I'm still really angry about the performance review,career,angry,"performance,angry",medium,high
+house renovation vishayathula amma appa kooda fight aayiduchu,I had a fight with my parents over the house renovation,family,angry,"house,angry",medium,high
+"Kozhandhaiku breathing trouble irukku, doctor ku koodithama poganum","My child has breathing trouble, we need to see a doctor immediately",emergency,fear,"breathing,fear",high,high
+Naan en art practice ku romba hard work panren,I'm working really hard towards my art practice,motivation,excited,"art,excited",low,high
+"En boyfriend pathi confuse ah irukken, munnadi poganuma nu","I'm confused about my boyfriend, whether to move forward or not",relationship,confused,"boyfriend,confused",medium,high
+"overthinking ku therapy help pannuchu, konjam better ah irukken","Therapy has been helping with my overthinking, I feel a bit better",mental_health,calm,"overthinking,calm",low,high
+low self esteem pathi yaridamum solla mudiyala,I can't tell anyone about my low self esteem,mental_health,lonely,"low,lonely",medium,high
+thesis submission pathi yosichaale bayama irukku,Just thinking about my thesis submission scares me,education,fear,"thesis,fear",medium,high
+"electric shock pathi ippove call pannunga, delay panna koodathu","Please call about electric shock right now, we can't delay",emergency,fear,"electric,fear",high,high
+"grief ku therapy help pannuchu, konjam better ah irukken","Therapy has been helping with my grief, I feel a bit better",mental_health,calm,"grief,calm",low,high
+"Amma ku snake bite vandhuchu, ambulance venum ippove","My mother has snake bite, we need an ambulance right now",emergency,fear,"snake,fear",high,high
+"entrance exam nalla ah mudinjuduchu, romba santhosama irukku","My entrance exam went really well, I'm very happy",education,happy,"entrance,happy",low,high
+startup idea pathi ippozhum romba angry ah irukken,I'm still really angry about the startup idea,career,angry,"startup,angry",medium,high
+festival prep romba super ah irundhuchu,The festival preparation was really great,daily_conversation,excited,"festival,excited",low,high
+job application pathi kettavudan romba stress ah aayiduchu,"The moment I heard about the job application, I got really stressed",career,stressed,"job,stressed",high,high
+En side hustle ku innum konjam push venum,I need a bit more push for my side hustle,motivation,stressed,"side,stressed",medium,high
+coding assignment pathi enakku innum confuse ah irukku,I'm still confused about my coding assignment,education,confused,"coding,confused",medium,high
+"lab record nalla ah mudinjuduchu, romba santhosama irukku","My lab record went really well, I'm very happy",education,happy,"lab,happy",low,high
+cricket match romba super ah irundhuchu,The cricket match was really great,daily_conversation,excited,"cricket,excited",low,high
+resignation letter pathi ippozhum romba angry ah irukken,I'm still really angry about the resignation letter,career,angry,"resignation,angry",medium,high
+"En competitive exam prep la fail aayiten, but thirumba try panren","I failed at my competitive exam preparation, but I'll try again",motivation,hopeful,"competitive,hopeful",medium,high
+house renovation pathi veetla romba tension irukku,There's a lot of tension at home about house renovation,family,stressed,"house,stressed",medium,high
+"Enakku electric shock irukku, urgent ah help pannunga","I have electric shock, please help urgently",emergency,fear,"electric,fear",high,high
+Naan exam stress vachi romba struggle panren,I'm really struggling with exam stress,mental_health,stressed,"exam,stressed",medium,high
+"En marathon training la oru small win kedaichuchu, romba santhosam","I got a small win in my marathon training, I'm really happy",motivation,happy,"marathon,happy",low,high
+"En savings goal la oru small win kedaichuchu, romba santhosam","I got a small win in my savings goal, I'm really happy",motivation,happy,"savings,happy",low,high
+"severe bleeding ku first aid theriyuma yaarukavadhu, urgent ah venum","Does anyone know first aid for severe bleeding, we need it urgently",emergency,fear,"severe,fear",high,high
+amma health pathi veetla romba tension irukku,There's a lot of tension at home about mother's health,family,stressed,"amma,stressed",medium,high
+En arranged match kooda future pathi romba worry ah irukken,I'm really worried about the future with my arranged match,relationship,anxious,"arranged,anxious",medium,high
+Naan entrance exam pathi romba tension ah irukken,I'm really tense about my entrance exam,education,stressed,"entrance,stressed",medium,high
+cousin's wedding nalla mudiyum nu nambikkai irukku,I have hope that the cousin's wedding will turn out well,family,hopeful,"cousin's,hopeful",low,high
+"model exam la nalla marks vangiten, romba proud ah irukken","I scored well in my model exam, I'm really proud",education,happy,"model,happy",low,high
+En college friend turned partner ah miss panren romba,I really miss my close friend turned partner,relationship,lonely,"college,lonely",medium,high
+En boyfriend kitta cheat pannitten nu guilt ah irukku,I feel guilty that I cheated on my boyfriend,relationship,guilty,"boyfriend,guilty",high,high
+grocery shopping pathi ellarum pesikittu irundhanga,Everyone was talking about the grocery shopping,daily_conversation,calm,"grocery,calm",low,high
+"coding assignment results vandhuchu, expect panna maari varala","The results for my coding assignment came out, not what I expected",education,sad,"coding,sad",medium,high
+"Enakku high fever irukku, urgent ah help pannunga","I have high fever, please help urgently",emergency,fear,"high,fear",high,high
+higher studies plan pathi romba nervous ah irukken,I'm really nervous about my plan for higher studies,career,fear,"higher,fear",medium,high
+En business plan nalla direction la poguthu nu nambikkai irukku,I believe my business plan is heading in a good direction,motivation,hopeful,"business,hopeful",low,high
+grandparents visit pathi enakku bayama irukku,I'm scared about the grandparents' visit,family,fear,"grandparents,fear",medium,high
+"Amma ku house fire vandhuchu, ambulance venum ippove","My mother has house fire, we need an ambulance right now",emergency,fear,"house,fear",high,high
+home loan nalla mudiyum nu nambikkai irukku,I have hope that the home loan will turn out well,family,hopeful,"home,hopeful",low,high
+group presentation mudinjadhukku aprom romba relief ah irukku,After finishing my group presentation I feel really relieved,education,calm,"group,calm",low,high
+cousin's wedding ku ellarum koodi irundhadhu romba nalla irundhuchu,Everyone coming together for the cousin's wedding felt really nice,family,happy,"cousin's,happy",low,high
+"group presentation results vandhuchu, expect panna maari varala","The results for my group presentation came out, not what I expected",education,sad,"group,sad",medium,high
+"therapy sessions pathi guilt ah irukku, control panna mudiyala","I feel guilty about therapy sessions, I can't seem to control it",mental_health,guilty,"therapy,guilty",medium,high
+family function pathi ninachaale sad ah irukku,Thinking about the family function makes me feel sad,family,sad,"family,sad",medium,high
+neighbor's function romba super ah irundhuchu,The neighbor's function was really great,daily_conversation,excited,"neighbor's,excited",low,high
+team lead role pathi romba nervous ah irukken,I'm really nervous about my team lead role,career,fear,"team,fear",medium,high
+"job interview pathi guilt ah irukku, better ah panniruka mudiyum","I feel guilty about the job interview, I could have done it better",career,guilty,"job,guilty",medium,high
+loneliness vechu raathiri thoonga mudiyala,Because of loneliness I can't sleep at night,mental_health,anxious,"loneliness,anxious",medium,high
+family function vishayam pathi konjam confuse ah irukken,I'm a bit confused about the family function,family,confused,"family,confused",medium,high
+"grief konjam kammiya irukku indha vaaram, nalla feel aaguthu","My grief has reduced a bit this week, I feel good",mental_health,calm,"grief,calm",low,high
+traffic today ku naan innum ready aagala,I'm still not ready for the traffic today,daily_conversation,calm,"traffic,calm",low,high
+performance review pathi kettavudan romba stress ah aayiduchu,"The moment I heard about the performance review, I got really stressed",career,stressed,"performance,stressed",high,high
+"road accident ku first aid theriyuma yaarukavadhu, urgent ah venum","Does anyone know first aid for road accident, we need it urgently",emergency,fear,"road,fear",high,high
+power cut pathi ellarum pesikittu irundhanga,Everyone was talking about the power cut,daily_conversation,calm,"power,calm",low,high
+maths exam pathi enakku innum confuse ah irukku,I'm still confused about my math exam,education,confused,"maths,confused",medium,high
+"Enakku stroke symptoms irukku, urgent ah help pannunga","I have stroke symptoms, please help urgently",emergency,fear,"stroke,fear",high,high
+"Appa ku high fever start aayiduchu, hospital ku poganum urgent ah","My father has started having high fever, we need to get to the hospital urgently",emergency,fear,"high,fear",high,high
+freelance project kku aprom future pathi confidence vandhuchu,"After the freelance project, I feel confident about the future",career,hopeful,"freelance,hopeful",low,high
+"En weight loss journey la oru small win kedaichuchu, romba santhosam","I got a small win in my weight loss journey, I'm really happy",motivation,happy,"weight,happy",low,high
+"En girlfriend kooda breakup aayiduchu, heartbroken ah irukken","I broke up with my girlfriend, I'm heartbroken",relationship,sad,"girlfriend,sad",medium,high
+"team lead role expect panna maari nadakala, romba sad ah irukken","My team lead role didn't go as I expected, I feel really sad",career,sad,"team,sad",medium,high
+kid's admission ku ellarum koodi irundhadhu romba nalla irundhuchu,Everyone coming together for the child's school admission felt really nice,family,happy,"kid's,happy",low,high
+"therapy sessions ku therapy help pannuchu, konjam better ah irukken","Therapy has been helping with my therapy sessions, I feel a bit better",mental_health,calm,"therapy,calm",low,high
+"traffic today miss pannitten, adhu kastama irundhuchu","I missed the traffic today, that was disappointing",daily_conversation,sad,"traffic,sad",low,high
+En language learning pathi motivation completely poachu,My motivation for my language learning has completely disappeared,motivation,sad,"language,sad",medium,high
+movie release pathi kelvi pattu romba curious ah irukken,I heard about the movie release and I'm really curious,daily_conversation,excited,"movie,excited",low,high
+salary negotiation pathi kettavudan romba stress ah aayiduchu,"The moment I heard about the salary negotiation, I got really stressed",career,stressed,"salary,stressed",high,high
+En fitness goal ku consistency maintain panna kastama irukku,It's hard to stay consistent with my fitness goal,motivation,stressed,"fitness,stressed",medium,high
+"chemistry practical la nalla marks vangiten, romba proud ah irukken","I scored well in my chemistry practical, I'm really proud",education,happy,"chemistry,happy",low,high
+"En business plan la achievement adaichen, proud ah irukken","I achieved something in my business plan, I feel proud",motivation,happy,"business,happy",low,high
+En fiance kooda future pathi romba worry ah irukken,I'm really worried about the future with my fiance,relationship,anxious,"fiance,anxious",medium,high
+"job application success aachu, romba excited ah irukken","The job application was a success, I'm really excited",career,excited,"job,excited",low,high
+team lead role pathi kettavudan romba stress ah aayiduchu,"The moment I heard about the team lead role, I got really stressed",career,stressed,"team,stressed",high,high
+"group presentation ku full ah prepare aayiten, confident ah irukken","I've fully prepared for my group presentation, I feel confident",education,hopeful,"group,hopeful",low,high
+Naan semester project pathi romba tension ah irukken,I'm really tense about my semester project,education,stressed,"semester,stressed",medium,high
+semester project ku prepare panna time podave illa,I haven't had time to prepare for my semester project,education,stressed,"semester,stressed",high,high
+joint family issue pathi enakku bayama irukku,I'm scared about the joint family issue,family,fear,"joint,fear",medium,high
+En weight loss journey ku consistency maintain panna kastama irukku,It's hard to stay consistent with my weight loss journey,motivation,stressed,"weight,stressed",medium,high
+entrance exam mudinjadhukku aprom romba relief ah irukku,After finishing my entrance exam I feel really relieved,education,calm,"entrance,calm",low,high
+En arranged match kooda romba nalla irukken ippo,I'm doing really well with my arranged match now,relationship,happy,"arranged,happy",low,high
+"exam stress konjam kammiya irukku indha vaaram, nalla feel aaguthu","My exam stress has reduced a bit this week, I feel good",mental_health,calm,"exam,calm",low,high
+"new gadget miss pannitten, adhu kastama irundhuchu","I missed the new gadget, that was disappointing",daily_conversation,sad,"new,sad",low,high
+weekend plan vechu konjam late aayiduchu,Because of the weekend plan I got a bit late,daily_conversation,stressed,"weekend,stressed",low,high
+"thesis submission results vandhuchu, expect panna maari varala","The results for my thesis submission came out, not what I expected",education,sad,"thesis,sad",medium,high
+new gadget ku naan innum ready aagala,I'm still not ready for the new gadget,daily_conversation,calm,"new,calm",low,high
+online quiz ku prepare panna time podave illa,I haven't had time to prepare for my online quiz,education,stressed,"online,stressed",high,high
+"team lead role success aachu, romba excited ah irukken","The team lead role was a success, I'm really excited",career,excited,"team,excited",low,high
+internship offer pathi romba nervous ah irukken,I'm really nervous about my internship offer,career,fear,"internship,fear",medium,high
+"freelance project nalla ah poachu, romba happy ah irukken","My freelance project went well, I'm really happy",career,happy,"freelance,happy",low,high
+"new gadget pathi enakku onnume theriyala, sollunga","I don't know anything about the new gadget, tell me",daily_conversation,confused,"new,confused",low,high
+"chemistry practical ku full ah prepare aayiten, confident ah irukken","I've fully prepared for my chemistry practical, I feel confident",education,hopeful,"chemistry,hopeful",low,high

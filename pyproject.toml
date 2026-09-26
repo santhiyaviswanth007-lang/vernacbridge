@@ -1,0 +1,67 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "vernacbridge"
+version = "1.0.0"
+description = "A Python NLP library for understanding Tanglish (Tamil written in English letters)."
+readme = "README.md"
+requires-python = ">=3.11"
+license = { file = "LICENSE" }
+authors = [
+    { name = "VernacBridge Contributors" }
+]
+keywords = ["tanglish", "tamil", "nlp", "translation", "emotion-detection", "intent-detection"]
+classifiers = [
+    "Development Status :: 3 - Alpha",
+    "Intended Audience :: Developers",
+    "License :: OSI Approved :: MIT License",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Topic :: Text Processing :: Linguistic",
+    "Topic :: Scientific/Engineering :: Artificial Intelligence",
+]
+dependencies = [
+    "pandas>=2.0",
+    "rapidfuzz>=3.0",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=7.0",
+    "pytest-cov>=4.0",
+    "black>=24.0",
+    "ruff>=0.4",
+    "mypy>=1.8",
+]
+
+[project.urls]
+Homepage = "https://github.com/santhiyaviswanth007-lang/vernacbridge"
+Repository = "https://github.com/santhiyaviswanth007-lang/vernacbridge"
+Issues = "https://github.com/santhiyaviswanth007-lang/vernacbridge/issues"
+
+[project.scripts]
+vernacbridge-build-dataset = "vernacbridge.dataset_engine:main"
+
+[tool.setuptools.packages.find]
+include = ["vernacbridge*"]
+
+[tool.setuptools.package-data]
+vernacbridge = ["py.typed", "datasets/*.csv", "datasets/*.json"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+
+[tool.ruff]
+line-length = 100
+target-version = "py311"
+
+[tool.black]
+line-length = 100
+target-version = ["py311"]
+
+[tool.mypy]
+python_version = "3.11"
+ignore_missing_imports = true
